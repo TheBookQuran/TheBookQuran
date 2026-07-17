@@ -1,0 +1,26 @@
+{
+  "rootId": "r1729",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:52:16.826Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Slander, tale-bearing, whispers to create division, disclosing secrets maliciously, or small bugs",
+  "primaryMeaning": "Slander/tale-bearing",
+  "quranicRelevance": "Going about with slander (Nameen - 'binameemin').",
+  "keyDerivations": [
+    {
+      "lemma": "نَمِيمٌ",
+      "form": "Noun/Adjective",
+      "meaning": "Slander, tale-bearing, whispering malicious reports to damage relations"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "هَمَّازٍ مَشَّاءٍ بِنَمِيمٍ (68:11): Defamer, going about with slander/tale-bearing (describing Al-Walid ibn al-Mughirah's character)."
+  ],
+  "discardedNoise": [
+    "Namal (ants) - confused spelling N-M-L.",
+    "Namimah (low sound of wind)."
+  ],
+  "summaryEn": "The root represents tale-bearing and malicious whispering (Namm), condemning those who walk around distributing gossip to sabotage trust within the community.",
+  "summaryAr": "يمثل هذا الجذر السعاية بالحديث والوشاية ونقل الكلام بين الناس لقصد الإفساد وتفريق القلوب (نمم)، ذامّاً خصلة النمام الساعي بين المؤمنين بالفتنة.",
+  "rawText": "مُنَمْنَمٌ A garment, or piece of cloth, <i>figured with marks resembling writing, or otherwise.</i> See مَذَبَّرٌ.\nنَامَّةٌ <i>The artery in the head:</i> see أَبْهَرُ.\nنَمَانِمُ The <i>sutures</i> of the skull; as resembling lines of writing; see شَأْنٌ.\nنَمِيمَةٌ The <i>sound of the bow-string.</i> (Kr.) === نَمِيمَةٌ <i>Malicious and mischievous misrepresentation; calumny; slander;</i> (S, K;) the <i>embel-lishment of speech with falsehood.</i> (Kr.)\nنَمَّ 1 <i>He</i> [<i>uttered calumny:</i> or] <i>excited discord,</i> or <i>dissension, and made known discourse in a mischievous manner;</i> or <i>embellished speech with falsehood.</i> (M, K.) You say, نَمَّ بِهِ and عَلَيْهِ, inf. n. نَمٌّ and نَمِيمَةٌ and نَمِيمٌ, or this last is pl. of نَمِيمَةٌ, (M,) meaning, <i>He calumniated him;</i> or <i>misrepresented him.</i> === نَمَّ الحَدِيثَ <i>He made known, divulged,</i> or <i>told, conversation, in a malicious or mischievous manner, so as to occasion discord, dissension, or the like.</i> (TA, art. قت; and Msb. *)\nنَمَّامٌ now commonly applied to <i>Wild thyme, thymus serpyllum:</i> see شَبَهَانٌ.\nنَمْنَمَ <i>He variegated</i> a thing: <i>he decorated</i> or <i>embellished</i> it. (S, K.)"
+}

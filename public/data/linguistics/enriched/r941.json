@@ -1,0 +1,26 @@
+{
+  "rootId": "r941",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:14:55.732Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Rock, boulder, solid stone, hard layer, or weight",
+  "primaryMeaning": "Solid rock/boulder",
+  "quranicRelevance": "Actions hidden inside a rock (Sakhrat - 'fatakun fee sakhratin'), and carving houses out of boulders ('jaboo as-sakhra').",
+  "keyDerivations": [
+    {
+      "lemma": "صَخْرَةٌ / صَخْرٌ",
+      "form": "Noun / Noun (coll.)",
+      "meaning": "Rock, boulder, solid stone, or geological hard block"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "يَا بُنَيَّ إِنَّهَا إِنْ تَكُ مِثْقَالَ حَبَّةٍ مِنْ خَرْدَلٍ فَتَكُنْ فِي صَخْرَةٍ ... يَأْتِ بِهَا اللَّهُ (31:16): O my son, indeed, if it should be the weight of a mustard seed and should be within a rock... God will bring it forth (absolute divine access)."
+  ],
+  "discardedNoise": [
+    "Modern rock climbing sports.",
+    "Concrete building foundations."
+  ],
+  "summaryEn": "The root represents solid boulders (Sakhr), denoting the extreme hardness of carved Thamudic mountains and serving as a metaphor for deeds hidden in the most inaccessible places.",
+  "summaryAr": "يمثل هذا الجذر الصخور الصماء البالغة الصلابة (صخر)، واصفاً نحت ثمود لبيوت الجبال، ومستخدماً الصخرة كرمز للمكان الأكثر خفاء وعسراً لحفظ الأعمال.",
+  "rawText": "أَصْخَرُ الوَجْهِ ‡ A <i>hard-faced</i> man; one <i>having little shame.</i> (A.)\nتَصْخِيرٌ 2 [inf. n. of صَخَّرَ] <i>i, q.</i> تَسْخِيرٌ. (K.)\nصَاخِرٌ The <i>sound of iron</i> [<i>striking</i>] <i>upon iron.</i> (K.)\nصَاخِرَةٌ <i>A kind of earthen vessel,</i> (S, A, K,) <i>out of which one drinks.</i> (A.)\nصَخَرٌ ; n. un. صَخَرَةٌ: see صَخْرٌ.\nصَخِرٌ A place <i>abounding in rocks,</i> or <i>great masses of hard stone;</i> as also 🡻مُصْخِرٌ. (K.)\nصَخِيرٌ <i>A certain plant.</i> (K.) [Golius explains this as meaning <i>Great,</i> applied to a rock, or mass of stone; and so مَصْخَرٌ; on the authority of J: but neither of these do I find in the S.]\nصَخِيرَةٌ : see صَحِيرَةٌ.\nصَخْرٌ (S, A, Msb, K, &c.) and 🡻صَخَرٌ, (S, Msb, K,) the latter on the authority of Yaakoob, (S,) thus sometimes pronounced, (Msb,) <i>Rocks;</i> or <i>great masses of stone:</i> (S:) or <i>great masses of hard stone:</i> (A, K:) and صَخْرَةٌ (S, A, Msb, K, &c.) and صَخَرَةٌ (S, Msb, K) [are the ns. un., signifying] <i>one thereof,</i> (S, A, K,) or these have a more special signification [as meaning <i>a rock</i> and <i>a mass of rock</i>]: (Msb:) pl. صُخُورٌ (S, A, Msb, K) and صُخُورَةٌ (A, Sgh, L) and [of صَخْرَةٌ and صَخَرَةٌ] صَخَرَاتٌ. (Msb, K. [In the latter, صَخْرٌ and صَخَرٌ, as well as صُخُورٌ and صَخَرَاتٌ, are improperly termed pls. of صخرة.]) By صَخْرَة in the Kur xxxi. 15 is meant a صخرة that is beneath the ground. (Zj, TA.) And by the صَخْرَة mentioned in a trad. as being of, or from, Paradise is meant the صخرة [or rock] of Jerusalem [in the centre of the building now called “ the Dome of the Rock ”]. (TA.)\nمُصْخِرٌ ; see صَخِرٌ."
+}

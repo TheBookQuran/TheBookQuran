@@ -1,0 +1,37 @@
+{
+  "rootId": "r1868",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:39:17.504Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Appointing time, limit, schedule, or time",
+  "primaryMeaning": "Time or appointed term",
+  "quranicRelevance": "Appointed term/time limit (Meeqat - 'meeqatu yawmin ma'loom'), and timed duties (Mawqoot - 'kitaban mawqootan').",
+  "keyDerivations": [
+    {
+      "lemma": "وَقْتٌ",
+      "form": "Noun",
+      "meaning": "Time, season, or duration"
+    },
+    {
+      "lemma": "مِيقَاتٌ / مَوَاقِيتُ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Appointed time, place, term, schedule, or junction"
+    },
+    {
+      "lemma": "مَوْقُوتٌ",
+      "form": "Adjective / Passive part.",
+      "meaning": "Timed, scheduled, or fixed at intervals"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "كِتَابًا مَوْقُوتًا (4:103): A timed decree / scheduled duty (prayer at fixed hours).",
+    "مَوَاقِيتُ لِلنَّاسِ وَالحَجِّ (2:189): Appointed times / schedules for mankind and Hajj."
+  ],
+  "discardedNoise": [
+    "The specific geographic limits (Meeqat) of Ihram for pilgrims in jurisprudence.",
+    "Modern scheduling software vocabulary."
+  ],
+  "summaryEn": "The root represents time limits and schedules, outlining fixed prayer hours (Mawqoot), lunar calendar markers (Mawaqeel), and the final assembly time.",
+  "summaryAr": "يمثل هذا الجذر التوقيت والآجال، محدداً الصلاة المفروضة في أوقاتها (موقوتاً)، والأهلة كمنظم للشهور، والميقات النهائي للجمع.",
+  "rawText": "مَوْقُوتٌ and 🡻مُوَقَّتٌ <i>Determined, defined, definite,</i> or <i>limited, as to time.</i> (L.) === وَقْتٌ مَوْقُوتٌ, and 🡻مُوَقَّتٌ, <i>A determined, defined, definite,</i> or <i>limited, time.</i> (K.) === إِنَّ الصَّلَاةَ كَانَتْ عَلَى المُؤْمِنِينَ كِتَابًا مَوْقُوتًا [Kur. iv. 104,] <i>For prayer is to the believers a prescript,</i> or <i>an appointment,</i> or <i>ordinance, ordained</i> [<i>to be performed</i>] <i>in the times</i> [<i>thereof</i>]. (S, K, &c.) === Also [مَوْقُوثٌ (see 1) and] 🡻مُوَقَّتٌ <i>Determined, defined,</i> or <i>definite, as to its extreme limit, extent,</i> or <i>amount:</i> (L:) both signify anything <i>defined, definite,</i> or <i>limited.</i> (Msb.)\nمَوْقِتٌ , [of the measure] مَفْعِلٌ from الوَقْتُ: (S, K:) [it may therefore be an inf. n., or a noun of place, or a noun of time]. El-'Ajjáj says, <center> <h3> وَالجَامِعُ النَّاسَ لِيَوْمِ المَوْقِتِ </h3> </center> [<i>And He who congregateth mankind for the day of the appointment of a particular time,</i> or, <i>of the place of a certain event,</i> or, <i>of the time of a certain event;</i> i. e., for the day of resurrection]. (S.)\nمُوَقَّتٌ : see مَوْقُوتٌ.\nمِيقَاتٌ : see وَقْتٌ. === Also, <i>A place in which a certain action is appointed to be performed.</i> (S.) Ex. مِيقَاتُ الحَجِّ <i>The place where the pilgrims enter upon the state of</i> إِحْرَام: (S, K:) you say, هٰذَا ميقاتُ أَهْلِ الشَّأْمِ <i>This is the place where the people of Syria enter upon the state of</i> احرام. (S.) === [Also, <i>A place in which a meeting is appointed to take place at a particular time.</i> Ex.] الآخِرَةُ مِيقَاتُ الخَلْقِ [<i>The world to come is the place in which mankind are appointed to meet</i> after the resurrection]. (L.) === [Also, <i>That which determines the commencement,</i> or <i>the like, of a period &c.</i> Ex.] الهِلَالُ ميقاتُ الشَّهْرِ [<i>The crescent is that which determines the commencement of the month</i>]. (L.) === See also مَوْقِتٌ.\nواقتهُ 3 , inf. n. مُوَاقَتَهٌ, [<i>He made an appointment with him for a particular time</i>]. (K.)\nوَقَتَ 1 , aor. يَقِتُ, inf. n. وَقتٌ; and 🡻وقّت, inf. n. تَوْقِيتٌ; <i>He determined, defined,</i> or <i>limited,</i> a thing <i>as to time;</i> (IAth, L, Msb;) and <i>otherwise:</i> (L, Msb:) <i>he determined,</i> or <i>defined, times.</i> (S, K.) وَقَتَهُ <i>He declared</i> [or <i>appointed</i>] <i>a time in which it should be done.</i> (S.) وَقَتَ اللّٰهُ الصلَاةَ, aor. يَقِتُ; and 🡻وَقَّتَهَا, <i>God hath determined,</i> or <i>defined, a time for prayer.</i> (Msb.) 🡻وقّت, as also أَقَّتَ, <i>He assigned,</i> or <i>appointed,</i> for a thing, <i>a particular time; he assigned,</i> or <i>appointed, a particular time for doing</i> a thing. (IAth, L.) 🡻وَقَّتُّهُلِيَوْمِ كَذَا [<i>I appointed him,</i> or <i>it, for such a day</i>]; like أَجَّلْتُهُ. (S.) === In the following words of the Kur. [lxxvii. 11,] وَإِذَا الرُّسُلُ أُقِّتَتْ,  🡻اقتت is a dial. form of وُقِّتَتْ, like as أُجُوهٌ is of وُجُوهٌ; (S;) and the meaning is <i>And when the Apostles shall have one</i> [<i>particular</i>] <i>time assigned to them</i> to decide between the people [to whom they have been sent to preach]: (Zj:) or, <i>shall be collected at their appointed time,</i> on the day of resurrection. (Fr.) This is the general reading: but there are other reading; namely, وُقِّتَتْ, and وُقِتَتْ, (S, TA,) and وُوقِتَتْ, which last is of the measure فُوعِلَتْ, from المُوَاقَتَةُ. (K.) === لَمْ يَقِتْ فى الخَمْرِ حَدًّا <i>He</i> (Mohammad) <i>did not determine,</i> or <i>define, for</i> [<i>drinking wine,</i>] <i>a castigation consisting of a certain number</i> [<i>of blows,</i> or <i>stripes</i>]. (TA, from a trad.) === وَقَتَ sometimes signifies <i>He</i> [i. e. God] <i>made</i> the entering upon the state of إِحْرَام in pilgrimage, and prayer at the commencement of its appointed time, <i>obligatory,</i> or <i>incumbent,</i> upon men. (TA.) === 🡻وَقَّتَلِأَهْلِ المَدِينَةِ ذَا الحُلَيْفَةِ <i>He appointed, for the people of El-Medeeneh, Dhu-l-Huleyfeh as the place where they should enter upon the state of</i> إِحْرَام. (TA, from a trad.)\nوَقَّتَ 2 see 1 throughout.\nوَقْتٌ (S, K) <i>A time;</i> or <i>space,</i> or <i>measure, of time,</i> (M, L, K, Msb,) <i>appointed for any affair; a season:</i> (Msb:) mostly used with respect to what is past: (M, K:) sometimes with respect to the future: (TA:) as also 🡻مِيقَاتٌ, (K, Msb:) or, accord. to some, there is a difference between these two words; the former having an absolute signification, and the latter signifying <i>a time appointed for the performance of some action:</i> [as in the S:] (TA:) pl. of the former أَوْقَاتٌ, and of the latter مَوَاقِيتُ. (Msb.) [Hence, وَقْتَئِذٍ <i>Then; at that time.</i>] === وَقْتٌ ‡ <i>A space,</i> or <i>measure, of local extension;</i> as a mile, &c. (Sb.)"
+}

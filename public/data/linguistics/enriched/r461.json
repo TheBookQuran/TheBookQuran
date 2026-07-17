@@ -1,0 +1,26 @@
+{
+  "rootId": "r461",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T18:03:45.341Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Dying down, extinguishing, subsiding of fire, cooling, or loss of heat/flame",
+  "primaryMeaning": "Abating/subsiding (of fire)",
+  "quranicRelevance": "Whenever it abates/subsides (Khabat - 'kullama khabat').",
+  "keyDerivations": [
+    {
+      "lemma": "خَبَا / يَخْبُو (Feminine: خَبَتْ)",
+      "form": "Form I Verb",
+      "meaning": "To abate, subside, grow dim, cool down, or become extinguished (fire)"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "مَأْوَاهُمْ جَهَنَّمُ ۖ كُلَّمَا خَبَتْ زِدْنَاهُمْ سَعِيرًا (17:97): Their refuge is Hell; whenever it abates/subsides, We increase for them the blaze."
+  ],
+  "discardedNoise": [
+    "Khiba' (tent) - related spelling but distinct root concept.",
+    "Khabaya (hidden things) - Kh-B-A."
+  ],
+  "summaryEn": "The root refers to a fire losing its flame or dying down (Khubuw), describing the relentless nature of Hell whose flames are immediately rekindled whenever they show signs of subsiding.",
+  "summaryAr": "يشير هذا الجذر إلى انطفاء لهيب النار وهدوء جمرها وسكون وهجها (خبو)، واصفاً عقاب جهنم بأنه مستمر لا يخبو ولا يسكن إلا ليزاد اشتعالاً.",
+  "rawText": "اخبى النَّارَ 4 <i>He extinguished the fire;</i> (S, K;) <i>he allayed,</i> or <i>extinguished, the flaming,</i> or <i>blazing, of the fire.</i> (JK, Msb.) === And [hence,] اخبى الحَرْبَ ‡ <i>He extinguished</i> [or <i>allayed</i>] <i>the fire of the war.</i> (K, TA.) And اخبى حِدَّةَ النَّاقَهِ ‡ <i>He extinguished</i> [or <i>allayed</i>] <i>the sharpness,</i> or <i>irascibility, of the she-camel.</i> (K, * TA.)\nخَبَتِ النَّارُ 1 , aor. تَخْبُو, inf. n. خُبُوٌّ (JK, S, Msb, K) and خَبْوٌ, (K,) <i>The fire became allayed; subsided;</i> (K;) <i>became extinguished;</i> (S, K;) <i>the flaming,</i> or <i>blazing, of the fire ceased,</i> or <i>became allayed</i> or <i>extinguished.</i> (JK, Msb.) [The verb is used, in this sense, of Hell, in the Kur xvii. 99.] === [Hence,] خَبَتِ الحَرْبُ ‡ <i>The war became allayed, assuaged,</i> or <i>appeased;</i> (JK, K, TA;) <i>became extinguished.</i> (K, TA.) And خَبَتْ حِدَّةُ النَّاقَةِ ‡ <i>The sharpness,</i> or <i>irascibility, of the she-camel became allayed, assuaged,</i> or <i>appeased.</i> (JK, K, * TA.) And خَبَا لَهَبُهُ ‡ <i>The heat,</i> or <i>vehemence, of his anger became allayed, assuaged,</i> or <i>appeased.</i> (TA.)\nخِبَآءٌ accord. to some belongs to this art. (TA in art. خبأ.) See arts. خبأ and خبى."
+}

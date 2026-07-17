@@ -1,0 +1,26 @@
+{
+  "rootId": "r451",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:55:18.217Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Overtaking, surrounding, enclosing, or descending inevitability of punishment",
+  "primaryMeaning": "To surround/overtake (punishment)",
+  "quranicRelevance": "Punishment surrounding wrongdoers as a direct result of their mockery (Haaqa - 'wa haqa bihim ma kanoo bihi yastahzi'oon').",
+  "keyDerivations": [
+    {
+      "lemma": "حَاقَ / يَحِيقُ",
+      "form": "Form I Verb",
+      "meaning": "To surround, encompass, enclose, overtake, or fall upon"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَلَا يَحِيقُ الْمَكْرُ السَّيِّئُ إِلَّا بِأَهْلِهِ (35:43): And evil plotting surrounds/encompasses only its authors (karmic consequence)."
+  ],
+  "discardedNoise": [
+    "Obscure details of sewing borders.",
+    "Post-classical idioms for bad surroundings."
+  ],
+  "summaryEn": "The root represents the inevitable surrounding of consequences, detailing how mockery and evil plots return to envelop (Haaqa) their perpetrators.",
+  "summaryAr": "يدل هذا الجذر على الإحاطة ولزوم العقوبة بالفاعل، واصفاً ارتداد الاستهزاء والمكر السيء ليحيق بفاعله حتماً.",
+  "rawText": "أَحْيَقَ 4 see 1. ___ احاق ٱللّٰهُ بِهِمْ مَكْرَهُمْ <i>God made their artifice to beset them:</i> (Lth, TA:) or <i>made it to befall them.</i> (Th, K, * TA.)\nحاقُ الجُوعِ <i>Vehemence of hunger.</i> (TA.) See also حَاقٌّ, in art. حق\nحايقهُ 3 , (AA, K,) inf. n. مُحَايَقَةٌ, (AA, TA,) <i>He envied him,</i> and <i>hated him.</i> (AA, K.)\nحَاقَ بِهِ 1 , aor. يَحِيقُ, (S, K,) inf. n. حَيْقٌ and حُيُوقٌ and حَيَقَانٌ, (K,) <i>It surrounded, encompassed, encircled,</i> or <i>beset, him,</i> or <i>it;</i> (S, K;) only used in relation to evil; (Bd in xvi. 36;) [as also حاق به, aor. يَحُوقُ, inf. حَوْقٌ;] and so 🡻احاقبه. (Ibn-'Abbád, K.) So in the Kur [xxxv. 41], وَلَا يَحِيقُ المَكْرُ السَّيِّئُ إِلَّا بِأَهْلِهِ [<i>And evil artifice shall not beset</i> any <i>save the authors thereof</i>]: (S:) or this means <i>shall not befall:</i> (Msb:) [for] حاق به, (Ibn-'Arafeh, Msb, K, *) aor. as above, (Msb, TA,) inf. n. حَيْقٌ and حَاقٌ, (TA,) signifies [also] <i>it clave to him,</i> and <i>became his due,</i> (Ibn-'Arafeh, K,) and <i>befell him:</i> (Ibn- 'Arafeh, Msb, K,) and thus it is said to mean in the Kur [xi. 11, &c.], وَحَاقَ بِهِمْ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ [<i>And that at which they used to mock shall cleave to them,</i> or <i>be their due,</i> or <i>befall them;</i> namely, the punishment at which they mocked.] (TA.) You say also, حاق بِهِمُ العَذَابُ <i>Punishment beset them,</i> and <i>befell them.</i> (S.) And حاق بِهِ البَلَآءُ <i>Trial,</i> or <i>trouble, beset him.</i> (TA in art. حق.) ___ حاق فِيِ, (K,) inf. n. حَيْقٌ, (TA,) <i>i. q.</i> حاك. (K.)\nحَيْقٌ <i>What besets a man,</i> ('Eyn, K,) <i>and befalls him, of artifice,</i> ('Eyn, TA,) or <i>of an evil deed, that he has done.</i> ('Eyn, K.)\nمَحْيُوقٌ : see art. حوق."
+}

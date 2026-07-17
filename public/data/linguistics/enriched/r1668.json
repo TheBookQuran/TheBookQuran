@@ -1,0 +1,31 @@
+{
+  "rootId": "r1668",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:58:55.910Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Ritual, sacrifice, piety, devotion, lifestyle, or silver",
+  "primaryMeaning": "Ritual/sacrifice",
+  "quranicRelevance": "Rites/rituals of Hajj/worship (Manasik - 'wa arina manasikana'), and sacrificial offering (Nusuk - 'fa-fidyatun min siyamin... aw nusukin', 'inna salatee wa nusukee').",
+  "keyDerivations": [
+    {
+      "lemma": "نُسُكٌ",
+      "form": "Noun",
+      "meaning": "Sacrifice, sacrificial animal, devotion, piety, or offering"
+    },
+    {
+      "lemma": "مَنْسَكٌ / مَنَاسِكُ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Place/rite of sacrifice, sanctuary, Hajj ritual, or devotional path"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "قُلْ إِنَّ صَلَاتِي وَنُسُكِي وَمَحْيَايَ وَمَمَاتِي لِلَّهِ (6:162): Say, 'Indeed, my prayer, my sacrifice/devotion, my living and my dying are for God'."
+  ],
+  "discardedNoise": [
+    "Ascetic monks (Nasik) in post-canonical Christian studies.",
+    "Purification of silver using mercury."
+  ],
+  "summaryEn": "The root represents religious ritual and sacrifice (Nusuk), spanning Hajj rites (Manasik), animal sacrifice compensations, and holistic devotional lifestyles.",
+  "summaryAr": "يمثل هذا الجذر العبادة وإراقة الدم تقرباً، واصفاً مناسك الحج الباقية (مناسكنا)، والفدية بالذبح (نسك)، وتفويض الحياة نسكاً لله.",
+  "rawText": "أَنْسَكَ 4 [app. <i>He washed and purified</i> a garment]. (TA voce إِجْتَابَ.)\nتَنَسَّكَ 5 <i>He devoted himself to religious exercises; applied himself to devotion;</i> (S, Msb, K:) as also 🡻نَسَكَ (S, K) and 🡻نَسُكَ: (K:) or the last, <i>he became a</i> نَاسِك. (S.)\nمَنَاسِكُ الحَجِّ <i>The religious rites and ceremonies of the pilgrimage:</i> or <i>the places where those rites and ceremonies are performed.</i> (Msb.)\nنَسَكَ 1 <i>He worshipped:</i> used transitively. See an ex. in a verse of El-Aashà, in the S, art. نصب. See 5.\nنَسِيكَةٌ : see عَقِيقَةٌ."
+}

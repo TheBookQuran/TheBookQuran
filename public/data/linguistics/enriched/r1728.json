@@ -1,0 +1,26 @@
+{
+  "rootId": "r1728",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:07:33.756Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Ant, active walk, slander, gossip, or tiny spots",
+  "primaryMeaning": "Ant",
+  "quranicRelevance": "Valley of ants (Naml - 'wa di an-namli qalat namlatun ya ayyuha an-namlu').",
+  "keyDerivations": [
+    {
+      "lemma": "نَمْلٌ / نَمْلَةٌ",
+      "form": "Noun / Noun unit",
+      "meaning": "Ants / an ant (tiny organized social insect)"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "قَالَتْ نَمْلَةٌ يَا أَيُّهَا النَّمْلُ ادْخُلُوا مَسَاكِنَكُمْ لَا يَحْطِمَنَّكُمْ سُلَيْمَانُ (27:18): An ant said: 'O ants, enter your dwellings lest Solomon and his hosts crush you' (animal intelligence and warning speech)."
+  ],
+  "discardedNoise": [
+    "Slander (Nameemah) - from n-m-m, distinct spelling.",
+    "Numbness in hands (Tanmeel) - medical dialect."
+  ],
+  "summaryEn": "The root refers to ants (Naml), detailing Solomon's encounters with the organized ant valley and his laughter at the insect's protective warning call.",
+  "summaryAr": "يشير هذا الجذر إلى النمل الصغير (نمل)، واصفاً مرور جيش سليمان بوادي النمل وتنبيه نملة ذكية لبقية النمل بالاحتماء لئلا يُحطمن.",
+  "rawText": "أَنْمَلَةٌ (thus generally written, Msb) The <i>head</i> [or <i>end</i>] <i>of a finger;</i> (S, Msb;) i. e. (Msb) the <i>joint</i> (مَفْصِل) (Az, Msb) <i>in which is the nail:</i> (Az, Msb, K:) [i. e. the <i>ungual phalanx, with,</i> or <i>without, the flesh upon it:</i> (see قَصَبٌ:)] or <i>a joint,</i> or <i>an articulation,</i> (عُقْدَة) <i>of the fingers.</i> (Msb.)\nتَنَمُّلٌ 5 <i>A formication</i> or <i>stinging,</i> as of the torpedo fish: see “ Abdollatiphi Hist. Aeg. Comp., ” p. 82.\nنَمَّلَ الثَّوْبَ 2 [<i>He mended a garment</i>] i. <i>q.</i> رَفَأَهُ. (TA in art. لقط.)\nنَمْلُ سُلَيْمَانَ <i>Red ants:</i> see أَحْوَى, in art. حو."
+}

@@ -1,0 +1,40 @@
+.pageSkeleton {
+  inline-size: 100%;
+}
+
+.linesContainer {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: calc(var(--spacing-large, 2rem) + var(--spacing-medium2, 1.5rem));
+}
+
+.lineSkeleton {
+  height: var(--skeleton-height);
+  background: linear-gradient(
+    90deg,
+    var(--color-background-alternative-faint, #efeae0) 25%,
+    var(--color-border-subtle, #e2e8f0) 50%,
+    var(--color-background-alternative-faint, #efeae0) 75%
+  );
+  background-size: 200% 100%;
+  animation: loading 1.5s infinite;
+  border-radius: 6px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: var(--spacing-small, 1rem);
+}
+
+@media only screen and (min-width: 768px) {
+  .lineSkeleton {
+    margin-top: var(--spacing-mega, 2rem);
+  }
+}
+
+@keyframes loading {
+  0% {
+    background-position: 200% 0;
+  }
+  100% {
+    background-position: -200% 0;
+  }
+}

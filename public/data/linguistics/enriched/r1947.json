@@ -1,0 +1,32 @@
+{
+  "rootId": "r1947",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:09:34.147Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Town, hosting, collection, or city",
+  "primaryMeaning": "Town or city",
+  "quranicRelevance": "Cities/towns (Qaryah / Qura), mother of cities (Umm al-Qura - Mecca), and hosting guests (Qira).",
+  "keyDerivations": [
+    {
+      "lemma": "قَرْيَةٌ",
+      "form": "Noun",
+      "meaning": "Town, village, or city"
+    },
+    {
+      "lemma": "قُرَى",
+      "form": "Noun pl.",
+      "meaning": "Towns, villages, or cities"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "أُمَّ القُرَى: Mecca (the mother of cities, representing the spiritual center).",
+    "وَاسْأَلِ القَرْيَةَ (12:82): Ask the town (meaning ask the people of the town)."
+  ],
+  "discardedNoise": [
+    "Hosting guests and serving food (قرى الضيف).",
+    "Water gathering in a basin (مقراة)."
+  ],
+  "summaryEn": "The root denotes habitation and urban centers, primarily referring to cities (Qura) and the people inhabiting them.",
+  "summaryAr": "يدل هذا الجذر على العمران والمدن، مشيراً بشكل رئيسي إلى القرى والمدن وسكانها في القصص القرآني.",
+  "rawText": "اِفْتَرَى 8 [meaning تَتَبَّعَ: see a verse of Aboo Dhu-eyb, voce خَافَةٌ, in art. خوف.] It also means <i>He investigated</i> a country or countries. (S, * K, * TA, all in art. قرى; and TA in art. قرو.) <i>He made much and diligent search.</i> (KL.) See also 10 in art. قرأ.\nقَارٍ for قَارِئٌ, q. v.\nقَارِيَهٌ <i>A certain bird.</i> See خُضَارِىٌّ and تَنَوُّطٌ.\nقَرَى الضَّيْفَ 1 is doubly trans.: see a verse cited voce قُوهٌ.\nقَرِىٌّ <i>A place where water runs,</i> (T, S,) <i>to,</i> (T,) or <i>in,</i> or <i>into,</i> (S,) <i>meadows,</i> (T,) or <i>a meadow.</i> (S.) See شَيْخٌ (last sentence). === Pl. أَقْرِيَةٌ: see قَرْءٌ.\nقَرِيَّةٌ [vulg. قَرْيَة The <i>yard of a ship;</i>] <i>a squared piece of wood upon the head of the mast of a ship.</i> (Az, TA in art. رنح.)\nقَرْيَةٌ <i>A town,</i> or <i>village;</i> (Msb, TA;) <i>a small</i> بَلَد, <i>smaller than a</i> مَدِينَة: (MF, voce تِرْمِذ:) not well applied to a مَدِينَة unless qualified by an epithet denoting greatness. (TA in art. مَدِينَة.) See Bd, ii. 261.\nقِرًى <i>Entertainment for a guest; that with which a guest is entertained.</i> (S.) === <i>Water collected in a trough,</i> or <i>tank, for the drinking of beasts:</i> see بَيُّوتٌ: thus explained in the M in art. بيت.\nمَقْرًى : see 2 in art. حجل.\nمَقْرُوٌّ and مَقْرِىٌّ for مَقْرُوْءٌ: see art. قرأ.\nنَاقَةٌ فِى قِرْوَتِهَا : see 4 in art. قرأ.\nنَاقَةٌ قَرْوَاءُ <i>A long-backed she-camel.</i> (IB, in TA, voce هِرْجَابٌ.)"
+}

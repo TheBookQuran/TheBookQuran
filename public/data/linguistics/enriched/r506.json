@@ -1,0 +1,26 @@
+{
+  "rootId": "r506",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:25:04.476Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Extinguished, silent fire, dying down, static, lifeless, or cool",
+  "primaryMeaning": "Extinguished/lifeless",
+  "quranicRelevance": "Ruined nations left extinguished and lifeless (Khamideen - 'fatha hum khamidoona').",
+  "keyDerivations": [
+    {
+      "lemma": "خَامِدٌ / خَامِدُونَ",
+      "form": "Adjective / Active part. pl.",
+      "meaning": "Extinguished, silent, lifeless, dead (fire/communities), or static"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "إِنْ كَانَتْ إِلَّا صَيْحَةً وَاحِدَةً فَإِذَا هُمْ خَامِدُونَ (36:29): It was not but a single shout, and suddenly they were extinguished/lifeless (instant death of the city dwellers)."
+  ],
+  "discardedNoise": [
+    "Extinguishing campfires with dirt.",
+    "Cooling engine valves."
+  ],
+  "summaryEn": "The root represents the silence of extinguished fire (Khmood), using it as a dramatic metaphor for ruined populations left cold, lifeless, and silent.",
+  "summaryAr": "يمثل هذا الجذر خمود لهب النار وسكون حركتها وموت الجسد (خمد)، مصوراً موت وبطش عذاب الأمم الطاغية فجأة كالنار الهامدة الطافئة.",
+  "rawText": "اخمد النَّارَ 4 <i>He allayed the flaming,</i> or <i>blazing, of the fire; leaving its embers unextinguished:</i> (S, Msb, K:) or <i>he extinguished the fire utterly.</i> (Msb.) And اخمدتها الرِّيحُ <i>The wind allayed its flaming,</i> or <i>blazing.</i> (A.) ___ ‡ <i>He was,</i> or <i>became, still,</i> or <i>motionless, and silent.</i> (K, TA.)\nخَامِدٌ ‡ <i>Silent; from whom no voice is heard:</i> and in like manner, 🡻مُخْمِدٌ signifies <i>still,</i> or <i>motionless, and silent: still,</i> or <i>motionless; having disposed and submitted himself to an affair,</i> or <i>event.</i> (L.) خَامِدُونَ in the Kur xxxvi. 28 means † <i>Silent and dead</i>: (Jel:) or <i>silent; having died, and become like extinguished ashes.</i> (Zj, Bd. *)\nخَمَدَتِ النَّارُ 1 , aor. ﹹ; (S, Msb, K;) and خَمِدَت, (A, K,) aor. ﹷ; (K;) inf. n. خُمُودٌ (S, A, Msb, K) and خَمْدٌ; (IKtt, K;) <i>The fire subsided; its flaming;</i> or <i>blazing, ceasing;</i> (S, A, Msb, K;) <i>but its embers remaining unextinguished:</i> (S, Msb, K:) when its embers have become extinguished, you say of it, هَمَدَت: (S:) or <i>it died away, and became utterly extinguished.</i> (Msb.) === [Hence,] خَمَدَتِ الحُمَّى, (S, Msb, K,) or خَمِدَت, (A,) ‡ <i>The fever became allayed:</i> (A, Msb:) or <i>the vehemence of the fever became allayed.</i> (S, K.) === And خَمَدَ ‡ <i>He</i> (a sick man, S) <i>fainted,</i> or <i>swooned:</i> (S, A, Msb, K:) or <i>he died.</i> (S, A, Msb.)\nخَمُّودٌ <i>A place in which fire is buried in order that its flaming,</i> or <i>blazing, may cease; its embers remaining unextinguished:</i> (S, K:) [or <i>in order that it may become utterly extinguished:</i> see 1.]\nمُخْمِدٌ : see the paragraph next preceding."
+}

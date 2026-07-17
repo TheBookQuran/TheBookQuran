@@ -1,0 +1,31 @@
+{
+  "rootId": "r586",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T18:03:45.341Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Submitting, yielding, complying quickly, obedience, or quick surrender",
+  "primaryMeaning": "Submitting/yielding (Muz'in)",
+  "quranicRelevance": "Submissively/obediently (Muz'ineena - 'ya'too ilayhi muz'ineena').",
+  "keyDerivations": [
+    {
+      "lemma": "ذَعَنَ / يَذْعَنُ",
+      "form": "Form I Verb",
+      "meaning": "To submit, yield, comply, obey, or surrender quickly"
+    },
+    {
+      "lemma": "مُذْعِنٌ",
+      "form": "Active Participle",
+      "meaning": "Submissive, obedient, yielding, or complying quickly"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَإِنْ يَكُنْ لَهُمُ الْحَقُّ يَأْتُوا إِلَيْهِ مُذْعِنِينَ (24:49): And if the right is theirs, they come to him submissively/obediently."
+  ],
+  "discardedNoise": [
+    "Az'ana (exposing to danger) - spelling mismatch.",
+    "Za'an (nomad departure) - Z-E-N."
+  ],
+  "summaryEn": "The root represents quick compliance or submission (Dh'an), exposing the hypocrisy of those who reject arbitration except when they know the ruling will favor them, in which case they rush to submit.",
+  "summaryAr": "يشير هذا الجذر إلى الإذعان والانقياد والسرعة في طاعة الحكم والتسليم التام بلا تردد (ذعن)، كاشفاً نفاق من يقبل بالشرع فقط إذا وافق مصلحته (مذعنين).",
+  "rawText": "اذعن لَهُ 4 , (S, Msb, * K, &c.,) inf. n. إِذْعَانٌ, (Msb,) <i>He was,</i> or <i>became, quick in obedience to him,</i> or <i>it:</i> (K:) this is its [proper, or primary,] meaning, accord. to Aboo-Is-hák, in the language of the Arabs: (TA:) and <i>he acknowledged,</i> or <i>confessed, to him:</i> (K:) and <i>he was,</i> or <i>became, lowly,</i> or <i>humble, and abject, to him:</i> (S, K:) and <i>he was,</i> or <i>became, tractable, submissive,</i> or <i>manageable, to him;</i> (S, * Msb, * K, TA;) <i>and easy;</i> (K, * TA;) <i>not disobedient;</i> (Msb;) as also 🡻ذَعِنَ, aor. ﹷ, (K,) inf. n. ذَعَنٌ. (TA.) You say, اذعن لِى بِحَقِّى <i>He obeyed me with respect to that</i> [<i>right,</i> or <i>due,</i>] <i>which I sought to obtain from him, and hastened to render it:</i> and <i>he acknowledged,</i> or <i>confessed, to me my right,</i> or <i>due, willingly, not against his will;</i> as also أَمْعَنَ. (TA.) Some have used إِذْعَانٌ as meaning <i>Perception,</i> and <i>understanding:</i> but there is no foundation for this in the language of the Arabs; and its being tropical, as some of the sheykhs have endeavoured to show it to be, is improbable. (MF.)\nذَعِنَ 1 : see what next follows.\nرَأَيْتُهُمْ مُذْعَانِّينَ is a mistake for رايتهم مُذْعَابِّينَ, meaning <i>I saw them following one another,</i> or <i>doing so uninterruptedly.</i> (K.)\nمُذْعِنٌ [act. part. n. of 4]. وَإِنْ يَكُنْ لَهُمُ ٱلْحَقُّ يَأْتُوا إِلَيْهِ مُذْعِنِينَ, in the Kur [xxiv. 48], means [<i>But if the right be theirs,</i>] <i>they come to him quickly obedient:</i> (TA:) or [simply] <i>obedient; not compelled against their will:</i> (Fr, TA:) or <i>acknowledging,</i> or <i>confessing, and lowly,</i> or <i>humble:</i> or <i>tractable, submissive,</i> or <i>manageable, and easy.</i> (TA.) 🡻مِذْعَانٌ, also, signifies <i>Tractable, submissive,</i> or <i>manageable,</i> (Msb, K,) <i>to her leader,</i> (TA.) <i>and easy in the head;</i> (K;) applied to a she-camel: (Msb, K:) and, applied to a man, <i>tractable, submissive,</i> or <i>manageable.</i> (A, TA.)\nمِذْعَانٌ : see what next precedes."
+}

@@ -1,0 +1,26 @@
+{
+  "rootId": "r1206",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:52:53.400Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Choking, food getting stuck in the throat, distress, or narrow space",
+  "primaryMeaning": "Choking/food sticking in throat",
+  "quranicRelevance": "Food that chokes (Gussa - 'ta'aman za gussatin').",
+  "keyDerivations": [
+    {
+      "lemma": "غُصَّةٌ",
+      "form": "Noun",
+      "meaning": "Choking, food stuck in the windpipe, or severe distress that blocks swallowing"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "إِنَّ لَدَيْنَا أَنْكَالًا وَجَحِيمًا وَطَعَامًا ذَا غُصَّةٍ وَعَذَابًا أَلِيمًا (73:12-13): Indeed, with Us are heavy fetters and burning fire, and food that chokes/gets stuck, and a painful punishment."
+  ],
+  "discardedNoise": [
+    "Ghasah (suffering/pain) - conceptual shift.",
+    "Ghusn (tree branch) - different letters G-S-N."
+  ],
+  "summaryEn": "The root refers to choking on food (Gussa), portraying the torment of Hell where disbelievers are forced to eat thorny, painful food that gets permanently stuck in their throats.",
+  "summaryAr": "يشير هذا الجذر إلى نشوب الطعام في الحلق فلا يسيغه ولا يخرج (غصص)، واصفاً عذاب جهنم بطعام شائك يغص به الآكل فلا يستطيع بلعه أو التخلص منه.",
+  "rawText": "إِغْتَصَصَ 8 see 1, in three places.\nاغصّهُ 4 , (S, Msb, TA,) inf. n. إِغْصَاصٌ, (TA,) <i>He</i> (a man, S, Msb) <i>caused his throat,</i> or <i>fauces, to be choked,</i> or <i>obstructed,</i> (S,) by food; (Msb;) syn. أَشْجَاهُ [which has the above-mentioned meaning and also another to he found below]. (TA.) [And <i>It</i> (food &c.) <i>choked him.</i>] === Hence, اغصّهُ بِالغَيْظِ ‡ [<i>He</i> (a man) <i>caused him to become choked with wrath,</i> or <i>rage</i>]. (Msb.) === [Hence also,] اغصّهُ بِرِيقِهِ [lit., <i>He caused his throat,</i> or <i>fauces, to become choked by his spittle;</i>] meaning, † <i>He caused him to become grieved,</i> or <i>disquieted in mind;</i> (A, TA;) [like أَشْجَاهُ: and it seems to be indicated in the CK that اغصّهُ without any addition signifies the same: see غُصَّةٌ.] === [Hence also,] اغصّ عَلَيْنَا الأَرْضَ † <i>He made strait to us the land.</i> (K, TA.)\nغَاصٌّ A man <i>having his throat,</i> or <i>fauces, choked,</i> or <i>obstructed,</i> (S, Msb, * K,) by food; (S, Msb;) as also 🡻غَصَّان. (S [in two copies of which it is written غَصَّانُ], K [in two copies of which it is written غَصَّانٌ], Msb [in my copy of which, as well as in the TA, it is without any final syll. sign].) === And [hence,] غَاصٌّ بِالقَوْمِ † An abode, or a place of alighting, <i>filled</i> [<i>and as it were choked up</i>] <i>with the company of men;</i> (S, A, K;) and in like manner a mosque; as also 🡻مُغْتَصٌّ. (A.)\nغَصَّان : see what next follows.\nغُصَّةٌ <i>A thing lying across in the throat,</i> or <i>fauces, so as to cause a choking,</i> or <i>an obstruction, thereof;</i> (IDrd, A, * K;) <i>a thing by which one has his throat,</i> or <i>fauces, choked,</i> or <i>obstructed;</i> (TA;) <i>food by which one has his throat,</i> or <i>fauces, choked,</i> or <i>obstructed;</i> (Msb;) <i>i. q.</i> شَجًا; (S, K;) [which has another meaning that will be found below; and both these meanings may be intended by it in the S; but in the K, the latter only seems to be intended; for there, between it and the explanation which is here first given, we find intervening the pl., and also, in the CK, the words وَقَدْ اَغْصَصْتُهُ فاغْتَصَّ;] <i>a thing by which one is choked</i> (شَجًا يُغَصُّ بِهِ, Lth, JK, TA) <i>in the</i> حَرْقَدَة [meaning the <i>head of the windpipe</i>], (Lth, TA,) or <i>in the throat,</i> or <i>fauces:</i> (JK:) pl. غُصَصٌ. (S, Msb, K.) It is said in the Kur [lxxiii. 13], وَطَعَامًا ذَا غُصَّةٍ (TA) <i>And food that sticks fast,</i> (Bd,) or <i>by which one is choked,</i> (Jel,) <i>in the throat,</i> or <i>fauces.</i> (Bd, Jel.) === And hence, ‡ <i>Choking wrath</i> or <i>rage.</i> (Msb.) === [And † <i>Grief,</i> or <i>disquietude of mind;</i> a signification often occurring; and app. intended by the explanation شَجًا in the K. See what is said on this point above.] === Hence also, غُصَصُ المَوْتِ [<i>The chokings,</i> or <i>strangulations, of death: the deathrattles:</i> or † <i>the agonies of death</i>]. (TA.)\nمُغْتَصٌّ : see what next precedes."
+}

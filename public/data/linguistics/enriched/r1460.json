@@ -1,0 +1,26 @@
+{
+  "rootId": "r1460",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:21:37.831Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Middle-aged, mature man, strength, support, or grey-haired",
+  "primaryMeaning": "Middle-aged (between youth and old age, typically 30 to 50 years)",
+  "quranicRelevance": "Jesus speaking to people in middle age/maturity (Kahlan - 'fil-mahdi wa-kahlan').",
+  "keyDerivations": [
+    {
+      "lemma": "كَهْلٌ",
+      "form": "Noun / Adjective",
+      "meaning": "Middle-aged man, mature adult, or one whose youth is completed"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "تُكَلِّمُ النَّاسَ فِي الْمَهْدِ وَكَهْلًا (5:110): You spoke to people in the cradle and in maturity/middle age (prophetic communication at both extremes of life)."
+  ],
+  "discardedNoise": [
+    "Old grey-haired grandfathers (Sheikh) - distinct category.",
+    "Support pillars (Kahil) of tribal alliances."
+  ],
+  "summaryEn": "The root refers to middle-aged maturity (Kuhl), highlighting the miracle of Jesus speaking with equal wisdom as a baby in the cradle and as a mature man (Kahlan).",
+  "summaryAr": "يشير هذا الجذر إلى سن الاكتمال والوقار بين الشباب والشيخوخة (كهل)، واصفاً إعجاز كلام عيسى في المهد وكهلاً بنفس الفصاحة والحكمة.",
+  "rawText": "اِكْتَهَلَ 8 , said of a plant, <i>It became tall and full-grown:</i> (TA:) <i>or it became of its full height, and blossomed:</i> (S:) see زَاخِرٌ.\nكَاهِلٌ [The <i>withers</i> of a horse, &c.] <i>i. q.</i> حَارِكٌ: or <i>the anterior portion of the upper part of the back, next the neck,</i> which is the <i>upper third part, containing six vertebra:</i> or the <i>part between the two shoulder-blades:</i> or the <i>part where the neck is joined to the back how:</i> [the <i>base of the neck:</i> see ثَبَجٌ]. (K.)\nكَاهِنٌ : see عَرَّافٌ and عَائِفٌ.\nكَهْلٌ <i>Of middle age;</i> or <i>between that age and the period when his hair has become intermixed with heaviness.</i> See شَبَابٌ; and شَيْخٌ and غُلَامٌ.\nكُهُولَةٌ : see شَبَابٌ.\nكِهَانَةٌ <i>Divination: soothsaying.</i> (K, &c.)"
+}

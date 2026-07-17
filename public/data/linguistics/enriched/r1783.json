@@ -1,0 +1,31 @@
+{
+  "rootId": "r1783",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:01:45.660Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Crescent, shouting joy, dedicating, praise, cheer, or moon",
+  "primaryMeaning": "Shouting dedication or crescent",
+  "quranicRelevance": "Slaughter dedicated/offered to other than God (Ohilla - 'wa ma ohilla bihi lighayri Allah'), and crescent moons marking Hajj (Ahillah - 'yas'aloonaka 'ani al-ahillati').",
+  "keyDerivations": [
+    {
+      "lemma": "أَهَلَّ / يُهِلُّ",
+      "form": "Form IV Verb (passive: ohilla)",
+      "meaning": "To dedicate aloud, invoke a name (at slaughter), shout out, or raise voice"
+    },
+    {
+      "lemma": "هِلَالٌ / أَهِلَّةٌ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Crescent moon / crescent moons (marking lunar calendar months)"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَمَا أُهِلَّ بِهِ لِغَيْرِ اللَّهِ (2:173): And what has been dedicated/slaughtered aloud in the name of other than God (dietary prohibition of pagan sacrifices)."
+  ],
+  "discardedNoise": [
+    "Shouting 'Hallelujah' (تهليل) in Christian liturgies.",
+    "The crescent shape of architectural domes."
+  ],
+  "summaryEn": "The root connects vocal exclamation with celestial markers, detailing the vocal pagan dedication (Ihlal) of meat to idols, and crescent moons (Ahillah) marking calendars.",
+  "summaryAr": "يربط هذا الجذر بين رفع الصوت بالفزع والذكر والمواقيت الفلكية، واصفاً تهليل الصوت باسم الصنم عند الذبح الحرام (وما أُهلّ)، وأهلة شهور القمر.",
+  "rawText": "أَهْلَلْنَا هِلَالَ شَهْرِ كَذَا 4 : see سَلَخَ.\nالهِلاَلُ <i>The new moon;</i> or <i>the moon when it is termed</i> هِلاَل: it may be explained as meaning, generally, <i>the moon when near the sun,</i> or <i>moon a little after or before the change.</i> === See سَمَا.\nاِسْتَهَلَّ 10 : see a verse cited at the close of the first paragraph of art. ضحك. === See also a verse cited voce أَفْثَأَ. === See مُسْتَهَلٌّ.\nمُسْتَهَلُّ الشَّهْرِ <i>The first night of the lunar month.</i> (Msb.)\nهَلَّةٌ : see بَلَّةٌ.\nهَلْ may be originally هَلْو or هَلْى or هَلّ: (Akh, in S, voce بل:) see بَلْ. === هَلْ followed by إِلَى: see the latter. === حَىّ هَلَ: see حى. === هَلَّا: see حَضَّةٌ and عَنْ, latter part, and لَوْلَا, and أَلَّا."
+}

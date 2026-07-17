@@ -1,0 +1,26 @@
+{
+  "rootId": "r1761",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:52:16.826Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Sleeping, slumbering, resting at night, sleeping lightly, or lying down to rest",
+  "primaryMeaning": "Sleeping/slumbering at night",
+  "quranicRelevance": "They slept only a little (Yahja'oon - 'yahja'oona').",
+  "keyDerivations": [
+    {
+      "lemma": "هَجَعَ / يَهْجَعُ",
+      "form": "Form I Verb",
+      "meaning": "To sleep, slumber, rest at night, or sleep lightly"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "كَانُوا قَلِيلًا مِنَ اللَّيْلِ مَا يَهْجَعُونَ (51:17): They used to sleep only a little of the night (praising the night-worshippers)."
+  ],
+  "discardedNoise": [
+    "Haja' (cowardly person) - classical idiom.",
+    "Hujoo' (heavy coma state) - medical."
+  ],
+  "summaryEn": "The root refers to sleeping or slumbering at night (Haj'), praising the pious believers who limited their sleep to devote the night to prayer and repentance.",
+  "summaryAr": "يشير هذا الجذر إلى النوم بالليل والغرور والاضطجاع للراحة والنوم الخفيف (هجع)، واصفاً المتقين بقلة نومهم وليلهم المشحون بالذكر (قليلاً من الليل ما يهجعون).",
+  "rawText": "تَهَجَّعَ 5 <i>He slept.</i> (1001 Nights, ii. 321.)\nهَجْعَةٌ † The <i>setting</i> of a star. (Sgh in TA, art. شرط.) See شَرَطٌ. === <i>A light sleep in the first part of the night.</i> (S.)"
+}

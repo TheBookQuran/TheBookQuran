@@ -1,0 +1,26 @@
+{
+  "rootId": "r1407",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:11:50.470Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Humiliating defeat, subduing, repressing, throwing face down, or suppress",
+  "primaryMeaning": "Humiliating defeat/subduing",
+  "quranicRelevance": "Being humiliated/subdued or turned back in frustration (Kubita - 'aw yakbitahum', 'kubitoo kama kubita').",
+  "keyDerivations": [
+    {
+      "lemma": "كَبَتَ / يَكْبِتُ",
+      "form": "Form I Verb (passive: kubita)",
+      "meaning": "To humiliate, subdue, repress, defeat, throw down, or turn back in frustration"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "إِنَّ الَّذِينَ يُحَادُّونَ اللَّهَ وَرَسُولَهُ كُبِتُوا كَمَا كُبِتَ الَّذِينَ مِنْ قَبْلِهِمْ (58:5): Indeed, those who oppose God and His Messenger will be humiliated/subdued as those before them were humiliated."
+  ],
+  "discardedNoise": [
+    "Psychological repression (Kabt) in modern psychoanalysis.",
+    "Repressing anger at home."
+  ],
+  "summaryEn": "The root represents humiliating defeat (Kabt), describing the routing of opposing armies and the ultimate frustration of those who challenge divine law.",
+  "summaryAr": "يمثل هذا الجذر الخزي القاهر والصرع والرد بغيظ (كبت)، واصفاً هزيمة وكسر عروش أعداء الرسول (أو يكبتهم)، وذل الطغاة المعارضين للتوحيد.",
+  "rawText": "انكبت 7 <i>He was thrown down,</i> or <i>fell down, prostrate;</i> or, <i>upon his face.</i> (TA.)\nكبت [app. كَبْتٌ or كِبْتٌ or كَبِتٌ] <i>i. q.</i> كَبِدٌ The <i>liver.</i> Ex. بَرُدَ كبتُهُ [<i>His liver became cool:</i> i. e., <i>his rage became assuaged</i>]. ('Ináyeh.)\nكَبَتَهُ 1 , aor. ﹻ, (inf. n. كَبْتٌ, TA,) <i>He threw him down prostrate;</i> (K;) as also كَبَتَهُ لِوَجْهِهِ: (S:) <i>he threw him,</i> or <i>it, down upon his,</i> or <i>its face;</i> like كَبَّهُ: this is the primary signification. (TA.) === كَبَتَهُ اللّٰهُ لِوَجْهِهِ <i>May God prostrate him, so that he may not succeed in his enterprise,</i> or <i>may not gain the victory!</i> (TA.) === كَبَتَ الكَافِرَ <i>He</i> (God) <i>prostrated the unbeliever, and denied him what he desired,</i> or <i>disappointed him,</i> or <i>caused him to fail of attaining his desire.</i> (TA, from a trad.) === كَبَتَهُ <i>He repelled him</i> (i. e. an enemy) <i>in his rage,</i> or <i>wrath.</i> (K.) === <i>I. q.</i> كَسَرَهُ [here app. signifying <i>He routed him;</i> or <i>put him to flight.</i>] (K.) === كَبَتَهُ, (inf. n. كَبْتٌ, S,) <i>He turned away,</i> or <i>averted, him:</i> (S, K:) <i>and abased him; debased him; rendered him vile, despicable,</i> or <i>ignominious.</i> (S, K.) Syn. أَذَلَّهُ and أَخْزَاهُ (K) Ex. كَبَتَ اللّٰهُ العَدُوَّ <i>God averted and abased the enemy.</i> (S.) === كُبِتُوا كَمَا كُبِتَ الَّذِينَ مِنْ قَبْلِهِمْ, in the Kur, [lviii, 6,] signifies, <i>They</i> [who oppose God and his Apostle] <i>have been abased, and punished, by their being overcome, like as those who were before them,</i> of such as opposed God, <i>were abased, &c.:</i> (Zj:) or <i>they have been enraged, and grieved,</i> on the occasion of the war of the Moat, <i>like as those who were before them,</i> who fought with the prophets, <i>were enraged and grieved:</i> (Fr:) in favour of which latter interpretation it has been argued, that الكبت is formed from الكبد, the liver, by the substitution of ت for د, and that the liver is the source of rage and malevolence. (Az.) ___ كَبَتَهُ <i>i. q.</i> كَبَدَهُ, <i>He smote,</i> or <i>hurt, his liver.</i> (TA.) === كَبَتَ غَيْظَهُ فِى جَوْفِهِ ‡ <i>He restrained his rage in his inside</i> [or <i>bosom</i>]. You say, مَنْ كَبَتَ غَيْظَهُ فِى جَوْفِهِ كَبَتَ اللّٰهُ عَدُوَّهُ مِنْ خَوْفِهِ [<i>Whoso restraineth his rage in his bosom, God will avert and abase his enemy, through fear of him</i>]. (A.)\nكَبْتٌ <i>Rage</i> or <i>wrath; and grief,</i> or <i>sorrow.</i> ('Ináyeh.)\nمَكْبُوتٌ pass. part. n. of 1, q. v. === Also, <i>Affected with violent grief,</i> or <i>sorrow:</i> originally مَكْبُودٌ: i. e., <i>having his liver affected by grief,</i> or <i>sorrow.</i> (TA, from a trad.)\nمُكْتَبِتٌ <i>Filled with grief,</i> or <i>sorrow;</i> (K;) or <i>with rage,</i> or <i>wrath.</i> (TA.)"
+}

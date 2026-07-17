@@ -1,0 +1,31 @@
+{
+  "rootId": "r1081",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:29:55.134Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Readiness, preparation, store, watchkeeper, or old",
+  "primaryMeaning": "To prepare or be ready",
+  "quranicRelevance": "Preparing punishment or reward (A'tada - 'wa a'tadna lahum 'athaban aleeman'), and watchkeeper ready to record (Ateed - 'ladayhi raqeebun 'ateed').",
+  "keyDerivations": [
+    {
+      "lemma": "أَعْتَدَ",
+      "form": "Form IV Verb",
+      "meaning": "To prepare, make ready, or arrange in advance"
+    },
+    {
+      "lemma": "عَتِيدٌ",
+      "form": "Adjective",
+      "meaning": "Ready, prepared, present, or witness (ever-present recorder)"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "مَا يَلْفِظُ مِنْ قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌ (50:18): He utters no word except that with him is a watcher ready/present (prepared to record)."
+  ],
+  "discardedNoise": [
+    "Military equipment (عتاد) in modern armies.",
+    "Obscure details of stubborn camels (عاتد)."
+  ],
+  "summaryEn": "The root denotes preparation and constant presence, covering the preparation of eschatological states and the ready watchfulness (Ateed) of recording angels.",
+  "summaryAr": "يدل هذا الجذر على التهيئة والجهوزية، مغطياً إعداد العذاب والجزاء الأخروي (أعتدنا)، والحضور الراصد للملك الكاتب (عتيد).",
+  "rawText": "اعتدهُ 4 , (S, O, Msb, K,) inf. n. إِعْتَادٌ; (S;) and 🡻عتّدهُ, (S, Msb, K,) inf. n. تَعْتِيدٌ; (S, K;) <i>He made it ready,</i> or <i>prepared it,</i> (S, O, Msb, K,) <i>for a</i> [<i>future</i>] <i>day.</i> (S, O.) The former verb occurs in the Kur xii. 31. (S, O, Msb.) Yaakoob says that the [former] ت in أَعْتَدْتُهُ is a substitute for the [former] د in أَعْدَدْتُهُ: and some say that أَعَدَّ is originally أَعْتَدَ; but others deny this. (L.)\nتعتّد فِى صَنْعَتِهِ 5 <i>He was nice,</i> or <i>scrupulously nice and exact, in his work, art,</i> or <i>craft.</i> (O, K.)\nعَتَادٌ (S, A, O, L, Msb, K) and 🡻عُتْدَةٌ, (L, K,) or 🡻عَتَدَةٌ, (so in the O,) <i>Apparatus;</i> syn. عُدَّةٌ [q. v.]; (S, A, O, L, K;) which is said by some to be formed from عُتْدَةٌ, but others deny this; (L;) <i>implements,</i> or <i>instruments,</i> or <i>the like;</i> (S, O;) or <i>weapons, beasts, and instruments,</i> or <i>equipage, of war:</i> (L, Msb:) pl. أَعْتُدٌ (O, L, Msb, K) and أَعْتِدَةٌ (L, Msb) [both pls. of pauc.] and عُتُدٌ. (L.) One says, أَخَذَ لِلْأَمْرِ عَتَادَهُ <i>He took his apparatus,</i> or <i>implements,</i> or <i>instruments,</i> or <i>the like,</i> [or <i>he prepared,</i> or <i>provided, himself,</i>] <i>for the affair:</i> (S, O:) or <i>he took, for the affair, what he had prepared of weapons, and beasts, and instruments,</i> or <i>equipage, of war.</i> (Msb.) === And sometimes, (S, O,) عَتَادٌ signifies also <i>A large drinking-cup</i> or <i>bowl:</i> (S, O, K:) <i>i. q.</i> عَسْفٌ and صَحْنٌ: (IAar, L:) or <i>a large drinking-cup</i> or <i>bowl</i> (عُسٌّ) <i>of</i> [<i>wood of the tree called</i>] أَثْل. (AHn, TA.)\nعَتَدٌ : see عَتِيدٌ. === [Hence,] فَرَسٌ عَتَدٌ, as also 🡻عَتِدٌ, <i>A horse made ready,</i> or <i>prepared, for running;</i> (S, O, L, K;) <i>of strong make; quick in leaping,</i> or <i>springing; not incongruous, unsound, faulty,</i> or <i>weak, in make; nor lax,</i> or <i>uncompact:</i> (L:) or <i>strong, and perfect in make:</i> (ISk, S, O, K:) or <i>that performs run after run:</i> (O:) or <i>made ready,</i> or <i>prepared, for riding:</i> and applied alike to a male and to a female. (L.)\nعَتُدَ 1 , [aor. ﹹ,] (O, L, Msb, K,) inf. n. عَتَادٌ (O, Msb, K) and عَتَادَةٌ, (O, L, K,) <i>It</i> (a thing, L, Msb) <i>was,</i> or <i>became, ready, at hand,</i> or <i>prepared.</i> (O, L, Msb, K.) === And عَتُدَ, inf. n. عَتَادٌ (L, TA) and عَتَادَةٌ, (TA,) <i>It</i> (a thing) <i>was,</i> or <i>became, great, big,</i> or <i>bulky.</i> (L, TA.)\nعَتُودٌ <i>A yearling goat;</i> (Msb, K;) <i>a young goat that pastures, and is strong, and has become a year old:</i> (S, O, L:) or <i>a kid that has begun to pasture:</i> (L:) or <i>that pastures, and has become strong;</i> (Mgh, TA;) as also عَرِيضٌ: or <i>that has become a</i> جَذَع [<i>a year old, in the second year</i>]; and such is called عَرِيضٌ also; both of which appellations are applied to the <i>male</i> and the <i>female;</i> or such is only termed عَرِيضٌ; عتود signifying one <i>that has become a</i> ثَنِىّ [app. meaning <i>in the third year</i>]: (TA:) or <i>that has attained the fit age for procreation:</i> (L:) pl. [of pauc.] أَعْتِدَةٌ and [of mult.] عِدَّانٌ the latter originally عِتْدَانٌ, (S, O, L, Msb, K,) the use of which last form is also allowable. (Msb.) === Also [<i>A tree of the species called</i>] <i>a</i> سِدْرَة: or <i>a</i> طَلْحَة. (O, L, K.)\nعَتِدٌ : see the next preceding paragraph.\nعَتِيدٌ A thing (S, O, L) <i>ready, at hand,</i> or <i>prepared;</i> (S, A, O, L, K;) as also 🡻عَتَدٌ [q. v.]: pl. [of pauc.] of the latter أَعْتَادٌ and [of mult.] عُتُدٌ: (Msb:) the former occurs in the Kur l. 22, (O, L,) in this sense: or as meaning <i>near:</i> (L:) or as meaning 🡻مُعْتَدٌ, (O,) i. e. <i>made ready,</i> or <i>prepared.</i> (K.)\nعَتِيدَةٌ <i>A receptacle for perfume</i> (A, Msb) <i>and unguent</i> (A) or <i>unguents:</i> (Msb:) <i>a kind of wooden tray</i> (طَبْلَة), or <i>a small round box</i> (حُقَّة), <i>in which are the perfume of a man,</i> (O, K,) or <i>his unguent,</i> (O,) <i>and the perfume of the bride,</i> (O, K,) <i>prepared</i> (أُعْتِدَتْ) <i>for what she requires of perfume, and substance for fumigation, and a comb, and other things;</i> [formed from عَتِيدٌ;] the ة being affixed to it as being a subst.: (O:) or <i>a</i> طَبْل [or <i>small round basket covered with leather</i>] <i>prepared for the perfume,</i> (Az, Mgh, L,) <i>and utensils, and substance for fumigation,</i> (Az, L,) <i>and comb,</i> (Az, Mgh, L,) <i>and mirror,</i> (Mgh,) <i>and other things, required by a bride:</i> (Az, Mgh, L:) or <i>a thing like a casket,</i> or <i>small chest, in which a woman puts such of her goods,</i> or <i>utensils, as she values.</i> (L.)\nعَتَّدَ 2 see the next paragraph.\nعُتْدَةٌ and عَتَدَةٌ: see what next follows.\nمُعْتَدٌ : see عَتِيدٌ."
+}

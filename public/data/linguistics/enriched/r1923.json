@@ -1,0 +1,47 @@
+{
+  "rootId": "r1923",
+  "source": "lanes",
+  "enrichedAt": "2026-06-29T23:47:48.448Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Protecting, preserving, guarding, or fearing God",
+  "primaryMeaning": "To protect or guard",
+  "quranicRelevance": "The root of (Taqwa), which is the most central moral-spiritual concept in the Quran. It covers: protecting oneself from harm/hellfire, guarding against sin, mindfulness/fear of God (Taqwa), and the pious/righteous (Muttaqin) who shield themselves from divine displeasure.",
+  "keyDerivations": [
+    {
+      "lemma": "وَقَى",
+      "form": "Form I Verb",
+      "meaning": "To protect, guard, or save from harm"
+    },
+    {
+      "lemma": "تَقْوَى",
+      "form": "Noun",
+      "meaning": "Piety, mindfulness of God, or self-protection from divine displeasure"
+    },
+    {
+      "lemma": "مُتَّقٍ",
+      "form": "Noun / Active part.",
+      "meaning": "Righteous, pious, or godfearing person"
+    },
+    {
+      "lemma": "تِقَاةٌ / تُقَاةٌ",
+      "form": "Noun",
+      "meaning": "Fear, caution, or protection"
+    },
+    {
+      "lemma": "وَاقٍ",
+      "form": "Noun / Active part.",
+      "meaning": "Protector, defender, or shield"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "اتَّقَى (Form VIII Verb): To fear, be on one's guard, or shield oneself.",
+    "وِقَايَةٌ: Shield, protection, or cover."
+  ],
+  "discardedNoise": [
+    "A horse walking carefully because of hoof pain.",
+    "Obscure grammatical transformations of (توقى) to (اتقى)."
+  ],
+  "summaryEn": "The root encompasses protection and guarding, giving rise to (Taqwa)—the Quranic cornerstone of spiritual mindfulness, righteousness, and shield against divine wrath.",
+  "summaryAr": "يشمل هذا الجذر معاني الحماية والوقاية، وهو مصدر التقوى؛ التي تمثل الركيزة القرآنية للوعي الروحي والبر والوقاية من غضب الله.",
+  "rawText": "أُوقِيَّةٌ <i>An ounce:</i> see رِطْلٌ, in two places.\nاِتَّقى 8 <i>He preserved,</i> or <i>guarded, himself exceedingly,</i> or <i>extraordinarily:</i> (Ksh, Bd in ii. 1:) <i>he put a thing between him and another to preserve him,</i> or <i>guard him.</i> (Ham, p. 359.) === In the conventional language of the law, <i>He preserved,</i> or <i>guarded, himself exceedingly,</i> or <i>extraordinarily,</i> (Ksh, Bd, ubi supra,) <i>from sin, of commission</i> or <i>of omission,</i> (Ksh,) [or] <i>from what would harm him in the world to come.</i> (Bd, who describes three degrees.) It may often be rendered <i>He was pious;</i> or <i>careful of his religious duties.</i> === اِتَّقَى عَلَيْهِمْ وَحَذِرَ [<i>He guarded himself against them in an extraordinary degree, and was cautious,</i> or <i>wary</i>]. (JK, TA, in art. خشى.) See 1. === يَتْقِى, for يَتَّقِى: see art. تقى: and see a verse of Khufáf Ibn-Nudbeh, (quoted in the S, in art. وقى,) cited voce أَثْرٌ. === يَتَّقْ for يَتَّقِ: see a verse cited voce مُتَأَوِّبٌ.\nتَوَقَّاهُ 5 (and, accord. to a usage in the K, art. حرز, also تَوَقَّى مِنْهُ) <i>He guarded against it; was cautious of it;</i> syn. اِحْتَرَزَ منه and تَحَرَّزَ منه. (S, K, * art. حرز.) === تَبَقَّهْ وَتَوَقَّهْ: see 4 in art. بقى.\nوَاقٍ A saddle <i>that does not gall the back.</i> (S, K.)\nوَاقِيَةٌ used as an inf. n., like بَاقِيَّةٌ: see Har, p. 136. === وَاقِيَةٌ as meaning <i>one preserver:</i> see an ex. voce بَاقِيَةٌ.\nوَقَاهُ ٱللّٰهُ السُّوْءَ 1 <i>God preserved him from evil.</i> (Msb.) See a verse cited voce نَقَشَ. === وَقَاكَ اللّٰهُ كُلَّ مَحْذُور <i>God preserve thee from all fear:</i> see مَحْذُورٌ. === قِ, or قِهْ, and تَوَقَّ, are imperatives [meaning <i>Be thou cautious</i>]. (JK.) === قِ عَلَى ظَلْعِكَ: see ظَلَعَ. === وَقَاهُ and 🡻اِتَّقَاهُ both signify <i>He was cautious of it;</i> syn. حَذِرَهُ. (K.)\nوَقِىٌّ <i>Cautious, guarding himself from sin, &c.:</i> see تَقِىٌّ.\nوَقِيَّةٌ <i>Property by means of which one preserves himself:</i> pl. وَقِيَّاتٌ. (TA.) See a verse cited voce مَحْبَلٌ.\nوِقَايَةٌ <i>Excess of preserving</i> or <i>guarding.</i> (Ksh, Bd in ii. 1.) === <i>A preservative.</i>"
+}

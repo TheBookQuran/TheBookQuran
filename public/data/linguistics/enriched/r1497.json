@@ -1,0 +1,31 @@
+{
+  "rootId": "r1497",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:58:55.910Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Subtlety, kindness, gentleness, microscopic detail, or grace",
+  "primaryMeaning": "Subtle/kind",
+  "quranicRelevance": "God's attributes of absolute kindness and subtle awareness (Lateef - 'wa huwa al-lateefu al-khabeer'), and behaving with extreme gentleness ('wal-yatalattaf wa la yush'iranna').",
+  "keyDerivations": [
+    {
+      "lemma": "لَطِيفٌ",
+      "form": "Adjective / Divine Name",
+      "meaning": "Subtle, kind, gracious, knowing the microscopic details, or gentle"
+    },
+    {
+      "lemma": "تَلَطَّفَ / يَتَلَطَّفُ",
+      "form": "Form V Verb",
+      "meaning": "To behave with subtlety, gentleness, caution, or soft action"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَلْيَتَلَطَّفْ وَلَا يُشْعِرَنَّ بِكُمْ أَحَدًا (18:19): And let him behave with extreme subtlety/gentleness and not let anyone become aware of you (cave sleepers' strategy)."
+  ],
+  "discardedNoise": [
+    "Modern air conditioning or room temperature adjustments.",
+    "Humor and jokes (Lateefah) in modern parlor talk."
+  ],
+  "summaryEn": "The root denotes subtlety, bridging God's microscopic, gentle care (Lateef) with the sleepers' advice to act with silent gentleness (Yatalattaf) to avoid detection.",
+  "summaryAr": "يدل هذا الجذر على اللطف والدقة، رابطاً بين اسم الله (اللطيف) المحيط بصغائر الأمور، وتوجيه أصحاب الكهف للسلوك الخفي الحذر (وليتلطّف).",
+  "rawText": "أَلْطَفَهُ 4 <i>He gave him a gift</i> or <i>present.</i> (TA.) === <i>He showed him kindness,</i> or <i>goodness, and affection and gentleness, and regard for his circumstances,</i> بِكَذَا [<i>by such a thing,</i> or <i>such an action,</i> &c.]. (S, K, TA.) Often occurring in the latter sense: but أَلْطَفَهَ بِكَذَا, expl. in the S and K by بَرَّهُ بِهِ, may mean <i>He presented him with such a thing;</i> like وَصَلَهُ بِهِ. === See أَخْلَطَهُ.\nالإِلْطَافُ <i>Self-pollution,</i> by a woman: see جَلَدَ عُمَيْرَةَ in art. جلد.\nتَلَطَّفَ لِلْأَمْرِ 5 <i>i. q.</i> تَرَفَّقَ: (S:) see طَبَّ. === <i>I. q.</i> تَكَلَّفَ اللُّطْفَ. (Bd xviii. 18.) === تَلَطَّفَ بِهِ <i>i. q.</i> تَرَفَّقَ. (Mgh in art. رفق.)\nلَاطَفَ 3 <i>He caressed; treated with blandishment; soothed; coaxed; wheedled; cajoled: i. q.</i> بَارَّهُ. (S, K.) === لَاطَفَهُ also signifies <i>He spoke softly, gently,</i> or <i>blandly, to him.</i> (TA.) <i>He acted in a good manner with him:</i> (KL:) <i>manifested goodness towards him:</i> (PS:) <i>he acted towards him with goodness:</i> and <i>he did so, experiencing from him the same:</i> (TK:) or rather, as syn. with بَارَّهُ, <i>he behaved towards him with goodness and affection and gentleness, and regard for his circumstances;</i> or <i>did so, experiencing from him the same behaviour.</i>\nلَطَفٌ <i>A gift,</i> or <i>present:</i> pl. أَلْطَافٌ. (MA.) === See لَطَفةٌ.\nلَطَفَةٌ <i>A present;</i> i. e. <i>a thing sent to another in token of courtesy or honour;</i> syn. هَدِيَّةٌ; (S, K;) as also 🡻لَطَفٌ, as stated by Z and others: pl. of the latter أَلْطَافٌ. (TA.)\nلَطُفَ 1 <i>It</i> (a thing) <i>was small,</i> or <i>little;</i> (S, Msb, K, KL;) and <i>slender, thin,</i> or <i>fine:</i> (K, KL:) and <i>elegant,</i> or <i>graceful.</i> (KL.)\nلَطِيفٌ <i>Gentle, gracious, courteous,</i> or <i>benignant:</i> and also <i>subtle; knowing with respect to the subtilties, niceties, abstrusities,</i> or <i>obscurities, of things, affairs,</i> or <i>cases:</i> in both of these senses often applied to a man. And <i>Refined in manners,</i> &c. === <i>Obscure, recondite,</i> or <i>abstruse,</i> language. (Kull.) === See Ham, p. 455. === Applied to a medicine, &c., <i>Delicate:</i> see سَوْسَنٌ.\nلَطِيفَةٌ <i>A nice, subtile, subtilely excogitated, quaint, facetious,</i> or <i>witty, saying, expression, or allusion; a witticism; a quaint conceit.</i> === [<i>A nicety of language;</i>] <i>any indication of subtile meaning, apparent to the understanding, but not to be expressed;</i> as [matters of] the sciences of taste (عُلُوم الأَدْوَاق). (KT.)\nلَطَّفَ 2 <i>It</i> (a medicine) <i>acted as an attenuant, and as an emollient.</i> === لَطَّفَهُ, inf. n. تَلْطِيفٌ, [<i>He made it slender</i>]. (A, and K, art. حشر; &c.)\nلُطْفٌ <i>Gentleness: graciousness; courtesy; civility:</i> (S, &c.:) see رِفْقٌ: and <i>delicacy of flavour,</i> &c."
+}

@@ -1,0 +1,26 @@
+{
+  "rootId": "r1759",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:52:16.826Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Sleeping, waking from sleep to pray at night, performing night devotions, or nocturnal vigil",
+  "primaryMeaning": "Praying in the night/waking up from sleep",
+  "quranicRelevance": "Pray at night (Tahajjad - 'fatahajjad bihi').",
+  "keyDerivations": [
+    {
+      "lemma": "تَهَجَّدَ / يَتَهَجَّدُ (Imperative: تَهَجَّدْ)",
+      "form": "Form V Verb",
+      "meaning": "To wake up from sleep at night to pray, perform nocturnal devotions"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَكَ عَسَىٰ أَنْ يَبْعَثَكَ رَبُّكَ مَقَامًا مَحْمُودًا (17:79): And from the night pray therewith (Tahajjud) as an additional prayer for you; perhaps your Lord will raise you to a praised station."
+  ],
+  "discardedNoise": [
+    "Hajadah (falling asleep) - although the verb base means both sleeping and waking to pray.",
+    "Hajid (sleeper)."
+  ],
+  "summaryEn": "The root signifies waking from sleep for night prayers (Hajd), designating the nocturnal prayer of Tahajjud as a special meritorious duty for the Prophet.",
+  "summaryAr": "يمثل هذا الجذر النوم بالليل، والنهوض والتيقظ من النوم للعبادة والصلاة والتهجد (هجد)، واصفاً قيام الليل بعد نوم (فتجهد به) كنافلة شريفة عظيمة الأجر.",
+  "rawText": "أَهْجَدَ 4 see 1: and 2. === Also اهجدهُ <i>He found him</i> (namely a man, K) <i>sleeping.</i> (L, K.) === And اهجد <i>He</i> (a camel) <i>laid the fore-part of his neck</i> (the part called جِرَان) <i>upon the ground;</i> (ISk, S, L, K;) as also 🡻هجّد, (IKtt, El-Basáïr, K, TA, [in the CK هَجَدَ]) inf. n. تَهْجِيدٌ. (IKtt, El-Basáïr, TA.)\nتَهَجَّدَ 5 see 1, in three places.\nمُتَهَجِّدٌ : see هَاجِدٌ.\nهَاجِدٌ <i>Sleeping:</i> (T, L, Msb:) pl. هُجُودٌ and هُجَّدٌ. (Msb.) [See an ex. in a verse cited voce مُرِمٌّ, in art. رم.] === Also, (L,) and 🡻هَجُودٌ (L, K) and 🡻مُتَهَجِّدٌ (T, L) <i>Praying in the night:</i> (T, L, K:) pl. of the first, (L,) or second, (L, K,) هُجُودٌ and هُجَّدٌ. (L, K.) هُجْدٌ and هُجَّدٌ are also fem. pls. [app. in both of the above senses]. (A.)\nهَجَدَ 1 , (S, A, L, Msb,) aor. ﹹ, (L, Msb,) inf. n. هُجُودٌ; (L, Msb, K;) and 🡻تهجّد, (S, A, L, Msb, K,) and 🡻اهجد, (L, K,) and 🡻هجّد; (IAar, L;) <i>He</i> (a man, L) <i>slept:</i> (L, Msb, K:) or <i>slept in the night:</i> (IAar, S, A, L:) or, <i>in the latter part of the night.</i> (L.) === Also هَجَدَ and 🡻تهجّد (S, A, L, Msb, K [in some copies, of the last of which the former verb is written 🡻هجّد and so in the TA) <i>He remained awake,</i> or <i>was sleepless</i> or <i>wakeful in the night:</i> (S, A, L:) and hence the <i>praying in the night</i> is called تَهَجُّدٌ: (S, L:) or <i>he awoke from sleep</i> (K) <i>to pray,</i> or <i>for some other purpose:</i> (TA:) or <i>he prayed in the night;</i> (Msb;) as also 🡻هجّد: (IAar, L:) thus these verbs bear two contr. significations: (S, A, L, Msb, K:) and 🡻تهجّد <i>he relinquished sleep for prayer:</i> (A:) so in the Kur, xvii., 81. (Beyd.)\nهَجُودٌ : see هَاجِدٌ.\nهَجِدْ , (as in some copies of the K,) or هِجْدْ, (accord. to others and the TA,) <i>A cry by which a horse is chidden.</i> (K.)\nهَجَّدَ 2 see 1, in three places. === Also هجّدهُ, inf. n. تَهْجِيدٌ, <i>He made him,</i> or <i>caused him, to sleep;</i> (S, L, K;) as also 🡻اهجدهُ. (Ibn-Buzurj, L, K.) === Also, <i>He awoke him from sleep.</i> (Ibn-Buzurj, L, K.) Thus it bears two contr. significations. (K.) === See also 4."
+}

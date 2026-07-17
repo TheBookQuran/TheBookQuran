@@ -1,0 +1,26 @@
+{
+  "rootId": "r1360",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:56:55.064Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Shattering, breaking completely, crushing, destroying, or breaking hard things",
+  "primaryMeaning": "Shattering/crushing completely",
+  "quranicRelevance": "We shattered/destroyed towns (Qasamna - 'qasamna min qaryatin').",
+  "keyDerivations": [
+    {
+      "lemma": "قَصَمَ / يَقْصِمُ",
+      "form": "Form I Verb",
+      "meaning": "To shatter, break down, crush, annihilate, or break completely"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَكَمْ قَصَمْنَا مِنْ قَرْيَةٍ كَانَتْ ظَالِمَةً وَأَنْشَأْنَا بَعْدَهَا قَوْمًا آخَرِينَ (21:11): And how many a town that was unjust We shattered/crushed, and raised up after it another people."
+  ],
+  "discardedNoise": [
+    "Qasm (oath/division) - Q-S-M.",
+    "Qasama (beauty) - Q-S-M-H."
+  ],
+  "summaryEn": "The root represents crushing or shattering an object (Qasm), applied to the absolute ruin of tyrannical societies whose civilizations were utterly demolished.",
+  "summaryAr": "يمثل هذا الجذر الكسر والتهشيم الكلي لشيء صلب والاستئصال والإهلاك المدمر (قصم)، واصفاً تحطيم الله للقرى الظالمة وإزالتها من الوجود.",
+  "rawText": "قَيْصُومٌ <i>Artemisia abrotanum,</i> or <i>southern-wood;</i> also called قَيْصُومٌ ذَكَرٌ: and قَيْصُومٌ أُنْثَى is applied to <i>santolina.</i>"
+}

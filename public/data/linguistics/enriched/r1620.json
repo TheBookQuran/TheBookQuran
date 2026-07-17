@@ -1,0 +1,31 @@
+{
+  "rootId": "r1620",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:58:55.910Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Wave, surge, ocean billow, fluctuation, or agitation",
+  "primaryMeaning": "Wave/billow",
+  "quranicRelevance": "Waves of the sea covering the boat (Mawj - 'wa itha ghashiyahum mawjun'), and people surging like waves at the horn blast ('taraknā ba'dhahum yawma'ithin yamōju fee ba'dh').",
+  "keyDerivations": [
+    {
+      "lemma": "مَوْجٌ / أَمْوَاجٌ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Wave, billow, surge, or water wall"
+    },
+    {
+      "lemma": "مَاجَ / يَمُوجُ",
+      "form": "Form I Verb",
+      "meaning": "To surge, wave, billow, rise in commotion, or fluctuate"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَتَرَكْنَا بَعْضَهُمْ يَوْمَئِذٍ يَمُوجُ فِي بَعْضٍ (18:99): And We will leave them on that Day surging like waves into one another (chaos of Gog/Magog or Resurrection)."
+  ],
+  "discardedNoise": [
+    "Electromagnetic microwave ovens.",
+    "Modern sound waves and physics frequency diagrams."
+  ],
+  "summaryEn": "The root denotes surging waves, detailing the mountain-like waves of Noah's flood, ocean storms, and the chaotic human surge (Mawj) of the apocalypse.",
+  "summaryAr": "يدل هذا الجذر على جريان الماء متبحراً والاضطراب، واصفاً موج طوفان نوح كالجبال، وموج البحار، والاضطراب البشري للخلائق كالأمواج (يموج).",
+  "rawText": "تَمَوَّجَ 5 see 1.\nمَائِجٌ A sea <i>in a state of commotion; tumultuous; agitated with waves, conflicting,</i> or <i>dashing together.</i> (TA.) === Also, and 🡻مُتَمَوِّجٌ, A man <i>in a state of commotion,</i> or <i>agitation.</i> (TA.)\nمَاجَ 1 , aor. يَمُوجُ, inf. n. مَوْجٌ (S, K, &c.) and مَوَجَانٌ and مُؤُوجٌ; (TA;) <i>It</i> (the sea) <i>was in a state of commotion; was tumultuous;</i> (Msb;) <i>was agitated with waves, conflicting,</i> or <i>dashing together;</i> (S, K;) as also 🡻تموّج: (TA;) or this latter signifies <i>it</i> (the sea) <i>was,</i> or <i>became, very tumultuous.</i> (Msb.) [You say,] مَاجَ المَوْجُ <i>The waves were in a state of commotion; were tumultuous; conflicted,</i> or <i>dashed together.</i> (TA.) [And hence,] مَاجَ أَمْرُهُمْ † <i>Their affair became in a confused and disturbed state.</i> (TA.) === مَاجَ, inf. n. مَوْجٌ and مَوَجَانٌ, † <i>It</i> (anything) <i>was in a state of commotion,</i> or <i>agitation.</i> (TA.) === مَاجَ ‡ <i>He was in a state of commotion,</i> or <i>agitation, and confounded, perplexed,</i> or <i>amazed.</i> (IAar.) === النَّاسُ يَمُوجُونٌ ‡ <i>The people,</i> or <i>men, are in a state of commotion,</i> or <i>tumultuous.</i> (S.) === مَاجَتِ النَّاسُ ‡ <i>The people were in a discordant and disturbed state of affairs.</i> (Msb.) === مَاجَ عَنِ الحَقِّ, inf. n. مَوْجٌ, ‡ <i>He declined from the truth,</i> or <i>from the true, right,</i> or <i>just, course.</i> (A, K.) === مَاجَتِ الدَّاغِصَةُ, inf. n. مُؤُوجٌ, ‡ <i>The patella,</i> or <i>knee-pan, moved backwards and forwards,</i> or <i>from side to side, between the skin and the bone,</i> or, as in one copy of the K, <i>flesh:</i> (K, TA:) and in like manner السِّلْعَةُ [<i>the ganglion</i>]. (TA.)\nمَوَّاجٌ [A sea <i>tumultuous with waves</i>]. (K, art. رد.)\nمَوْجٌ , [a coll. gen. n., <i>Waves; billows; surges;</i> or <i>a collection of waves;</i>] <i>water rising above other water:</i> (TA:) pl. أَمْوَاجٌ: (S, K, Msb:) مَوْجَةٌ has a more special signification; [namely, <i>a wave, a single wave;</i>] and the pl. of this, which is the n. un., is مَوْجَاتٌ. (Msb.) === فَرَسٌ غَوْجٌ مَوْجٌ: see art. غوج. موج is here an imitative sequent. (TA.) === مَوْجَةُ الشَّبَابِ ‡ <i>The prime of youth.</i> (K.)\nمُتَمَوِّجٌ : see مَائِجٌ.\nناقة مَوْجَى † <i>A swift</i> (نَاجِيَة: in the CK نَاجِبَة) <i>she-camel, whose</i> أَنْسَاع [or <i>woven thongs of the fore girth</i>] <i>have moved round</i> (جَالَت) <i>by reason of the backward and forward motion</i> (اِخْتِلَاف) <i>of her fore and hind legs.</i> (K.)"
+}

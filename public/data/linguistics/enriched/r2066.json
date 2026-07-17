@@ -1,0 +1,32 @@
+{
+  "rootId": "r2066",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:56:22.540Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Perishing, failing, going to waste, remaining unsold, lying fallow/uncultivated, or testing",
+  "primaryMeaning": "Perishing/failing (Bawar)",
+  "quranicRelevance": "Commerce that will never fail/perish (Taboor - 'lan taboora').",
+  "keyDerivations": [
+    {
+      "lemma": "بَارَ / يَبُورُ",
+      "form": "Form I Verb",
+      "meaning": "To perish, fail, lie waste, remain unsold, or become empty"
+    },
+    {
+      "lemma": "بَوَارٌ",
+      "form": "Noun",
+      "meaning": "Ruin, perdition, stagnation, or perishing"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "يَرْجُونَ تِجَارَةً لَنْ تَبُورَ (35:29): They hope for a commerce/transaction that will never fail/perish.",
+    "وَأَحَلُّوا قَوْمَهُمْ دَارَ الْبَوَارِ (14:28): And they led their people to the home of ruin/perdition."
+  ],
+  "discardedNoise": [
+    "Bi'r (water well) - B-A-R.",
+    "Bawarh (rainy season window) - modern terminology."
+  ],
+  "summaryEn": "The root signifies perishing, failing, or lying waste (Bawr), contrasting the eternal success of reciting scripture (a trade that never fails) with the ruin brought by disbelief.",
+  "summaryAr": "يمثل هذا الجذر الهلاك والفساد والكساد التام والخسران والكساد التجاري (بار)، واصفاً تجارة تلاوة القرآن بالتجارة التي لن تبور ولن تكسد أو تهلك أبداً.",
+  "rawText": "إِبْتَأََ 8 see 1, in three places.\nابأر فُلَانًا 4 <i>He made,</i> or <i>he assigned,</i> or <i>appointed,</i> (جَعَلَ,) <i>for such a one, a well.</i> (K.)\nبَأَرَ 1 , (S, M, K,) aor. ﹷ, (M, K,) <i>He sunk,</i> or <i>dug,</i> (S, M, K,) a well; (S, M;) as also 🡻ابتأر. (M, K.) === Also, aor. as above, inf. n. بَأْرٌ, <i>He dug a</i> [<i>hollow such as is termed</i>] بُؤْرَة, (AZ, S, M,) <i>in which to cook.</i> (AZ, S.) === Also, (T, S, M, K,) aor. as above, (M, K,) and so the inf. n.; (M;) and 🡻ابتأر; (T, S, M, K;) <i>He hid,</i> or <i>concealed,</i> a thing: (T, M, K:) and <i>he stored</i> it, or <i>laid</i> it <i>up, for a time of need.</i> (T, S, K.) Hence a hollow dug in the ground is termed بُؤْرَةٌ. (T.) === You say also, 🡻ابتأرخَيْرًا, (T, M, K,) and بَأَرَهُ, (M, K,) <i>He did good beforehand:</i> (T, M, K:) or, accord. to some, <i>he, as it were, did good beforehand for himself, having laid it up,</i> or <i>concealed it, for himself:</i> (T, TA:) so says El-Umawee: or <i>he laid up for himself in store concealed good:</i> (TA:) or <i>he did good concealedly:</i> (M, K:) and ائتبر signifies the same. (T, TA.)\nبَأّٓٓرٌ , (T, TA, and so in some copies of the K,) or أَبَّارٌ, (as in other copies of the K and so in the CK,) the latter formed by transposition, and the former [said to have been] not heard, (M,) <i>A well-sinker,</i> or <i>well-digger.</i> (T, M, K.)\nبَئِيرَةٌ (T, S, M, K) and 🡻بِئْرَةٌ and 🡻بُؤْرَةٌ (M, K) <i>A thing stored,</i> or <i>laid up, for a time of need.</i> (T, S, M, K.)\nبُؤَيْرَةٌ : see بِئْرٌ.\nبُؤْرَةٌ <i>A hollow,</i> or <i>hole, dug in the ground,</i> (AZ, S, M, K,) <i>in which to cook;</i> also called إِرَةٌ: (AZ, S:) or (M) <i>a place in which fire is lighted.</i> (M, K.) [See 1.] ___ See also بَئِيرَةٌ.\nبِئْرةٌ : see بئْرٌ: ___ and see بَئِيرَةٌ.\nبِئْرٌ (T, S, M, &c.) and بِيرٌ, (Msb,) of the fem. gender, (S, M, Msb, K,) and 🡻بِئْرَةٌ, (M,) <i>A well:</i> (M, TA:) pl. (of pauc., S, Msb) أَبْؤُرٌ (S, M, Msb, K) and (by transposition, Fr, Msb) آبُرٌ (Fr, Msb, K) and أَبْآرٌ and (by transposition, Yaakoob, T, S, M) آبَارٌ and (of mult., S, Msb) بِئَارٌ; (T, S, M, Msb, K;) and pl. of pauc. [of بِيرٌ] أَبْيَارٌ. (Msb.) The dim. is 🡻بُؤَيْرَةٌ. (Msb.)"
+}

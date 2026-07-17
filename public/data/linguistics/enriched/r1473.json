@@ -1,0 +1,26 @@
+{
+  "rootId": "r1473",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:21:37.831Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Humbling oneself, submission, poor, miserable, yield, or adapt",
+  "primaryMeaning": "Humbling oneself/submitting",
+  "quranicRelevance": "Not weakening or submitting (Istakanoo - 'wa-ma istakanoo', 'fama istakanoo').",
+  "keyDerivations": [
+    {
+      "lemma": "اِسْتَكَانَ / يَسْتَكِينُ",
+      "form": "Form X Verb",
+      "meaning": "To humble oneself, submit, yield, show weakness, surrender, or be subdued"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فَمَا وَهَنُوا لِمَا أَصَابَهُمْ فِي سَبِيلِ اللَّهِ وَمَا ضَعُفُوا وَمَا اسْتَكَانُوا (3:146): And they did not lose heart for what befell them in the way of God, nor did they weaken or submit (battlefield resilience)."
+  ],
+  "discardedNoise": [
+    "Poverty houses (Meskeen) - belonging to s-k-n, though conceptually overlapping in Arabic dictionaries.",
+    "Existence state (Kayan) - distinct root (k-w-n)."
+  ],
+  "summaryEn": "The root represents submissive yielding (Istikanah), praising the battlefield resilience of past prophets' companions who refused to submit or show weakness to enemies.",
+  "summaryAr": "يمثل هذا الجذر الخضوع والاستسلام والذل أمام العدو أو الخالق (استكانة)، مادحاً صمود أصحاب الأنبياء الذين لم يهنوا ولم يستكينوا للطغاة.",
+  "rawText": "اِسْتَكَانَ 10 : see اِسْتَكَنَ in art. سكن: and see art. كون.\nكَيْنٌ (also written كَيْنَةٌ, K, voce زَرْنَبٌ): see بَظْرٌ."
+}

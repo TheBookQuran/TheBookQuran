@@ -1,0 +1,31 @@
+{
+  "rootId": "r1777",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:21:37.831Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Injustice, depriving rights, digesting, hollow, soft, or narrow",
+  "primaryMeaning": "Depriving rights/injustice or soft/hollow date spathes",
+  "quranicRelevance": "Fearing no deprivation of rights (Hadhm - 'wa-la hadhman'), and soft date spathes ('hadheemun').",
+  "keyDerivations": [
+    {
+      "lemma": "هَضْمٌ",
+      "form": "Noun",
+      "meaning": "Deprivation of rights, injustice, deficit, decrease, or diminution"
+    },
+    {
+      "lemma": "هَضِيمٌ",
+      "form": "Adjective",
+      "meaning": "Soft, clustered, hollow, easily digested, or layered spathes"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَمَنْ يَعْمَلْ مِنَ الصَّالِحَاتِ وَهُوَ مُؤْمِنٌ فَلَا يَخَافُ ظُلْمًا وَلَا هَضْمًا (20:112): And whoever does of righteous deeds while he is a believer - he will fear neither injustice nor deprivation of rights (Hadhm)."
+  ],
+  "discardedNoise": [
+    "Stomach food digestion (Hadhm) in medical guides.",
+    "Losing weight."
+  ],
+  "summaryEn": "The root represents deprivation of rights and soft structures (Hadhm), assuring believers of complete justice in the Hereafter and describing Paradise date clusters.",
+  "summaryAr": "يمثل هذا الجذر البخس وهضم الحقوق والكسر اللين المتراكم (هضم)، واعداً المؤمن بألا ينقص من حسناته شيء (ولا هضماً)، وواصفاً نضارة طلع النخيل.",
+  "rawText": "إِهْتَضَمَ 8 see 1. === اِهْتَضَمَ الشَّجَزَ مِنْ أَعَلاَهُ (K voce شَعَبَ) <i>He cropped the tops of the shrubs:</i> see شَعَبَ.\nاِنْهَضَمَ 7 <i>It</i> (a thing) <i>melted,</i> or <i>dissolved, after being congealed.</i> (JK.) === اِنْهَضَمَتِ الثَّمَرَةُ, and 🡻تَهَضَّمَت, <i>The fruit broke;</i> or <i>became broken,</i> or <i>crushed;</i> syn. تَشَدَّخَتْ; (TA;) and <i>became mellow, so as to be easy of digestion.</i> See also بَوْعٌ === اِنْهَضَمَ, said of food, (MA), <i>It was,</i> or <i>became, digestible,</i> or <i>easy of digestion.</i> (MA, KL.) === اِنْهضَامٌ of the زَوْر [app. <i>Depression</i>]. (K in art. جنف. [There coupled with دُخُولٌ.]) See also صَقَلٌ.\nتَهَضَّمَ 5 see 7.\nهضَمَهُ 1 and : see تَخَوَّفَهُ. === هَضَمَ لَهُ مِنْ مَالِهِ: see خَضَمَ.\nهَاضُومٌ <i>Any medicine</i> [or <i>other thing</i> (see حَاطُومٌ)] <i>that is a digestive of food;</i> as also 🡻هَضُومٌ; (K;) <i>i. q.</i> جَوَارِشٌ. (S.)\nهَضَمٌ <i>Contraction of the sides,</i> (S, K,) <i>and lankness of the belly, and smallness of the flank:</i> (K:) in a horse it is a fault. (S.)\nهَضُومٌ : see هَاضُومٌ."
+}

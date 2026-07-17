@@ -1,0 +1,31 @@
+{
+  "rootId": "r1909",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:51:40.463Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Sea, targeting, dust, intending, direction, or mother",
+  "primaryMeaning": "Sea or to intend/aim",
+  "quranicRelevance": "Deep sea/water body (Yamm - baby Moses or Pharaoh's army, 'fal-taltamisu fee al-yammi'), and intending clean soil for ablution (Tayammum - 'fatayammamoo sa'eedan tayyiban').",
+  "keyDerivations": [
+    {
+      "lemma": "يَمٌّ",
+      "form": "Noun",
+      "meaning": "Sea, open water, river (e.g. Nile), or deep water"
+    },
+    {
+      "lemma": "تَيَمَّمَ",
+      "form": "Form V Verb",
+      "meaning": "To intend, aim at, target, or perform tayammum (aim for soil)"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "أَنِ اقْذِفِيهِ فِي التَّابُوتِ فَاقْذِفِيهِ فِي الْيَمِّ (20:39): Throw him into the chest, then throw him into the river/sea (Yamm representing the Nile)."
+  ],
+  "discardedNoise": [
+    "The right direction (Tayamun) - belonging to y-m-n.",
+    "Pigeons (يمام) - variant meaning/spelling."
+  ],
+  "summaryEn": "The root covers water and intention, representing the Nile water (Yamm) of Moses' rescue, Pharaoh's drowning, and the dry ablution intention (Tayammum).",
+  "summaryAr": "يغطي هذا الجذر اليم (البحر) والقصد، ممثلاً مياه النيل المنقذة لرضيع موسى (اليم)، وغرق فرعون، والتيمم الترابي القاصد للطهور.",
+  "rawText": "الفَرِيضَةُ اليَمِّيَّةُ : see المُشَرَّكَةُ.\nتَيَمَّمَ 5 : see صَعِيدٌ and art. ام. === تَيَمَّمَ يَمَامَةً <i>i. q.</i> قَصَدَ قَصْدًا. (TA in art. ام.)\nيَمَامٌ : see حَمَامٌ.\nيَمَّمَ 2 : see أَمَّمَ. And يَمَّمَ المَرِيضَ and المَيِّتَ: see Mgh in art. أَمَّ."
+}

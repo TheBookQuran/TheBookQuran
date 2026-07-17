@@ -1,0 +1,26 @@
+{
+  "rootId": "r562",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T18:03:45.341Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Gold coins, dinars, currency, gold weight, or material wealth",
+  "primaryMeaning": "Gold coins (Dinar)",
+  "quranicRelevance": "With a dinar (Bideenarin - 'wa-minhum man in ta'manhu bideenarin').",
+  "keyDerivations": [
+    {
+      "lemma": "دِينَارٌ",
+      "form": "Noun",
+      "meaning": "Dinar, gold coin, or traditional weight measurement of gold currency"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَمِنْهُمْ مَنْ إِنْ تَأْمَنْهُ بِدِينَارٍ لَا يُؤَدِّهِ إِلَيْكَ (3:75): And among them is he who, if you entrust him with a dinar/gold coin, he will not return it to you."
+  ],
+  "discardedNoise": [
+    "Tandeer (making fun/joking) - modern Egyptian slang.",
+    "Dinar (currency of modern Iraq/Jordan/Kuwait)."
+  ],
+  "summaryEn": "The root represents gold minted currency (Dinar), cited to expose those untrustworthy individuals who would embezzle even a single gold coin if given the chance.",
+  "summaryAr": "يشير هذا الجذر إلى الدينار وهو العملة الذهبية المضروبة للتعامل قديماً (دنر)، ضارباً المثل بأمانة الناس وتفاوتها في حفظ الذهب والدينار القليل.",
+  "rawText": "تَدَنَّرَ 5 see 2.\nدَنَّرَ 2 , (T, M, K,) inf. n. تَدْنِيرٌ; (K;) and 🡻تدنّر; (A;) ‡ <i>It</i> (a man's face) <i>glistened</i> (T, M, A, K) like a دِينَار. (TA.) === دُنِّرَ <i>He</i> (a man, TA) <i>had many</i> دَنَانِير [pl. of دِينَار]. (K.) === See also the pass. part. n., below.\nدُنَيْنِيرٌ : see the next paragraph.\nدِينَارٌ , an arabicized word, (M, K,) from the Persian [دِينَارْ], (M,) or from دِينْ آرْ, meaning “ the law brought it ” [into being or circulation]: (Er-Rághib:) some say, (TA,) its original is دِنَّارٌ; one of its ن being changed into ى (S, Msb, K,) to render it more easy to be pronounced, (Msb,) or that it may not be confounded with inf. ns., such as كِذَّابٌ; (S, K;) and hence its pl. is دَنَانِيرُ, (M, Msb,) and its dim. 🡻دُنَيْنِيرٌ: (M:) this is the opinion generally obtaining: others say that it is of the measure فِيعَالٌ; but this opinion is contradicted by the absence of the ى in [the second syllable of] the pl.; for were it so, its pl. would be like دَيَامِيسُ, pl. of دِيمَاسٌ: (Msb:) [it is the name of <i>A certain gold coin;</i>] <i>its weight is seventy-one barley-corns and a half, nearly, reckoning the</i> دَانِق <i>as eight grains of wheat and two fifths; but if it be said that the</i> دانق <i>is eight grains of wheat, then the</i> دينار <i>is sixty-eight grains of wheat and four sevenths: it is the same as the</i> مَثْقَال. (Msb.)\nشَرَابٌ دِينَارِىٌّ <i>A kind of wine</i> or <i>beverage,</i> so called in relation to Ibn-Deenár el-Hakeem, or because like the دينار in its redness. (TA.)\nمُدَنَّرٌ , applied to a دِينَار, (M, K,) and to gold, (TA,) <i>Coined.</i> (M, K, TA.) === Also A man <i>having many</i> دَنَانِير [pl. of دِينَار]. (M, K.) === Also ‡ A horse <i>having specks,</i> or <i>small spots, exceeding what are termed</i> بَرَشٌ: (AO, T, S, M, K:) or <i>having black and white spots like</i> دَنَانِير: (Mgh:) or <i>having a spotting</i> ( 🡻تَدْنِير ) <i>of black intermixed with whiteness predominating over blackness:</i> (TA:) and <i>of a white colour predominating over blackness, with a round blackness intermixed with the former colour upon his back and rump:</i> (M:) or <i>of a white hue intermixed with red,</i> (أَصْهَبُ,) <i>marked with round black spots.</i> (A.) === Also ‡ A garment, or piece of cloth, <i>with marks, or figures, like</i> دَنَانِير. (A.)"
+}

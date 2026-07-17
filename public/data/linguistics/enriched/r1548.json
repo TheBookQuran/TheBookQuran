@@ -1,0 +1,37 @@
+{
+  "rootId": "r1548",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:05:27.741Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Provision, utility, enjoyment, or durability",
+  "primaryMeaning": "To enjoy or provide",
+  "quranicRelevance": "Worldly provisions/possessions (Mata'), enjoyment/benefit (Mut'ah), and granting provision ('matta'a').",
+  "keyDerivations": [
+    {
+      "lemma": "مَتَاعٌ / أَمْتِعَةٌ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Provision, goods, utility, or transient enjoyment"
+    },
+    {
+      "lemma": "مَتَّعَ",
+      "form": "Form II Verb",
+      "meaning": "To make to enjoy, provide for, or let enjoy for a while"
+    },
+    {
+      "lemma": "اسْتَمْتَعَ",
+      "form": "Form X Verb",
+      "meaning": "To enjoy, derive benefit, or satisfy desires"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "مَتَاعُ الغُرُورِ: The enjoyment of delusion (describing the transient nature of worldly goods).",
+    "فَمَتِّعُوهُنَّ (33:49): Provide for them (divorced women) an honorable gift."
+  ],
+  "discardedNoise": [
+    "A rope used for binding a load firmly (مَتْع).",
+    "Linguistic details of Mut'ah marriage."
+  ],
+  "summaryEn": "The root represents provision and enjoyment, defining the temporary utility of worldly assets (Mata') and the obligation of providing for divorced women (Matta'a).",
+  "summaryAr": "يمثل هذا الجذر التمتع والمتاع، محدداً المنفعة المؤقتة لسلع الدنيا وزخرفها (متاع)، وحق المتعة للمطلقات (متع).",
+  "rawText": "إِمْتَتَعَ 8 see 5.\nاِسْتَمْتَعَ بِكَذَا 10 , and 🡻تَمَتَّعَ, <i>He benefited</i> or <i>profited by such a thing.</i> (Msb.) === See 5. === مُسْتَمْتُعٌ: see مَلْبَسٌ.\nتَمَتَّعَ بِهِ 5 and 🡻اِسْتَمْتَعَ and 🡻اِمْتَتَعَ are syn., signifying اِنْتَفَعَ بِهِ زَمَانًا طَوِيلًا; (Ham, p.  ;) [<i>He benefited,</i> or <i>profited by it; had the benefit, use,</i> or <i>enjoyment, of it; he enjoyed it;</i> accord. to the above authority, <i>for a long time;</i> but this restriction is not always meant.] You say. اِسْتَمْتَعْتُ بِٱصْطِبَاحِ خَمْرٍ [<i>I enjoyed the drinking a morning-draught of wine</i>]: and بِالإِصْغَآءِ إِلَى أَغَانِى جَارِيَةٍ [<i>the listening to the songs of a girl</i>]. (Mo'allakát, p. 169.) === تَمَتَّعَ <i>He became provided with</i> مَتَاع, <i>or utensils and furniture for the house, or tent.</i> (TA, voce تَبَتَّتَ, q. v.) === تَمَتَّعَ i. q. عَاشَ. (Bd, Jel, xi. 68.) === تَمَتَّعَ بِهِ generally signifies <i>He enjoyed it:</i> (MA:) so in many cases in the Kur, &c.\nمَتَاعٌ <i>Anything useful</i> or <i>advantageous;</i> as <i>goods:</i> such as the <i>utensils and furniture of a house or tent, or household-goods: any utensils,</i> or <i>apparatus: chattels: a commodity,</i> and <i>commodities;</i> (Mgh, &c.;) generally best rendered <i>goods, chattels, household-goods or chattels,</i> or <i>utensils and furniture.</i> === المَتَاعُ [signifies ‡ الفَرْجُ;] <i>a woman's pudendum:</i> (TA:) [see مُتَوَهِّجَةٌ, in art. وهج: and] the <i>penis.</i> (Mgh.) === مَتَاعٌ also applies to <i>Food,</i> the <i>necessaries of life:</i> see two exs. voce حَفَفٌ. === مَتَاعٌ for a divorced wife, <i>A provision of necessaries, such as food and clothing and household-utensils</i> or <i>furniture:</i> see عَرْفٌ, and Bd in ii. 242: <i>i. q.</i> تَمْتِيعٌ. (Bd in ii. 237.) === مَتَاعٌ <i>i. q.</i> مَا يُتَمَتَّعُ بِهِ, and الاِسْتِمْتَاعُ; (Jel in iv. 79;) generally best rendered <i>Enjoyment,</i> in the Kur iv. 79 and ix. 38 and similar cases. See مُتْعَةٌ.\nمَتَعَ النَّهَارُ 1 <i>The day became advanced, the sun being high,</i> (S, K,) <i>before the declining of the sun from the meridian.</i> (K.) . مَتَّعَهُ <i>He</i> (God) <i>made him to live.</i> (Bd in xi. 3.) === See مَلّا. === مَتَّعَهَا <i>He gave her a gift after divorce.</i> (K.) And مَتَّهَا بِكَذَا <i>He gave her</i> (a divorced wife) <i>such a thing.</i> (Msb.)\nمُتْعَةٌ <i>Enjoyment;</i> a subst. in the sense of تَمَتُّعٌ; (S, Msb, K;) syn. نَعْمَةٌ. (Jel, xlvi. 26.) See an ex., in a verse of Lebeed, voce فَرْطٌ. === مُتْعَةٌ <i>A gift to a divorced wife.</i> (Msb, K.) See مَتَاعٌ. === متعة الضُّحَى [i. e. مُتْعَة?] <i>i. q.</i> أَوَّلُهَا. (TA voce فِيقَة, in art. فوق.)"
+}

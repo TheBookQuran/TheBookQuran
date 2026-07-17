@@ -1,0 +1,52 @@
+{
+  "rootId": "r1926",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T00:58:39.998Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Meeting, encountering, receiving, or throwing",
+  "primaryMeaning": "To meet or encounter",
+  "quranicRelevance": "Meeting God (Liqa'), receiving revelation (Talaqqi - 'yulaqqa'), throwing or casting ('alqa'), and encountering.",
+  "keyDerivations": [
+    {
+      "lemma": "لَقِيَ",
+      "form": "Form I Verb",
+      "meaning": "To meet, encounter, or experience"
+    },
+    {
+      "lemma": "أَلْقَى",
+      "form": "Form IV Verb",
+      "meaning": "To throw, cast, deliver, or put forward"
+    },
+    {
+      "lemma": "تَلَقَّى",
+      "form": "Form V Verb",
+      "meaning": "To receive, learn, or take"
+    },
+    {
+      "lemma": "لِقَاءٌ",
+      "form": "Noun",
+      "meaning": "Meeting, encounter, or reunion"
+    },
+    {
+      "lemma": "تَلَاقٍ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Meeting each other (Yawm at-Talaq)"
+    },
+    {
+      "lemma": "لَاقَى",
+      "form": "Form III Verb",
+      "meaning": "To meet, encounter, or face"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "أَلْقَى السَّلَمَ: To offer peace (literally 'to cast peace').",
+    "تَلَقَّى آدَمُ مِنْ رَبِّهِ كَلِمَاتٍ (2:37): Adam received/took words from his Lord."
+  ],
+  "discardedNoise": [
+    "Obscure details on the morphophonemic variations of the letter ya in لقي.",
+    "Dialectal forms relating to high pastures."
+  ],
+  "summaryEn": "The root refers to meeting and receiving, outlining both the encounter of humans with their deeds on the Day of Judgment (Liqa') and the transmission of revelation (Talaqqi).",
+  "summaryAr": "يشير هذا الجذر إلى اللقاء والتلقي، واصفاً لقاء الإنسان بعمله يوم الحساب (لقاء) وتنزيل وتلقي الوحي الإلهي (تلقي).",
+  "rawText": "أَلْقَاهُ 4 <i>He threw it where he would find it.</i> (Er-Rághib.) === And hence, conventionally, <i>He threw it in any way:</i> (Er-Rághib:) <i>he threw it on the ground:</i> (Mgh:) [<i>he put it:</i>] أَلْقَىْتُ انمَتَاعَ عَلَى الدَّابَّةِ <i>I put the goods upon the beast.</i> (Msb.) === أَلْقَتْ وَلَدَهَا <i>She cast her young one,</i> or <i>her young.</i> === أَلْقَى also signifies <i>He let fall</i> a thing, a curtain, &c. === أَلْقَيْتُ إِلَيْهِ خَيْرًا † <i>I did good to him.</i> (TA.) And أَلْقَيْتُ إِلَيْهِ المُوَدَّةَ and بَالمَوَدَّةِ † [<i>I offered</i> or <i>tendered to him,</i> or <i>gave</i> or <i>granted him, love,</i> or <i>affection</i>]. (TA.) === أَلْقَى عَلَيْهِ رَخَمَتَهُ † [<i>He made his love,</i> &c., <i>to fall,</i> or <i>light, upon him,</i> i. e. <i>he bestowed it upon him</i>]. (K, TA in art. رخم. [See this and three similar exs. voce رَخَمٌ.]) === أَلْقَى إِلَيْهِ السَّلَامَ <i>He offered to him salutation,</i> or <i>submission:</i> see سِلْمٌ. === شَرَبَ مَا أُلْقِىَ إِلَيْهِ: see art. شرب. === أَلْقَيْتُ إِلَيْهِ القَوْلَ and بَالقَوْلِ <i>I told,</i> or <i>communicated, to him the saying.</i> (Msb.) === أَلْقى عَلَيْهِ شَرَاشِرَهُ: see art. شر. === أَلْقَاهُ عَلَيْهِ <i>He put it into his mind; he suggested it:</i> القاه [thus used] is said of God and of the Devil. (Kull, p. 277, in explanation of الفيض. [See 1 in art. فَيْضُ, last sentence but one.]) === [And] <i>He dictated it;</i> (Msb;) namely, a writing to the writer. (Msb, in art. مل.) === أَلْقَى إِلَىَّ سِرَّهُ [<i>He revealed to me his secret</i>]. (TA, art. سر.) === لَا أُلْقِى إِلَيْهِ بَالًا: see art. بول. === أَلْقَى بِنَفْسِهِ, said of night (اللَّيْلُ): see رَبَضَ. === أَلْقَى إِلَيْهِ كَلَامًا <i>He addressed to him speech.</i>\nاِسْتَلْقَى 10 <i>He lay,</i> syn. نَامَ, (K,) upon the back of his neck. (JK, S, K.) And <i>It</i> (any. thing) <i>was</i> [or <i>lay</i>] <i>as though thrown down</i> or <i>extended.</i> (T, JK, TA.)\nاِلْتَقَى مَسْلَكَاهَا 8 [<i>Her vagina and rectum met together in one,</i> by the rending of the part between,] on the occasion of devirgination. (M, in art. اتم.)\nبَيْعُ إِلْقَآءِ الحَجَرِ : see نَابَذَهُ, and art. لمس.\nتَلَقَّاهُ مِنْهُ 5 <i>He received it from him.</i> (TA.) === تَلَقَّى <i>i. q.</i> تَلَقَّنَ. (Bd in l. 16.)\nلَاقَاهُ 3 [<i>He met him face to face; had an interview with him;</i>] <i>i. q.</i> قَابَلَهُ. (TA.) See 1. === لَاقَى <i>He experienced</i> pain &c. See an ex. voce دَبِرٌ; and voce آلٌ: like لَقِىَ, voce آلٌ. === لَاقَى بَيْنَ طَرَفَى إِزَارِهِ وَشَدَّهُ [<i>He made the two ends of his</i> ازار <i>to meet, and tied it</i>]. (A, art. حجز.)\nلَقًى <i>Muscles</i> of the flesh. (TA, art. ضيج.) === لَقًى بَقًى: see بَقَاقٌ.\nلَقِيَهُ 1 <i>He met him,</i> or <i>it.</i> (Msb.) === And <i>He</i> [<i>met with,</i> or] <i>found him,</i> or <i>it.</i> (Msb.) You say, تَلْقاهُمٌ أُسْدًا [<i>Thou will find them lions</i>]. (Mughnee, voce إِنَّ.) See also لِقَآءٌ. === لَقِيتُهُ and 🡻لَاقَيْتُهُ <i>I came near to him, facing him: came to face his face. near to him</i> (Ksh, in ii. 13.) === لَقِيَهُ بِمَكْرُوهِ (K in art. حبه, &c.) <i>He</i> [<i>encountered with him,</i> or <i>said to him,</i> or <i>did to him, a thing disliked,</i> or <i>hated:</i> (TK in art. جبه:) like استقبلهُ بِمَا يَكْرَهُ.\nلَقَّاهُ شَرًّا 2 [<i>He made him to experience evil treatment</i>]. (TA in art. جدع, voce جَدَّعَ.) See below; and see مُلَقًّى. === يُلَقَّوْنَ تَحِيَّةً <i>They shall be greeted with prayer for length of life,</i> or <i>everlasting existence.</i> (Bd in xxv. 75.)\nلِقَآءٌ The <i>facing</i> a thing. [<i>encountering it:</i>] and <i>meeting</i> it, <i>meeting with</i> it, or <i>finding</i> it: and <i>perceiving</i> it <i>by the sense,</i> and <i>by the sight.</i> (Er-Rághib, TA.) === لِقَآءٌ: its predominant application is <i>Encounter,</i> i. e. <i>conflict, fight, battle,</i> or <i>war.</i> (Mgh.) === يَوْمُ اللِّقَآءِ <i>The day of encounter</i> in fight &c.\nمَلَاقِى الفَزْجِ [pl. of مَلْقًى,] <i>The narrow,</i> or <i>strait, parts of the pudendum muliebre.</i> (TA in art. لحم.) === ٱلْمَلَاقِى <i>The horizontal slabs in which is the aperture in a privy.</i>\nمُلَقًّى <i>Greeted:</i> see بُلَهْنِيَةٌ, in art. بله.\nوَجَدْتُ هٰذَا من تِلْقَآءِكَ <i>I experienced this from thee,</i> or <i>on thy part;</i> syn. مِنْ جِهَتِكَ and مِنْ قِبَلِكَ. (Mgh in art. قبل.) هٰذَا الأَمْرُ مِنْ تِلْقَائِهِ <i>This thing,</i> or <i>affair, is from him;</i> syn. مِنْ عِنْدِهِ; as also مِنْ قِبَلِهِ and مِنْ لَدُنْهُ. (Lth, in TA in art. قبل.) === تَلْقَآءَ <i>In the direction that meets</i> or <i>faces.</i> (El-Khafájee, TA.) You say, تَوَجَّهَ تِلْقَآءَ فُلَانٍ [<i>He went towards such a one</i>], and تِلْقَآءَ النَّارِ [<i>in the direction of,</i> or <i>towards, the fire</i>]. (K.) And جلست تِلْقَآءَهُ <i>I sat over against him,</i> or <i>opposite to him.</i> (S.) And وَقَفَ تِلْقَآءَ البَيْتِ <i>He stopped facing the house.</i> (Msb.) === تِلْقَآءُ القِبْلَةِ [<i>The direction of the Kibleh</i>]. (M, K, voce إِمْامٌ.) ___ See بَيَّنَهُ."
+}

@@ -1,0 +1,37 @@
+{
+  "rootId": "r1431",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:00:21.796Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Suppressing anger, choking, silence, locking gate, or throat-block",
+  "primaryMeaning": "Suppressing (anger/grief)",
+  "quranicRelevance": "Suppressing anger (Kazimeen - 'wal-kathimeena al-ghaytha'), choked with silent grief (Kazeem - 'wahuwa katheem'), and Jonah choked/distressed ('wahuwa makthoom').",
+  "keyDerivations": [
+    {
+      "lemma": "كَظَمَ / يَكْظُمُ",
+      "form": "Form I Verb",
+      "meaning": "To suppress, choke back, lock up, keep silent, or swallow anger"
+    },
+    {
+      "lemma": "كَظِيمٌ",
+      "form": "Adjective",
+      "meaning": "Choked with silent grief, suppressed, sorrowful, or melancholy"
+    },
+    {
+      "lemma": "مَكْظُومٌ",
+      "form": "Adjective / Passive part.",
+      "meaning": "Suppressed, choked, distressed, or confined in sorrow"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "الْكَاظِمِينَ الْغَيْظَ (3:134): Those who suppress/swallow their anger (high moral self-control).",
+    "إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ (68:48): When he (Jonah inside the whale) called out while he was choked/distressed."
+  ],
+  "discardedNoise": [
+    "Modern water bottles or thermal flasks (Katham) - derived modern usage.",
+    "Obscure details of camel throat valves."
+  ],
+  "summaryEn": "The root represents swallowing/choking, contrasting the social virtue of swallowing anger (Kadhimeen) with the physical choking of Jonah inside the whale.",
+  "summaryAr": "يمثل هذا الجذر كتمان الغيظ وخناق الحزن، مادحاً كظم الغضب في المعاملات الاجتماعية، ومصوّراً خناق يونس في بطن الحوت (مكظوم).",
+  "rawText": "كَظَائِمُ [pl. of كِظَامَةٌ] <i>Subterranean conduits for water.</i> (TA in art. قنو.)\nكَظَمَ غَيْظَهُ 1 <i>He repressed,</i> or <i>restrained, his wrath,</i> or <i>rage.</i> (K.) === كَظَمَ, aor. ﹻ, inf. n. كَظْمٌ, <i>He restrained himself.</i> (TA.) === مَا يَكْظِمُ عَلَى جِرَّةٍ; and لَا يَكْظِمٌ عَلَى جِرَّتِهِ: see جِرَّةٌ. === كَظَمَ عَلَى غَيْظِهِ <i>i. q.</i> كَظَمَ غَيْظَهُ. (TA.)"
+}

@@ -1,0 +1,31 @@
+{
+  "rootId": "r1522",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:07:33.756Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Minor sins, gathering, crowd, madness, collection, or light touch",
+  "primaryMeaning": "Minor sins or gathering/sweeping",
+  "quranicRelevance": "Avoiding major sins except minor slips (Lamam - 'illa al-lamama'), and devouring wealth sweeping-ly (Lamman - 'aklan lamman').",
+  "keyDerivations": [
+    {
+      "lemma": "لَمَمٌ",
+      "form": "Noun (coll.)",
+      "meaning": "Minor sins, passing thoughts/slips, small faults, or light touch of sin"
+    },
+    {
+      "lemma": "لَمٌّ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Gathering, sweeping, collecting, devouring fully, or wholesale"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "الَّذِينَ يَجْتَنِبُونَ كَبَائِرَ الْإِثْمِ وَالْفَوَاحِشَ إِلَّا اللَّمَمَ (53:32): Those who avoid the major sins and immoralities, only committing minor/passing slips (divine mercy for human weakness)."
+  ],
+  "discardedNoise": [
+    "Madness (Lamam) of Jinn in historical folklore.",
+    "Gathering hair in a bundle (Lammah)."
+  ],
+  "summaryEn": "The root represents collecting and minor slips, encompassing the sweeping devouring (Lamm) of inheritance and the small, minor faults (Lamam) forgiven by divine mercy.",
+  "summaryAr": "يمثل هذا الجذر الجمع واللم ولمس المعصية الخفيفة، جامعاً بين جمع ونهب التراث والميراث بهلع (أكلاً لَمّاً)، وصغائر الذنوب المعفو عنها (إلا اللمم).",
+  "rawText": "أَلَمَّ بِالقَوْمِ 4 <i>He came to the people, and alighted at their abode as a guest.</i> (Msb.) See أَطَافَ. === And hence, أَلَمَّ بِالمَعْنَى † <i>He knew the meaning.</i> (Msb.) === And أَلَمَّ بَالذَّنْبِ † <i>He committed the sin,</i> or <i>offence.</i> (Msb.) === And أَلَمَّ <i>He,</i> or <i>it, visited covertly;</i> (Ham, p. 23;) or <i>in a light, slight,</i> or <i>hasty manner.</i> (Idem, pp. 385 and 815.) <i>It became near.</i> (Msb.) === <i>It happened.</i> (Ham, p. 385.) === أَلَمَّ بِهِ <i>He came to him.</i> (Ham, p. 127.) === <i>I. q.</i> زَارَهُ غِبًّا; as also أَلَمَّ عَلَيْهِ. (TA.)\nاِلْتَمَّ 8 <i>It was collected, accumulated.</i> === التمّوا <i>They collected themselves; congregated.</i>\nلَمَمٌ <i>A slight insanity</i> or <i>diabolical possession;</i> (Mgh, Msb:) <i>a slight taint</i> or <i>infection of insanity.</i> See طَيْفٌ.\nلَمَّ ٱللّٰهُ شَعَثَهُ 1 <i>God rectified,</i> or <i>repaired, and consolidated, what was disorganized, disordered,</i> or <i>unsettled, of his affairs.</i> (S.)\nلَمَّةٌ <i>A touch,</i> or <i>somewhat</i> [<i>of a taint</i> or <i>an infection of insanity</i>], from the jinn. (S, K.) See لَمَمٌ.\nلَمَّمَ 2 <i>He made a</i> لِمَّة <i>of his hair.</i> (Z, TA in art. جم.)\nلَمْ with an aor. following it is often to be rendered in English by the preterperfect: ex., لَمْ أَرَهُ مُذُ يَوْمَانِ <i>I have not seen him for two days.</i> === لَمْ يَضْرِبْ <i>He did not beat.</i> (S, &c.) See also لَمَّا. === أَلَمْ: see the latter half of art. أَلَا; and the former part of art. أَمَا. === لَمَّا as a particle of exception [is equivalent to our <i>But;</i> meaning both <i>except</i> and, after an oath or the like, <i>only,</i> or <i>nothing more than;</i> and] is put before a nominal proposition; as, إِنْ كُلُّ نَفْسٍ لَمَّا عَلَيْهَا حَافِظٌ [<i>There is not any soul but over it is a guardian,</i> (Kur lxxxvi. 4,)] accord. to those who pronounce the م with teshdeed: and before a verb which is literally, but not in meaning, a preterite; as in أَنْشُدُكَ ٱللّٰهَ لَمَّا فعَلْتَ [<i>I conjure,</i> or <i>beg,</i> or <i>beseech, thee by God but that thou do</i> such a thing], i. e. مَا أَسْأَلُكَ إَلَّا فِعْلَكَ [<i>I do not ask of thee anything save thy doing such a thing</i>]. (Mughnee.) See its syn. إِلَّا. In the Kur xxxviii. 13, accord. to one reading, it occurs before a verb which is a preterite literally and in meaning. === لَمَّا, accord. to Ibn-Málik, is <i>syn. with</i> إِذْ: [and sometimes, like إِذْ, it means <i>Since,</i> or <i>because:</i>] one may say, لَمَّا أَكْرَمْتَنِى أَمْسِ أَكْرَمْتُكَ اليَوْمَ: but this is said to mean لَهَّا ثَبَتَ اليَوْمَ إِكْرَامُكَ لِى أَمْسِ أَكْرَمْتُكَ. (Mughnee.) See also an ex. voce رَزَقَ. === لَمَّا يَضْرِبْ <i>He has not yet beaten.</i> (S, &c.) See also لَمْ.\nلِمَّةٌ <i>Hair that descends below the lobe of the ear.</i> (S, K.) But see وَفْرَةٌ: and see a tropical use of it in a verse of Kumeyt cited in art. حف, p. 597 <i>c.</i>\nمُلَمَّمٌ A boy <i>having a</i> لِمَّة. (IDrd, TA, voce مُجَمَّمٌ.)\nمُلِمَّةٌ <i>A misfortune that befalls in the present world.</i> (S.) See an ex. in a verse cited voce حَجَا.\nمِلَمٌّ : see مِثَمٌّ."
+}

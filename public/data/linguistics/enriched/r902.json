@@ -1,0 +1,31 @@
+{
+  "rootId": "r902",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T18:07:39.528Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Quarrelsome, bad-tempered, discordant, at variance, stubbornness, or incompatibility",
+  "primaryMeaning": "Quarrelsome/at variance (Mutashakis)",
+  "quranicRelevance": "Quarrelsome/at variance (Mutashakisoona - 'shuraka'u mutashakisoona').",
+  "keyDerivations": [
+    {
+      "lemma": "شَكِسَ / يَشْكَسُ",
+      "form": "Form I Verb",
+      "meaning": "To be quarrelsome, bad-tempered, discordant, or stubborn"
+    },
+    {
+      "lemma": "مُتَشَاكِسٌ",
+      "form": "Participle (Form VI)",
+      "meaning": "Quarrelsome with one another, at variance, discordant, or incompatible"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "ضَرَبَ اللَّهُ مَثَلًا رَجُلًا فِيهِ شُرَكَاءُ مُتَشَاكِسُونَ وَرَجُلًا سَلَمًا لِرَجُلٍ (39:29): God presents an example: a man (slave) owned by partners quarreling/at variance with one another, and a man belonging exclusively to one man..."
+  ],
+  "discardedNoise": [
+    "Shaks (person/individual) - spelling mismatch Sh-Kh-S'.",
+    "Shakasa (difficulty of behavior)."
+  ],
+  "summaryEn": "The root represents incompatibility, friction, or being quarrelsome (Shaks), presenting a parable that contrasts the psychological distress of serving multiple disagreeing masters (polytheism) with serving a single master (monotheism).",
+  "summaryAr": "يمثل هذا الجذر عسر الخلق والخشونة والخصومة والمنازعة والتخالف والشركاء المتخاصمين (شكس)، مقارناً تعب المشرك بتشتت العبودية لشركاء متشاكسين.",
+  "rawText": "تشاكسوا 6 <i>They treated,</i> or <i>behaved towards, one another with hardness, harshness,</i> or <i>illnature;</i> or <i>disagreed, one with another;</i> in buying or selling: (IDrd, O, TA:) or <i>they treated,</i> or <i>behaved towards, one another with contrariety,</i> or <i>opposition.</i> (K, * TA.) [Hence,] اللَّيْلُ وَالنَّهَارُ يَتَشَاكَسَانِ ‡ <i>The night and the day are opposed to each other:</i> (TA:) or <i>alternate.</i> (Az, A, O, TA.)\nشاكسهُ 3 <i>He treated him,</i> or <i>behaved towards him, with hardness, harshness,</i> or <i>illnature.</i> (O, K.)\nشَكُسٌ : see the next following paragraph.\nشَكِسٌ , (Fr, S, Msb, K,) or 🡻شَكْسٌ, (S,) and 🡻شَكُسٌ, (K,) the first agreeable with analogy, (S,) A man (S) <i>refractory, untractable, perverse, stubborn,</i> or <i>obstinate, in disposition:</i> (S, K:) or <i>hard in disposition,</i> or <i>illnatured:</i> (TA:) or <i>evil in disposition,</i> or <i>illnatured, and very perverse</i> or <i>cross</i> or <i>repugnant and averse;</i> syn. شَرِسٌ: (Msb:) and 🡻شِكْسٌ and 🡻مِشْكَسٌ are likewise epithets applied [in the same sense, but the latter having an intensive signification,] to a man: (IAar, TA:) pl. شُكْسٌ; (S, K;) a pl. of the first or third; (K;) or of the second, like as صُدْقٌ is pl. of صَدْقٌ. (S.) === Also the first, ‡ <i>Niggardly; tenacious; avaricious.</i> (K.)\nشَكِسَ 1 , (T, S, Msb, TA,) aor. ﹷ, inf. n. شَكَسٌ (T, Msb, TA) and شَكَاسَةٌ; (T, S, Msb, TA;) or شَكُسَ, aor. ﹹ, (O, K, TA,) inf. n. شَكَاسَةٌ; (O;) <i>He was,</i> or <i>became, refractory, untractable, perverse, stubborn,</i> or <i>obstinate, in disposition:</i> (S, O, K:) or <i>hard in disposition,</i> or <i>illnatured, in behaviour</i> or <i>dealing:</i> (TA:)or <i>evil in disposition,</i> or <i>illnatured, and very perverse</i> or <i>cross</i> or <i>repugnant and averse;</i> syn. شَرِسَ. (Msb, TA. *)\nشَكْسٌ : see شَكِسٌ. === مَحَلَّةٌ شَكْسٌ † <i>A strait place of alighting</i> or <i>abode.</i> (TA.) ___ الشَّكْسُ <i>A day,</i> or <i>two days, before the new moon; i. q.</i> المُحَاقُ. (AA, O, K.)\nشِكْسٌ : see the next following paragraph.\nمُتَشَاكِسُونَ (Kur xxxix. 30) <i>Disagreeing, one with another;</i> (A, * K, * TA;) <i>and behaving with hardness, harshness,</i> or <i>illnature:</i> (A:) or <i>disputing,</i> or <i>contending, together.</i> (TA.) [See the verb, 6.]\nمِشْكَسٌ : see the next preceding paragraph."
+}

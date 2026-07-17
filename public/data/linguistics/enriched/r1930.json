@@ -1,0 +1,31 @@
+{
+  "rootId": "r1930",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:00:21.796Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Light, illumination, glow, brightness, or flash",
+  "primaryMeaning": "Light/glow",
+  "quranicRelevance": "Sun as a glowing light (Dhiya' - 'huwa allathee ja'ala ash-shamsa dhiya'an'), and fire illuminating surroundings ('falamma adha'at').",
+  "keyDerivations": [
+    {
+      "lemma": "ضِيَاءٌ",
+      "form": "Noun",
+      "meaning": "Light, bright glow, solar illumination, or radiant energy"
+    },
+    {
+      "lemma": "أَضَاءَ / يُضِيءُ",
+      "form": "Form IV Verb",
+      "meaning": "To illuminate, light up, glow, shine, or yield light"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "مَثَلُهُمْ كَمَثَلِ الَّذِي اسْتَوْقَدَ نَارًا فَلَمَّا أَضَاءَتْ مَا حَوْلَهُ ذَهَبَ اللَّهُ بِنُورِهِمْ (2:17): Like the one who kindled a fire, then when it illuminated what was around him, God took away their light (the state of the hypocrites)."
+  ],
+  "discardedNoise": [
+    "Light pollution indexes in modern ecology.",
+    "Scientific details of photon dispersion."
+  ],
+  "summaryEn": "The root denotes bright, glowing light (Dhiya'), contrasting the sun's intense heat/light with the moon's cool light, and detailing the hypocrites' lost fire glow.",
+  "summaryAr": "يدل هذا الجذر على النور الذاتي الساطع (ضياء)، مفرقاً بين ضياء الشمس ذي الحرارة ونور القمر البارد، وواصفاً انطفاء نار المنافقين المستوقدة.",
+  "rawText": "اضآء 4 , (M, Msb, K,) said of a thing, (M,) [as, for instance,] of the moon, (Msb,) or اضآءت, said of fire (النَّار,), (A 'Obeyd, S, O,) inf. n. إِضَآءٌ; (Msb;) and 🡻ضَآءَ, (M, Msb, K,) or ضَآءَت, (S, O,) aor. يَضُوْءُ, (M,) or تَضُوْءُ, (S,) inf. n. ضَوْءٌ (S, M, O, Msb, K) and ضُوْءٌ, (S, O, K,) or the latter is a simple subst.; (Msb;) but the former verb is preferred; (TA;) <i>It gave light, was light</i> or <i>bright, shone,</i> or <i>shone brightly.</i> (Msb, K, * TA.) [See also an ex. of ↓ the latter verb in a verse cited voce أُفُقٌ; and cited here in the TA.] And أَضَأْتُ لَهُ [<i>I gave light to him</i>]. (M.) ___ The former verb is also trans.: you say, أَضَآءَتْهُ النَّارُ [<i>The fire made it to be light</i> or <i>bright, to shine,</i> or <i>to shine brightly</i>]: (S, O:) and أَضَأْتُهُ and 🡻ضَوَّأْتُهُ [<i>I made it to give light, to be light</i> or <i>bright, to shine,</i> or <i>to shine brightly</i>]: (M, Msb, * K:) and أَضَأْتُ بِهِ البَيْتَ and 🡻ضَوَّأْتُهُبِهِ [<i>I lighted,</i> or <i>illumined, with it</i> (i. e. with a lamp or the like) <i>the house,</i> or <i>chamber,</i> or <i>tent</i>]. (M.) === [Hence,] اضآء بِبَوْلِهِ ‡ <i>He ejected his urine</i> [so as to make its drops to glisten]; or <i>emitted it and then stopped it;</i> syn. حَذَفَ بِهِ; (K, TA;) or خَذَفَ بِهِ; (so in a copy of the M, as on the authority of Kr;) or, as in the A, أَذْرَعَ بِهِ. (TA.) === And they said مَا أَضْوَأَهُ [<i>How light,</i> or <i>bright, is it!</i>]. (S voce أَظْلَمَ [q. v.].) === And اضآء signifies also أَصَابَ ضَوْءًا [<i>He saw</i> (lit. <i>lighted on,</i> or <i>found,</i>) <i>light,</i> or <i>brightness</i>]. (T voce أَظْلَمَ [q. v.])\nاِسْتَضَأُتُ بِهِ 10 [<i>I sought to obtain light by means of it; I made use of it for light</i>]. (M, K.) لَا تَسْتَضِيؤُوا بِنَارِ أَهْلِ الشِّرْكِ [lit. <i>Seek not ye to obtain light by means of the fire of the people of belief in a plurality of gods</i>], (O, K,) a saying of the Prophet, (O,) means ‡ <i>seek not ye counsel,</i> or <i>advice, of the believers in a plurality of gods, in affairs:</i> (O, K:) because he whose affair is confused and dubious to him is as though he were in darkness. (O.)\nتضوّأ 5 <i>He stood in the dark to see people by the light of their fire,</i> (AZ, K, TA,) <i>without their seeing him.</i> (AZ, TA.) And تضوّا ٱمْرَأَةً [<i>He stood in the dark to see a woman by the light of her fire, without her seeing him</i>]. (TA.)\nضَوَّاَ 2 see the next paragraph, in two places. === One says also, ضَوَّأْتُ عَنْهُ [meaning <i>I brought to light, made visible, discovered,</i> or <i>revealed, him,</i> or <i>it</i>]. (M, TA.) A sheep, or goat, belonging to an Arab of the desert strayed; whereupon he said, اَللّٰهُمَّ ضَوِّئْ عَنْهُ [<i>O God, bring it to light,</i> or <i>discover it</i>]. (A, TA.) ___ Accord. to Lth, but he is the only authority for it known by AM, (TA,) ضَوَّأَ عَنِ الأَمْرِ, inf. n. تَضْوِئَةٌ, means <i>He declined,</i> or <i>turned away, from the affair.</i> (K, TA.)\nضَوْءٌ and 🡻ضُوْءٌ and 🡻ضِيَآءٌ (S, M, O, K) and 🡻ضِوَآءٌ, (M, K,) the last of which is [erroneously] written in the L ضَوَآءٌ, (TA,) signify the same, (S, M, O, K,) i. e. <i>Light,</i> syn. نُورٌ, (K, TA,) accord. to the leading lexicologists; but see what follows: (TA:) and ضَوْءٌ is an inf. n. of ضَآءَ, (S, M, O, Msb, K,) and so is 🡻ضُوْءٌ, (S, O, K,) or this is a simple subst. from ضَآءَ, and so is 🡻ضِيَآءٌ, which is also, sometimes, written 🡻ضِئَآءٌ, from أَضَآءَ as syn. with ضَآءَ: (Msb:) the pl. of ضَوْءٌ (M, TA) and 🡻ضُوْءٌ (M) is أَضْوَآءٌ; and 🡻ضِيَآءٌ is sometimes a pl., (M, TA,) as Zj states it to be: (TA:) some say that ضَوْءٌ has a more intensive signification than نُورٌ, and that hence God has likened his direction [the Kur-án] to النُّور rather than to الضَّوْء; because if it were otherwise, no one had erred: and that hence, also, [in the Kur x. 5,] the sun is termed 🡻ضِيَآء; and the moon, نُورٌ: it is also said that ضَوْءٌ signifies the <i>rays that are diffused by what is termed</i> نُورٌ: the kádee Zekereeyà affirms that these two words are syn. by their original application, but that ضَوْءٌ is more forcible accord. to usage: and some say that الضَّوْءُ signifies <i>that</i> [<i>light</i>] <i>which subsists by itself,</i> as [that of] the sun, and fire; and النُّورُ, to that which subsists by some other thing [as does the light of the moon]. (MF, TA.)\nضَوڤاَ 1 see 4, in two places.\nضُوْءٌ : see the next preceding paragraph, in three places.\nضِوَآءٌ : see ضَوْءٌ.\nضِيَآءٌ and ضِئَآءٌ: see ضَوْءٌ, in five places."
+}

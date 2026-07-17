@@ -1,0 +1,26 @@
+{
+  "rootId": "r1830",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:21:37.831Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Raindrops, rain showers, intimacy, closeness, or flash",
+  "primaryMeaning": "Raindrops/showers",
+  "quranicRelevance": "Raindrops emerging from clouds (Wadq - 'yakhruju min khilalihi').",
+  "keyDerivations": [
+    {
+      "lemma": "وَدْقٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Raindrops, rain showers, heavy precipitation, or water drops"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "أَلَمْ تَرَ أَنَّ اللَّهَ يُزْجِي سَحَابًا ... فَتَرَى الْوَدْقَ يَخْرُجُ مِنْ خِلَالِهِ (24:43): Do you not see that God drives clouds... then you see the raindrops/showers emerging from their midst?"
+  ],
+  "discardedNoise": [
+    "Friendly intimacy (Wadd) - distinct root (w-d-d).",
+    "Flash of weapons in battle."
+  ],
+  "summaryEn": "The root represents falling raindrops (Wadq), detailing the physics of clouds and the visual beauty of rain showers emerging from cloud formations.",
+  "summaryAr": "يمثل هذا الجذر قطرات المطر المتساقطة المتتابعة من السحاب (ودق)، واصفاً تفجر قطرات المطر الغزيرة من خلال طبقات السحاب المتراكمة.",
+  "rawText": "مُتَوَدِّقٌ : occurring in the TA, art. قهب; from الوَدْقُ, meaning <i>Violent rain.</i> (MF.)\nوَدِيقٌ : see 10 in art. قرأ.\nوَدْقٌ <i>Rain,</i> (S, K, TA,) whether <i>violent</i> or <i>gentle:</i> (TA:) or <i>violent rain.</i> (MF in art. قهب.)"
+}

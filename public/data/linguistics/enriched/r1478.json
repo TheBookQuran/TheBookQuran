@@ -1,0 +1,31 @@
+{
+  "rootId": "r1478",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:16:02.189Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Remaining, tarrying, staying, or hesitation",
+  "primaryMeaning": "To stay or tarry",
+  "quranicRelevance": "Staying/dwelling in a place (Labth - 'labithtu sanatan'), tarrying in the grave, and hesitation.",
+  "keyDerivations": [
+    {
+      "lemma": "لَبِثَ",
+      "form": "Form I Verb",
+      "meaning": "To stay, remain, tarry, linger, or dwell"
+    },
+    {
+      "lemma": "لَبْثٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Staying, remaining, or tarrying"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ (2:259): I remained/tarried a day or part of a day (perceptual time in death/sleep)."
+  ],
+  "discardedNoise": [
+    "Dwellings built of mud.",
+    "Obscure details on camels staying at water pools."
+  ],
+  "summaryEn": "The root refers to staying and tarrying, primarily describing the passage and perception of time spent in sleep, graves, or temporary states.",
+  "summaryAr": "يشير هذا الجذر إلى المكث واللبث، واصفاً إدراك العباد لمرور الزمان في القبور أو النوم والبيات.",
+  "rawText": "استلبثهُ 10 <i>He deemed him,</i> or <i>it, slow,</i> or <i>tardy.</i> (K, TA.)\nالبثهُ 4 ; and 🡻لبّثهُ, inf. n. تَلْبِيثٌ; <i>He made him to tarry; to tarry and wait,</i> or <i>expect; to be patient, and tarry, and wait,</i> or <i>expect.</i> (S, K.)\nتَلَبَّثَ 5 see 1.\nخَبِيثٌ لَبِيثٌ نَبِيثٌ are said conjointly: so in the K: or نَجِيثٌ لَبِيثٌ: so in the L. (TA.)\nلَابِثٌ and 🡻لَبِثٌ <i>Tarrying; tarrying and waiting,</i> or <i>expecting; being patient, and tarrying, and waiting,</i> or <i>expecting:</i> (S, K:) the former word is the more approved. (Fr.)\nلَبَاثٌ : see لُبْثٌ === فَرَسٌ لَبَاثٌ <i>A slow horse:</i> so in some copies of the K: but correctly, قَوْسٌ لَبَاثٌ, as in the L, <i>a slow bow,</i> accord. to AHn. (TA.)\nلَبِثٌ : see لَابِثٌ. === <i>Slow; tardy; late.</i> (Fr.)\nلَبِثَ 1 , aor. ﹷ, inf. n. لَبْثٌ (which is contr. to analogy, because the inf. n. of an intrans. v. of the measure فَعِلَ is, accord. to rule, of the measure فَعَلٌ, S,) and لَبَيثٌ (agreeably with analogy, occurring in a verse of Jereer, S,) and لَبَاثٌ (S, K) and لُبْثٌ (which is the first form given by ISd) TA, [and the most common,]) and لُبَاثٌ and لَبَاثَةٌ and لَبِيثَةٌ, (K,) which are all contr. to analogy, (TA,) and لُبْثَانٌ, (ISd,) [this last, which is also contr. to analogy, is said in the TA, to be like سحبان, but this I suppose to be a mistake for سُبْحَان,] or لُبْثٌ and لَبَاثٌ are substs., (Msb,) <i>He tarried; paused; tarried and waited</i> or <i>expected; was patient, and tarried and waited</i> or <i>expected:</i> (S, K:) <i>he tarried; remained; stayed; stopped; paused;</i> (ISd, Msb;) as also 🡻تلبّث; (Msb;) بِمَكَانٍ <i>in a place:</i> (ISd, Msb:) or 🡻تلبّث signifies <i>he waited;</i> or <i>paused;</i> syn. تَوَقَّفَ (K) === مالَبِثَ أَنْ فَعَلَ كَذَا وَكَذَا <i>He delayed not,</i> or <i>was not slow, to do,</i> or <i>in doing, such and such things.</i> (TA, and the other lexicons passim. === اِلْبَثْ عَنْ فُلَانٍ <i>Wait for such a one, and leave him, until thy doing so shall manifest the error of his judgement,</i> or <i>opinion.</i> (A.)\nلَبِيثَةٌ مِنَ النَّاسِ <i>A company,</i> or <i>an assembly, of people of different tribes;</i> (K;) [as also لَوِيثَةٌ].\nلَبَّثَ 2 see 4.\nلَبْثَةٌ <i>A single act of tarrying, staying,</i> or <i>stopping.</i> (Msb.)\nلُبْثٌ and 🡻لَبَاثٌ (Msb) <i>A tarrying; a staying; a stopping:</i> (Msb:) and 🡻لُبْثَةٌ <i>a loitering; tarrying; staying; waiting; pausing in expectation.</i> (K.) === هُوَ قَلِيلُ اللَّبَاثِ, and 🡻اللُّبْثَةِ, [<i>He tarries,</i> or <i>stays, little</i>]. (A.) === اَلماءُ إِذَا طَالَ لُبْثُهُ ظَهَرَ خُبْثُهُ [<i>When water remains long stagnant, its corruptness,</i> or <i>impurity,</i> or <i>foulness, becomes apparent</i>]. (A.)\nلُبْثَةٌ : see لُبْثٌ.\nلِبْثَةٌ <i>A mode,</i> or <i>manner, of tarrying, staying,</i> or <i>stopping.</i> (Msb.)"
+}

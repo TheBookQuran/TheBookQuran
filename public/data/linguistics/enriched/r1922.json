@@ -1,0 +1,52 @@
+{
+  "rootId": "r1922",
+  "source": "lanes",
+  "enrichedAt": "2026-06-29T23:36:19.920Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Guiding, presenting a gift, or showing the path",
+  "primaryMeaning": "To guide or direct to the path",
+  "quranicRelevance": "Central concept of divine guidance (Huda). It refers to God guiding humanity to truth, the prophets as guides, the Quran as a book of guidance, and also describes the sacrificial gift/offering (Hady) sent to the Sacred House.",
+  "keyDerivations": [
+    {
+      "lemma": "هُدًى",
+      "form": "Noun",
+      "meaning": "Guidance, direction, or truth"
+    },
+    {
+      "lemma": "هَدَى",
+      "form": "Form I Verb",
+      "meaning": "To guide, direct, or show the way"
+    },
+    {
+      "lemma": "هَادٍ",
+      "form": "Noun / Active part.",
+      "meaning": "Guide, leader, or director"
+    },
+    {
+      "lemma": "هَدِيَّةٌ",
+      "form": "Noun",
+      "meaning": "A gift, present, or offering"
+    },
+    {
+      "lemma": "هَدْيٌ",
+      "form": "Noun",
+      "meaning": "Sacrificial animals offered at the Kaaba"
+    },
+    {
+      "lemma": "اهْتَدَى",
+      "form": "Form VIII Verb",
+      "meaning": "To be guided, find the way, or accept guidance"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "هَادِيَةٌ: The leading parts of a herd, or the neck of a horse (from leading).",
+    "اهْتَدَى (Form VIII): To find the way home or to a destination."
+  ],
+  "discardedNoise": [
+    "Obscure descriptions of horse movements or paths in the desert.",
+    "Dialectal variations of (هَدِيَّة) in pre-Islamic poetry."
+  ],
+  "summaryEn": "The root signifies guiding and directing, as well as the concept of offering a gift, which Quranically manifests as divine guidance and ritual sacrificial offerings.",
+  "summaryAr": "يدل هذا الجذر على الهداية والإرشاد، وكذلك على تقديم الهدية، وهو ما يتجلى في القرآن في الهداية الإلهية والهدي المهدى إلى البيت الحرام.",
+  "rawText": "أَهْدَى مِنْ دُعَيْمِيصِ الرَّمْلِ <i>More expert,</i> &c: see art. دعمص.\nأَهْدَىَ 4 see 1.\nالمَهْدِىُّ , meaning <i>The directed</i> by God to the truth, is a proper name, and the name of him of whose coming at the end of time the happy tidings have been announced. (TA.) [It is always so pronounced by the Arabs in the present day: not المُهْدِى.]\nاِهْتَدَى 8 <i>He became rightly directed; followed a right direction;</i> (K;) <i>went aright;</i> as also 🡻هَدَى. (S.) === <i>He guided himself.</i> === <i>He went a right way: went aright.</i> === لَا يَهْتَدِى إِلَى جِهَةٍ <i>He cannot go aright: or knows not the way that he would pursue; or knows not in what direction to go:</i> sometimes said of a drunken man. === لَا يَهْتَدِى لِأَمْرِهِ means <i>He does not,</i> or <i>cannot, find the way to accomplish,</i> or <i>perform, his affair.</i> === اِهْتَدَى <i>He found,</i> (MA,) or <i>took</i> (KL,) <i>the right way</i> or <i>road.</i> (MA, KL.) === دَاهِيَةُ لاَ يُهْتَدَى لَهَا, by which دَاهِيَةُ الغَبَرِ is expl. in the S and O, means لَا يُهْتَدَى للَّنَّجَآءِ مِنْهَا, by which the same phrase is expl. in the JK: or it may be well rendered <i>A calamity in relation to which one knows not the right course to pursue.</i> === اِهْتَدَى also signifies <i>He continued to be rightly directed,</i> or <i>to follow a right dirertion:</i> and <i>he sought to be rightly directed,</i> or <i>to follow a right direction.</i> (TA.) === اِهَدَّى and اِهِدِّى, for اِهْتَدَى; like اِعَذَّرَ and اِعِذِّرَ, for اِعْتَذَرَ.\nتَهَادَنَا 6 <i>They</i> (two parties who had been at war) <i>made a truce, each with the other.</i> (T, art. نبذ.)\nهَادٍ : see an ex. of its pl. هَوَادِى meaning <i>Necks</i> of horses, voce تَالٍ. === هَادِيَةٌ The <i>fore part of the neck of a horse.</i> (K in art. سلف.) === أَخَذَ هَادِىَ الرَّحَى فَجَعَلَ يُدِيرُهَا [<i>He took the handle of the mill, and begun to turn it</i>]. (K, art. خبز.)\nهَدَاهُ 1 <i>He directed him,</i> or <i>guided him,</i> to the way; (K, * TA;) <i>directed him aright;</i> or <i>caused him to take,</i> or <i>follow, a right way</i> or <i>course</i> or <i>direction.</i> (K, TA.) See 8. === هَدَى العَرُوسَ <i>He sent</i> [or <i>conducted</i>] <i>the bride</i> (MA, KL) to her husband, (MA,) or to the house of her husband: (KL;) <i>i. q.</i> زَفَّهَا, (K in art. زف,) and so 🡻أَهْدَاهَا. (Msb in that art.) === يَهْدِى meaning يُؤَدِّى: see an ex. in a verse cited voce طَبَعٌ.\nهَدِيَّةٌ [n. un. of هَدِىٌّ] <i>A present;</i> i. e. <i>a thing sent to another in token of courtesy</i> or <i>honour:</i> (Msb;) such as is termed طَرِيفٌ and لَطَفٌ. (JK.) === 🡻هَدْىٌ and هَدِىٌّ [coll. gen. ns.] <i>What one brings as an offering to Mekkeh,</i> (K,) <i>or to the Kaabeh,</i> (Beyd, v. 2,) <i>or to the Haram,</i> (S, Mgh,) <i>consisting of camels</i> (Lth, S, Mgh, Msb) <i>or other beasts,</i> (Lth,) namely <i>kine or sheep or goats,</i> (Mgh,) <i>to be sacrificed,</i> (TA,) <i>and of goods or commodities:</i> (Lth:) n. un. with ة. (S, &c.) === Also, <i>Camels,</i> absolutely. (TA.) === هَدِىٌّ also <i>One who is entitled to respect,</i> or <i>honour,</i> or <i>protection:</i> so in a verse cited voce اِسْتَبَآءَ. (ISk in T in art. بوأ.)\nهَدْىٌ <i>A way, course, method, mode,</i> or <i>manner, of acting,</i> or <i>conduct,</i> or <i>proceeding,</i> or <i>the like;</i> (Msb, K;) as also 🡻هِدْيَةٌ and 🡻هَدْيَةٌ: (K:) or to the second and third: and the first is pl. [or coll. gen. n.] of the last: (S:) and <i>a god way,</i> &c.: and <i>calm,</i> or <i>placid, deportment;</i> or <i>calmness,</i> or <i>placidity, of deportment:</i> (TA:) see also دَلٌ. === هَدْىٌ [<i>Conduct, mode of life; manners</i>]. ___ See هَدِىٌّ.\nهُوَ عَلَى هُدًى <i>He is following,</i> or <i>he follows, a right direction.</i> === الهُدَى <i>The Kur-án.</i> (Bd, Jel in lxxii. 13, &c.)\nهِدْيَةٌ and هَدْيَةٌ: see هَدْيٌ."
+}

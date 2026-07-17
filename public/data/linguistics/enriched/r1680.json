@@ -1,0 +1,57 @@
+{
+  "rootId": "r1680",
+  "source": "lanes",
+  "enrichedAt": "2026-06-29T23:54:48.044Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Aiding, helping, granting victory, or saving",
+  "primaryMeaning": "To aid or help against an enemy",
+  "quranicRelevance": "Covers: granting victory or help (Nasr), helpers or supporters (Ansar), seeking help, and is also applied historically to the Christians (Nasara) due to their town Nazareth or their statement of helping God.",
+  "keyDerivations": [
+    {
+      "lemma": "نَصَرَ",
+      "form": "Form I Verb",
+      "meaning": "To help, aid, or grant victory"
+    },
+    {
+      "lemma": "نَصْرٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Help, victory, or aid"
+    },
+    {
+      "lemma": "أَنْصَارٌ",
+      "form": "Noun pl.",
+      "meaning": "Helpers or supporters, notably the Ansar of Madinah"
+    },
+    {
+      "lemma": "نَصَارَى",
+      "form": "Noun pl.",
+      "meaning": "Christians"
+    },
+    {
+      "lemma": "نَصِيرٌ",
+      "form": "Noun",
+      "meaning": "Helper or protector"
+    },
+    {
+      "lemma": "اِنْتَصَرَ",
+      "form": "Form VIII Verb",
+      "meaning": "To defend oneself, gain victory, or seek help"
+    },
+    {
+      "lemma": "اسْتَنْصَرَ",
+      "form": "Form X Verb",
+      "meaning": "To seek help, aid, or victory"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "نَاصِرٌ: Helper or defender.",
+    "نَصِيرَةٌ: A single aid or help."
+  ],
+  "discardedNoise": [
+    "A small valley that flows in a specific direction.",
+    "Watering-trough for cattle in the desert."
+  ],
+  "summaryEn": "The root denotes aiding and victory, representing both divine assistance (Nasr) and the human commitment to support the truth (Ansar).",
+  "summaryAr": "يدل هذا الجذر على العون والنصر، ممثلاً النصر والتأييد الإلهي (النصر) والالتزام البشري بنصرة الحق (الأنصار).",
+  "rawText": "أَنْصَارٌ : see نَصْرَانِىٌّ: === and ناصِرٌ.\nأَنْصَارِىٌّ : see نَاصِرٌ.\nاستنصر 10 <i>He asked, sought,</i> or <i>desired, aid,</i> or <i>assistance.</i> (M, K.) And استنصره <i>He asked him to aid him,</i> (S, Msb, K,) عَلَيْهِ <i>against him,</i> (S, K,) i. e. against his enemy. (S, TA.) === ‡ <i>He begged;</i> (K;) as though he asked for a gift, which is termed نَصْر. (TA.)\nالنَّصْرَانِيَّةُ <i>The religion of the</i> نَصَارَى [or <i>Christians</i>]. (K, TA.)\nانتصر 8 <i>He defended himself:</i> (Bd, Jel, lv. 35:) <i>he defended himself against his wronger,</i> or <i>injurer.</i> (TA.) === انتصر مِنْهُ <i>He exacted,</i> or <i>obtained, his right,</i> or <i>due, completely, from him, so that each of them became on a par with the other:</i> (Az, TA:) <i>he revenged himself upon him.</i> (Az, S, M, * Msb, K.)\nتناصروا 6 <i>They aided</i> or <i>assisted one another:</i> (S, Msb, TA:) <i>they assisted one another to aid.</i> (M, A, K, TA.) === تناصرت الأَخْبَارُ ‡ <i>The accounts,</i> or <i>tidings, confirmed,</i> or <i>verified, one another.</i> (M, K, TA.)\nتنصّر 5 <i>He laboured,</i> or <i>strove, to aid,</i> or <i>assist;</i> syn. عَالَجَ النَّصْرَ: (M, K:) not of the same category as تَحَلَّمَ [he endeavoured to acquire حِلْم] and تبرّر [he endeavoured to characterize himself by بِرّ]. (M.) ___ <i>He became a Christian.</i> (M, K.)\nمَنْصُورٌ [<i>Aided</i> or <i>assisted, especially against an enemy,</i> &c.]. === أَرْضٌ مَنْصُورَةٌ ‡ <i>Land watered by rain; rained upon.</i> (S, A.)\nمُسْتَنْصِرٌ [<i>Asking, seeking,</i> or <i>desiring, aid,</i> or <i>assistance</i>]. === ‡ <i>A beggar.</i> (M.)\nنصّرهُ 2 , (inf. n. تَنْصِيرٌ, K,) <i>He made him a Christian.</i> (S, M, K.) It is said in a trad., [relating to the natural disposition of a child to adopt the true faith,] فَأَبَوَاهُ يُهَوِّدَانِهِ وَيُنَصِّرَانِهِ [<i>But his two parents make him a Jew</i> or <i>make him a Christian</i>]. (S.)\nنَاصُورٌ : see نَاسُورٌ.\nنَاصِرٌ act. part. n. of نَصَرَ, <i>An aider</i> or <i>assister, especially against an enemy;</i> &c.; as also 🡻نَصِيرٌ, (S, * M, A, Msb, K,) and 🡻نَصَرٌ: (Sgh, K:) pl. (of نَصِيرٌ, (S, M, Msb, and of نَاصِرٌ, M,) أَنْصَارٌ (S, M, A, Msb, K) and (of نَاصِرٌ, M) نُصَّارٌ, (M, K,) and نُصُورٌ may also be a pl. of the same, as occurring in the verse of Khidásh, cited above: (M:) and أَنَاصِيرُ is a pl. pl., being pl. of أَنْصَارٌ: (TA:) and 🡻نَصْرٌ is used as sing. and pl., (M, K,) being an inf. n. employed as an epithet, like عَدْلٌ. (M.) === الأَنْصَارُ also signifies <i>The Assistants of the Prophet;</i> (M, K;) of [the tribes of] El-Ows and El-Khazraj; (TA;) being an epithet applied to them especially, (M, K,) and used as a subst., as though it were the name of a tribe, wherefore the rel. n. أَنْصَارِىٌّ [which is used as sing.] is formed from it. (M.)\nنَاْصَرَ 3 [ناصرهُ <i>He rendered reciprocal aid to him.</i> See an ex. voce عَاصَرَ.]\nنَصَائِرُ : see نَصْرٌ.\nنَصَارَى : see نَصْرَانِىٌّ.\nنَصَرَهُ 1 , (M, A, K,) aor. ﹹ, (M,) inf. n. نَصْرٌ (M, A, K) and نُصْرَةٌ, (A,) or this is a simple subst., (S, Msb,) and نُصُورٌ, (K,) [but see the verse of Khidásh in what follows,] <i>He aided</i> or <i>assisted him,</i> (M, K,) namely, a person wronged, misused, or treated unjustly or injuriously, (M. A, K,) <i>against his enemy:</i> (TA:) [<i>he avenged him:</i> (see the verse here following, and see 8:) <i>he supplied his want,</i> or <i>somewhat thereof</i> (TA.) Kidásh Ibn-Zuheyr says. <center> <h3> فَإِنْ كُنْتَ تَشْكُو مِنْ خَلِيلٍ مَخَانَةً </h3> <h3> فتِلْكَ الجَوَازِى عَقْبُهَا وَنُصُورُهَا </h3> </center> [<i>And if thou complain of treachery from a friend. those requitals are its result and its avengers,</i> or <i>avengement</i>]: here نُصُور may be a pl. of نَاصِرٌ. like شُهُودٌ is of شَاهِدٌ; or it may be an inf. n., like دُخُولٌ and خُرُوجٌ. (M.) You say, تَصَرَهُ عَلَى عَدُوِّهِ, (S, A, Msb,) and مِنْ عَدُوِّهِ, (A, Msb,) aor. ﹹ, (S, Msb,) inf. n. نَصْرٌ (S, A, Msb) and نُصْرَةٌ, (A,) or this, as remarked above, is a simple subst., (S, Msb.) <i>He</i> (namely, God. S, A, or a man, Msb,) <i>aided</i> or <i>assisted him,</i> and <i>strengthened him, against his enemy:</i> (Msb:) [<i>he avenged him of his enemy.</i> (See 8.)] And نَصَرَهُ ٱللّٰهُ <i>God made him to be victorious, to conquer,</i> or <i>to overcome:</i> so in the Kur, xxii. 15, where the pronoun relates to Mohammad. (TA.) In the Kur, xlvii. 8. إِنْ تَنْصُرُوا ٱللّٰهَ يَنْصُرْكُمْ means, <i>If ye aid God's religion and his apostle, He will aid you against your enemy:</i> (Bd, Jel) or <i>if ye aid his servants,</i> &c.: or <i>if ye keep his ordinances and aid his orders and comply with his commands and shun the things which He hath forbidden,</i> &c. (El-Basáïr.) And the trad. أُنْصُرْ أَخَاكَ ظَالِمَّا أَوْ مَظْلُومًا is explained as meaning, <i>Prevent thou thy brother from wronging when he is a wronger, and aid him against his wronger when he is wronged.</i> (TA.) Also, نَصَرَهُ مِنْهُ, (K,) inf. n. نَصْرٌ and نُصْرَةٌ, (TA,) [or the latter in this sense, as in the cases above mentioned, is a simple subst.,] <i>He served</i> or <i>Preserved him from him</i> or <i>it.</i> (K.) === نَصَرَٱللّٰهُ الأَرْضَ <i>God gave rain to the earth</i> or <i>land.</i> (A.) And نَصَرَ الغَيْثُ الأَرْضَ (S, M, K,) [aor. ﹹ,] inf. n. نَصْرٌ, (M,) ‡ <i>The rain aided the earth</i> or <i>land:</i> (S:) or <i>watered it:</i> (M:) or <i>watered it generally and copiously,</i> (K, TA,) <i>and caused it to produce herbage:</i> (TA:) and نَصَرَ البَلَدَ ‡ <i>it assisted the country to produce abundance of herbage:</i> (TA:) and نُصِرَتِ الأَرْضْ ‡ <i>the earth</i> or <i>land was watered by rain.</i> (S.) === Hence, نَصَرَهُ, aor. ﹹ, inf. n. نَصْرٌ, ‡ <i>He gave to him.</i> (M.) An Arab of the desert [in the A a beggar] accosted a people saying, أُنْصُرُونِى نَصَرَكُمُ ٱللّٰهُ, meaning, ‡ <i>Give ye to me: may God give to you.</i> (M, A.) === نَصَرَهُ ٱللّٰهُ also signifies † <i>God bestowed upon him the means of subsistence,</i> or <i>the like;</i> syn. رَزَقَهُ. (IKtt.)\nنَصُورٌ One <i>who aids,</i> or <i>assists, much</i> or <i>well.</i> (TA in art. عقرب.)\nنَصِيرٌ : see نَاصِرٌ. It has the signification of the measure فَاعِلٌ or of the measure مَفْعُولٌ; for أَخَوَانِ نَصِيرَانِ, occurring in a trad., means <i>Two brothers, aiders of,</i> and <i>aided by, each other.</i> (TA.)\nنَصْرٌ [used a subst.,] <i>Aid</i> or <i>assistance,</i> rendered to another, <i>especially against an enemy:</i> [<i>avengement</i> or another:] <i>victory</i> or <i>conquest:</i> (Bd, xxix. 9:) and 🡻نُصْرَةٌ is a subst. from نَصَرَهُ [and therefore signifies the same]: (S, Msb:) or the ↓ latter signifies <i>good aid,</i> or <i>assistance:</i> (M, K:) and this ↓ same word, when the object is God, signifies <i>aid of God's servants;</i> &c.; as explained above: see 1. (El-Basáïr.) === <i>Spoil; plunder; booty.</i> (Bd, ubi supra.) === ‡ <i>Rain;</i> (A, TA;) as also 🡻نُصْرَةٌ: (TA:) in like manner as it is called فَتْح: (A, TA:) or the ↓ latter signifies <i>a complete rain.</i> (IAar.) === [Hence,] ‡ <i>A gift:</i> (S, TA:) and نَصَائِرُ <i>gifts.</i> (M.) === See also نَاصِرٌ.\nنَصْرَانٌ : see نَصْرَانِىٌّ.\nنَصْرَانِىٌّ , (S, A, Msb, K, &c.) and 🡻نَصْرَانٌ, (M, A,) or this latter has not been used without the addition of the relative ى, (S,) or it has been sometimes used, (M,) and 🡻نَصْرِىٌّ, (M, Msb, K,) but we have not heard this used, (M,) [<i>A Christian:</i> or this is a secondary application, and the original meaning is <i>a Nazarene:</i>] fem. نَصْرَانِيَّةٌ, (S, A, Msb, K,) and نَصْرَانَةٌ, (S, A, K,) or the latter is used only by poetic licence: (IB:) 🡻نَصَارَى [applied to the <i>Christians</i>] is a rel. n. from نَاصِرَةُ, [or Nazareth,] a town of Syria, (S, M, K,) also called نَصْرَانَةُ, (Lth, IDrd, K,) or نَصْرَانُ, (S, Msb,) and نَصُورِيَةٌ, (M, Sgh, K,) without teshdeed, accord. to Sgh, (TA,) and نُصْرِىٌّ and نُصْرَى, (as in a copy of the M,) or نَصْرَى and نَصْرَوَةُ: (TA:) so originally, and then a"
+}

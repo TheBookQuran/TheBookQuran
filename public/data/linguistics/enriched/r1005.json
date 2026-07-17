@@ -1,0 +1,37 @@
+{
+  "rootId": "r1005",
+  "source": "lanes",
+  "enrichedAt": "2026-06-29T23:14:14.078Z",
+  "modelId": "claude-3-5-sonnet-human-curated",
+  "semanticCore": "mixed bundle; confused medley",
+  "primaryMeaning": "A mixed handful of green and dry grass/twigs; a confused medley or complication.",
+  "quranicRelevance": "Appears twice in the Quran: 1) In Surah Yusuf [12:44] and Surah al-Anbiya [21:5] describing confused, false medleys of dreams (أَضْغَاثُ أَحْلَامٍ) that have no clear or true interpretation. 2) In Surah Sad [38:43] where Job (أَيُّوب) is commanded to take a bundle of rushes/twigs (ضِغْثًا) and strike his wife with it once to fulfill his oath without causing severe harm.",
+  "keyDerivations": [
+    {
+      "lemma": "ضَغَثَ",
+      "form": "Form I",
+      "meaning": "To collect together; to confuse or relate a story in a confused manner."
+    },
+    {
+      "lemma": "ضِغْثٌ",
+      "form": "Noun",
+      "meaning": "A handful of herbs or twigs mixed together (both fresh and dry) (pl. أَضْغَاث)."
+    },
+    {
+      "lemma": "ضَغِيثَةٌ",
+      "form": "Noun",
+      "meaning": "A confused company or crowd of men."
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "Washing a garment without cleansing it properly (ضغث الثوب).",
+    "Pouring water on the head and dividing hair into handfuls (ضغث رأسه)."
+  ],
+  "discardedNoise": [
+    "Feeling a camel's hump to check if it is fat (ضغث السنام).",
+    "One who hides in a thicket to frighten boys (ضاغث/ضاغب)."
+  ],
+  "summaryEn": "The root ضغث represents a mixed bundle or confusion. In the Quran, it describes Job's bundle of twigs (ضِغْث) and the confused medleys of dreams (أَضْغَاثُ أَحْلَام).",
+  "summaryAr": "يدل جذر ضغث على الجمع والخلط. ويظهر في القرآن الكريم لوصف حزمة الأعشاب أو العيدان (ضِغْث) التي أُمر أيوب عليه السلام أن يضرب بها، وخلاصة الأحلام المختلطة التي لا تأويل لها (أَضْغَاثُ أَحْلَام).",
+  "rawText": "اضطغث ضِغْثًا 8 <i>He collected a handful of herbage, fresh and dry mixed together.</i> (K.)\nاضغث الرُّؤْيَا 4 , said of a dreamer, ‡ <i>He related the dream confusedly.</i> (A, TA.)\nتَضْغِيثٌ <i>Rain that moistens the earth and the herbage.</i> (K.)\nضغّث النَّبَاتَ 2 <i>He made the plants,</i> or <i>herbage, what are termed</i> أَضْعَاث [pl. of ضِعْثٌ]. (A, TA.) === [Hence,] ضغّث رَأْسَهُ † <i>He poured water upon his head, and then divided the hair with his fingers into separate handfuls, in order that the water might reach to the skin.</i> (L, TA.) [But see what follows.] It is said in a trad. of 'Áïsheh, كَانَتْ تُضَغِّثُ رَأْسَهَا, (TA,) or 🡻تَضْغَثُرأسها, (so in the JM,) meaning <i>She used to rub about the hair of her head with her hand, in washing, as though mixing it together, in order that the water with which she washed might enter into it.</i> (TA.)\nضَاغِثٌ One <i>who hides himself in a thicket</i> or <i>the like, and frightens boys by a sound reiterated in his fauces:</i> (S:) the author of the K, following Sgh in the TS and O, and Az in the T, says that this is a mistake, and that the word is correctly written with ب [i. e. ضَاغِبٌ]; but IF and IM and others write it as in the S. (TA.)\nضَغَثَ الشَّىْءَ 1 , aor ﹷ, inf. n. ضَغْثٌ, <i>He collected together the thing:</i> whence ضِغْثٌ signifying “ a handful of herbs &c. ” (Msb.) See also 2. === And [hence,] ضَغَثَ الحَدِيثَ, (A, K,) aor. as above, (K,) and so the inf. n., (S,) ‡ <i>He confused,</i> or <i>confounded,</i> [or <i>related in a confused manner,</i>] <i>the tradition,</i> or <i>story,</i> or <i>the like.</i> (S, A, K) === And ضَغَثَ الثَّوْبَ ‡ <i>He washed the garment,</i> or <i>piece of cloth, without cleansing it,</i> (O, K, TA,) <i>so that it remained in a dubious state.</i> (TA.) ___ ضَغَثَ السَّنَامَ, aor. as above, (K,) and so the inf. n., (S,) <i>He felt the camel's hump in order to know whether it were fat or not:</i> (S, K:) and ضَغَثَهَا <i>he felt her</i> [i. e. a she-camel] <i>for that purpose.</i> (TA.) ___ ضَغَثَ, accord. to the K, [and the O, as on the authority of Fr,] is also said of a وَرَل, meaning <i>It uttered a cry:</i> but this is correctly with ب [i. e. ضَغَبَ]. (TA.)\nضَغُوثٌ , applied to a she-camel, <i>i. q.</i> ضَبُوثٌ; (S, K;) i. e. <i>Of which one doubts whether she be fat, and which one therefore feels with his hand;</i> (S;) or <i>of which one feels the hump, in order to know whether she be fat or not:</i> pl. ضُغْثٌ. (TA.) And A camel's hump <i>of which one doubts whether it be fat or not.</i> (Kr, TA.)\nضَغِيثَةٌ <i>A confused company</i> of men. (O.)\nضَغْثٌ The <i>state of</i> a thing's <i>being confused, one part with another.</i> (TA.)\nضِغْثٌ <i>A handful of herbs,</i> (AHn, S, A, Mgh, Msb, K,) <i>mixed together,</i> (S, A, Msb, K,) <i>fresh and dry:</i> (S, Msb, K:) or <i>a handful of twigs of trees</i> or <i>shrubs;</i> (Mgh, * Msb;) or <i>of fruit-stalks of the raceme of a palm-tree:</i> (Mgh, Msb:) originally, <i>a number of twigs all having one root</i> or <i>stem:</i> and afterwards applied to <i>what is collected together:</i> (Msb:) or <i>a thing that one collects together, such as a bundle of</i> [<i>the species of trefoil called</i>] رَطْبَة; and <i>of what has a stem, and grows tall:</i> (Fr, TA:) or <i>whatever is collected together, and grasped with the hand:</i> (AHeyth, TA:) or <i>a bundle of herbs mixed together;</i> or <i>of firewood:</i> pl. أَضْغَاثٌ. (TA.) In the Kur xxxviii. 43, it is said to mean <i>A bundle of rushes</i> (أَسَل, so in the Mgh and the O, in my copy of the Msb اثل [which I think a mistranscription, on account of what follows]), <i>a hundred in number,</i> (O, Msb,) <i>consisting of slender stalks without leaves,</i> (Mgh, Msb,) <i>whereof mats are made.</i> (Msb.) See also a prov. cited and expl. voce إِلَالَةٌ. Hence, in a trad., ضِغْثَانِ مِنْ نَارٍ, meaning ‡ <i>Two bundles of lighted firewood.</i> (TA.) And, in another trad., مِنْهُمُ الآخِذُ الضِّغْثَ, meaning † <i>Among them is he who obtains somewhat of worldly goods.</i> (TA.) === Also † <i>What is confused, and without truth,</i> or <i>reality,</i> [of dreams, and] of news, or tidings, and of an affair. (Sh, TA.) أَضْغَاثُ أَحْلَامٍ, [occurring in the Kur xii. 44 and xxi. 5,] of which the sing. is ضِغْثُ حُلْمٍ, (Msb,) means ‡ <i>Complications of dreams;</i> (A;) or <i>medleys of dreams, falsely resembling true dreams:</i> (O, Msb:) or <i>a dream of which the interpretation will not prove true, because of its confusedness:</i> (ISh, S, K:) or <i>a false dream;</i> the pl. form being used to give emphasis to the meaning of unreality, or because the phrase comprehends various things: (Bd in xii. 44:) or أَضْغَاثُ الرُّؤْيَا means <i>the terrors,</i> or <i>frightful things, of the dream.</i> (Mujáhid, O, TA.) One says also, أَتَانَا بِأَضْغَاثٍ مِنَ الأَخْبَارِ, meaning ‡ <i>He brought us</i> [<i>various</i>] <i>sorts of news,</i> or <i>tidings.</i> (TA.) ضِغْثٌ means also † <i>A deed that is of a mixed kind, not pure,</i> or <i>not sincere.</i> (IAth and O, from a trad.) And كَلَامٌ ضِغْثٌ † <i>Speech in which is no good:</i> pl. أَضْغَاثٌ. (TA.)"
+}

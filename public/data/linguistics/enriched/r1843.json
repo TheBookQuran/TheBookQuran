@@ -1,0 +1,26 @@
+{
+  "rootId": "r1843",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:21:37.831Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Means of approach, seeking access, connection, status, or reach",
+  "primaryMeaning": "Means of approach/access",
+  "quranicRelevance": "Seeking a means of approach to God (Waseelah - 'ibtanghoo ilayhi al-waseelata').",
+  "keyDerivations": [
+    {
+      "lemma": "وَسِيلَةٌ",
+      "form": "Noun (singular)",
+      "meaning": "Means of approach, path of access, spiritual connection, high status, or bridge"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَابْتَغُوا إِلَيْهِ الْوَسِيلَةَ (5:35): O you who believe! Fear God and seek a means of approach/access to Him (via righteous deeds)."
+  ],
+  "discardedNoise": [
+    "Intercession disputes in modern theological schools.",
+    "Transportation vehicles."
+  ],
+  "summaryEn": "The root represents seeking approach (Tawassul), ordering believers to seek means of spiritual approach (Waseelah) to God through righteous deeds.",
+  "summaryAr": "يمثل هذا الجذر الرغبة والتقرب والتوصل بالوسائل الصالحة (وسيلة)، أمراً المؤمنين بالتقرب إلى رضا ربهم بابتغاء العمل الصالح الموصل لرحمته.",
+  "rawText": "تَوَسَّلَ بِالدَّلْوِ إِلَى المَآءِ 5 [<i>He sought to get at,</i> or <i>obtain, the water by means of the bucket</i>]. (M in art. دلو.) === تَوَسَّلَ إِلَيْهِ بِكَذَا <i>He sought to bring himself near to him, or to approach to him, to gain access to him, or to advance himself in his favour, by such a thing:</i> (Msb, &c.:) so too 🡻وَسَّلَ; (S, K;) and 🡻وَسَلَ, aor. يَسِلُ. (Msb.)\nوَسِيلَةٌ <i>A means of access to a thing;</i> (IAth;) <i>a means of becoming near to a thing:</i> (IAth, Msb:) these are the primary significations: (IAth:) <i>a means of becoming near to,</i> or <i>intimate with,</i> or <i>of ingratiating oneself with, another:</i> (S:) <i>honourable rank</i> or <i>station with a king: degree: affinity:</i> (K:) <i>a tie,</i> or <i>connexion:</i> (TA:) it may be rendered <i>a means of access, nearness, intimacy, ingratiating oneself, attachment,</i> or <i>connexion:</i> and also, <i>of attainment,</i> or <i>accomplishment.</i>\nوَسَّلَ 2 see 5.\nوَسڤلَ 1 see 5."
+}

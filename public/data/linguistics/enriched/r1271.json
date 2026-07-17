@@ -1,0 +1,31 @@
+{
+  "rootId": "r1271",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:09:12.475Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Making room, space, expansion, ease, leisure, or opening",
+  "primaryMeaning": "Making room/expanding",
+  "quranicRelevance": "Making room/giving space in assemblies (Ipsahoo - 'tafassahoo feel-majalisi faf-sahoo').",
+  "keyDerivations": [
+    {
+      "lemma": "فَسَحَ / يَفْسَحُ",
+      "form": "Form I Verb",
+      "meaning": "To make room, expand, open up space, or facilitate ease"
+    },
+    {
+      "lemma": "تَفَسَّحَ / يَتَفَسَّحُ",
+      "form": "Form V Verb",
+      "meaning": "To make room for one another, expand seats, or sit comfortably"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قِيلَ لَكُمْ تَفَسَّحُوا فِي الْمَجَالِسِ فَافْسَحُوا يَفْسَحِ اللَّهُ لَكُمْ (58:11): O you who believe, when it is said to you: 'Make room in assemblies,' then make room; God will make room/expand (goodness) for you."
+  ],
+  "discardedNoise": [
+    "Taking vacations (Fushah) in modern travel.",
+    "Spacious houses advertisements."
+  ],
+  "summaryEn": "The root represents making room (Fash), establishing a social code of seat sharing in crowded assemblies and promising reciprocal divine expansion (Yafsah).",
+  "summaryAr": "يمثل هذا الجذر السعة والفسحة والتمكين المجالي، مشرعاً آداب التواضع في المجالس العامة والتوسيع للقادمين (تفسحوا... فافسحوا).",
+  "rawText": "أَفْسَحَ 4 see 1, first and second sentences.\nإِنْفَسَحَ 7 see 1, first sentence. === [Hence,] انفسح مُرَاحُهُمْ [lit. <i>The nightly resting-place of their camels was,</i> or <i>became, spacious,</i>] means † <i>their camels became numerous.</i> (TA.) === And انفسح صَدْرُهُ † <i>His bosom became dilated</i> [<i>with joy</i>]. (S, A.) === And انفسح طَرْفُهُ † <i>His eye had an unobstructed view, nothing hindering its seeing far.</i> (L.)\nتَفَاْسَحَ 6 see 1, third sentence.\nتَفَسَّحَ 5 see 1, in three places. === [تفسّح also signifies <i>He expatiated,</i> or <i>ranged at large:</i> and <i>he had ample room</i> or <i>scope:</i> see مُتَفَسَّحٌ.]\nتَفَيْسَحَ : see تَفَيْحَسَ, in art. فحس.\nجَمَلٌ مَفْسُوحُ الضُّلُوعِ <i>i. q.</i> مَسْفُوح [i. e. <i>A camel wide in the ribs</i>]. (TA.)\nفسّح 2 <i>He made</i> a place <i>spacious, roomy, wide,</i> or <i>ample.</i> (Msb.)\nفَسُحَ 1 , (MA, Msb, K, [in the CK فَسَحَ, a misprint,]) with damm, (Msb,) like كَرُمَ, (K,) [aor. ﹹ,] inf. n. فُسَاحَةٌ, (L,) or فَسَاحَةٌ [for which the former is app. a mistranscription] and فُسْحَةٌ, (MA,) <i>It</i> (a place) <i>was,</i> or <i>became, spacious, roomy, wide,</i> or <i>ample;</i> (MA, Msb, K;) as also 🡻افسح, (Msb, K,) and 🡻تفسّح, and 🡻انفسح. (K.) ___ فَسَحَ لَهُ, (S, MA, Msb, K,) aor. ﹷ, (Msb, K,) inf. n. فَسْحٌ (MA, Msb, TA) and فُسُوحٌ; (TA;) as also 🡻تفسّح, (A, K,) and 🡻افسح; (A;) <i>He made room,</i> or <i>ample room, for him,</i> (S, MA, Msb, K,) فِى المَجْلِسِ (S, MA, Msb) <i>in the sitting-place,</i> or <i>in the assembly.</i> (MA.) You say, 🡻تَفَسَّحُوافِى المَجْلِسِ, (S, Msb, *) and تَفَا 🡻سَحُوا, (S, K,) <i>Make ye room,</i> or <i>ample space,</i> [<i>in the sitting-place,</i> or <i>in the assembly,</i>] syn. تَوَسَّعُوا: (S, K:) both of these verbs have nearly the same signification: [each may be rendered, but the latter more properly, <i>make ye room,</i> or <i>ample space, one for another:</i>] the latter occurs, accord. to the reading of El-Hasan, and the former accord. to that of others, in the Kur lviii. 12. (Fr, TA.) === And اِفْسَحْ عَنِّى <i>Remove thou, withdraw,</i> or <i>retire to a distance, from me.</i> (Ksh and Bd in lviii. 12.) === فَسْحٌ [as inf. n. of فَسَحَ] also signifies The <i>making wide steps;</i> and so فَيْسَحَى. (K.) [Hence,] اِفْسَحِ الخُطَى, said by an Arab of the Desert, of the Benoo-'Okeyl, to one who was sewing for him a water-skin, and mentioned in the T, as heard by its author, meaning † <i>Make wide the spaces between each two punctures of the needle,</i> lest the punctures should rend. (L.) === And فَسَحَ لَهُ الأَمِيرُ فِى السَّفَرِ means <i>The commander,</i> or <i>governor, wrote for him a</i> فَسْح [q. v.]. (K.)\nفَسِيحٌ (S, A, Msb, K) and 🡻فُسَاحٌ, (K,) like طَوِيلٌ and طُوَالٌ, (TA,) <i>Spacious, roomy, wide,</i> or <i>ample;</i> applied to a place; (S, A, Msb, K;) as also 🡻فُسُحٌ and 🡻فُسْحُمٌ: (K:) or 🡻فُسُحٌ signifies thus applied to a sitting-place: (S:) and 🡻فُسْحُمٌ, (S, K,) in which the م is augmentative, (S,) signifies (S, K) also (K) وَاسِعُ الصَّدْرِ [meaning <i>free from distress of mind</i> or <i>from narrowness of mind</i>], (S, K,) as does also 🡻فُسُحٌ [in the CK in this sense written فُسْحٌ]; both being applied in this sense to a man. (K.) === سَيْرٌ فَسِيحٌ [means <i>A pace in which the steps are wide:</i> see 1, latter half].\nفَسْحٌ <i>A writing like a</i> جَوَاز [or <i>traveller's pass</i>]. (K.) [See 1, last sentence.]\nفُسَاحٌ : see the paragraph here following.\nفُسُحٌ : see فَسِيحٌ, in three places.\nفُسْحَةٌ <i>Spaciousness, roominess, width,</i> or <i>ampleness;</i> (S, A, L, K;) [particularly, or generally,] with respect to the ground. (L.) [In the MA it is mentioned as an inf. n. of فَسُحَ.] === And [<i>Ample scope for action</i> &c.] in an affair. (Msb in art. رخو.) [And <i>A state in which is ample scope for acting</i> &c.: see نَفَسٌ.] === الفُسْحَتَانِ signifies <i>The two spaces without hair on the two sides of the hair that grows immediately beneath the middle of the lower lip.</i> (L.)\nفُسْحُمٌ : see فَسِيحٌ, in two places. === فُلَانٌ ٱبْنُ فُسْحُمٍ is a phrase mentioned by Lh, thought by him to be from الفُسْحَةُ and الاِنْفِسَاحُ, but the meaning is unknown. (L.) ___ Also The <i>glans of the penis.</i> (K in art. فسحم; where the word is mentioned again in the S likewise.)\nمَا لَكَ فِى هٰذَا مُتَفَسَّحٌ [<i>There is not for thee ample scope</i> (lit. <i>a place in which one has ample scope</i>) <i>in this</i>]. (A.)\nمُرَاحٌ مُنْفَسِحٌ † <i>A nightly resting-place of camels,</i> or <i>of camels and other cattle, in which they are numerous.</i> (As, K.)\nمُنْفَسَحٌ وَادٍ [<i>The place of expanding of a valley</i>]. (JK and K in art. خرق, &c.)"
+}

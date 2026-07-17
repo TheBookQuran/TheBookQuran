@@ -1,0 +1,26 @@
+{
+  "rootId": "r239",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T18:01:00.335Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Perfecting, performing skillfully, making solid, establishing firmly, or precise accuracy",
+  "primaryMeaning": "Perfecting/establishing firmly",
+  "quranicRelevance": "Who perfected/firmly established (Atqana - 'allazee atqana').",
+  "keyDerivations": [
+    {
+      "lemma": "أَتْقَنَ / يُتْقِنُ",
+      "form": "Form IV Verb",
+      "meaning": "To perfect, execute with precision, make solid, or establish firmly"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "صُنْعَ اللَّهِ الَّذِي أَتْقَنَ كُلَّ شَيْءٍ ۚ إِنَّهُ خَبِيرٌ بِمَا تَفْعَلُونَ (27:88): ...the handiwork of God who perfected/firmly established all things."
+  ],
+  "discardedNoise": [
+    "Tiqniyyah (technology) - modern loanword adaptation.",
+    "Taqeen (silt mud left by flood)."
+  ],
+  "summaryEn": "The root signifies mastering or perfecting a creation with flawless execution (Taqn), describing God's cosmic design where every celestial and physical element is perfectly calibrated.",
+  "summaryAr": "يشير هذا الجذر إلى الإتقان وهو إحكام الصنع وإتمامه بمهارة فائقة لا خلل فيها (تقن)، واصفاً خلق الله البديع المحكم لجميع الكائنات (الذي أتقن كل شيء).",
+  "rawText": "اتقنهُ 4 , (K,) inf. n. إِتْقَانٌ, (JK, S,) <i>i. q.</i> أَحْكَمَهُ [<i>He made it,</i> or <i>rendered it,</i> (namely, a thing, JK, or an affair, S and K,) <i>firm, stable, strong, solid, compact, sound,</i> or <i>free from defect</i> or <i>imperfection, by the exercise of skill; he made it firmly, strongly, solidly, compactly, so that it was firmly and closely joined</i> or <i>knit together, soundly, thoroughly, skilfully, judiciously,</i> or <i>well; he so constructed, constituted, established, settled, arranged, did, performed,</i> or <i>executed, it; he put it into a firm, solid, sound,</i> or <i>good, state,</i> or <i>on a firm, solid, sound,</i> or <i>good, footing</i>]. (JK, S, K.) [And اتقن لَهُ signifies the same as اتقنهُ: or <i>he exercised,</i> or <i>possessed, the skill requisite for it;</i> namely, an affair.] الَّذِي أَتْقَنَ كُلَّ شَّىْءٍ, in the Kur xxvii. 90, means <i>Who hath created everything firmly, strongly, solidly,</i> &c., (أَحْكَمَ خَلْقَهُ,) <i>and made it, fashioned it,</i> or <i>disposed it, in the fit, proper,</i> or <i>right, manner.</i> (Bd.) [You say also, اتقن عِلْمَهُ, meaning <i>He made his knowledge sound;</i> or <i>made himself thoroughly learned.</i>] And اتقن عَنْهُ <i>He knew it,</i> or <i>learned it,</i> (namely, a tradition [&c.],) <i>soundly, thoroughly,</i> or <i>well, from him.</i> (TA in art. ذبر.)\nتَقَّنُوا أَرْضَهُمْ 2 , (JK, K,) inf. n. تَتْقِينَ, (K,) <i>They watered their land with thick,</i> or <i>muddy, water,</i> [or <i>water containing</i> تِقْن,] (JK, * K,) <i>in order that it might become good.</i> (K.)\nتِقْنٌ The رُسَابَة <i>of water,</i> (JK, Mgh, K,) <i>in a rivulet or in the channel of a torrent,</i> (K,) <i>in the</i> [<i>season called</i>] رَبِيع; (Lth, JK, Mgh;) i. e., (Mgh,) [<i>its sediment,</i> or] the <i>thick matter that is borne by it</i> [<i>and that sinks to the bottom; used for improving land</i>]: (Lth, JK, Mgh:) and (K) the تُرْنُوق <i>of a well</i> (Mgh, K) and <i>of the channel of a torrent;</i> i. e., the <i>slime, mixed with black,</i> or <i>black and fetid, mud;</i> accord. to the Jámi' of El-Ghooree. (Mgh.) === <i>A thing by means of which one subsists, and makes good,</i> or <i>improves, the performance,</i> or <i>execution,</i> or <i>management, of an affair; as iron, and other things, of the</i> جَوَاهِر [i. e. <i>precious stones,</i> or <i>native ores,</i>] <i>of the earth:</i> and <i>anything by means of which a thing is made good,</i> or <i>improved,</i> is called its تِقْن. (TA.) === A <i>skilful</i> man: (JK, S, K:) pl. أَتْقَانٌ. (TA.) === [Hence, probably,] تِقْنٌ [or اِبْنُ تِقْنٍ] is also the name [or surname] of a certain man proverbial for his excellence in shooting. (S, K. [In the latter it is implied that this name or surname is التِّقْنُ.]) The rájiz says, <center> <h3> يَرَمِى بِهَا أَرْمَى مِنِ ٱبْنِ تِقْنِ </h3> </center> [<i>One more skilled in shooting than Ibn-Tikn shoots it</i>]. (S.) === <i>Nature,</i> or <i>natural disposition.</i> (JK, S, K.) You say, الفَصَاحَةُ مِنْ تِقْنِهِ <i>Chasteness of speech,</i> or <i>eloquence, is</i> [a quality] <i>of his nature.</i> (S.)"
+}

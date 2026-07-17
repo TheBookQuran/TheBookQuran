@@ -1,0 +1,26 @@
+{
+  "rootId": "r1678",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:21:37.831Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Listening silently, paying attention, quietness, hush, or hear",
+  "primaryMeaning": "Listening silently/paying attention",
+  "quranicRelevance": "Listening silently to Quran (Ansitoo - 'wa-ansitoo la'allakum'), and jinn calling to listen ('ansitoo').",
+  "keyDerivations": [
+    {
+      "lemma": "أَنْصَتَ / يُنْصِتُ",
+      "form": "Form IV Verb",
+      "meaning": "To listen silently, pay close attention, hush, keep quiet to hear, or keep silence"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَإِذَا قُرِئَ الْقُرْآنُ فَاسْتَمَعُوا لَهُ وَأَنْصُتُوا لَعَلَّكُمْ تُرْحَمُونَ (2:204): And when the Quran is recited, listen to it and keep silent/pay attention so that you may receive mercy."
+  ],
+  "discardedNoise": [
+    "Silent pauses in modern audio players.",
+    "Hushing classrooms."
+  ],
+  "summaryEn": "The root represents attentive silence (Insaat), mandating quiet listening (Ansitoo) when the Quran is read to ensure focus and capture divine mercy.",
+  "summaryAr": "يمثل هذا الجذر السكوت للاستماع والإنصات المركز للصوت (نصت)، آمراً بالسكوت والتدبر عند تلاوة آيات القرآن التماساً للرحمة الإلهية.",
+  "rawText": "إِنْتَصَبَ 8 see 1.\nاستنصتةُ 10 <i>He asked him,</i> or <i>desired him, to be silent:</i> (K:) or, <i>to be silent and to listen to him.</i> (TA.)\nانصتهُ 4 <i>He made him silent; silenced him.</i> (Sh, K.) === انصتهُ عَنِّى <i>He made him to be silent,</i> [<i>and to abstain</i>] <i>from</i> [<i>speaking of,</i> or <i>to,</i>] <i>me.</i> (As.) === See 1. ___ انصت لِلَّهْوِ <i>He inclined to play,</i> or <i>sport.</i> (IAar, K.)\nنَصَتَ 1 , aor. ﹻ, (L, K,) inf. n. نَصْتٌ; (L;) and 🡻انصت, inf. n. إِنْصَاتٌ, (S, L, K) which latter is the more approved; (L;) and 🡻انتصت; (L, K;) <i>He was silent:</i> (L, K:) or <i>he was silent and listened:</i> (S:) or <i>he was silent to listen:</i> (L:) or <i>he was silent as one listening:</i> (Er-Rághib:) or <i>he listened:</i> (Msb:) or انتصب signifies <i>he stood,</i> or <i>paused, listening.</i> (Msb.) === 🡻أَنْصَتَهُ, and انصت لَهُ, (S, K,) and إِلَيْهِ, (Z,) and نَصَتَ لَهُ, (L,) <i>He was silent, and listened to his speech.</i> (S, K, &c.)\nنُصْتَةٌ <i>Silence:</i> [or <i>silence and listening, &c.</i>] (K.)"
+}

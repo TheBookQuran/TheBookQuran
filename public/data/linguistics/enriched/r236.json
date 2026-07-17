@@ -1,0 +1,36 @@
+{
+  "rootId": "r236",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:58:55.910Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Nine, ninetieth, ninth, camel cycle, or dust",
+  "primaryMeaning": "Nine",
+  "quranicRelevance": "Nine clear signs of Moses (Tisa' - 'tisa'a ayatin bayyinatin'), and nine plotters in the city ('tisa'atu rahtin').",
+  "keyDerivations": [
+    {
+      "lemma": "تِسْعٌ / تِسْعَةٌ",
+      "form": "Numeral",
+      "meaning": "Nine (m/f)"
+    },
+    {
+      "lemma": "تِسْعُونَ",
+      "form": "Numeral",
+      "meaning": "Ninety"
+    },
+    {
+      "lemma": "تَاسِعٌ",
+      "form": "Adjective (ordinal)",
+      "meaning": "Ninth"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَكَانَ فِي الْمَدِينَةِ تِسْعَةُ رَهْطٍ يُفْسِدُونَ فِي الْأَرْضِ (27:48): And there were in the city nine plotters/clans who spread corruption in the land (Thamud's core conspirators)."
+  ],
+  "discardedNoise": [
+    "Nineveh (نينوى) history files.",
+    "Post-classical decimal math divisions."
+  ],
+  "summaryEn": "The root represents nine (Tisa'), marking Moses' nine miracles, ninety-nine ewes of David's parable, and the nine Thamud conspirators.",
+  "summaryAr": "يمثل هذا الجذر الرقم تسعة، محدداً المعجزات التسع لموسى (تسع آيات)، وقصة النعاج التسع والتسعين، ورهط ثمود المفسدين التسعة.",
+  "rawText": "اتسعوا 4 <i>They became nine:</i> (S, K:) and <i>they became ninety.</i> (M and L in art. ثلث.) === <i>They were,</i> or <i>became, persons whose camels came to water</i> [<i>on the ninth day, counting the day of the next preceding watering as the first;</i> i. e.,] <i>after an interval of nine days,</i> [<i>of which the first or last, or each of these, was not complete,</i>] <i>and eight nights.</i> (S, * K, * TA.)\nتسّعهُ 2 <i>He made it nine.</i> (Esh-Sheybánee, and K voce وَحَّدَ.) [See also 1.] === تسّع لِٱمْرَأَتِهِ, or عِنْدَهَا, <i>He remained nine nights with his wife:</i> and in like manner the verb is used in relation to any saying or action. (TA voce سَبَّعَ.)\nتَاسُوعَآءُ , (Msb, TA, &c.,) or التَّاسُوعَآءُ, (S, K,) <i>The tenth day of</i> [<i>the month</i>] <i>El-Moharram;</i> (Msb, TA;) [<i>the day</i>] <i>before the day of</i> العَاشُورَآءُ, (S,) or <i>before the day of</i> عَاشُورَآءُ: (K:) or, accord. to some, <i>the same as the day of</i> العاشوراء: (TA:) [see عاشوراء, where this is explained:] it is a post-classical word: (Sgh, K:) J says, in the S, I think it post-classical: (Msb, TA:) but [SM says,] this requires consideration; for it was used by the Prophet: (TA:) one ought to say, that, with عاشوراء, it has this form for the sake of resemblance; but as used alone, it must be conceded that it has not been heard [from the Arabs of the classical times]. (Msb.)\nتَاسِعٌ [<i>Making to be nine with himself,</i> or <i>itself:</i> and hence, <i>ninth</i>]. You say, هُوَ تَاسِعُ تِسْعَةٍ [<i>He is the ninth of nine</i>]: and تَاسِعُ ثَمَانِيَةٍ [He is <i>making eight to be nine with himself</i>]: but it is not allowable to say, تَاسِعٌ تِسْعَةً. (TA.) === [تَاسِعَ عَشَرَ and تَاسِعَةَ عَشْرَةَ, the former masc. and the latter fem., meaning <i>Nineteenth,</i> are subject to the same rules as ثَالِثَ عَشَرَ and its fem., explained in art. ثلث, q. v.]\nتَسَعَهُمْ 1 , aor. ﹷ (S, Msb, K) and ﹻ (Yoo, Msb, K) and ﹹ, (Msb,) inf. n. تَسْعٌ, (T K,) <i>He took the ninth part of their possessions:</i> or <i>he became the ninth of them:</i> (S, Msb, K:) or <i>he made them to be nine with himself;</i> (K;) they having before been eight. (TA.) [See also 2.]\nتَسِيعٌ : see تُسْعٌ.\nتَسْعٌ : see تِسْعَةٌ.\nتُسَاعَ , as meaning <i>Nine and nine,</i> or <i>nine and nine together,</i> or <i>nine at a time and nine at a time,</i> seems not to have been in use.] A'Obeyd says that more than أُحَادَ and ثُنَآءَ and ثُلَاثَ and رُبَاعَ has not been heard, except عُشَارَ occurring in a verse of El-Kumeyt. (TA in art. عشر.)\nتُسَعٌ The <i>seventh and eighth and ninth nights of the</i> [<i>lunar</i>] <i>month;</i> (K;) the <i>three nights of the month which are after the</i> نُفَل, <i>because the last night of these is the ninth;</i> (S;) among the nights of the month are three called غُرَرٌ, [pl. of غُرَّةٌ,] and after these are three called نُفَلٌ, and after these are three called تُسَعٌ because the last of them is the ninth night: (Az, TA:) or the <i>three nights of the commencement of the month,</i> as some say; but the first of these explanations is more agreeable with analogy. (TA.)\nتُسُعٌ : see تُسْعٌ.\nتُسْعٌ <i>A ninth part; one of nine parts;</i> (S, Msb, K,) as also 🡻تُسُعٌ; (Msb;) and 🡻تَسِيعٌ, (S, Msb, K,) agreeably with a rule which some hold to be applicable in the case of every similar fractional number; but Sh says, I have not heard تَسِيعٌ on any authority but that of AZ. (TA.)\nتِسْعٌ fem. of تِسْعَةٌ, q. v. === Also <i>A certain</i> ظْمء <i>of the</i> أَظْمَآء <i>of camels;</i> (S, K, TA;) i. e., <i>their coming to water</i> [<i>on the ninth day, counting the day of the next preceding watering as the first;</i> or, in other words,] <i>after an interval of nine days,</i> [<i>of which the first or last, or each of these, is not complete,</i>] <i>and eight nights.</i> (TA.) === Also The <i>ninth young one,</i> or <i>offspring.</i> (A in art. ثلث.)\nتِسْعَةٌ , applied to denote a number, [namely <i>Nine,</i>] is masc. ; and 🡻تِسْعٌ, so applied, is fem.: (S:) the latter is also written 🡻تَسْعٌ, with fet-h to the ت; and is thus pronounced in the Kur xxxviii. 22, (Bd, MF,) accord. to one reading. (Bd.) You say تِسْعَةُ رِجَالٍ [<i>Nine men</i>], and تِسْعٌ نِسْوَةٍ [<i>Nine women</i>]. (K.) When it means the things numbered, not the amount of the number, تسعة is imperf. decl., being regarded as a proper name: thus you say, تِسْعَةُ أَكْثَرُ مِنْ ثَمَانِيَةَ [<i>Nine things are more than eight things</i>]. (TA.) It is said in the Kur [xvii. 103], وَ لَقَدْ آتَيْنَا مُوسَى تِسْعَ آيَاتٍ بَيِّنَاتٍ [<i>And we formerly gave unto Moses nine evident signs;</i> generally understood to mean the principal miracles which he was empowered to perform, and which are differently enumerated in the K and other works; but by some supposed to mean statutes]. (K, * TA.) === In تِسْعَةَ عَشَرَ, which is masc., and تِسْعَ عَشْرَةَ, which is fem., [each signifying <i>Nineteen,</i>] each of the two words ends with fet-h in every case, because they are two nouns which are regarded as one noun. (TA.) The former is pronounced by some of the Arabs تِسْعَةَ عْشَرَ: and the latter, thus in the dial. of El-Hijáz [and of most of the Arabs], is pronounced تِسْعَ عَشِرَةَ in the dial. of Nejd. (S in art. عشر.) In the Kur lxxiv. 30, some read, تِسْعَةَ عْشَرَ, making the ع in عشر quiescent, instead of تِسْعَهَ عَشَرَ, from a dislike of this consecution of vowels in what is like one word. (Bd, TA. *)\nتِسْعُونَ , <i>Ninety:</i> and <i>ninetieth.</i>]\nمَتْسُوعٌ A rope <i>consisting of nine strands.</i> (TA.)\nمُتَسَّعٌ pass. part. n. of 2, q. v. See also مُثَلَّثٌ.]"
+}

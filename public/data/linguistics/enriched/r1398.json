@@ -1,0 +1,55 @@
+{
+  "rootId": "r1398",
+  "source": "lanes",
+  "enrichedAt": "2026-06-29T23:23:19.184Z",
+  "modelId": "claude-3-5-sonnet-human-curated",
+  "semanticCore": "standing; stability; establishing/rising",
+  "primaryMeaning": "To stand up, rise, establish, or straighten; to maintain or sustain.",
+  "quranicRelevance": "Extremely rich in the Quran: 1) Establishing prayers (إِقَامَةُ الصَّلَاةِ) (e.g. 2:3). 2) The Resurrection (يَوْمُ القِيَامَةِ) where all stand before God (e.g. 78:38). 3) A group of people or nation (قَوْم) (e.g. 49:11). 4) Divine attribute 'al-Qayyum' (القَيُّوم) - the Self-Sustaining, Eternal Maintainer of all (e.g. 2:255). 5) Maintaining justice (قَوَّامِينَ بِالْقِسْطِ) (e.g. 4:135). 6) The straight, upright religion (الدِّينُ القَيِّمُ) (e.g. 30:30).",
+  "keyDerivations": [
+    {
+      "lemma": "قَامَ",
+      "form": "Form I",
+      "meaning": "To stand, rise, or exist; to stand up for justice."
+    },
+    {
+      "lemma": "أَقَامَ",
+      "form": "Form IV",
+      "meaning": "To establish (prayer), set upright, or make straight."
+    },
+    {
+      "lemma": "اسْتَقَامَ",
+      "form": "Form X",
+      "meaning": "To be straight, upright, or steadfast (Istiqamah)."
+    },
+    {
+      "lemma": "قَوْمٌ",
+      "form": "Noun",
+      "meaning": "A people, nation, or community."
+    },
+    {
+      "lemma": "مَقَامٌ",
+      "form": "Noun of place",
+      "meaning": "A standing place, station, or position (pl. مَقَامَات)."
+    },
+    {
+      "lemma": "قَيُّومٌ",
+      "form": "Adjective (Intensive)",
+      "meaning": "The Self-Sustaining, Eternal Maintainer (attribute of God)."
+    },
+    {
+      "lemma": "قِيَامَةٌ",
+      "form": "Noun",
+      "meaning": "The Resurrection; the act of rising/standing."
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "To value or appraise property (تقويم)."
+  ],
+  "discardedNoise": [
+    "Various physical descriptions of a straight tree trunk or spear."
+  ],
+  "summaryEn": "The root قوم indicates stability and standing. In the Quran, it describes establishing worship (إِقَامَة), moral steadfastness (اسْتِقَامَة), the community of people (قَوْم), and the Day of Resurrection (قِيَامَة).",
+  "summaryAr": "يدور جذر قوم حول الوقوف والاستقرار والاستقامة. ويشمل في القرآن الكريم إقامة الصلاة، والاستقامة الأخلاقية، وجماعة الناس (قَوْم)، ويوم القيامة، والاسم الإلهي العظيم (القَيُّوم).",
+  "rawText": "أَقَامَ 4 <i>He set up, put up, set upright,</i> a thing. (Msb.) === أَقَامَهُ, said of food, [<i>It sustained him, supported him</i>]. (Msb.) === أَقَامَ عَلَى خَطَرٍ <i>He stood to a bet, wager,</i> or <i>stake.</i> (TA, voce نَدَِبٌ.) === أَقَامَ عَلَيْهِ الحَّدَ <i>He inflicted upon him the punishment termed</i> حَدٌّ. (Mgh, art. حد.) === أَقَامَ دَرْأَهُ: see درأ. === أَقَامَ لِلصَّلَاةَِ, inf. n. إِقَامَةٌ, <i>He</i> (the مُبَلِّغ) recited <i>the form of words called</i> إِقَامَة, q. v. infra. === أَقَامَ <i>He remained, continued, stayed, tarried, resided, dwelt,</i> or <i>abode,</i> in a place: <i>he remained stationary.</i> === أَقَامَ الصَّلَاةَ, <i>He observed prayer:</i> or أَدَامَ فِعْلَهَا. (S, Msb.) See also Bd, and Jel ii. 2. === أَقَامَ فِعْلًا <i>He performed an action.</i> === See 1. === أَقَامَهُ عَلَى الطَّرِيقِ <i>He made him to keep to the road:</i> and للقَصْدِ, <i>to the right way.</i> (L, art. لغد.) === See 10. === أَقَاَمَ الأَمْرَ <i>He put the affair</i> <i>into a right state;</i> like نَظَمَهُ: see the latter in the Msb. === أَقَامَهُ (K in art. عدل) <i>He made it to be conformable with that which is right;</i> namely, a judgment, a judicial decision. (TK in that art.) === See 2. === أَقَامَ بِهِ in the Hamáseh, p. 75, 1. 9, app. signifies <i>He stood in his stead.</i> === أَقَامَ <i>He observed,</i> or <i>duly performed,</i> a religious, or moral, ordinance or duty. === أَقَامَ البَيِّنَةَ [<i>He established the evidence</i> or <i>proof;</i> and so اقام بِهَا? the ب being redundant]. (Bd, iii. 68.) And [in like manner,] اقام حُجَّتَهُ <i>i. q.</i> أَثْبَتَهَا; (TA in art. ثبت;) and so, app., بِحُجَّتِهِ; the ب being redundant, as in an ex. voce خُطَّةٌ; but this is the only ex. that I know, and it is without explanation: Golius mentions the phrase أَقَامَ بِى عَلَيْكُمْ; but without indicating his authority. === أَقَامَ عَلَى حَالٍ <i>He abode,</i> or <i>continued, in a state,</i> or <i>condition;</i> and اقام على أَمْرٍ <i>the same;</i> and <i>he abode, continued, stayed,</i> or <i>waited, intent upon,</i> or <i>occupied in, an affair, a business,</i> or <i>a concern; he kept to it.</i>\nإِقَامَةٌ The <i>form of words chanted by the</i> مُبَلِّغ, not by the مُؤَذِّن, <i>consisting of the common words of the</i> أَذَان, <i>with the addition of</i> قَدْ قَامَتِ الصَّلَاةُ (<i>The time of prayer has come!</i>) <i>pronounced twice after</i> حَىَّ عَلَى الفَلَاحِ. See ثَوَّبَ.\nالدِّينُ القَيِّمُ (Kur ix. 36) <i>The right, correct,</i> or <i>true, reckoning.</i> (T in art. دين.) === قَيِّمُ الأَمْرِ <i>i. q.</i> 🡻مُقِيمُهُ and سَائِسُهُ: fem. قَيِّمَةٌ. (TA.) === قَيِّمٌ بِالأَمْرِ <i>A manager of an affair; i. q.</i> إِزَاؤُهُ. (S, Msb, art. ازى.) See قَامَ بِالأَمْرِ. === قَيِّمٌ <i>A manager, conductor, orderer, regulator, or superintendent,</i> of an affair: (TA:) <i>a manager, conductor,</i> &c., <i>of the affairs</i> of a people. (JK.) قَيِّمٌ عَلَى المَالِ <i>A good</i> [<i>manager and</i>] <i>tender of camels,</i> &c. (TA in art. بلو.)\nالرِّيَاحُ القُوَّمُ <i>The right</i> [or <i>cardinal</i>] <i>winds.</i> (S, voce نَكْبَاءُ.)\nالقَيُّومُ : see يَا قَيُّومُ in the last paragraph of art. شره, where I have rendered it on the authority of an explanation in the TA.\nالمِعَى المُسْتَقِيمُ <i>The rectum.</i>\nاِسْتَقَامَ 10 <i>It became right; direct; in a right state; straight: even: tended towards the right, or desired, point, or object; had a right direction, or tendency; was regular.</i> === اِسْتَقَامَ عَلَى طَرِيقِ الحَقِّ (K, art. رشد) <i>He continued in the way of truth, or the right way;</i> as also عَلَيْهِ === أَقَامَ? === لَمْ يَسْتَقِمِ الأَمْرُ <i>The affair was,</i> or <i>became, difficult:</i> see تَعَذَّرَ. === استقام لَهُ الأَمْرُ <i>The affair,</i> or <i>case, became in a right state for him;</i> syn. اِعْتَدَلَ. (S.) === اِسْتَقَامَ <i>He,</i> or <i>it, was,</i> or <i>became, right, direct, rightly directed, undeviating, straight,</i> or <i>even:</i> and <i>he,</i> or <i>it, stood right,</i> or <i>straight,</i> or <i>erect.</i> (MA, KL.) <i>He went right on, straight on,</i> or <i>undeviatingly:</i> (see زَعَبَ:) whence اِسْتَقَامَ عَلَى الطَّرِيقَةِ <i>he went on undeviatingly in the way.</i> (See Kur lxxii. 16.) <i>He went right; pursued a right course; acted rightly,</i> or <i>justly.</i> See also سَدَّ, with which it is syn. <i>It</i> (an affair) <i>was direct in its tendency,</i> or <i>had a right tendency. It</i> (discourse, &c.) <i>had a right tenour.</i> === See 2.\nتَقَاوَمُوهُ فِيمَا بَيْنَهُمْ 6 <i>They valued it,</i> or <i>estimated its price, among them.</i> (TA.)\nتَقَوَّمَ 5 <i>It subsisted:</i> see رُكْنٌ. === تَقَوَّمَ <i>It had a price; was valued.</i> === See 2.\nتَقْوِيمَاتٌ [pl. of تَقْوِيمٌ] <i>Stellar calculations.</i> (TA, voce اِيجٌ.)\nحَجَرٌ مُتَقَوِّمٌ (K, art. موس) <i>A precious stone.</i> (TA, same art.)\nدِينٌ قِيَمٌ <i>A right religion.</i> (Kur, vi. 162.) See دِرَّةٌ.\nقَائِمٌ <i>Appearing; conspicuous;</i> [as though standing before one]: <i>said of a thing whether standing or thrown down.</i> (TA, in explanation of the phrase هٰذَا نُصْبُ عَيْنِى, art. نصب.) === قَائِمَةٌ, pl. قَوَائِمُ, <i>Leg</i> of a horse, &c. === عَيْنٌ قَائِمَةٌ <i>An eye</i> [<i>blind,</i> or <i>white and blind, but still whole</i> or] <i>that has become white and blind, but not yet burst,</i> (AZ in L, art. سد,) or <i>sightless, but with the black still remaining.</i> (Mgh, Msb.) === قَائِمٌ and قَائِمَةٌ The <i>hilt</i> of a sword. (Msb.) === قَائِمَةٌ A <i>leg</i> of a table, and of a throne, or moveable seat, &c. (JK.) See also قَامَةٌ; and see إِسْنَادٌ. === قَوَمَةُ بَيْتِ النَّارِ (K, art. هربذ.) <i>The servants of the fire-temple.</i> (TA, same art.) === القَوَائِمُ <i>The winds.</i> So in a verse of Umeiyeh Ibn-Abi-s-Salt. (TA, voce سَدِرٌ.) === قَوَائِمُ المَائِدَةِ [<i>The legs of the table</i>]. (K, art. عقر.) === قَطٌّ قَائِمٌ <i>A nibbing in which the pith and the exterior of the reed are made of equal length:</i> opposed to مُصَوَّبٌ. (TA in art. حرف.) === مَآءٌ قَائِمٌ <i>Frozen water.</i> And <i>stagnant water:</i> see حِبَاك.\nقَامَ 1 <i>He stood still</i> (Ksh and Bd in ii. 19) <i>in his place.</i> (Ksh.) === قَامَتِ الدَّابَّةُ <i>The beast stopped</i> (S, K, TA) <i>from journeying,</i> (TA,) <i>from fatigue,</i> or <i>being jaded;</i> (S, TA;) <i>i. q.</i> انقطعت. (A.) And قَامَتْ عَلَيْهِ الدَّابَّةُ <i>His beast, being jaded, stopped with him, and moved not from its place.</i> (Mgh.) === قَامَ <i>He,</i> or <i>it, stood up,</i> or <i>erect;</i> syn. اِنْتَصَبَ. (K.) And hence, <i>He rose,</i> i. e. from sitting or reclining. === قَامَ بِاللَّيْلِ <i>He rose in the night</i> to pray. === قَامَ رَمَضَانَ <i>He passed the nights of Ramadán in prayer:</i> (El-'Alkarnee in a marginal note in a copy of the Jámi' es-Sagheer, voce مَنْ:) or <i>he performed the prayers</i> [<i>of Ramadán</i>] <i>called</i> التَّرَاوِيح. (En-Nawawee, ibid.) === قَامَتِ الصَّلَاةُ <i>The people rose to prayer:</i> or <i>the time of their doing so came.</i> (TA.) === قَامَتِ السَّاعَةُ <i>The resurrection,</i> or <i>the time thereof, came to pass.</i> === قَامَتِ الشَّمْسُ وَكَادَ الظِّلُّ يَعْقِلُ [<i>The sun became high, and the shade almost disappeared, at midday</i>]. (JK.) === قَامَ عَلَيْهِ <i>He rose up against him:</i> see a verse cited voce حُوبٌ. === قَامَ بِالأَمْرِ <i>He undertook the affair; took,</i> or <i>imposed, it upon himself;</i> syn. تَكَفَّلَ بِهِ; and the epithet is قَائِمٌ and قَيِّمٌ: (Ham, p. 5:) [and] <i>he managed, conducted, ordered, regulated,</i> or <i>superintended, the affair;</i> syn. سَاسَهُ; (TA in art. سوس;) and قام عَلَيْهِ has this latter signification; and <i>he tended,</i> or <i>took care of, it,</i> or <i>him;</i> syn. سَاسَهُ and وَلِيَهُ: (Ham ubi supra:) [and] the former signifies <i>he attended to the affair;</i> [<i>occupied himself with it</i>]; (this should be the first explanation;) <i>was mindful of it; kept to it constantly,</i> or <i>steadily;</i> and is <"
+}

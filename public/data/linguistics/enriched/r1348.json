@@ -1,0 +1,26 @@
+{
+  "rootId": "r1348",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:56:55.064Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Force, compulsion, lion, beasts of prey, or hunting wild beasts",
+  "primaryMeaning": "Lion/hunter or force",
+  "quranicRelevance": "Fleeing from a lion/hunter (Qaswarah - 'farrat min qaswaratin').",
+  "keyDerivations": [
+    {
+      "lemma": "قَسْوَرَةٌ",
+      "form": "Noun",
+      "meaning": "Lion, hunter, beast of prey, or force that terrifies"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "كَأَنَّهُمْ حُمُرٌ مُسْتَنْفِرَةٌ فَرَّتْ مِنْ قَسْوَرَةٍ (74:50-51): As if they were frightened donkeys fleeing from a lion/hunter."
+  ],
+  "discardedNoise": [
+    "Qasr (palace) - Q-S-R (different spelling).",
+    "Iqtisar (restriction) - distinct root."
+  ],
+  "summaryEn": "The root indicates a terrifying force or predatory beast (Qaswarah), comparing disbelievers fleeing from the Quran to wild zebras running from a hunting lion.",
+  "summaryAr": "تشير مادة هذا الجذر إلى الشدة والقهر والصيد وسباع البهائم كالأسد أو الرامي (قسر)، مشبهاً نفور الكفار من تذكير القرآن بحمر وحشية تفر ذعراً من أسد هصور أو صياد.",
+  "rawText": "تَقَسَّرَ 5 and 8: see 1.\nقَسَرَهُ عَلَى الأَمْرِ 1 , (S, K,) aor. ﹻ, (M, S, TA,) inf. n. قَسْرٌ; (S, TA;) and 🡻اقتسرهُعَلَيْهِ; (S, K;) <i>He made him to do the thing against his will;</i> (S;) <i>he forced him to do the thing:</i> (S, K:) or قَسَرَهُ على الامر has the former of these two significations; (TA;) and قَسَرَهُ and 🡻اقتسرهُ signify <i>he overcame him; he overpowered, subdued,</i> or <i>oppressed, him;</i> (M, TA;) and 🡻تقسّرهُ signifies the same as اقتسرهُ. (TA.)\nقَسْوَرٌ (S, TA) and قَسْوَرَةٌ, (K, TA,) the former a coll. gen. n., and the latter the n. un., (M,) <i>A certain plant,</i> (S, M, K,) <i>which grows in plain,</i> or <i>soft, land;</i> (M, K;) <i>a sour plant, of the kind called</i> نَجِيل, <i>which is like the</i> جُمَّة [or <i>full and long hair of the head</i>] <i>of a man, and becomes tall and large, of which camels are greedily fond,</i> (AHn, M,) <i>and which fattens them, and makes them plentiful in milk.</i> (Az, TA.) Lth is in error in saying that the former signifies a huntsman, or hunter; for it signifies a plant, as IAar and AHn and others have said. ___ See also قَسْوَرَةٌ, in two places.\nقَسْوَرَةٌ <i>Mighty;</i> (M, K;) <i>that overpowers,</i> or <i>subdues, others:</i> (M, TA:) also <i>strong;</i> applied to a man: and <i>courageous:</i> (TA:) pl. قَسَاوِرُ. (M.) === <i>A lion;</i> as also 🡻قَسْوَرٌ: (S, M, K:) because he overcomes and overpowers. (TA.) So in the Kur, [lxxiv. 51,] كَأَتَّهُمْ حُمُرٌ مُسْتَنْفِرَةٌ فَرَّتْ مِنْ قَسْوَرَةٍ [<i>As though they were asses taking fright and running away at random that have fled from a lion</i>]. (S, M.) Or it has here the signification next following. (S.) === <i>Hunters that shoot, or cast:</i> (S, K:) sing. 🡻قَسْوَرٌ; (K;) accord. to Lth.; [and in the M it is said that 🡻قَسْوَرٌ signifies <i>a shooter,</i> or <i>caster:</i> or, accord. to some, <i>a hunter:</i>] but this is a mistake; for قسورة is a coll. n., having no sing.; and Fr says, that in the verse of the Kur cited above, it means <i>shooters,</i> or <i>casters of missile weapons:</i> it is also related of 'Ikrimeh, that it was said to him that قسورة signifies, in the Abyssinian language, a lion; but he said that is signification is that given above on the authority of Fr, and that the lion in the Abyssinian language is called عَنْبَسَة: and Ibn-'Arafeh says قسورة is of the measure فَعْوَلَةٌ from القَسْرُ; and that the meaning [in the Kur] is, as though they were asses made to take fright and run away by shooting or hunting &c. (TA.) Or, accord. to I'Ab, in the passage above cited, it has the signification here next following. (IKt, TA.) ___ The <i>sound of men,</i> (IKt, K, TA,) <i>and their voices,</i> or <i>cries.</i> (IKt, TA.)\nقَوْسَرَةٌ and قَوْسَرَّةٌ dial. forms of قَوْصَرَةٌ and قَوْصَرَّةٌ, which see. (M, K.)"
+}

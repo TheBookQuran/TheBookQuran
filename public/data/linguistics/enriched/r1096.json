@@ -1,0 +1,52 @@
+{
+  "rootId": "r1096",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T00:58:39.998Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Enmity, running, exceeding limits, or side",
+  "primaryMeaning": "To exceed limits or run",
+  "quranicRelevance": "Enmity (Adawah), enemy (Aduw), exceeding boundaries (Udwan), and running of horses (Adiyat).",
+  "keyDerivations": [
+    {
+      "lemma": "عَدُوٌّ / أَعْدَاءٌ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Enemy / enemies"
+    },
+    {
+      "lemma": "عَدَاوَةٌ",
+      "form": "Noun",
+      "meaning": "Enmity, hostility, or hatred"
+    },
+    {
+      "lemma": "عُدْوَانٌ",
+      "form": "Noun",
+      "meaning": "Transgression, injustice, or exceeding limits"
+    },
+    {
+      "lemma": "عَادِيَاتٌ",
+      "form": "Noun / Active part. pl.",
+      "meaning": "Running horses, chargers"
+    },
+    {
+      "lemma": "عَدَا",
+      "form": "Form I Verb",
+      "meaning": "To transgress, exceed limits, or run"
+    },
+    {
+      "lemma": "اِعْتَدَى",
+      "form": "Form VIII Verb",
+      "meaning": "To transgress, exceed bounds, or commit aggression"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "العَادِيَاتِ ضَبْحًا (100:1): The chargers running and panting (representing active military movement).",
+    "عُدْوَانٌ: Exceeding the limits of justice (transgression)."
+  ],
+  "discardedNoise": [
+    "The side of a river valley (عُدْوَة) - though present in Quran, the specific details of land structure are secondary.",
+    "The running of wild asses."
+  ],
+  "summaryEn": "The root signifies enmity and exceeding boundaries, spanning terms for enemies (Aduw), transgression (Udwan), and the running chargers (Adiyat).",
+  "summaryAr": "يدل هذا الجذر على العداوة وتجاوز الحدود، جامعاً بين مصطلحات الأعداء (عدو)، والاعتداء والظلم (عدوان)، والخيول العاديات.",
+  "rawText": "أَعْدَى [a noun denoting the comparative and superlative degrees, and having several different significations]. أَعْدَى مِنَ الجَرَبِ <i>More transitive,</i> or <i>wont to pass from one to another, than the mange,</i> or <i>scab,</i> is a prov. (Meyd.) And أَعْدَى مِنَ الثُّؤَبَآءِ is another prov., having a similar meaning [i. e. <i>More wont to pass from one to another,</i> or, as we commonly say, <i>more catching, than yawning</i>]; (Meyd;) for when a man yawns in the presence of others, they become affected as he is. (TA in art. ثأب.) === أَعْدَى مِنَ الذِّئْبِ is also a prov., and may mean <i>More wrongful,</i> or <i>more inimical,</i> or <i>more vehement in running, than the wolf.</i> (Meyd.) أَعْدَى مِنْ سُلَيْكٍ, another prov., (expl. in the latter half of the first paragraph,) is from العَدْوُ. (Meyd.) === هُوَ أَعْدَى شَىْءٍ [app. meaning <i>It is the most effectual thing to aid,</i> or <i>assist,</i> or <i>to avenge;</i> أَعْدَى in this case being irregularly formed from the augmented verb in the phrase أَعْدَاهُ عَلَيْهِ]. (TA in art. ادو: see آدَى in that art.)\nإِعْتَدَوَ 8 see 1, second quarter, in three places. === الاِعْتِدَآءُ in supplication [to God] is <i>The exceeding the limits of the</i> [<i>Prophet's</i>] <i>rule,</i> or <i>usage, that has been transmitted from generation to generation.</i> (TA.)\nاعدى الأَمْرَ 4 <i>He passed from,</i> or <i>beyond, another, to the thing,</i> or <i>affair:</i> so in the K. (TA.) But in the M it is said, اعداهُ الدَّآءُ signifies <i>The disease passed from another to him.</i> (TA.) And one says أَعْدَى فُلَانٌ فُلَانًا مِنْ خُلُقِهِ, or مِنْ عِلَّةٍ بِهِ, or جَرَبٍ, (S, TA,) i. e. <i>Such a one made somewhat of his natural disposition,</i> or <i>of a disease,</i> or <i>malady, that was in him,</i> or <i>of mange,</i> or <i>scab, to pass</i> [<i>from him</i>] <i>to such a one;</i> [or <i>infected him therewith;</i> (see two exs., in a verse and a hemistich, cited in the first paragraph of art. جنى;)] and اعداهُ بِهِ signifies the same: and اعدى صَاحِبَهُ <i>He made his companion to acquire the like of what was in him.</i> (TA.) And يُعْدِى is said of the mange, or scab, &c., meaning <i>It passes from him that has it to another;</i> (S, K;) and in like manner one says of a disease, 🡻يتعدّى: (Nh, TA:) but it is said in an explanation of a trad., لَا يُعْدِى شَىْءٌ شَيْئًا [i. e. <i>A thing</i> (meaning disease) <i>does not pass</i> by its own agency <i>to a thing</i>]. (S, TA.) [Therefore] one says, of the mange, or scab, [or the like,] اعداهُ ٱللّٰهُ <i>God made it to pass from him that had it to one that was near to him, so that he became affected therewith.</i> (Msb.) === One says also, of a man, قَدْ أَعْدَى النَّاسَ بِشَرٍّ <i>He has made evil,</i> or <i>mischief, to cleave to men.</i> (TA.) ___ See also 1, near the middle, in two places. ___ اعداهُ عَلَيْهِ <i>He aided,</i> or <i>assisted, him,</i> (S, Mgh, Msb, K,) <i>and strengthened him,</i> (K,) <i>against him;</i> (S, Mgh, Msb, K;) <i>and avenged him of him;</i> (S, Msb;) namely, one who had wronged him. (S, Mgh, Msb.) And اعداهُ <i>He</i> (a judge) <i>heard his accusation against another, and commanded to bring his adversary.</i> (Mgh.) ___ اعداهُ, (S, Msb, K, TA,) namely, a horse, (S, TA,) and also a man, (TA,) [<i>He made him to run,</i> whether <i>gently</i> or <i>moderately</i> or <i>vehemently:</i> or, as sometimes used,] <i>he made him,</i> (K, TA,) or <i>desired him,</i> (S,) <i>to go the pace termed</i> حُضْر: (S, K, TA:) or <i>he made him to go a pace nearly the same as that termed</i> هَرْوَلَة, (Msb, TA,) <i>not so quick,</i> (TA,) or <i>which is not so quick,</i> (Msb,) <i>as that termed</i> جَرْى: (Msb, TA: [see 1, latter half:]) and 🡻استعداهُ signifies the same. (S.)\nالاِسْتِعْدَآءُ 10 signifies <i>The asking,</i> or <i>demanding, of aid,</i> or <i>assistance,</i> (Mgh, Msb,) and <i>of vengeance,</i> or <i>avengement,</i> (Mgh,) and <i>of strengthening:</i> (Msb:) and also <i>the</i> act of <i>aiding,</i> or <i>assisting.</i> (Mgh.) You say, استعداهُ <i>He asked,</i> or <i>demanded, of him</i> (i. e. the prince, or governor, or commander, S, Mgh, Msb) <i>aid,</i> or <i>assistance,</i> (S, Mgh, Msb, K,) عَلَيْهِ <i>against him,</i> (S, Mgh, Msb,) namely, one who wronged him: (Mgh, Msb:) [or,] accord. to El-Khuwárezmee (who derives it from العَدِىُّ signifying الرَّجَّالَةُ الَّذِينَ يَعْدُونَ), استعدى [or استعدى القَاضِىَ] means <i>he asked,</i> or <i>demanded, of the judge, that he should make his foot-messengers to run in quest of his antagonist and to bring him, for the purpose of exacting from him his right,</i> or <i>due.</i> (De Sacy's Chrest. Arabe, sec. ed., iii. 100. [And an explanation similar to this, but not a similar derivation, is indicated in the Mgh by an explanation of أَعْدَاهُ, q. v.]) === See also 4, last sentence.\nتعادى القَوْمُ 6 <i>The people,</i> or <i>party, became affected,</i> [or <i>infected,</i>] or <i>smitten,</i> (S, TA,) <i>one with the disease of another,</i> or <i>one with the like of the disease of another:</i> (S:) or <i>died, one after another,</i> (S, TA,) <i>in one month,</i> and <i>in one year.</i> (TA.) And تعادت الإِبِلُ <i>The camels died in great numbers.</i> (TA.) === And تعادى القَوْمُ عَلَىَّ بِنَصْرِهِمْ <i>The people,</i> or <i>party, came upon me consecutively with their aid,</i> or <i>assistance.</i> (TA.) === One says also, تعادى القَوْمُ (S, K) from العَدَاوَةُ (S) meaning <i>The people,</i> or <i>party, treated,</i> or <i>regarded, one another with enmity,</i> or <i>hostility.</i> (K.) === And تعادى مَا بَيْنَهُمْ (S, K) <i>The case,</i> or <i>affair, that was between them became in a bad,</i> or <i>corrupt, state,</i> (S,) or <i>complicated, intricate,</i> or <i>confused, so as to be a subject of disagreement,</i> or <i>difference, between them.</i> (K.) === And تعادى المَكَانُ <i>The place was,</i> or <i>became, dissimilar in its several parts;</i> and <i>uneven.</i> (TA.) And [hence] one says, بِعُنُقِى وَجَعٌ مِنْ تَعَادِى الوِسَادِ مِنَ المَكَانِ المُتَعَادِى i. e. [<i>In my neck is a pain from the unevenness of the pillow from</i>] <i>the uneven place.</i> (TA.) === And تعادى <i>He,</i> or <i>it, was,</i> or <i>became, distant, remote, far off,</i> or <i>aloof,</i> (S, * K, * TA,) عَنْهُ <i>from him,</i> or <i>it.</i> (S, TA.) ___ تعادوا <i>They vied, competed,</i> or <i>contended for superiority, in going the pace termed</i> العَدْو [meaning <i>in running</i>]. (K, TA.)\nتَعَادٍ <i>Uneven places,</i> (K, TA,) <i>dissimilar in their several parts:</i> occurring in this sense in a trad. (TA.) As mentions the saying مَكَانٍ 🡻مُتَعَادٍنِمْتُ عَلَى, meaning [<i>I slept upon</i>] <i>a place dissimilar in its several parts; uneven:</i> and أَرْضٌ 🡻مُتَعَادِيَةٌهٰذِهِ <i>This is land having in it burrows, and</i> [<i>trenches,</i> or <i>channels, such as are termed</i>] لَخَاقِيق. (S, TA.)\nتَعَدَّوَ 5 see 1, first quarter, in two places: and see 4. === [Hence تعدّى said of a verb, <i>It was,</i> or <i>became, transitive.</i>] === تعدّى الحَقَّ: and تعدّى عَلَيْهِ: see 1, second quarter, in two places. ___ تَعَدَّوْا <i>They found milk,</i> (K, TA,) <i>which they drank,</i> (TA,) <i>and it rendered them in no need of wine:</i> (K, TA:) so in the copies of the K; but correctly, <i>of flesh-meat,</i> as in the M. (TA.) === And <i>They found pasturage for their cattle, and it rendered them in no need of purchasing fodder.</i> (K, * TA.) ___ And تعدّى مَهْرَ فُلَانَةَ <i>He took,</i> or <i>received, the dowry,</i> or <i>bridal gift, of such a woman.</i> (K.)\nعاداهُ 3 , (K, TA,) inf. n. مُعَادَاةٌ, (S, K, TA,) [<i>He treated him,</i> or <i>regarded him, with enmity,</i> or <i>hostility:</i>] the verb in this phrase is that of which the epithet is عَدُوٌّ, and the subst. is عَدَاوَةٌ. (K, TA.) [It is perhaps from one of the three phrases next following]. === عادى الشَّىْءَ signifies <i>He was,</i> or <i>became, distant,</i> or <i>aloof, from the thing;</i> or <i>he made"
+}

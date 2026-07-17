@@ -1,0 +1,31 @@
+{
+  "rootId": "r1576",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:07:33.756Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Tearing up, shredding, dispersing, scattering, or pieces",
+  "primaryMeaning": "Tearing to pieces/dispersing",
+  "quranicRelevance": "Torn/shredded to pieces in death (Muzziqtum - 'itha muzziqtum'), and dispersing communities ('mazzaqnahum').",
+  "keyDerivations": [
+    {
+      "lemma": "مَزَّقَ / يُمَزِّقُ",
+      "form": "Form II Verb",
+      "meaning": "To tear up, shred, disperse, scatter to pieces, or disintegrate"
+    },
+    {
+      "lemma": "مُمَزَّقٌ",
+      "form": "Noun / Inf. n. place",
+      "meaning": "Tearing, shredding, or state of being scattered to pieces"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "هَلْ نَدُلُّكُمْ عَلَىٰ رَجُلٍ يُنَبِّئُكُمْ إِذَا مُزِّقْتُمْ كُلَّ مُمَزَّقٍ إِنَّكُمْ لَفِي خَلْقٍ جَدِيدٍ (34:7): 'Shall we direct you to a man who informs you that when you have been torn/shredded to pieces, you will be in a new creation?' (pagan mockery of resurrection)."
+  ],
+  "discardedNoise": [
+    "Tearing clothes in grief ceremonies.",
+    "Modern paper shredder machines."
+  ],
+  "summaryEn": "The root represents tearing and dispersing, detailing the pagan mockery of skeletal decomposition (Muzziqtum) and the dispersal of the Sabian nation (Mazzaqnahum) after the flood.",
+  "summaryAr": "يمثل هذا الجذر التزييق والتمزيق والتشتيت كامل الأجزاء، واصفاً سخرية كفار قريش من فناء الأجسام وتفتتها (مُزّقتم كل ممزق)، وتشتيت سبأ بعد طوفان العرم.",
+  "rawText": "تَمَزَّقَ عَلَيْهِ عَقْلُهُ 5 † [<i>His intellect became shattered,</i> or <i>dissipated,</i> or <i>impaired</i>]. (TA in art. رَقَعَ.) And تَمَزَّقَ عَلَيْهِ رَأْيُهُ وَأَمْرُهُ † [<i>His judgment,</i> and <i>his state of affairs</i> or <i>circumstances, became shattered, disorganized, dissipated, marred,</i> or <i>impaired.</i> (A and TA in art. رقع.) See مَزَّقَ, of which تَمَزَّقَ is quasi-pass. === تَمَزَّقُوا † <i>They became scattered,</i> or <i>dispersed.</i> (TA.) === تَمَزَّقَ عِرْضُهُ † <i>His honour,</i> or <i>reputation, became mangled, rent,</i> or <i>shattered,</i> or <i>marred.</i>\nمَزَّقَ 2 † <i>He scattered,</i> or <i>dispersed.</i> (Kur, xxxiv, 18; and Expos. of the Jeláleyn.) === [مَرَّقَ, used tropically, may sometimes be rendered † <i>He mangled, rent much,</i> or <i>dissundered;</i> but more generally, † <i>he,</i> or <i>it, shattered, disorganized,</i> or <i>dissipated;</i> or † <i>he,</i> or <i>it, marred,</i> or <i>impaired;</i> being opposed to أَصْلَحَ, or to رَقَعَ or رَقَّعَ, in the sense of أَصْلَحَ, as in an ex. cited voce رَقَعَ; sometimes several of these renderings will be found to be appropriate in a single instance. You say, مَزَّقَ عِرْضَهُ † <i>He mangled, rent,</i> or <i>shattered,</i> or <i>marred, his honour,</i> or <i>reputation.</i> And مَزَّقَ عَقْلَهُ, and رَأْيَهُ, and أَمْرَهُ, † <i>It shattered,</i> or <i>disorganized</i> or <i>dissipated,</i> or <i>it marred</i> or <i>impaired, his intellect,</i> and <i>his judgment,</i> and <i>his state of affairs</i> or <i>circumstances.</i>] === مَزَِّقَهُ <i>He rent it,</i> or <i>tore it, much;</i> or <i>in several,</i> or <i>many, places. mangled,</i> or <i>dissundered, it;</i> and <i>cut it much;</i> &c. (TA.)\nمَزْقٌ The <i>rending, tearing,</i> or <i>slitting,</i> a garment and the like. (JK.)\nمِزَاقٌ [A she-camel] <i>whose skin almost becomes rent in pieces by reason of her swiftness.</i> (O in art. عنسق.)\nمِزْقَةٌ <i>A piece torn off</i> of a garment (S, K *) &c. (K.)"
+}

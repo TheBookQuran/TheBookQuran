@@ -1,0 +1,31 @@
+{
+  "rootId": "r1957",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:07:33.756Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Driving away (dog), despised, losing, dimming (sight), or reject",
+  "primaryMeaning": "Driving away (dog-like) or being despised",
+  "quranicRelevance": "Staying in Hell like driven dogs (Ikhsa'oo - 'ikhsaoo feeha'), despised apes ('khasi-eena'), and dim sight ('khasi-an').",
+  "keyDerivations": [
+    {
+      "lemma": "خَسَأَ / يَخْسَأُ",
+      "form": "Form I Verb",
+      "meaning": "To drive away, retreat, turn back, grow dim, or be rejected"
+    },
+    {
+      "lemma": "خَاسِئٌ / خَاسِئِينَ",
+      "form": "Adjective / Active part. pl.",
+      "meaning": "Despised, driven away, humiliated, or rejected (like dogs)"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "ثُمَّ ارْجِعِ الْبَصَرَ كَرَّتَيْنِ يَنْقَلِبْ إِلَيْكَ الْبَصَرُ خَاسِئًا وَهُوَ حَسِيرٌ (67:4): Then return your vision twice; your vision will return to you defeated/dimmed and fatigued."
+  ],
+  "discardedNoise": [
+    "Financial losses (Khasarah) - belonging to kh-s-r.",
+    "Modern dog training whistles."
+  ],
+  "summaryEn": "The root represents dog-like rejection, applied to the humiliation of sinners in Hell (Ikhsa'oo), the transformation of rebels into despised apes, and the defeated sight finding no cosmic flaws.",
+  "summaryAr": "يمثل هذا الجذر زجر الكلب ذليلاً والإبعاد المذل، واصفاً زجر الله لأهل النار كالكلاب (اخسؤوا فيها)، ومسخ العصاة قردة ذليلة، وارتداد البصر خائباً.",
+  "rawText": "إِنْخَسَاَ 7 see 1.\nتَخَاْسَاَ 6 see 3.\nخَاسَؤُوا 3 , (K,) inf. n. مُخَاسَأَةٌ, (S,) ‡ <i>They threw stones, one at another;</i> (S, K;) as also 🡻تخاسؤوا, (K,) or تخاسؤوا بِالحِجَارَةِ. (S.) And كَانَتْ بَيْنَهُمْ مُخَاسَأَةٌ ‡ [<i>There was between them a contending in throwing,</i> or <i>throwing of stones</i>]. (S, TA.) [See also art. خسى.] === And هُوَ يُخَاسِئُ means يُقَامِرُ [<i>He contends in a game of hazard</i>]. (IB, TA in art. خسو.)\nخَاسِئٌ , applied to a dog, and to a swine, (K,) and to a devil, (TA,) <i>Driven away, repelled, and not suffered to come near to men.</i> (K, TA.) === And [hence,] † <i>Contemptible, despicable, vile,</i> or <i>abject.</i> (TA.) === Applied to the sight, ‡ <i>Dazzled,</i> or <i>confused,</i> (S, TA,) and <i>dim.</i> (TA.) So in the words of the Kur [lxvii. 4], يَنْقَلِبُ إِلَيْكَ البَصَرُ خَاسِئًا ‡ [<i>The sight will recoil to thee dazzled,</i> or <i>confused,</i> or <i>dim</i>]: (S, TA:) or the meaning here is † <i>contemptible:</i> or <i>withdrawing far away:</i> or it is of the measure فَاعِلٌ in the sense of the measure مَفْعُولٌ, [meaning <i>repelled far away,</i>] like عِيشَةٍ رَاضِيَةٍ, in the Kur [lxix. 21 and ci. 5], for مَرْضِيَّةٍ. (TA.)\nخَسَأَ 1 , (S, K,) aor. ﹷ, (K,) inf. n. خَسْءٌ (S, K) and خُسُوْءٌ, (K,) <i>He drove away</i> a dog: (S, K:) <i>he chid</i> him. (Lth.) ___ It is also intrans., (S,) and signifies <i>He</i> (a dog) <i>went away, to a distance;</i> (S, * K;) [<i>being driven away,</i> or <i>chidden;</i>] as also خَسِئَ, (K,) and 🡻انخسأ. (S, K.) === [Hence,] tropically, said to a man, اِخْسَأْ إِلَيْكَ, meaning اِخْسَأْ عَنِّى ‡ [<i>Go thou away:</i> or <i>go thou away from me</i>]. (TA.) اِخْسَؤُوا فِيهَا وَ لَا تُكَلِّمُونِ, in the Kur [xxiii. 110], is expressive of removal to a distance with anger; [meaning † <i>Go ye away into it,</i> (i. e. the fire of Hell,) <i>and speak not unto Me.</i>] (Zj.) === [And hence, † <i>He was,</i> or <i>became, vile and despised and hated:</i> so says Golius, as on the authority of the KL; but this meaning is not in my copy of that work: it agrees, however, with a signification of the part. n. خَاسِئٌ, q. v.] ___ Also, inf. n. خَسْءٌ and خُسُوْءٌ [as above], said of the sight, (AZ, S, K,) ‡ <i>It was,</i> or <i>became, dazzled,</i> or <i>confused,</i> (AZ, S, TA,) and <i>dim.</i> (K, TA.)\nخَسِىْءٌ <i>Bad</i> wool. (O, K.)"
+}

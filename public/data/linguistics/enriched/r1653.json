@@ -1,0 +1,26 @@
+{
+  "rootId": "r1653",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:23:40.664Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Palm tree, sifting, refining, or selection",
+  "primaryMeaning": "Date palm",
+  "quranicRelevance": "Date palm trees (Nakhl/Nakhlah - 'wa jannatin min nakheelin').",
+  "keyDerivations": [
+    {
+      "lemma": "نَخْلٌ / نَخْلَةٌ",
+      "form": "Noun / Noun sing.",
+      "meaning": "Date palm tree, or palm grove"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَهُزِّي إِلَيْكِ بِجِذْعِ النَّخْلَةِ (19:25): And shake toward you the trunk of the palm tree (Mary's birth support)."
+  ],
+  "discardedNoise": [
+    "Sifting flour (نخل) using a sieve - original classical root.",
+    "Details of dates harvesting tools."
+  ],
+  "summaryEn": "The root refers to date palm trees, representing premium agricultural blessings, Mary's childbirth shelter, and structural metaphors.",
+  "summaryAr": "تشير هذه المادة إلى النخل والتمور، ممثلة النعمة الزراعية الفاخرة للواحات، ومستند السيدة مريم عند مخاض الولادة.",
+  "rawText": "اِنْنَخَلَهُ 8 <i>He cleared it</i> [or <i>sifted it</i>]; as also 🡻نَخَلَهُ and 🡻تَنَخَّلَهُ: (K [see سَفْسَفَهُ]:) or <i>he took the best of it</i> (S, Msb) <i>to the utmost:</i> (S:) or <i>he chose the best of it for himself.</i> (TA.)\nتَنَخَّلَ 5 see 8.\nنَخْلِىٌّ <i>A cultivator of palm-trees:</i> see عَطَلٌ.\nنَخڤلَ 1 see 8.\nنُخَالٌ <i>Bran.</i>"
+}

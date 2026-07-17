@@ -1,0 +1,26 @@
+{
+  "rootId": "r1355",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:56:55.064Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Shivering, shuddering of the skin, goosebumps from fear/awe, or hair standing on end",
+  "primaryMeaning": "Shivering/shuddering of the skin",
+  "quranicRelevance": "Skins shiver from it (Taqsha'irru - 'taqsha'irru minhu').",
+  "keyDerivations": [
+    {
+      "lemma": "اِقْشَعَرَّ / يَقْشَعِرُّ",
+      "form": "Form IV (Quadriliteral)",
+      "meaning": "To shiver, shudder, experience goosebumps, or tremble from fear/awe"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "اللَّهُ نَزَّلَ أَحْسَنَ الْحَدِيثِ كِتَابًا مُتَشَابِهًا مَثَانِيَ تَقْشَعِرُّ مِنْهُ جُلُودُ الَّذِينَ يَخْشَوْنَ رَبَّهُمْ (39:23): God has sent down the best statement... whereat shiver the skins of those who fear their Lord."
+  ],
+  "discardedNoise": [
+    "Qush'areerah (common cold fever) - medical context.",
+    "General skin peeling."
+  ],
+  "summaryEn": "The root signifies physical shuddering from awe (Qash'ar), describing the profound physiological response of believers experiencing the power of Quranic recitation.",
+  "summaryAr": "يمثل هذا الجذر اقشعار الجلد وارتعاده ووقوف الشعر هيبة ورهبة (قشعر)، مصوراً الأثر الحسي العظيم لقراءة القرآن على قلوب وأجساد خاشعي الله.",
+  "rawText": "أَخَذَتْهُ قُشَعْرِيرَةٌ (S, K) <i>A tremor, quaking,</i> or <i>quivering, of the skin seized him.</i> (K.)\nإِقْشَعَرَّ , said of the skin, (S, K,) <i>It quaked; shuddered; was,</i> or <i>became, affected by a tremor, quaking,</i> or <i>quivering.</i> (K.) [And in like manner said of a man, (see the part. n., below,) i. e. <i>He quaked,</i> or <i>shuddered.</i>] === <i>It</i> (the skin) <i>dried up</i> (قَفَّ) by reason of mange, or scab. (TA.) === إِقْشَعَرَّتِ الأَرْضُ <i>The earth became of a colour inclining to that of dust,</i> or <i>ashes,</i> (إِرْبَدَّت,) <i>and contracted,</i> by reason of drought. (TA.) === اقشعرّت السَّنَةُ ‡ <i>The year became one of drought.</i> (K, * TA:)\nقشعر\nقُشَاعِرٌ <i>Rough to the touch;</i> خَشِنُ المَسِّ: (K, accord. to the TA:) or <i>rough, and advanced in years;</i> خَشِنٌ مُسِنٌّ, with the art. الخَشِنُ المُسِنُّ. (CK, and a MS. copy of the K.)\nمُقْشَعِرٌّ , applied to a man, [<i>Having a quaking</i> or <i>shuddering of the skin,</i>] has for its pl. قَشَاعِرُ, without the م because it is augmentative. (S.)"
+}

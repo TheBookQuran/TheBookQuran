@@ -1,0 +1,26 @@
+{
+  "rootId": "r1725",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:11:50.470Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Disdaining, refusing in pride, turning away, wipe tears, or shy",
+  "primaryMeaning": "Disdaining/refusing in pride",
+  "quranicRelevance": "Disdaining to be a servant of God (Yastankifa - 'lan yastankifa al-maseehu', 'yastankifoon').",
+  "keyDerivations": [
+    {
+      "lemma": "اِسْتَنْكَفَ / يَسْتَنْكِفُ",
+      "form": "Form X Verb",
+      "meaning": "To disdain, refuse in pride, turn away haughtily, or deem beneath oneself"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "لَنْ يَسْتَنْكِفَ الْمَسِيحُ أَنْ يَكُونَ عَبْدًا لِلَّهِ وَلَا الْمَلَائِكَةُ الْمُقَرَّبُونَ (4:172): The Messiah would never disdain to be a servant of God, nor would the close angels (countering Christian/pagan deifications)."
+  ],
+  "discardedNoise": [
+    "Wiping tears off cheeks (Nakeef).",
+    "Turning away from a path."
+  ],
+  "summaryEn": "The root represents haughty disdain (Istinkaf), refuting claims of Jesus' divinity by stating that neither he nor the angels disdain serving God.",
+  "summaryAr": "يمثل هذا الجذر الترفع والأنفة والكبر والاستنكاف، مؤكداً تواضع المسيح والملائكة ونفي استنكافهم عن العبودية الحقة لله (لن يستنكف المسيح).",
+  "rawText": "اِسْتَنْكَفَ مِنْهُ 10 (KL, * MA) <i>He disdained,</i> or <i>scorned, it; was ashamed of it.</i> (KL, MA.) See 1.\nتَنَكَّفَ بِمَوْضِعِ كَذَا 5 [<i>He waited,</i> &c.,] <i>i. q.</i> تَلَيَّثَ. (TA in art. صقر, from the “ Nawádir. ”)\nنَكَفَةٌ : see غُنْدُبَةٌ, and لُغْدٌ.\nنَكِفَ مِنَالشَّىْءِ 1 , aor. ﹷ; inf. n. نَكَفٌ; and نَكَفَ, aor. ﹹ; and 🡻استنكف; <i>He abstained from, or refused to do, the thing, from disdain and pride.</i> (Msb.)"
+}

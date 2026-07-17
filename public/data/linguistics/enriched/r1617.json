@@ -1,0 +1,26 @@
+{
+  "rootId": "r1617",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:07:33.756Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Weakness, despised, thin, serving, humbleness, or low fluid",
+  "primaryMeaning": "Despised/weak",
+  "quranicRelevance": "Despised fluid of semen (Maheen - 'ma-in maheenin'), and a worthless/despised oath-taker ('hallafin maheenin').",
+  "keyDerivations": [
+    {
+      "lemma": "مَهِينٌ",
+      "form": "Adjective",
+      "meaning": "Despised, weak, worthless, low, insignificant, or humble"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "ثُمَّ جَعَلَ نَسْلَهُ مِنْ سُلَالَةٍ مِنْ مَاءٍ مَهِينٍ (32:8): Then He made his progeny from an extract of a despised/weak fluid (humble origin of human creation)."
+  ],
+  "discardedNoise": [
+    "Professional careers (Mihnah) - spelling overlap in root.",
+    "Domestic servants (Mihan) in old houses."
+  ],
+  "summaryEn": "The root represents lowliness (Mahanah), describing the humble fluid of reproduction (Maheen) to challenge human pride and condemning worthless, lying flatterers.",
+  "summaryAr": "يمثل هذا الجذر القلة والضعف والحقارة والمهانة، واصفاً سلالة التكاثر بالماء المهين الضعيف تنبيهاً للإنسان عن كبره، وذاماً حلاف المذلة (مهين).",
+  "rawText": "اِمْتَهَنَهُ 8 <i>He used it for service and work:</i> (K:) <i>i. q.</i> اِبْتَذَلَهُ, q. v.: (S, Msb:) <i>He held it in mean estimation.</i> (Har, p. 65.)\nمَهِينٌ <i>Contemptible; abject:</i> (S, K) <i>weak: having little judgment and discrimination.</i> (K.)\nمَِهْنَةٌ [is syn. with عَمَلٌ and فِعْلٌ, and means <i>work, labour,</i> or] <i>service; ministration; performance of an office.</i> (S, &c.) === Also, The <i>clothes worn in service, or in the performance of business.</i> (Msb.)"
+}

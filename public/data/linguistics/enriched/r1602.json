@@ -1,0 +1,26 @@
+{
+  "rootId": "r1602",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:52:16.826Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Whistling, blowing with the mouth, sound of a bird, or empty whistling wind",
+  "primaryMeaning": "Whistling",
+  "quranicRelevance": "Whistling and clapping (Mukaan - 'illa mukaan').",
+  "keyDerivations": [
+    {
+      "lemma": "مُكَاءٌ",
+      "form": "Noun/Inf. Noun",
+      "meaning": "Whistling, high-pitched mouth whistling, or bird whistling sounds"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَمَا كَانَ صَلَاتُهُمْ عِنْدَ الْبَيْتِ إِلَّا مُكَاءً وَتَصْدِيَةً (8:35): And their prayer at the House was nothing but whistling and hand-clapping (distracting pagan rituals)."
+  ],
+  "discardedNoise": [
+    "Makkah (city of Mecca) - unrelated proper noun M-K-K.",
+    "Maka (to suck) - colloquial."
+  ],
+  "summaryEn": "The root refers to whistling sounds (Mukaan), condemning the pagan rituals of Quraysh who whistled and clapped around the Kaaba to mock and disrupt Islamic prayers.",
+  "summaryAr": "يشير هذا الجذر إلى الصفير بالشبك باليد والنفخ بالفم كصفير الطائر (مكو)، مستنكراً تحول عبادة مشركي قريش عند الكعبة إلى مجرد صفير (مكاء) وتصفيق.",
+  "rawText": "مُكَّآءٌ <i>The bird so called,</i> because of its colour: see أَخْرَجُ."
+}

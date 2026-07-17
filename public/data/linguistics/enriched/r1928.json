@@ -1,0 +1,42 @@
+{
+  "rootId": "r1928",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:12:08.450Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Transgression, exceeding limits, flooding, or tyranny",
+  "primaryMeaning": "To transgress or tyrannize",
+  "quranicRelevance": "Exceeding moral bounds/tyranny (Tughyan), Pharaoh as a tyrant ('tagha'), flooding of water ('tagha al-ma''), and false deities (Taghoot).",
+  "keyDerivations": [
+    {
+      "lemma": "طَغَى",
+      "form": "Form I Verb",
+      "meaning": "To transgress, exceed bounds, overflow, or tyrannize"
+    },
+    {
+      "lemma": "طُغْيَانٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Transgression, rebellion, tyranny, or excess"
+    },
+    {
+      "lemma": "طَاغُوتٌ",
+      "form": "Noun",
+      "meaning": "False deities, idols, Satan, or tyrants (who exceed bounds)"
+    },
+    {
+      "lemma": "طَاغِيَةٌ",
+      "form": "Noun / Active part.",
+      "meaning": "Tyrant, or overwhelming calamity/blast"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "لَمَّا طَغَى المَاءُ (69:11): When the water rose high / overflowed (the Flood).",
+    "بِالطَّاغِيَةِ (69:5): By the overwhelming cry/blast."
+  ],
+  "discardedNoise": [
+    "Specific details of pre-Islamic idol temples.",
+    "Obscure details of river silt deposits."
+  ],
+  "summaryEn": "The root denotes crossing boundaries, capturing human pride and tyranny (Tughyan), false gods (Taghoot), and overflowing natural disasters.",
+  "summaryAr": "يدل هذا الجذر على مجاوزة الحدود، ممثلاً الاستكبار البشري والطغيان (طغيان)، والشرك والأوثان (طاغوت)، والكوارث الطبيعية العارمة.",
+  "rawText": "طغى 1 , (As, O, K,) [aor., app., ﹻ,] inf. n. طَفٌّ, (TK, [or, accord. to Freytag طُفُوفٌ, which see in what follows,]) <i>It</i> (a thing) <i>was,</i> or <i>became, near.</i> (As, O, K.) You say, أَخَذْتُ مِنْ مَتَاعِى مَا خَفَّ وَطَفَّ i. e. [<i>I took, of my goods,</i>] <i>what</i> [<i>was light, and</i>] <i>was near</i> to me. (As, O.) And طَفَّ الشَّىْءُ مِنَ الشَّىْءِ <i>The thing was,</i> or <i>became, near to the thing.</i> (O, K. *) And خُذْ مَا طَفَّ لَكَ, and 🡻ٱسْتَطَفَّلَكَ, (S, Meyd, O, K,) and 🡻أَطَفَّلَكَ, (Meyd, O, TA,) <i>Take thou what has risen to thee, and become within thy power</i> or <i>reach,</i> (S, O, K, TA,) <i>and become attainable</i> [<i>to thee</i>], or <i>prepared</i> [<i>for thee</i>], (AZ, Meyd, TA,) <i>and become near to thee:</i> (K, TA:) or <i>what has risen to view,</i> and <i>has appeared,</i> [<i>to thee,</i>] <i>to be taken:</i> (TA:) [for] طَفَّ, inf. n. طُفُوفٌ, signifies <i>it rose</i> [app. <i>so as to become visible</i>]: and <i>it was,</i> or <i>became, little in quantity:</i> the saying is a prov., relating to a man's being content with a part of that which he wants: (Meyd:) and in like manner one says, خُذْ مَا دَفَّ لَكَ, and ٱسْتَدَفَّ: (AZ, Meyd, TA:) and Ks mentions, in relation to a man's being content with a part of that which he wants, the saying, خُذْ مَا طَفَّ لَكَ وَدَعْ مَا 🡻ٱسْتَطَفَّ لَكَ [app. meaning, if the saying be correctly thus related, <i>Take what is within thy power,</i> or <i>reach, and leave what has risen to thy view so as to invite approach</i>]; i. e. be content with what is within thy power. (TA.) === طَفَّتِ الشَّمْسُ: === and طَفَّ said of a bird: see 2. === مَرَّيَطفُّ [app. يَطِفٌّ] <i>He passed by hastening,</i> or <i>going quickly.</i> (O.) ___ طَفَّ النَّاقَةَ, (O, K,) aor. ﹹ, (O, TA,) inf. n. طَفٌّ, (TA,) <i>He</i> (a man, O) <i>bound the legs of the she-camel,</i> (O, K,) <i>all of them.</i> (O.) === طَفَّهُ <i>He</i> (a man, O) <i>raised it</i> (i. e. a thing, O) with his leg or foot, or with his arm or hand. (O, K.) And طَفَّ بِفُلَانٍ مَوْضِعَ كَذَا <i>He raised such a one to such a place;</i> and <i>made him to be on a level with it.</i> (TA.) === And طَفَّ الحَائِطَ, inf. n. طَفٌّ, <i>He mounted upon the wall.</i> (TA.)"
+}

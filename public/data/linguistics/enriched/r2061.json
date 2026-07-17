@@ -1,0 +1,26 @@
+{
+  "rootId": "r2061",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:56:22.540Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Slacken, falter, flag, become weak, slow down, or delay",
+  "primaryMeaning": "Slacking/faltering (Taniya)",
+  "quranicRelevance": "Do not slacken/falter (Taniya - 'wa-la taniya').",
+  "keyDerivations": [
+    {
+      "lemma": "وَنَى / يَنِي (Dual: تَنِيَا)",
+      "form": "Form I Verb",
+      "meaning": "To slacken, flag, falter, grow weak, slow down, or lose energy"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "اذْهَبْ أَنْتَ وَأَخُوكَ بِآيَاتِي وَلَا تَنِيَا فِي ذِكْرِي (20:42): 'Go, you and your brother, with My signs, and do not slacken/falter in My remembrance.'"
+  ],
+  "discardedNoise": [
+    "Wanees (friendly) - A-N-S.",
+    "Wanna (lamentation) - colloquial."
+  ],
+  "summaryEn": "The root represents growing weak or slackening in effort (Wany), commanding Moses and Aaron to maintain continuous, energetic remembrance of God during their mission to Pharaoh.",
+  "summaryAr": "يمثل هذا الجذر الفتور والضعف والتقصير والتواني والتراخي في إتمام العمل (وني)، آمراً موسى وهارون بالاجتهاد وعدم الفتور والتراخي في التبليغ والذكر.",
+  "rawText": "تَوَانَى 6 <i>He was,</i> or <i>became, languid, remiss, weak, feeble,</i> or <i>faint,</i> (T, S, M, MA, Msb, K, *) in actions, and affairs, (T,) in respect of an object of his want, (S,) or in an affair. (MA, Msb.) === تَوَانَى فى الأَمْرِ <i>He flagged,</i> or <i>was remiss, in the affair;</i> (Msb;) <i>i. q.</i> قَصَّرَ. (S.)\nمِينَآءٌ <i>A port:</i> see an ex. in a verse cited voce شُحُون: it is masc.; its being a substitute for ى: or it is an ancient Egyptian word in origin.\nوَنَاةٌ <i>A woman languid,</i> or <i>gentle,</i> or <i>grave in deportment,</i> &c.: see أَنَاةٌ.\nوَنَى فِيهِ 1 <i>He entered upon a thing languidly;</i> and عَنْهُ <i>He passed from it:</i> see عَنْ."
+}

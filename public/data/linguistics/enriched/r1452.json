@@ -1,0 +1,26 @@
+{
+  "rootId": "r1452",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:21:37.831Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Sheath, covering, envelope, sleeve, bud of a flower, or mask",
+  "primaryMeaning": "Bud of a flower/sheath",
+  "quranicRelevance": "Date-palms with sheaths/flower buds (Akmaam - 'thatin al-akmaam', 'min akmaamiha').",
+  "keyDerivations": [
+    {
+      "lemma": "كِمٌّ / أَكْمَامٌ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Sheath, flower bud, cover of fruit, protective envelope, or sleeve"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَالنَّخْلُ ذَاتُ الْأَكْمَامِ (55:11): And date-palms producing sheaths/flower buds (the initial protective layer covering date clusters)."
+  ],
+  "discardedNoise": [
+    "Face masks (Kammameh) worn during pandemics.",
+    "Garment sleeves (Kumm) in clothing catalogs."
+  ],
+  "summaryEn": "The root represents protective sheaths, describing the natural envelopes (Akmaam) that cover date palm clusters and growing fruits.",
+  "summaryAr": "يمثل هذا الجذر الغلاف والأوعية الواقية للثمار وبراعم الورد (كم)، واصفاً أوعية ثمار النخيل والطلع التي تنشق لتخرج الرطب (ذات الأكمام).",
+  "rawText": "كَمٌّ and كَمٌ are both app. right: see قَدْ.\nكَمِّيَّةٌ <i>Quantum,</i> or <i>quantity,</i> as answering to “ how many. ”\nكَمْ : see its syn. كَأَىٍّ or كَأَيِّنْ voce أَىٌّ. === As an interrogative with the specification suppressed, <i>What number? How many?</i> and, as in an ex. voce سِقْىٌ, virtually meaning <i>How much?</i> and so in an ex. voce مَسَافَةٌ and voce شَبْرٌ. Also <i>How long?</i> as in the Kur, ii. 161, &c.; a noun signifying a period of time being understood: see also an ex. voce عَسَفَ, and voce فَرَشَ.\nكَمْكَامٌ The <i>cancamum-tree:</i> see بُطْمٌ and ضِرْوٌ.\nكُمَّةٌ <i>A</i> قَلَنْسُوَة: (TA in art. بطح:) or <i>a round</i> قلنسوة: (S, K:) pl. كِمَامٌ. (K, * TA in art. بطح.)\nكِمَامَةٌ : see كِمٌّ.\nكِمٌّ The <i>calyx of a flower.</i> (K, &c.) === كِمٌّ The <i>envelope</i> [or <i>spathe</i>] <i>of the</i> طَلْع [or <i>spadix of a palm-tree</i>]: and the <i>covering</i> [or <i>calyx</i>] <i>of flowers</i> or <i>blossoms;</i> as also 🡻كِمَامَةٌ. (S, Msb, K.)\nمُكَمَّمٌ <i>Covered over,</i> or <i>concealed</i> (مَسْتُور). (S, art. خصب.) See بُرْأَة."
+}

@@ -1,0 +1,121 @@
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.875rem 0.5rem;
+  background-color: transparent;
+  border-bottom: 1px solid var(--color-border-default, rgba(0, 0, 0, 0.05));
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+  transition: all var(--transition-fast) ease;
+  break-inside: avoid;
+}
+
+.row:hover {
+  background-color: var(--color-background-neutral, rgba(0, 0, 0, 0.02));
+  color: var(--color-background-brand, #96742f);
+}
+
+.row:hover .dots {
+  border-color: var(--color-background-brand, #96742f);
+  opacity: 0.6;
+}
+
+.leftSection {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-medium, 1rem);
+  flex-shrink: 0;
+}
+
+.number {
+  font-family: Figtree, serif;
+  font-size: var(--font-size-small, 0.875rem);
+  color: var(--color-text-muted, #777);
+  min-width: 1.75rem;
+  text-align: right;
+}
+
+[dir="rtl"] .number {
+  text-align: left;
+}
+
+.nameContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 0.125rem;
+}
+
+.name {
+  font-size: var(--font-size-normal, 1rem);
+  font-weight: var(--font-weight-semibold, 600);
+}
+
+.sub {
+  font-size: var(--font-size-xsmall, 0.75rem);
+  color: var(--color-text-muted, #777);
+}
+
+.dots {
+  flex-grow: 1;
+  border-bottom: 1px dotted var(--color-border-default, rgba(0, 0, 0, 0.15));
+  margin: 0 0.75rem;
+  align-self: center;
+  margin-top: 0.25rem; /* align with baseline */
+  opacity: 0.4;
+  transition: border-color var(--transition-fast) ease, opacity var(--transition-fast) ease;
+}
+
+.rightSection {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-medium, 1rem);
+  flex-shrink: 0;
+}
+
+.calligraphy {
+  font-family: "surahnames", sans-serif;
+  font-size: 1.5rem;
+  color: var(--color-text-default);
+  line-height: 1;
+  transition: color var(--transition-fast) ease;
+}
+
+.row:hover .calligraphy {
+  color: var(--color-background-brand, #96742f);
+}
+
+.meta {
+  font-size: var(--font-size-xsmall, 0.75rem);
+  color: var(--color-text-muted, #777);
+}
+
+.metaContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 0.125rem;
+}
+
+[dir="rtl"] .metaContainer {
+  flex-direction: row;
+  align-items: center;
+  gap: 0.375rem;
+}
+
+.revelation {
+  font-size: var(--font-size-xsmall, 0.75rem);
+  color: var(--color-text-muted, #777);
+}
+
+.separator {
+  font-size: var(--font-size-xsmall, 0.75rem);
+  color: var(--color-text-muted, #777);
+  display: none;
+}
+
+[dir="rtl"] .separator {
+  display: inline;
+}
+

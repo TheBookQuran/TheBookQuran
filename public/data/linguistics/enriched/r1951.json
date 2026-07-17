@@ -1,0 +1,26 @@
+{
+  "rootId": "r1951",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:56:22.540Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Cucumbers, long green gourds, crawling vine crops, or ribbed melons",
+  "primaryMeaning": "Cucumbers",
+  "quranicRelevance": "And its cucumbers (Qish-tha'iha - 'wa-qith-tha'iha').",
+  "keyDerivations": [
+    {
+      "lemma": "قِثَّاءٌ",
+      "form": "Noun",
+      "meaning": "Cucumbers, edible elongated green gourds, or snake cucumbers"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "مِنْ بَقْلِهَا وَقِثَّائِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا (2:61): '...of its herbs, and its cucumbers, and its garlic, and its lentils, and its onions.'"
+  ],
+  "discardedNoise": [
+    "Qashwa (dry branch) - spelling mismatch.",
+    "Qata' (birds of sandgrouse) - Q-T-A."
+  ],
+  "summaryEn": "The root denotes cucumbers (Qith-tha'), mentioned in the demands of the Israelites for the familiar agricultural vegetables they left behind in Egypt.",
+  "summaryAr": "يمثل هذا الجذر نبات القثاء (القتة أو الخيار الطويل) وهو محصول ثقيل مضلع يؤكل نيئاً (قثا)، وارداً في رغبة بني إسرائيل في طعام مصر البستاني.",
+  "rawText": "اقثأت الأَرْضُ 4 , (AZ, S, O,) or اقثأ المَكَانُ, (K,) <i>The land,</i> or <i>the place, abounded with the</i> [<i>species of cucumber called</i>] قِثّآء. (AZ, S, O, K.) And اقثأ القَوْمُ <i>The people had abundance of</i> قثّآء. (S, O, K.)\nقِثَّآءٌ (S, O, Msb, K) and قُثَّآءٌ, (O, Msb, K,) the former of which, with kesr, in the more common, (Msb, TA,) [<i>A certain vegetable,</i>] <i>well-known:</i> (K, TA:) [<i>a species of cucumber; cucumis sativus β fructu flavo majore:</i> (Delile's Floræ Ægypt. Illustr., no. 928:]) or the [<i>cucumber called</i>] خِيَار [q. v.]: (S, O, K:) or <i>a general name for the</i> خِيَار, <i>the</i> عَجُور [q. v.], <i>and the</i> فَقُّوس [or فَقُّوص q. v.]: but some apply the name to <i>a species resembling the</i> خيار: (Msb, TA:) and it is said that it is <i>lighter</i> (أَخَفُّ) <i>than the</i> خيار: also that عَجُور signifies large قِثّآء: (TA:) the n. un. is قثّآءة. (S, O, Msb.) === قِثَّآءُ الحِمَارِ see voce عَلْقَمٌ.\nمَقْثَأَةٌ and مَقْثُؤَةٌ, (S, O, K, TA,) or أَرْضٌ مَقْثَأَةٌ and مَقْثُؤَةٌ, (Msb,) <i>A place,</i> or <i>land, of</i> قثّآء, (S, Msb, K,) <i>where</i> قثّآء <i>are sown and grow.</i> (TA.)"
+}

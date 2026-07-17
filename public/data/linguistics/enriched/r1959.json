@@ -1,0 +1,26 @@
+{
+  "rootId": "r1959",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:56:22.540Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Blemish, color spot, marking, ornamentation, embroidery, or slanderous reporting",
+  "primaryMeaning": "Blemish/color mark (Shiah)",
+  "quranicRelevance": "No blemish on it (Shiah - 'la shiyata feeha').",
+  "keyDerivations": [
+    {
+      "lemma": "شِيَةٌ",
+      "form": "Noun",
+      "meaning": "Blemish, spot of a different color, marking, or patch of coloration"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ لَا ذَلُولٌ تُثِيرُ الْأَرْضَ ... مُسَلَّمَةٌ لَا شِيَةَ فِيهَا (2:71): 'He says: She is a cow neither trained to plow the earth... sound, having no blemish/spot of different color on her.'"
+  ],
+  "discardedNoise": [
+    "Washi (slanderer/tale-bearer) - though classically from the same root (embellishing words), secondary here.",
+    "Washa (tattooing/painting) - W-S-M."
+  ],
+  "summaryEn": "The root means color spots or blemishes (Washing/Shiah), specifying that the golden cow demanded of the Israelites had to be of pure, solid color without any patches of black or white.",
+  "summaryAr": "يمثل هذا الجذر شية اللون والعلامة والخطوط المخالفة للون الأصل والزخرفة (وشي)، واصفاً البقرة الصفراء بالسلامة والخلو من أي لون آخر يشوبها (لا شية فيها).",
+  "rawText": "شِيَةٌ <i>Any colour differing from the main colour</i> of a horse, &c.; <i>a colour differing from the rest,</i> (S,) or <i>from that which generally pervades a thing.</i> === لَا شِيَةَ فِيهِ <i>It is of one generally pervading colour, in which is no other colour.</i> === شِيَةٌ [also] <i>A mark, sign, symptom,</i> or <i>token, by which a thing is known;</i> syn. عَلَامَةٌ; (Msb;) and مَخِيلَةٌ, which see.\nشِيَوِىٌّ : see what next follows.\nقَوْلٌ مَوْشِىٌّ بِهِ [<i>A saying misrepresented</i>]. (TA in art. قت, in an explanation of قَوْلٌ مَقْتُوتٌ.) === مَوْشِىٌّ is used by Aboo-Dhu-eyb to signify <i>A musical reed-pipe.</i> (TA, art. نوب.)\nوَشَوِىٌّ rel. n. of شِيَةٌ, the rad. و being restored; (S in the present art.;) and so 🡻شِيَوِىٌّ, like عِدَوِىٌّ [of عِدَةٌ]. (S in art. وعد.)\nوَشَى 1 , inf. n. وَشْىٌ, <i>He variegated,</i> or <i>figured,</i> a piece of cloth, or a garment; (Mgh, Msb, * K;) and <i>embellished it.</i> (K.) === وَشَى بِهِ إِلَى السُّلْطَانِ, (S, K,) or عِنْدَ السُّلْطَانِ, (Msb,) <i>He calumniated,</i> or <i>misrepresented, him to the Sultán.</i> (S, Msb, K.)\nوَشْىٌ , originally an inf. n., <i>A kind of variegated, or figured, cloth, or garment.</i> (Mgh, Msb. *) === وَشْىٌ The <i>variegation, figured work, or figuring,</i> of a garment; <i>making</i> it <i>partycoloured.</i> === وَشى sometimes signifies <i>A natural diversity of colours:</i> see رُمْلَةٌ. === وَشْىٌ of a sword: see فِرِنْدٌ."
+}

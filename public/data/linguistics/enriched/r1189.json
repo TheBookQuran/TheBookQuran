@@ -1,0 +1,26 @@
+{
+  "rootId": "r1189",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:14:55.732Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Scum, flood-rubbish, dry debris, foam, worthless, or vomit",
+  "primaryMeaning": "Scum/debris of a torrent",
+  "quranicRelevance": "Dead plants turned to black debris (Ghutha' - 'ghutha-an ahwa', 'ghutha-an').",
+  "keyDerivations": [
+    {
+      "lemma": "غُثَاءٌ",
+      "form": "Noun",
+      "meaning": "Scum, flood-rubbish, dry debris, floating weeds, foam, or worthless residue"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فَجَعَلْنَاهُمْ غُثَاءً ۚ فَبُعْدًا لِلْقَوْمِ الظَّالِمِينَ (23:41): So We made them (ruined nations) like flood-rubbish/worthless scum (the absolute collapse of ancient tyrants)."
+  ],
+  "discardedNoise": [
+    "Nausea and vomiting feeling (Ghathayan).",
+    "Worthless gossip talk."
+  ],
+  "summaryEn": "The root represents worthless debris (Ghutha'), comparing ruined civilizations and dead vegetation to the useless scum swept away by a torrent.",
+  "summaryAr": "يمثل هذا الجذر رغوة السيل الهاربة وحطام النباتات المجففة الطافية (غثاء)، واصفاً هلاك الأمم الطاغية كحطام السيل العديم النفع والقيمة.",
+  "rawText": "أَغْثَوَ 4 see the preceding paragraph, latter half.\nالأَغْثَى <i>The lion.</i> (K.)\nغَثَا الوَادِى 1 , (Msb, K,) aor. يَغْثُو, (Msb,) inf. n. غَثْوٌ; (Msb, K;) and غَثَى, aor. يَغْثِى, inf. n. غَثْيٌ; (K;) the latter mentioned by IJ, but the former is that which is [commonly] known to the lexicologists; (TA;) <i>The valley,</i> or <i>water-course, was,</i> or <i>became, full of</i> غُثَآء [q. v.]: (Msb: [and the like is indicated in the K:]) or <i>had in a abundance of camels'</i> or <i>similar dung</i> (بَعْر) <i>and leaves and reeds</i> or <i>canes.</i> (TA.) === غَثَا اللَّحْمُ, inf. n. غَثْوٌ, <i>The flesh-meat was bad by reason of its leanness.</i> (IKtt, TA.) === غَثَتِ النَّفْسُ, (S, Msb, K,) aor. تَغْثِى, (S, Msb,) inf. n. غَثْىٌ and غَثَيَانٌ; (S, Msb, K;) and, accord. to Lth, غَثِيَت, aor. تَغْثَى, inf. n. غَثًا, but Az says that this is post-classical; (TA;) <i>i. q.</i> خَبُثَت; (S, K, TA;) and جَاشَت; (TA;) i. e. [<i>The soul,</i> or <i>stomach, heaved;</i> or <i>became agitated by a tendency to vomit;</i> or] <i>became agitated so that the person nearly vomited, by reason of a mixture pouring forth to the mouth of the stomach:</i> (Msb, TA:) or, as some say, غَثَيَانٌ signifies <i>a flowing of the mouth which sometimes,</i> or <i>often, occasions vomiting.</i> (TA.) === غَثَتِ السَّمَآءُ بِالسَّحَابِ, (K, TA,) aor. تَغْثِى, (TA,) <i>The sky was,</i> or <i>became, clouded,</i> or <i>covered with clouds:</i> (K, TA:) or <i>began to be so.</i> (TA.) ___ غَثَا السَّيْلُ المَرْتَعَ, aor. يَغْثُوهُ, inf. n. غَثْوٌ; thus accord. to J, [in the S,] but accord. to the K and ISd, غَثَى, mentioned in art. غثى; and in [some of] the copies of the K, المَرْبَعَ is erroneously put for المَرْتَعَ; (TA;) <i>The torrent drew</i> [or <i>washed</i>] <i>together the pasture, and deprived it of its sweetness;</i> as also 🡻اغثاهُ. (S, K.) === And hence, by way of comparison, (TA,) غَثَى الكَلَامَ, aor. يَغْثِيهِ; (K, TA;) and غَثِيَهُ, aor. يَغْثَاهُ; (K, * TA;) the former verb of the class of رَمَى, and the latter of the class of رَضِىَ; inf. n. غَثْىٌ; (TA;) ‡ <i>He mixed,</i> or <i>put together confusedly, the speech,</i> or <i>language.</i> (K, * TA.) === And غَثَى المَالَ, and النَّاسَ, <i>He beat the cattle,</i> and <i>the people,</i> and <i>dealt blows among them.</i> (K, * TA.) === غَثِيَتِ الأَرْضُ بِالنَّبَاتِ <i>The land became abundant in herbage:</i> (K, TA:) or <i>began to be so.</i> (TA.) === And غَثِىَ شَعْرُهُ, inf. n. غَثًى, <i>His hair became matted,</i> or <i>compacted together:</i> mentioned in art. غثى by IKtt: perhaps a dial. var. of عَثِىَ, with the unpointed ع; mentioned before. (TA.)\nغُثَآءٌ (S, Msb, K) and غُثَّآءٌ (S, K) The <i>rubbish,</i> or <i>small rubbish,</i> or <i>particles of things,</i> or <i>refuse, and scum, and rotten leaves mixed with the scum,</i> (Zj, S, * Msb, * K, TA,) <i>borne upon the surface</i> (S, Msb, TA) of a torrent: (Zj, S, Msb, K, TA:) or <i>dried-up</i> [or <i>decayed</i>] <i>and broken pieces</i> [or <i>leaves and stalks</i>] <i>of herbage, that are seen upon a torrent:</i> so in the Kur lxxxvii. 5: [see أَحْوَى in art. حو:] (TA:) pl. أَغْثَآءٌ. (S, TA.) === [Hence,] one says, مَالُهُ غُثَآءٌ وَعَمَلُهُ هَبَآءٌ وَسَعْيُهُ خَفَآءٌ † [<i>His property is as rubbish borne by a torrent</i> (see Kur xxiii. 43), <i>and his work is as motes that are seen in the rays of the sun</i> (see Kur xxv. 25), <i>and his labour,</i> or <i>earning, is a thing that is unapparent</i>]. (TA.) === [Hence, also,] غُثَآءُ النَّاسِ † <i>The low,</i> or <i>vile,</i> and <i>the refuse, of mankind.</i> (TA.)"
+}

@@ -1,0 +1,37 @@
+{
+  "rootId": "r1447",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:05:27.741Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Speech, utterance, wounding, or words",
+  "primaryMeaning": "To speak or wound",
+  "quranicRelevance": "Speaking (Takleem), words of God (Kalimat), and wounds (Kalam - classical origin).",
+  "keyDerivations": [
+    {
+      "lemma": "كَلِمَةٌ / كَلِمَاتٌ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Word / words, decree, or statement"
+    },
+    {
+      "lemma": "كَلَّمَ",
+      "form": "Form II Verb",
+      "meaning": "To speak to, address, or talk with"
+    },
+    {
+      "lemma": "كَلَامٌ",
+      "form": "Noun",
+      "meaning": "Speech, words, or discourse"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "كَلِمَةُ اللَّهِ: The decree/word of God, or Jesus (created directly by His word 'Kun').",
+    "كَلَّمَ اللَّهُ مُوسَى تَكْلِيمًا (4:164): God spoke to Moses directly."
+  ],
+  "discardedNoise": [
+    "The physical depth of a flesh wound (كَلْم).",
+    "Grammatical divisions of word types in grammar."
+  ],
+  "summaryEn": "The root represents speech and words, describing divine communication to prophets, the creative decree (Kalimah), and spoken interactions.",
+  "summaryAr": "يمثل هذا الجذر الكلام والقول، واصفاً التواصل الإلهي بالأنبياء، والكلمة التكوينية والتشريعية (كلمة)، والخطاب المتبادل.",
+  "rawText": "تَكَالَمَا 6 <i>They spoke, talked,</i> or <i>discoursed, each with the other.</i> (S, * M.)\nتَكَلَّمَ غَنْهُ 5 <i>He spoke for him;</i> syn. عَبَّرَ. (S, Msb, art. عبر.)\nرَجُلٌ كِلِّيمٌ , like سِكِّيتّ [and حِدِّيثٌ] <i>i. q.</i> مِنْطِيقٌ. (Ibn-'Abbád, Z, TA.)\nكَالَمَهُ 3 <i>i. q.</i> نَاطَقَهُ. (TA in art. نطق.)\nكَلَامٌ is a gen. n., applying to little and to much, or to few or many; (S, TA;) to what is a sing. and to what is a pl. (TA.) It may therefore be rendered <i>A saying, &c.;</i> and <i>sayings,</i> or <i>words:</i> see an ex. voce أَفْكَلُ, in art. فكل. === كَلَامٌ <i>Speech; something spoken;</i> [<i>diction; language;</i>] <i>parlance; talk; discourse:</i> (Msb, &c.:) <i>a saying: a say: something said:</i> in grammar, <i>a sentence.</i> الكَلِمُ الطَّيِّبُ: see طَيِّتٌ. === كَلَامٌ: also, a quasi-inf. n. for تكليم, sometimes governing as a verb, [like the inf. n.,] accord. to some of the grammarians; as in the following ex.: <center> <h3> قالوا كلامك هنداً وهى مصغية </h3> <h3> يشفيك قلت صحيح ذاك لو كانا </h3> </center> (Sharh Shudhoor edh-Dhahab.) See إِسْمُ مَصْدَرٍ. === عِلْمُ الكَلَامِ [<i>The theology of the Muslims;</i>] <i>a science in which one investigates the being and attributes of God, and the conditions of possible things with respect to creation and restitution, according to the rule of El-Islám;</i> which last restriction is for the exclusion of the theology of the philosophers. (KT.)\nكَلِمَةٌ <i>A word:</i> (Kull, 301:) <i>an expression:</i> (K:) <i>a proposition: a sentence:</i> [<i>a saying:</i>] <i>an argument.</i> (Kull.) <i>An assertion: an expression of opinion.</i>\nكُلْيَةٌ of a bow: see أَبْهَرُ === of a مَزَادَة: see خُرْبَةٌ.\nمُتَكَلِّمٌ <i>A Muslim theologian.</i> See عِلْمُ الكَلَامِ."
+}

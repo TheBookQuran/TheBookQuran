@@ -1,0 +1,26 @@
+{
+  "rootId": "r1465",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:01:45.660Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Star, planet, shining object, center, or spark",
+  "primaryMeaning": "Star/planet",
+  "quranicRelevance": "Shining stars/planets (Kawkab - 'ka-annaha kawkabun durriyyon', 'ahada 'ashara kawkaban'), and scattering stars at judgment ('wa-ithal-kawakibu').",
+  "keyDerivations": [
+    {
+      "lemma": "كَوْكَبٌ / كَوَاكِبُ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Star, planet, celestial light, or shining sphere"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "إِنَّا زَيَّنَّا السَّمَاءَ الدُّنْيَا بِزِينَةٍ الْكَوَاكِبِ (37:6): Indeed, We have adorned the nearest sky with the beauty of stars/planets (cosmic aesthetics)."
+  ],
+  "discardedNoise": [
+    "Modern space station names.",
+    "Detailed astronomical planetary orbital coordinates."
+  ],
+  "summaryEn": "The root refers to stars/planets (Kawkab), depicting Joseph's dream of eleven stars, the celestial lamp parable, and the final eschatological scattering (Intithar) of stars.",
+  "summaryAr": "يشير هذا الجذر إلى الكواكب والنجوم الساطعة، مصوراً كواكب رؤيا يوسف الأحد عشر، ومصباح مثل النور (كوكب دري)، وتناثر الكواكب يوم الانفطار.",
+  "rawText": "كوكب\nكَوْكَبٌ &c.: see art. ككب."
+}

@@ -1,0 +1,27 @@
+{
+  "rootId": "r1487",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:39:17.504Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Meat, muscle, weave, battle, or close tie",
+  "primaryMeaning": "Meat or muscle",
+  "quranicRelevance": "Flesh/meat of animals/fish for eating (Lahm - 'lahman tariyyan'), and human flesh.",
+  "keyDerivations": [
+    {
+      "lemma": "لَحْمٌ / لُحُومٌ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Meat, flesh, or muscle tissues"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "أَنْ يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًا (49:12): That he eats the flesh of his dead brother (graphic metaphor for backbiting/slandering).",
+    "لَحْمًا طَرِيًّا: Fresh meat (describing fresh seafood harvest from the sea)."
+  ],
+  "discardedNoise": [
+    "The warp/weave (لحمة) of fabrics.",
+    "Intense battlefield conflicts (ملحمة) - post-classical term."
+  ],
+  "summaryEn": "The root refers to meat and flesh, contrasting the raw blessings of fresh seafood (Lahm) with the horrific metaphor of backbiting (eating a brother's flesh).",
+  "summaryAr": "يشير هذا الجذر إلى اللحم والبدن، مفصلاً النعمة الغذائية الطازجة لصيد البحر (لحماً طرياً) ومشبهاً الغيبة بأكل لحم الميت.",
+  "rawText": "أَلْحَمَ خَرْقَهُ 4 [<i>He closed up the hole thereof</i> with a patch]; meaning a garment, or piece of cloth, and a skin, or hide. (TA in art. رقع.) === إِلْحَامُ الجِرَاحَاتِ [<i>The consolidating of wounds</i>]. (K in art. سبع.) ___ أَلْحَمَهُ عِرْضَهُ ‡ <i>He empowered him to revile, vilify,</i> or <i>censure, him:</i> (S, K, TA:) <i>he made his honour,</i> or <i>reputation, to be to him</i> [<i>as</i>] <i>a</i> 🡻لُحْمَة [or <i>hawk's portion of the quarry</i>]. (Har, p. 392.) === أَلْحِمْ مَا أَسْدَيْتَ: see أَسْدَى.\nالمُلْتَحِمَةٌ [<i>The tunica albuginea,</i> or <i>white of the eye:</i> so in the present day]. (K, voce سَبَلٌ.)\nاِلْتَحَمَ 8 <i>It coalesced, consolidated, closed up,</i> or <i>became closely united.</i> (TA.)\nتَلَاحَمَ 6 <i>It was joined,</i> or <i>knit, together.</i> See K, voce مَزْفُورٌ.\nتَمْرٌ لَهُ لَحْمٌ [<i>Dates having flesh</i>]. (Msb in art. حشف.) === لَحْمٌ: see ثَرِيدٌ, last sentence.\nشَجَّةٌ مُتَلَاحِمَةٌ : see شَجَّةٌ, and بَازِلَةٌ (voce بَازِلٌ).\nشَحِمٌ لَحِمٌ : see مَحِضٌ and شَحِمٌ.\nلَحَّامٌ <i>A butcher.</i> (Fr, TA in art. سطر.)\nلَحْمَةٌ and 🡻لُحْمَةٌ The <i>woof; or</i> the <i>threads that are woven into the</i> سَدَى. or <i>warp, of a piece of cloth.</i> (Msb, &c.)\nلُحْمَةٌ : see 4, and لَحْمَةٌ. === لُحْمَةٌ شَابِكَةٌ: see مُشْتَبِكٌ.\nمَلَاحِمُ الفَرْجِ (K) <i>The narrow,</i> or <i>strait, parts of the pudendum muliebre:</i> (TA:) or rather, <i>the fleshy parts thereof:</i> the sing. مَلْحَمَةٌ signifying, accord. to analogy, <i>a place of much flesh:</i> see بِطَانٌ."
+}

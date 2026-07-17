@@ -1,0 +1,26 @@
+{
+  "rootId": "r1471",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:05:27.741Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Modality, state, manner, or asking how",
+  "primaryMeaning": "How / in what manner",
+  "quranicRelevance": "Interrogative particle ('kayfa') asking about states, methods, or conditions of life and creation.",
+  "keyDerivations": [
+    {
+      "lemma": "كَيْفَ",
+      "form": "Interrogative Particle",
+      "meaning": "How, in what manner, or how is it"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "كَيْفَ تَكْفُرُونَ بِاللَّهِ: How can you disbelieve in God? (rhetorical question expressing wonder/condemnation)."
+  ],
+  "discardedNoise": [
+    "Grammatical classification of kayfa as a noun of state.",
+    "Post-classical philosophical concepts of quality (Kayfiyyah)."
+  ],
+  "summaryEn": "The root serves as the primary interrogative particle for quality and state, used in the Quran to prompt reflection on creation and divine power.",
+  "summaryAr": "يخدم هذا الجذر كأداة استفهام رئيسية عن الكيفية والحال، ويُستخدم في القرآن للفت الانتباه والتفكر في الخلق والقدرة الإلهية.",
+  "rawText": "تَكَيَّفَ 5 : see what next precedes.\nكَيَّفْتُهُ فَتَكَيَّفَ 2 , used by the Muslim theologians, (K, TA,) verbs derived from كَيْفَ, (TA,) [signifying <i>I specified by the ascription of its quality</i> and <i>it became so specified,</i>] are formed in accordance with analogy, not heard from the Arabs. (K, * TA.)\nكَيْفُوفِيَّةٌ for كَيْفِيَّةٌ: see تَيْسِيَّةٌ.\nكَيْفِيَّةٌ <i>Quality as answering to</i> “ <i>how?</i> ”; <i>mode,</i> or <i>manner, of being.</i>"
+}

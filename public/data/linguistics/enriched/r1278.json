@@ -1,0 +1,26 @@
+{
+  "rootId": "r1278",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:52:53.400Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Breaking without separating, cracking, splitting, or partial fracture",
+  "primaryMeaning": "Breaking without separation/splitting",
+  "quranicRelevance": "No breaking/severing for it (Infisam - 'la infisama laha').",
+  "keyDerivations": [
+    {
+      "lemma": "اِنْفِصَامٌ",
+      "form": "Noun (Form VII)",
+      "meaning": "Cleaving, cracking, breaking, or severing without complete detachment"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فَمَنْ يَكْفُرْ بِالطَّاغُوتِ وَيُؤْمِنْ بِاللَّهِ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ لَا انْفِصَامَ لَهَا (2:256): Then whoever disbelieves in false deities and believes in God has grasped the most trustworthy handhold with no breaking/cracking in it."
+  ],
+  "discardedNoise": [
+    "Fasam (schizophrenia) - modern psychiatric term.",
+    "Fassam (gem cutter)."
+  ],
+  "summaryEn": "The root refers to a crack or split that breaks a structure's integrity (Fasm), describing the absolute durability of the covenant of faith as an unbreakable handhold.",
+  "summaryAr": "يمثل هذا الجذر التصدع والكسر من غير انفصال أو انقطاع تام للشيء (فصم)، مشبهاً الإيمان بالعروة الوثقى المحكمة التي لا يمكن أن تنفصم أو تنكسر أبداً.",
+  "rawText": "أَفْصَمُ An anklet <i>much cracked.</i> (El-Hejeree, M, K. *)\nافصم المَطَرُ 4 <i>The rain passed away,</i> or <i>ceased.</i> (S, M, K.) And افصمت عَنْهُ الحُمَّى <i>The fever quitted him:</i> (S, K, * TA:) in the K, erroneously. افصم الحُمَّى. (TA.) And one says, دَآءٌ 🡻يَفْصِمُ وَلَا يُفْصَمُ <i>A disease that breaks and does not pass away.</i> (TA.) === And افصم is said of a stallion [camel], meaning <i>He ceased,</i> or <i>abstained, from covering.</i> (TA.)\nانفصم 7 <i>It broke</i> (S, M, Msb, K) <i>without becoming separated:</i> (S. M, Msb:) [i. e. <i>it be came cracked:</i>] and 🡻تفصّم has a similar meaning [i. e. <i>it became cracked much,</i> or <i>in several places</i>]. (S, M, K.) You say, انفصم ظَهْرُهُ <i>His back cracked.</i> (TA.) And انفصمت الدُّرَّةُ <i>The pearl cracked in one part thereof.</i> (TA.) === And <i>It broke,</i> or <i>became severed,</i> or <i>cut off.</i> (K.) It is said in the Kur [ii. 257], لَا ٱنْفِصَامَ لَهَا (S, M, Msb, TA) meaning <i>There shall be no breaking incident to it.</i> (M, TA.) === And <i>It opened so as to form an interstice,</i> or <i>a gap.</i> (TA in art. شظى.)\nتَفَصَّمَ 5 see the next paragraph.\nدُمْلُجٌ مَفْصُومٌ [<i>A cracked armlet</i> of silver: to this, thrown down and neglected, Dhu-r-Rummeh likens a sleeping gazelle]. (S, TA.)\nفصم السِّوَاكِ [app. فَصْم, originally an inf. n., but probably, I think, a mistranscription for قَصْم,] <i>A fragment</i> [<i>of the stick with which the teeth are cleaned</i>]. (TA.)\nفَأْسٌ فَصِيمْ <i>A large</i> [<i>hoe,</i> or <i>adz,</i> or <i>the like</i>]. (Fr, K.)\nفَصَمَهُ 1 , (S, M, Msb, K,) aor. ﹻ, (M, Msb, K,) inf. n. فَصْمٌ, (S, M, Msb,) <i>He broke it</i> (S, M, Msb, K) <i>without separating:</i> (S, M, Msb:) [i. e. <i>he cracked it:</i>] and 🡻فصّمهُ [<i>he cracked it much,</i> or <i>in several places</i>], (M, TA,) inf. n. تَفْصِيمٌ. (TA.) And فَصَمَ الخُرْزَةَ [<i>He cracked,</i> or <i>tore without separating, the seam,</i> or <i>suture,</i> of a skin] (K and TA in art. خرم: in the CK قَصَمَ and الخَرَزَةَ.) القَصْمُ, with ق, signifies “ the breaking so as to separate. (TA.) === See also 4. === فُصِمَ. said of a house, or tent, (K,) or of the side thereof, (M,) <i>It became thrown down,</i> or <i>demolished.</i> (M, K.) === And وَصْمٌ signifies A thing's <i>being cracked.</i> (A'Obeyd, TA.)\nفَصَّمَ 2 see the preceding paragraph.\nفَصْمَةٌ <i>A crack in a wall.</i> (TA.)"
+}

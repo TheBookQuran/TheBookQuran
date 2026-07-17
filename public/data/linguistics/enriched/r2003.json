@@ -1,0 +1,37 @@
+{
+  "rootId": "r2003",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:39:17.504Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Collecting, choosing, water pool, or tax",
+  "primaryMeaning": "To collect or choose",
+  "quranicRelevance": "Collecting fruits/wealth (Jubiyat - 'yujba ilayhi thamaratu kulli shay'), and choosing/selecting prophets (Ijtaba - 'thumma ijtabahu rabbuhu').",
+  "keyDerivations": [
+    {
+      "lemma": "جَبَى / يَجْبِي",
+      "form": "Form I Verb",
+      "meaning": "To collect, gather, bring together, or hoard"
+    },
+    {
+      "lemma": "اِجْتَبَى",
+      "form": "Form VIII Verb",
+      "meaning": "To choose, select, pick out, or elect (for favor/prophethood)"
+    },
+    {
+      "lemma": "جَوَابِي",
+      "form": "Noun pl. (of jabiyah)",
+      "meaning": "Water pools, large basins, or cisterns"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "يُجْبَى إِلَيْهِ ثَمَرَاتُ كُلِّ شَيْءٍ (24:57): To which are gathered/collected the fruits of all things (security of Mecca).",
+    "وَقُدُورٍ رَاسِيَاتٍ وَجِفَانٍ كَالجَوَابِي: And heavy cooking pots and bowls like basins/pools."
+  ],
+  "discardedNoise": [
+    "Tax collection offices (Ghibayah) in modern fiscal law.",
+    "Obscure details of well digging."
+  ],
+  "summaryEn": "The root denotes collection and selection, describing the gathering of fruits to Mecca, the election (Ijtaba) of prophets, and massive basins (Jawabi).",
+  "summaryAr": "يدل هذا الجذر على الجباية والاصطفاء، واصفاً جلب الأرزاق إلى مكة (يُجبى)، واصطفاء واجتباء الرسل (اجتبى)، وحياض المياه الضخمة (جوابي).",
+  "rawText": "جبى 1 , (S, Msb, TA,) aor. ﹹ, (Msb, TA,) inf. n. جَثٌّ, (A, K,) <i>He pulled it up,</i> or <i>out;</i> as also 🡻اجتثّهُ; (S, Msb;) or the latter denotes a quicker action than the former; and properly signifies <i>he took its whole</i> جُثَّة [or <i>body</i>]: (TA:) or the former, <i>he cut it;</i> or <i>cut it off:</i> (A, L, K:) or <i>he cut it off from its root:</i> (L:) or <i>he pulled it up,</i> or <i>out, by the root;</i> namely, a tree: (A, K;) <i>he uprooted it,</i> or <i>eradicated it.</i> (A.) ___ جَثَّ said of a collector of honey, <i>He took the honey with its</i> جَثّ <i>and its</i> مَحَارِين, i. e., <i>the bees that had died in it.</i> (IAar, TA.)"
+}

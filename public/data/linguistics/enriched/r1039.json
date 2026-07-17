@@ -1,0 +1,27 @@
+{
+  "rootId": "r1039",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:09:12.475Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Beginning, starting, keeping at it, action, or persist",
+  "primaryMeaning": "Beginning/starting an action",
+  "quranicRelevance": "Beginning to wipe horses (Tafiqa - 'tafiqa mas-han'), and covering with leaves ('tafiqa yakhsifani').",
+  "keyDerivations": [
+    {
+      "lemma": "طَفِقَ / يَطْفَقُ",
+      "form": "Form I Verb (auxiliary of beginning)",
+      "meaning": "To begin, start, set about doing, proceed, or continue instantly"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فَطَفِقَ مَسْحًا بِالسُّوقِ وَالْأَعْنَاقِ (38:33): And he began stroking/rubbing the legs and necks (Solomon's care or sacrifice of the horses).",
+    "وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِنْ وَرَقِ الْجَنَّةِ (7:22): And they both (Adam and Eve) began to fasten/cover themselves with the leaves of Paradise."
+  ],
+  "discardedNoise": [
+    "Modern startup incubator terms.",
+    "Details of bird flight acceleration."
+  ],
+  "summaryEn": "The root serves as a verbal marker of beginning an action (Tafiqa), applied to Solomon stroking his warhorses and Adam and Eve covering their bodies with leaves.",
+  "summaryAr": "يمثل هذا الجذر فعل الشروع والبدء الفوري بالعمل (طفق)، واصفاً بدء سليمان بمسح خيله حباً، وبدء آدم وحواء بستر عوراتهما بورق الجنة.",
+  "rawText": "اطفقهُ ٱللّٰهُ بِهِ 4 <i>God caused him to attain him,</i> or <i>it.</i> (Aboo-Sa'eed, O, K.) One says, لَئِنْ أَطْفَقَنِى ٱللّٰهُ بِهِ لَأَفْعَلَنَّ بِهِ [<i>Verily if God cause me to attain him,</i> or <i>it, I will assuredly do</i> something <i>with him,</i> or <i>it</i>]. (TA.)\nطَفِقَ يَفْعَلُ كَذَا 1 , (S, Mgh, O, K,) aor. ﹷ; (S, K;) and طَفَقَ, aor. ﹻ, (S, O, K,) mentioned by Akh, (S, ISd, O,) and by Zj, (ISd, TA,) as said by some, (S, O,) but pronounced by Lth to be bad; (TA;) inf. n. طَقَقٌ, (S, K, TA, [in some copies of the K, erroneously, طَفْقٌ,]) of the former verb; (S, TA;) and طُفُوقٌ, (S, O, K,) of the latter verb; (S, O;) <i>He set about, began, commenced, took to,</i> or <i>betook himself to, doing such a thing:</i> (S, Mgh, O, TA:) expl. in the K as meaning <i>he continued uninterruptedly the doing of such a thing</i> (وَاصَلَ الفِعْلَ [or in some copies وَصَلَ الفِعْلَ]), and by El-Háfidh Ibn-Hajar, in the “ Fet-h el-Bári, ” as meaning <i>he entered upon, began,</i> or <i>commenced, and went on continually, doing such a thing;</i> but it denotes the entering upon the doing of a thing irrespectively of the going on continually or not, and therefore it is not allowable to prefix أَنْ to its predicate: (MF, TA:) it is followed by a future [or an aor., as in the ex. above]: the saying فَطَفِقَ مَسْحًا بِٱلسُّوقِ وَٱلْأَعْنَاقِ, in the Kur [xxxviii. 32], (TA,) i. e. <i>He took to severing</i> with the sword [<i>the thighs and the necks</i>], or, as some say, <i>to wiping</i> [or <i>stroking</i>] with his hand [<i>the thighs and the necks</i>], (Bd,) is for طَفِقَ يَمْسَحُ مَسْحًا: (Bd, * TA:) the verb is used only in an affirmative phrase: they do not say مَا طَفِقَ. (IDrd, O, K.) === طَفِقَ فُلَانٌ بِمَا أَرَادَ, (Aboo-Sa'eed, O, K, *) a phrase of the Arabs of the desert, (Aboo-Sa'eed, O,) means <i>Such a one attained that which he desired.</i> (Aboo-Sa'eed, O, K. *) === And one says طَفِقَ المَوْضِعَ, aor. ﹷ, <i>He kept,</i> or <i>clave, to the place.</i> (ISd, K.)"
+}

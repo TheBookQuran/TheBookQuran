@@ -1,0 +1,32 @@
+{
+  "rootId": "r1973",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:05:27.741Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Judgment, decree, completion, or death",
+  "primaryMeaning": "To judge, decree, or finish",
+  "quranicRelevance": "Divine decree (Qadha'), judging between people, finishing a task, and death ('qadha nahbahu').",
+  "keyDerivations": [
+    {
+      "lemma": "قَضَى",
+      "form": "Form I Verb",
+      "meaning": "To decree, judge, decide, finish, or execute"
+    },
+    {
+      "lemma": "قَضَاءٌ",
+      "form": "Noun",
+      "meaning": "Decree, judgment, decision, or execution"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "قَضَى نَحْبَهُ (33:23): Fulfilled his vow (metaphor for dying in battle or passing away).",
+    "إِذَا قَضَى أَمْرًا: When He decrees/decides a matter."
+  ],
+  "discardedNoise": [
+    "Washing clothes or clearing debt in a specific market setup.",
+    "Obscure details on legal adjudication systems."
+  ],
+  "summaryEn": "The root relates to judgment and completion, defining both the divine decree (Qadha') and the fulfillment of life or covenants.",
+  "summaryAr": "يتعلق هذا الجذر بالقضاء والإنهاء، محدداً القضاء والقدر الإلهي (قضاء) وإيفاء العهود ونهاية الآجال.",
+  "rawText": "انقضى 7 and 🡻تقضّى <i>It passed away; came to an end,</i> or <i>to nought; became cut off.</i> (K, TA.)\nاِسْتَقْضَيْتَهُ 10 <i>I demanded of him the giving</i> [or <i>payment</i>] <i>of my due,</i> (Msb, K, *) or <i>debt;</i> (K;) and in like manner 🡻تَقَاضَيْتُهُدَيْنِى and بِدَيْنِى. (Mgh.)\nاِقْتَضَى كَذَا 8 <i>It required such a thing: it required the inference of such a thing: it necessarily implied,</i> or <i>involved, such a thing as its consequence</i> or <i>concomitant; it required such a thing to be conceded; it necessitated such a thing.</i> === اِقْتَضَاهُ حَقَّهُ <i>He demanded of him his due.</i> (MA.) === إِقْتَضَيْتُ مِنْهُ حَقِّى <i>I took,</i> or <i>received, from him my due.</i> (Mgh, Msb.)\nتَقاَضَاهُ الدَّيْنَ 6 <i>He took,</i> or <i>received, from him the debt.</i> (M, K.) === See 10. === And see تَشَارَيَا.\nتَقَضَّىَ 5 see 7.\nقَاضَاهُ 3 <i>He cited him before a judge.</i> (TA.)\nقَضَآءٌ a term of the law; opposed to أَدَآءٌ, which see: and see an ex. cited voce صَحَّ. === <i>A decree; an ordinance; a sentence,</i> or <i>a judicial decision.</i> See عُودٌ, حُكْمٌ and دِينٌ. === قَضَآءٌ The <i>exercise of the office of a kádee.</i> [You say] القَضَآءُ جَمْرٌ [meaning, the <i>exercise of the</i> office of a Kádee is one that often leads to hell]. (L, art. عود.)\nقَضَى 1 <i>He finished</i> a thing <i>entirely, by word,</i> or <i>by deed.</i> This is the primary meaning. (Bd, ii. 111.) <i>By word, as in</i> وَقَضَى رَبُّكَ (Idem, ibid.) <i>And thy Lord hath commanded decisively.</i> (Idem, xvii. 24.) And <i>by deed, as in</i> فَقَضَاهُنَّ سَبْعَ سَمٰوَاتٍ [Kur, xli. 11, <i>And he completed them seven heavens</i>]. (Idem, ii. 11.) === And <i>He</i> (God) <i>desired</i> a thing <i>so as to necessitate its being.</i> (Idem, ii. 11.) === إِذَا قَضَى أَمْرًا, [Kur, ii. 111,] <i>When He</i> (God) <i>desireth a thing to be.</i> (Bd, Jel.) === [Thus it signifies <i>He decreed </i> a thing; <i>ordained it; pronounced</i> it; or <i>decided</i> it <i>judicially.</i>] === قَضَى عَلَيْهِ, aor. ﹻ, inf. n. قَضَآءٌ &c., <i>He decided judicially,</i> or <i>judged, against him;</i> and بَيْنَ الخَصْمَيْنِ <i>between the two litigants.</i> (TA.) See قَدْرٌ. === [<i>He completed; accomplished;</i> or <i>fully performed;</i> a thing.] === قَضَى <i>He attained,</i> or <i>obtained,</i> or <i>accomplished,</i> his want. (Msb.) === [<i>He paid, discharged,</i> or <i>satisfied,</i> a debt, due, claim, or demand.] === قَضَيْتُهُ حَقَّهُ <i>I gave him</i> [or <i>paid him</i>] <i>his due,</i> (Msb,) <i>fully.</i> (Har, p. 22.) === قَضَى عَنْهُ (S, K, in art. جزى, &c.) <i>He,</i> or <i>it, payed;</i> or <i>made,</i> or <i>gave,</i> or <i>rendered, satisfaction; for him.</i> (TK in that art.) And followed by شَيْئًا [<i>He paid a thing for him,</i> or <i>in his stead; gave,</i> or <i>rendered, it as a satisfaction;</i> lit. and fig.] (S, TA in that art., and Bd in ii. 45.) See جَزَى عَنْهُ; and see a verse cited voce دَانَ, in art. دين. === <i>He finished doing a</i> thing: <i>he finished</i> his prayer. (TA.) <i>He performed, fulfilled,</i> or <i>accomplished,</i> the pilgrimage, syn. أَدَّى, (Msb,) and the religions rites and ceremonies of the pilgrimage, (Bd, Jel in ii. 196,) syn. قَضَىَ بِهِ. (Jel, ibid, Msb.) === You also say, حَكَمَ بِهِ <i>He decreed it;</i> &c.; like حَكَمَ بِهِ: see an ex. voce سُلْطَانٌ. === قَوْلُهُ مَمَّا يَقْضِى العَجَبَ [<i>His saying</i> such a thing <i>is of the things that induce wonder in the utmost degree</i>]. (TA in art. جلب.) See Har, p. 22. === وَقَضَيْنَا إِلَى بَنِى إِسرائِيلَ (Kur, xvii. 4): see إِلَى. === قَضُوَ: see غَزُوَ, and هَيُؤَ, and بُطُآنَ; and see طَمُعَ in the S.\nقَضِيَّةٌ <i>A thing; an affair; a matter; a case; an event; an action:</i> significations well known, but not found by me in any classical writing, nor in any lexicon, excepting as implied when the word is used in explanations: syn. أَمْرٌ and شَأْنٌ. === A <i>case</i> of law. (L in art. جهد.) === قَضِيَّةٌ كُلِّيَّةٌ [<i>A universal</i> or <i>general prescript, rule, or canon</i>]. (Kull, voce قَاعِدَة, p. 290; KT, in explanation of the same word.) === قَضِيَّةٌ in logic, <i>A proposition.</i>\nمُقْتَضَى [<i>Exigence.</i>] === مُقْتَضَى اللَّفْظِ <i>That which the word,</i> or <i>expression, indicates.</i> (ElFárábee, Msb, voce مُعْنًى.)"
+}

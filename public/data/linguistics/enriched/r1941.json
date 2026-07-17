@@ -1,0 +1,42 @@
+{
+  "rootId": "r1941",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:05:27.741Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Completion, keeping promise, death, or full measure",
+  "primaryMeaning": "To fulfill or take fully",
+  "quranicRelevance": "Fulfilling covenants (Wafa'), giving full measure ('awfoo al-kayl'), and death/taking the soul (Wafat).",
+  "keyDerivations": [
+    {
+      "lemma": "أَوْفَى",
+      "form": "Form IV Verb",
+      "meaning": "To fulfill, keep (promise), give in full, or complete"
+    },
+    {
+      "lemma": "وَفَّى",
+      "form": "Form II Verb",
+      "meaning": "To pay in full, repay, or recompense fully"
+    },
+    {
+      "lemma": "تَوَفَّى",
+      "form": "Form V Verb",
+      "meaning": "To take the soul in death, or cause to die"
+    },
+    {
+      "lemma": "وَفَاةٌ",
+      "form": "Noun",
+      "meaning": "Death, or taking of the soul"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "يَتَوَفَّاكُمْ بِاللَّيْلِ (6:60): Takes your souls at night (in sleep, representing minor death).",
+    "أَوْفَى الكَيْلَ: Give full measure (honesty in trade)."
+  ],
+  "discardedNoise": [
+    "The abundance of hair on a specific breed of goats.",
+    "Obscure details on the completion of water wells."
+  ],
+  "summaryEn": "The root spans completion and fulfillment, representing the human obligation to fulfill promises (Wafa') and the divine act of taking the soul in death (Wafat).",
+  "summaryAr": "يجمع هذا الجذر بين الإيفاء والتوفي، ممثلاً الواجب البشري بالوفاء بالعهود (وفاء) والفعل الإلهي بقبض الأرواح عند الموت (وفاة).",
+  "rawText": "أَوْفَى عَلَيْهِ 4 <i>He looked upon it, looked upon it from above, looked down upon it; got a view of it;</i> or <i>saw it;</i> syn. أَشْرَفَ عَلَيْهِ, (S, Msb, K, TA,) and اِطَّلَعَ; and اوفى فِيهِ [likewise] signifies اشرف. (TA.) === See 2.\nاِسْتَوْفَاهُ 10 and 🡻تَوَفَّاهُ <i>He</i> [<i>exacted,</i>] <i>took, or received, it fully, or wholly.</i> (Mgh.) See an ex. voce عَلَى. === See 2. === اِسْتَوْفَى [<i>He completed</i>] so many years of his age. (A, O, in TA, voce احفر.)\nتَوَفَّاهُ ٱللّٰهُ 5 <i>God took his soul,</i> (S, K,) [either at death, or in sleep. See the Kur-án, vi. 60]: or <i>caused him to die.</i> (Msb.) === See 2 and 10.\nوَافَى بِهِ 3 <i>He brought it:</i> see a verse cited in art. سجد. === See 2.\nوَفَى بِالعَهْدِ 1 and [<i>He fulfilled, performed, kept,</i> or <i>was faithful to, the compact,</i> or <i>covenant,</i> and <i>the promise</i>]: act. part. n. وَفِىٌّ; pl. أَوْفِيَآءُ. (Msb.) === وَفَآءٌ signifies The <i>being faithful to an engagement,</i> or <i>promise:</i> see 1, last sentence, in art. رعى. === وَفَاهُ <i>He paid it:</i> see an ex. (فِى ثَوْبَىْ أَبِى أَنْ أَفِيَهُ) voce ثَوْبٌ.\nوَفِىٌّ : see وَفَى. === وَفِىُّ العَهْدِ [<i>A fulfiller, performer,</i> or <i>keeper, of the compact,</i> or <i>covenant.</i> (TA, voce إِلٌّ.)\nوَفَّاهُ حَقَّهُ 2 and 🡻اوفاهُ and 🡻وافاهُ and 🡻توفّاهُ and 🡻استوفاهُ <i>He paid,</i> or <i>rendered, to him fully,</i> or <i>completely, his right,</i> or <i>due.</i> (K. [In the CK, اَوْفاهُ is erroneously put for وَافَاهُ.])"
+}

@@ -1,0 +1,31 @@
+{
+  "rootId": "r1621",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:11:50.470Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Agitation, shaking, swaying, rolling dust, wind blow, or pathway",
+  "primaryMeaning": "Shaking/swaying or rolling",
+  "quranicRelevance": "Apocalyptic shaking/swaying of sky (Mawr - 'yawma tamooru as-samao mawran').",
+  "keyDerivations": [
+    {
+      "lemma": "مَادَ / يَمُورُ",
+      "form": "Form I Verb",
+      "meaning": "To shake, sway, vibrate, roll, gush, or be agitated"
+    },
+    {
+      "lemma": "مَوْرٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Shaking, swaying, rolling, agitation, or turbulent movement"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "يَوْمَ تَمُورُ السَّمَاءُ مَوْرًا (52:9): The Day the sky will shake/sway in great agitation (apocalyptic stellar distortion)."
+  ],
+  "discardedNoise": [
+    "Saddle bags (Mawr) - spelling convergence.",
+    "Modern highways (Mawrid) - distinct etymology."
+  ],
+  "summaryEn": "The root represents turbulent shaking and swaying (Mawr), detailing the violent apocalyptic instability and trembling of the celestial canopy.",
+  "summaryAr": "يمثل هذا الجذر الاضطراب والموجان الحركي والاضطراب الدائري، واصفاً فوضى واهتزاز وتموج السماء يوم القيامة إفناءً لها (تمور السماء موراً).",
+  "rawText": "امار السِّنَانَ فِى المَطْعَونِ 4 [<i>He made the spearhead to move from side to side in the person pierced</i>]. (A.) امارت الرِّيحُ الغُبَارَ <i>The wind</i> <i>made the dust to go to and fro:</i> or <i>raised the dust.</i> (M, K.) === امار الدَّمَ <i>He made the blood to run</i> or <i>flow;</i> (T, S, * IKtt, Msb;) as also 🡻مَارَهُ, (IKtt, Msb,) inf. n. مَيْرٌ. (IKtt. [as in the TA; but this seems to be a mistake for مَوْرٌ.])\nتَمَوَّرَ 5 see 1, in two places.\nمَائِرَاتٌ <i>Bloods</i> [<i>flowing, and running hither and thither</i>]. So in the following verse (of Rusheyd Ibn-Rumeyd El-'Anazee, TA; not of El-Aashà [as it is said to be in the S in art. عوض;] Sgh, in TA, art. عوض:) <center> <h3> حَلَفْتُ بِمَائِرَاتٍ حَوْلَ عَوْضٍ </h3> <h3> وَأَنْصَابٍ تُرِكْنَ لَدَى السَّعِيرِ </h3> </center> [or السُّعَيْرِ, i. e., <i>I swore,</i> or <i>I swear, by bloods flowing and running hither and thither, around 'Owd, and stones set up to be worshipped, left by Es-Sa'eer</i> or <i>Es-So'eyr</i>]. 'Owd and Es-Sa'eer [or Es-So'eyr] were two idols. (S, TA.) [See also another verse, cited in art. عز.]\nمَارَ 1 , aor. يَمُورُ, inf. n. مَوْرٌ, <i>It moved from side to side,</i> (S, M, A, Msb, K,) <i>like the knee-pan on the knee;</i> (A;) or <i>to and fro, like as the tall palm-tree moves;</i> (S;) as also 🡻تموّر: (S:) <i>it came and went;</i> (T;) as also 🡻تموّر. (K.) You say of a camel, تَمُورُ عَضُدَاهُ <i>The upper bones of his two arms move from side to side.</i> (S, TA.) And مَارَ السِّنَانُ فِى المَطْعُونِ [<i>The spear-head moved from side to side in the person pierced</i>]. (A.) And الطَّعْنَةُ تَمُورُ <i>The thrust inclines to the right and left.</i> (TA.) And النُّجُومُ تَمُورُ <i>The stars come and go.</i> (TA.) And مَارَ الغُبَارُ, inf. n. مَوْرٌ, <i>The dust moved to and fro:</i> or <i>became raised by the wind.</i> (M, K.) === <i>It moved round about,</i> (T, TA,) <i>and to and fro:</i> (TA:) <i>it was in a state of commotion; in a state of tumult:</i> (S, * M, Msb, K:) said of the sea, (Msb,) &c.: (M:) <i>it was in a state of quick motion</i> or <i>commotion.</i> (Msb.) It is said in a trad., that when the soul, or spirit, was blown into Adam, مَارَ فِى رَأْسِهِ فَعَطَسَ <i>It circulated, and moved to and fro, in his head, and he sneezed.</i> (TA.) And in the Kur, [lii. 9,] يَوْمَ تَمُورُ السَّمَآءُ مَوْرًا <i>On the day when the heaven shall actually be in a state of commotion,</i> or <i>tumult:</i> so accord. to Ed-Dahhák: or <i>shall move from side to side:</i> so accord. to AO and Akh: (S:) or <i>shall come and go;</i> or <i>move to and fro;</i> or <i>reel.</i> (T.) And in a trad. of Ibn-Ez-Zubeyr, بِكَتَائِبَ تَمُورُ كَرِجْلِ الجَرَادِ <i>With troops moving to and fro, in a state of commotion, like the leg of the locust,</i> by reason of their multitude. (TA.) You say also, مَارَتِ النَّاقَةُ فِى سَيْرِهَا <i>The she-camel was in a state of commotion, and reeled, in her pace,</i> or <i>going:</i> and in like manner you say of a mare. (TA.) === مَا أَدْرِى أَغَارَ أَمْ مَارَ, a saying of the Arabs, related by IAar, (TA,) <i>I know not whether he have come to low country,</i> or <i>turned and returned to high country</i> (نَجْد): (S, TA:) or <i>have come to the low country,</i> or <i>come to the high country.</i> (IAar, K, * TA.) === مَارَ الدَّمُ (S, &c.) <i>The blood ran,</i> or <i>flowed,</i> upon the surface of the ground; (T, S, M, Msb, K;) and in like manner you say of tears, meaning they <i>flowed:</i> (M:) or <i>the blood poured</i> upon the surface of the ground, <i>and went hither and thither,</i> (TA,) <i>sideways.</i> (A.) === See also 4.\nمَوَّارٌ , (TA,) or مَوَّارُ المِلَاطِ, (S, TA,) A camel <i>that moves the upper bones of his two arms from side to side;</i> (S, TA;) and مَوَّارُ الضَّبْعَيْنِ [signifies the same]. (A.) === مَوَّارَةٌ, (M, K,) or مَوَّارَةُ اليَدِ, (S, Msb,) A she-camel <i>quick in her pace:</i> (S, Msb:) or <i>easy in her pace, and quick.</i> (M, K.) === رِيحٌ مَوَّارَةٌ <i>Wind that blows the dust to and fro:</i> or <i>that raises the dust:</i> pl. رِيَاحٌ مُورٌ, which is extr. [with respect to rule]. (M.)\nمَوْرٌ <i>A road:</i> (T, S:) or <i>a trodden and even road:</i> (M, K:) an inf. n. used as a subst.: because people come and go upon it. (TA.)\nمُورٌ <i>Dust moving to and fro</i> (M, K) <i>in the air:</i> (TA:) or <i>raised by the wind:</i> (M, K:) or <i>carried to and fro by the wind.</i> (T, S.) === See also مَوَّارٌ."
+}

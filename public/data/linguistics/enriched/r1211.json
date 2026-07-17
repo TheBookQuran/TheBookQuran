@@ -1,0 +1,52 @@
+{
+  "rootId": "r1211",
+  "source": "lanes",
+  "enrichedAt": "2026-06-29T23:49:55.978Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Covering, shielding, protecting, or forgiving",
+  "primaryMeaning": "To forgive or pardon (by covering up the sin)",
+  "quranicRelevance": "One of the most prominent theological concepts in the Quran. Refers to God's forgiveness (Maghfirah), and His names al-Ghafur (The Forgiving), al-Ghaffar (The Oft-Forgiving), and al-Ghafir (The Forgiver). Also refers to human seeking of forgiveness (Istighfar).",
+  "keyDerivations": [
+    {
+      "lemma": "غَفَرَ",
+      "form": "Form I Verb",
+      "meaning": "To forgive, pardon, or cover"
+    },
+    {
+      "lemma": "مَغْفِرَةٌ",
+      "form": "Noun",
+      "meaning": "Forgiveness or pardon"
+    },
+    {
+      "lemma": "الغَفُورُ",
+      "form": "Noun",
+      "meaning": "The Forgiving (attribute of God)"
+    },
+    {
+      "lemma": "الغَفَّارُ",
+      "form": "Noun",
+      "meaning": "The Oft-Forgiving (attribute of God)"
+    },
+    {
+      "lemma": "اسْتَغْفَرَ",
+      "form": "Form X Verb",
+      "meaning": "To seek forgiveness or pardon"
+    },
+    {
+      "lemma": "غُفْرَانٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Forgiveness, pardon, or covering"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "مِغْفَرٌ: A helmet (a head-covering shield worn in battle).",
+    "غَفَرَ (Form I): To cover a wound with dressing/medicine; or for a garment to get hairy/fuzzy."
+  ],
+  "discardedNoise": [
+    "Camel's wool or hair (غَفَر).",
+    "Descriptions of specific diseases or growth of plant fuzz."
+  ],
+  "summaryEn": "The root conceptually denotes covering and shielding, which in the Quran represents divine forgiveness (Maghfirah) and the shielding of believers from the consequences of their sins.",
+  "summaryAr": "يدل هذا الجذر على التغطية والستر والوقاية، وهو ما يمثل في القرآن المغفرة الإلهية ووقاية المؤمنين من عواقب ذنوبهم.",
+  "rawText": "أَرْضٌ مَغْفُورَآءُ <i>Land containing</i> [<i>trees producing</i>] مَغَافِير. (IDrd, K.) [See مُغْفُورٌ.]\nأَغْفَرُ [<i>Having the quality of covering,</i> or <i>the like, in a greater,</i> or <i>in the greatest, degree</i>]. One says اُصْبُغْ ثَوْبَكَ بالسَّوَادِ فَإِنَّهُ أَغْفَرُ لِوَسَخِهِ <i>Dye thou thy garment,</i> or <i>piece of cloth, with black; for it has the quality of bearing and concealing its dirt in the greatest degree.</i> (S, * TA.)\nإِغْتَفَرَ 8 see the first paragraph, in two places.\nإِغْفَاْرَّ 11 see the first paragraph.\nاستغفر ٱللّٰهَ 10 , (Msb,) and استغفر اللّٰه مِنْ ذَنْبِهِ, (S, K,) and لِذَنْبِهِ, (S,) and ذَنْبَهُ, (K,) <i>He begged of God forgiveness,</i> or <i>pardon;</i> (Msb;) <i>he sought of God the covering,</i> or <i>forgiveness,</i> or <i>pardon, of his sin, crime,</i> or <i>offence,</i> (K, TA,) <i>by word and by deed;</i> for so God requires one to do; not with the tongue only. (TA.)\nاغفر 4 : see 1, in two places. ___ أَغْفَرَتْ <i>It</i> (land) <i>produced somewhat of</i> غَفَر, meaning <i>small herbage:</i> (TA:) [i. e.] <i>it produced herbage like the nap of cloth.</i> (O, L, TA. *) === And <i>It</i> (land) <i>produced its</i> مَغَافِير [pl. of مُغْفُورٌ, q. v.]. (IAth, O, L, TA.) And اغفر <i>It</i> (the [species of tree, or shrub, called] رِمْث, S, and the عُرْفُط, [&c.,] TA) <i>exuded,</i> or <i>produced, its</i> مَغَافِير. (S, TA.) ___ Also, i. e. اغفرت, [from غُفْرٌ, q. v.,] <i>She</i> (a mountaingoat) <i>had a young one,</i> or <i>young ones.</i> (O, TA.) ___ And اغفر النَّخْلُ <i>The palm-tress had, upon their unripe dates, what resembled bark,</i> or <i>crust;</i> (O, K, TA;) which the people of El-Medeeneh term الغَفَا [or الغَفَى]. (O, TA.)\nتغافرا 6 <i>They two prayed for the covering of sins,</i> &c., or <i>for forgiveness,</i> or <i>pardon, each for the other.</i> (TA.)\nتغفّر 5 and 🡻تَمَغْفَرَ <i>He gathered what is called</i> مِغْفَر and مُغْفُور [see the latter of these two words]. (S, K.) He who says مُغْفُور says خَرَجْنَا 🡻نَتَمَغْفَرُ, and he who says مِغْفَر says خرجنا نَتَغَفَّرُ, <i>We went forth to gather</i> مغفور, or مغفر, <i>from its trees.</i> (S.)\nتَمَغْفَرَ : see 5, in two places.\nجَمَّآءُ غَفِيرٌ <i>A helmet that encloses and embraces the whole head.</i> (K.) AO says, in his “ Book on the Coat of Mail and the Helmet, ” that بَيْضَةٌ is a general name for a helmet, which has plates like the bones of the skull, fastened together, edge to edge, by nails. (TA.) === جَاؤُوا جَمَّآءَ غَفِيرًا, and الجَمَّآءَ الغَفِيرَ, (S, K,) and جَمَّآءَ الغَفِيرِ, and جَمًّا غَفِيرًا, and الجَمَّ الغَفِيرَ, and جَمَّ الغَفِيرِ, and جَمَّآءَ 🡻الغَفِيرَى, and جَمَّآءَ 🡻غَفِيرَةً, and 🡻الغَفِيرَةَالجَمَّآءَ, and جَمَّآءَ 🡻الغَفِيرَةِ, and جَمَّ 🡻الغَفِيرَةِ, and بِجَمَّآءِ الغَفِيرِ, and بِجَمَّآءِ 🡻الغَفِيرَةِ, (K,) are phrases meaning <i>They came all together, high and low, none of them remaining behind, and they being many:</i> (S, K:) accord. to Sb, (K,) it (الجمّآء الغفير, S, which is the only form that he mentions, TA, [or rather the former of these two words,]) is a subst., (S, K,) put in the place of an inf. n., (K,) i. e. put in the accus. case like an inf. n. of the same meaning, (TA,) i. e., [as when you say] مَرَرْتُ بِهِمْ جُمُومًا كَثِيرًا [I passed by them they being very many]: (K:) it is not a verb, [by which is here meant, as in many other instances, an inf. n.,] but is put in the accus. case like an inf. n. of the same meaning, as when you say جَاؤُونِى جَمِيعًا, and قَاطِبَةً, and طُرًّا, and كَافَّةً, [They came to me all together,] and the article ال is prefixed like as it is prefixed in the saying أَوْرَدَهَا العِرَاكَ, meaning أَوْرَدَهَا عِرَاكًا [He brought them (the camels) to the water all together]: (S:) Sb says that it is one of those denotatives of state which have the art. ال prefixed, and is extr.; and that الغفير is an epithet inseparable from الجمّآء; meaning that you do not say الجمّآء and then be silent: (TA:) others hold it to be an inf. n.: IAmb allows it to be in the nom. case, on the condition that هُم is understood [before it; i. e., the complete phrase being جَاؤُوا هُمُ الجَمَّآءُ الغَفِيرُ]: and Ks says that the Arabs put الجمّاء الغفير in the accus. case فِى التَّمَامِ [i. e. in the case of its occurring after a proposition rendered complete by the mention of the agent. as when you say جَآءَ القَوْمُ الجَمَّآءَ الغَفِيرَ], and in the nom. case فِى النُّقْصَانِ [i. e. in the case of its occurring when what precedes it is not a complete proposition, and is only rendered complete by it as the agent, as when you say جَآءَ الجَمَّآءُ الغَفيِرُ]. (K.) === It is said in a trad., that Mohammad, being asked by Aboo-Dharr, what was the number of the apostles, answered ثَلٰثُمِائَةٍ وَخَمْسَةَ عَشَرَ جَمَّ الغَفِيرِ, meaning, <i>Three hundred and fifteen: a great number.</i> (Nh, TA.) ___ See also غَفَرٌ, first sentence.\nغفّرهُ 2 <i>He said</i> غَفَرَ ٱللّٰهُ لَهُ [<i>May God cover his sins,</i> &c.; <i>may God forgive him,</i> or <i>pardon him</i>]. (TA, from a trad.)\nغَافِرٌ (TA) and 🡻غَفُورٌ (S, K, TA) and 🡻غَفَّارٌ (K, TA) are epithets applied to God. (K, TA,) the second and third of which are intensive; (TA;) meaning, [the first,] <i>Covering and forgiving the sins, crimes,</i> and <i>offences, of his servants;</i> [or simply <i>forgiving;</i> and the second and third, <i>covering</i> and <i>forgiving much the sins,</i> &c., <i>of his servants;</i> or <i>very forgiving.</i>] (S, * K, * TA) The pl. of 🡻غَفُورٌ is غُفُرٌ. (S.) And 🡻غَفُورٌ is also applied to a woman, without ة. (TA.)\nغَفَرٌ (S, K, TA) and 🡻غَفْرٌ (S, TA) and 🡻غُفَارٌ (S, K, TA) <i>Hair like down, such as is upon the shank of a woman,</i> and <i>upon the forehead,</i> and <i>the like thereof:</i> (S, TA:) or the <i>hair of the neck,</i> and <i>of the jaws,</i> and <i>of the back of the neck;</i> (K, TA;) as also 🡻غَفِيرٌ accord. to the copies of the K, but accord. to the L and other lexicons غَفْرٌ: and the <i>small, short, hairs</i> of the body. (TA.) === And غَفَرٌ signifies also The <i>growth of hair in the place of the mane</i> of a horse or similar beast. (TA.) === And The <i>nap,</i> or <i>villous substance, upon the surface of a garment,</i> or <i>piece of cloth,</i> (S, K, TA,) and <i>the like thereof;</i> (TA;) and 🡻غَفْرٌ signifies the same: (K, TA:) n. un. غَفْرَةٌ [and app. غَفَرَةٌ]: and غَفَرٌ is also expl. as signifying the هُدْب [app. here meaning likewise <i>nap,</i> or <i>pile,</i> or perhaps the <i>unwoven end,</i>] of a garment, or piece of cloth, and [particularly] of the thin and soft sorts of what are termed خَمَائِص and قُطُف [pls. of خَمِيصَةٌ and قَطِيفَةٌ]; but not the extremities of أَرْدِيَة and مَلَاحِف [pls. of رِدَآءٌ and مِلْحَفَةٌ]. (TA.) === And <i>Small herbage;</i> (K:) [or] <i>a sort of small, sprouting herbage, of the</i> [<i>season called</i>] رَبِيع, <i>growing in plain,</i> or <i>soft, land, and upon the</i> [<i>eminences termed</i>] آكام [pl. of أَكَمَةٌ]; <i>when green, resembling green passerine birds standing; and when it has dried up, resembling such as are red, not standing.</i> (L, TA. *)\nغَفَرَهُ 1 , aor. ﹻ, (K,) inf. n. غَفْرٌ, (S, Mgh, Msb,) <i>He covered, veiled, concealed,</i> or <i>hid, it;</i> (S, Mgh, Msb, K;) i. e., anything. (TA.) This is the primary signification. (Mgh, Msb.) === [Hence] غَفَر الشَّيْبَ بِالخِضَابِ <i>He covered,</i> or <i>concealed, the white,</i> or <i>hoary, hair with dye;</i> (K;) as also 🡻أَغْفَرَهُ. (TA.) === And غَفَرَ المَتَاعَ, (S, K,) فِى الوِعَآءِ, (K,) <i>He put the goods,</i> or <i>utensils, into the bag,</i> or <i>receptacle, and concealed them;</i> (K;) as also 🡻اغفرهُ. (K.) === [Hence also] غَفَرَ لَهُ ذَنْبَهُ, (S, Msb, * K,) aor. ﹻ, (K,) inf. n. مَغْفَرِةٌ, (S, K,) or this is a simple subst., (Msb,) and غُفْرَانٌ and غَفْرٌ (S, Msb, K) and غُفُورٌ (Lh, K) and غَفِيرٌ and غَفِيرةٌ, (K,) <i>He</i> (God) <i>covered, his sin, crime,</i> or <i>offence;</i> (K;) <i>forgave"
+}

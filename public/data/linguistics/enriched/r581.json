@@ -1,0 +1,31 @@
+{
+  "rootId": "r581",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T18:03:45.341Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Storing, hoarding, preserving, keeping for the future, or treasure saving",
+  "primaryMeaning": "Storing/keeping for future (Taddakhir)",
+  "quranicRelevance": "What you store (Taddakhiroon - 'wa-ma taddakhiroona fee').",
+  "keyDerivations": [
+    {
+      "lemma": "ذَخَرَ / يَذْخَرُ",
+      "form": "Form I Verb",
+      "meaning": "To store up, hoard, or keep for future use"
+    },
+    {
+      "lemma": "اِدَّخَرَ / يَدَّخِرُ (originally اِتَّذَخَرَ)",
+      "form": "Form VIII Verb",
+      "meaning": "To store, hoard, preserve, or save up treasures in houses"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَأُنَبِّئُكُمْ بِمَا تَأْكُلُونَ وَمَا تَدَّخِرُونَ فِي بُيُوتِكُمْ (3:49): 'And I inform you of what you eat and what you store/keep in your houses' (Jesus' miracle)."
+  ],
+  "discardedNoise": [
+    "Thakheerah (ammunition bullets) - modern military terminology.",
+    "Thukhr (spiritual credit/reward for afterlife)."
+  ],
+  "summaryEn": "The root represents hoarding or storing resources for future use (Dhakhr), recorded as one of the miracles of Jesus who could reveal to people the hidden food stores within their private homes.",
+  "summaryAr": "يمثل هذا الجذر ادخار الشيء وحفظه وصيانته لوقت الحاجة المستقبلية وكنز الأقوات (ذخر)، معجزاً عيسى بإخبار قومه بما يدخرون ويخفون في بيوتهم.",
+  "rawText": "إِذْخِرٌ [<i>A kind of sweet rush; juncus odoratus; or schœnanthum;</i>] <i>a certain plant,</i> (S, Mgh, Msb,) or <i>herb,</i> (K,) <i>well known,</i> (Msb,) <i>in form resembling the</i> كَوْلَان [or <i>papyrus-plant</i>], (Mgh,) <i>sweet-smelling,</i> (K,) or <i>of pungent odour;</i> (Mgh, Msb;) <i>which, when it dries, becomes white;</i> (Msb;) <i>used for roofing houses, over the wood, and for graves:</i> (TA:) <i>it has a root hidden in the ground, slender, pungent in odour; and is like the straight stalks of the</i> كَوْلَان [or <i>papyrus-plant</i>], <i>save that it is wider, and smaller in the</i> كُعُوب [which means either the <i>joints or</i> the <i>internodal portions</i>]; <i>and it has a fruit resembling the brooms of reeds, but more slender, and smaller: it is ground, and is an ingredient in perfumes: it grows in rugged</i> <i>and in smooth grounds; but seldom does more than one grow on the same spot: when it dries, it becomes white:</i> (AHn:) 'Iyád asserts that its ء is a radical letter; but this is a mistake: (MF:) the n. un. is إِذْخِرَةٌ; (S;) which is applied to a single plant, (AHn,) or to a single fascicle thereof. (Mgh.)\nاِدَّخَرَ 8 and : see 1, in three places.\nذَاخِرٌ † <i>Fat;</i> as an epithet. (AA, K.)\nذَخَرَهُ 1 , aor. ﹷ, (S, Msb, K, &c.,) inf. n. 🡻ذُخْرٌ, (S, K,) or this is a simple subst., and the inf. n. is ذَخْرٌ; (Msb;) and 🡻اِدَّخَرَهُ, (S, A, Msb, K,) of the measure اِفْتَعَلَ, (S, Msb,) originally اِذْتَخَرَهُ, the ت being changed into د, and the ذ being incorporated into it; and some of the Arabs say 🡻اِذَّخَرَهُ, which is allowable; but the former is more common; (Zj;) <i>He hoarded it, treasured it,</i> or <i>laid it up for the future; reposited it,</i> or <i>stored it, in secret;</i> (A;) or <i>he prepared it,</i> or <i>provided it;</i> (Msb;) <i>for a time of need:</i> (A, Msb:) or <i>he chose it,</i> or <i>selected it, and</i> (so in some copies of the K and in the TA, but in other copies of the K “ or ”) <i>took it for himself,</i> or <i>prepared it.</i> (K.) Some have made a distinction between ذخر and دخر, saying that the former relates to the world to come, and the latter to the present world; but this is a manifest mistake. (MF and others.) === ذَخَرَ لِنَفْسِهِ حَدِيثًا حَسَنًا (A) ‡ <i>He reserved,</i> or <i>preserved, for himself</i> [<i>a good story,</i> or <i>the like</i>]. (TA.) === ذَخَرَ مِنْ عَدْوِهِ ‡ [<i>He</i> (a horse) <i>reserved somewhat of his run,</i> i. e., power of running, or <i>was sparing of it, for the time of need</i>]. (M in art. صون.) [See also مُدَّخِرٌ, below.] === فُلَانٌ مَا نُصْحًا 🡻يَدَّخِرُ ‡ [<i>Such a one does not treasure in his heart good advice</i>]. (A, TA.)\nذَخِيرَةٌ (S, A, Msb, K) and 🡻ذَخْرٌ (A, Msb, * K) <i>A thing hoarded, treasured,</i> or <i>laid up; reposited,</i> or <i>stored, in secret;</i> (A;) or <i>prepared,</i> or <i>provided;</i> (Msb;) <i>for a time of need:</i> (A, Msb:) or <i>taken for one's self,</i> or <i>prepared:</i> (K:) pl. of the former, ذَخَائِرُ; (S, A, Msb;) and of the latter, أَذْخَارٌ. (Msb, K.) === You say, جَعَلَ مَا لَهُ 🡻ذُخْرًاعِنْدَ ٱللّٰهِ and ذَخِيرَةً ‡ [<i>He made his wealth to be a store in the hands of God,</i> by applying it to pious uses]. (A.) === And أَعْمَالُ المُؤمِنِ ذَخَائِرُ ‡ [<i>The works of the believer are things laid up for the time of need,</i> i. e. the day of resurrection]. (A.)\nذُخْرٌ : see 1: === and see the next paragraph, in two places.\nمُدَّخِرٌ , or مُذَّخِرٌ, (accord. to different copies of the K,) † A horse <i>that reserves his run;</i> expl. by المُبْقِى لِحُضْرِهِ: (AO, K, TA:) [Freytag's reading of مُذَخَّرٌ for مُدَّخِرٌ or مُذَّخِرٌ, and his proposed emendation, of المَنْقِىُّ for المُبْقِى, both taken from the TK, but neither found by me in any copy of the K, are evidently wrong: see ذَخَرَ مِنْ عَدْوِهِ, above:] such is the مِسْوَاط, a horse “ that will not give what he has without the whip: the fem. is with ة. (TA.)\nمِذْخَرٌ ‡ The [<i>part of the intestines called</i>] عَفَج: (TA:) [its pl.] مَذَاخِرُ is also explained as signifying the <i>intestines; and bellies;</i> (S, K;) and <i>veins:</i> (K:) or the <i>lower part of the belly:</i> (As, K:) or the <i>parts of the inside of a beast in which he stores his fodder and water.</i> (A.) You say فُلَانٌ مَلَأَ مَذَاخِرَهُ ‡ <i>Such a one filled the lower parts of his belly.</i> (As.) And مَلَأَتِ الدَّابَّةُ مَذَاخِرَهَا ‡ <i>The beast satiated itself.</i> (TA.) And تَمَلَّأَتْ مَذَاخِرُهُ ‡ <i>He became satiated.</i> (A.) And مَلَأَ لَنَا فِى مَذَاخِرِهِ عَدَاوَةً ‡ [<i>He filled his heart with enmity towards us</i>]. (A.)"
+}

@@ -1,0 +1,123 @@
+.resultCard {
+  display: block;
+  padding: 2px 0;
+  background-color: transparent !important;
+  border: none !important;
+  border-bottom: none !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  transition: all var(--transition-fast) ease;
+  cursor: pointer;
+  margin-bottom: 0;
+  text-decoration: none;
+  color: inherit;
+}
+
+.resultCard:hover {
+  border-bottom-color: var(--color-background-brand, #96742f) !important;
+}
+
+.resultCard:hover .verseKey {
+  color: var(--color-background-brand, #96742f);
+  background-color: rgba(150, 116, 47, 0.1);
+}
+
+.resultCard:hover .verseKeyBadge {
+  color: var(--color-background-brand, #96742f);
+  background-color: rgba(150, 116, 47, 0.15);
+}
+
+.resultCard:hover .arabicText {
+  color: var(--color-background-brand, #96742f);
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: var(--spacing-xsmall);
+}
+
+.verseKey {
+  font-size: var(--font-size-xsmall);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-background-brand, #96742f);
+  background-color: rgba(150, 116, 47, 0.1);
+  padding: var(--spacing-xmicro) var(--spacing-xsmall);
+  border-radius: 4px;
+  transition: all var(--transition-fast) ease;
+}
+
+.verseKeyBadge {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--spacing-xmicro, 4px);
+  color: var(--color-background-brand, #96742f);
+  background-color: rgba(150, 116, 47, 0.06);
+  padding: 0 var(--spacing-xsmall, 8px);
+  border-radius: 6px;
+  transition: all var(--transition-fast) ease;
+  margin-inline-start: var(--spacing-small, 12px);
+  vertical-align: middle;
+  height: 2.2rem;
+}
+
+.surahCalligraphy {
+  font-family: "surahnames", sans-serif;
+  font-size: 1.8rem;
+  color: var(--color-background-brand, #96742f);
+  line-height: 1;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.verseNum {
+  font-size: var(--font-size-xsmall);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-background-brand, #96742f);
+  font-family: var(--font-family-sans, system-ui, -apple-system, sans-serif);
+  display: inline-block;
+  vertical-align: middle;
+  opacity: 0.85;
+}
+
+
+.arabicContainer {
+  margin-bottom: 2px;
+  text-align: right;
+  direction: rtl;
+}
+
+.arabicText {
+  font-family: var(--font-family-kitab), serif;
+  font-size: var(--font-size-large2);
+  color: var(--color-text-default);
+  line-height: 2;
+  transition: color var(--transition-fast) ease;
+  margin: 0;
+}
+
+.translationContainer {
+  border-top: none;
+  padding-top: 2px;
+}
+
+.translationText {
+  font-size: var(--font-size-small);
+  color: var(--color-text-muted, #777777);
+  line-height: 1.6;
+  text-align: start;
+  margin: 0;
+}
+
+/* Style search query highlights */
+.resultCard em,
+.resultCard mark {
+  background-color: transparent !important;
+  color: var(--color-background-brand, #96742f) !important;
+  font-style: normal;
+  font-weight: var(--font-weight-bold);
+  padding: 0;
+}
+
+

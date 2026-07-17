@@ -1,0 +1,26 @@
+{
+  "rootId": "r1731",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:52:16.826Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Clear way, path, course, method, highway, or breathing heavily/gasping",
+  "primaryMeaning": "Clear way/course (Minhaj)",
+  "quranicRelevance": "A law and a clear way (Minhajan - 'shir'atan wa-minhajan').",
+  "keyDerivations": [
+    {
+      "lemma": "مِنْهَاجٌ",
+      "form": "Noun",
+      "meaning": "Clear way, course, path, systematic method, or prominent highway"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "لِكُلٍّ جَعَلْنَا مِنْكُمْ شِرْعَةً وَمِنْهَاجًا (5:48): To each of you We have prescribed a law/rule and a clear way/method."
+  ],
+  "discardedNoise": [
+    "Inhajat (exhaustion of body).",
+    "Manhajiyyah (modern scientific methodology) - academic jargon."
+  ],
+  "summaryEn": "The root refers to a clear, established pathway (Nahj), declaring that while different prophets received customized legal codes (Sharia), all paths lead to the same monotheistic essence.",
+  "summaryAr": "يشير هذا الجذر إلى الطريق الواضح البين المستمر، والنهج السهل السالك (نهج)، موضحاً إعطاء كل أمة شريعة عملية وطريقاً واضحاً مسلوكاً للهداية.",
+  "rawText": "إِسْتَنْهَجَ 10 see 1. === فُلَانٌ يَسْتَنْهِجُ سَبِيلَ فُلَانٍ, (S.) or طَرِيقَ فُلَانٍ, (K.) <i>Such a one follows the way of such a one.</i> (S, K.)\nضَرَبَهُ حَتَّى انهج 4 <i>He beat him until he became stretched along:</i> or, <i>until he wept:</i> (TA:) [but probably بكى “ he wept ” is a mistake for بَلِىَ <i>he became worn</i> with the beating]. ___ انهج <i>He,</i> or <i>it, caused him</i> (a man, S, and a beast of carriage, TA) <i>to be out of breath,</i> or <i>to breath short,</i> or <i>unintermittedly,</i> or <i>to pant for breath.</i> (S, TA.) [See an ex voce نَهِجَ.] <i>He rode</i> a beast of carriage <i>so as to cause</i> it, or <i>until he caused</i> it, <i>to be out of breath,</i> &c., (S, K,) <i>and to become fatigued,</i> or <i>jaded.</i> (TA.) ___ See 1, throughout.\nطَرِيقٌ نَاهِجَةٌ : see نَهْجٌ.\nمَنْهَجٌ and مِنْهَاجٌ: see نَهْجٌ.\nنَهَجٌ : see نَهْجٌ.\nنَهَجَ 1 , (K, Msb,) aor. ﹷ, inf. n. نُهُوجٌ; (Msb;) and 🡻انهج; (S, K;) <i>It</i> (a road, or way, S and Msb, and an affair, TA,) <i>became manifest, plainly apparent,</i> or <i>open;</i> (S, K, Msb,) and so, with respect to a road, 🡻استنهج. (K.) === نَهَجَ, (S, K, Msb,) and 🡻انهج, (K, Msb,) <i>He,</i> or <i>it, rendered</i> (a road, S and Msb, and an affair, TA,) <i>manifest, plainly apparent,</i> or <i>open:</i> (S, K, Msb:) === إِعْمَلْ عَلَى مَا نَهَجْتُهُ لَكَ <i>Do according to that which I have made manifest to thee.</i> (S.) ___ نَهَجَ, aor. ﹷ, (inf. n. نَهْجٌ; TA,) and 🡻انهج, <i>It</i> (attrition, TA) <i>wore out,</i> or <i>rendered worn out, a garment.</i> (K.) === نَهِجَ, aor. ﹷ; (A 'Obeyd, S, K;) and نَهَجَ, (K,) but this is disallowed by A 'Obeyd, (S,) and نَهُجَ, and 🡻انهج; (K;) <i>It</i> (a garment) <i>became old and worn out:</i> (K:) or 🡻انهج signifies <i>it began to become warn out:</i> (S:) and <i>it became old and worn out, but without being rent in several parts.</i> (TA.) انهج فِيهِ البِلَى [<i>The effect of</i>] <i>attrition spread through it.</i> (IAar.) ___ نَهَجَ الطَّرِيقَ <i>He went along the road.</i> (S, K.) ___ نَهِجَ, aor. ﹷ, inf. n. نَهَجُ; (S, K;) and نُهِجَ, inf. n. نَهْجَةٌ; (ISh;) this inf. n. also mentioned by Lth, who knew no verb belonging to it; (L;) and نَهَجَ, aor. ﹻ, (K,) inf. n. نَهِيجٌ; (L, in art. أنح;) and 🡻انهج, inf. n. إِنْهَاجٌ; (L;) <i>He was out of breath; breathed short,</i> or <i>unintermittedly; panted:</i> (S, L, K;) by reason of violent motion: said of a man, and of a beast of carriage, (L,) and of a dog. (T.) One says, فَمَا أَدْرَِى مَا 🡻أَنْهَجَهُفُلَانٌ يَنْهَجُ فِى النَّفَسِ <i>Such a one is out of breath.</i> or <i>breathes short,</i> or <i>unintermittedly,</i> or <i>pants for breath, and I know not what hath caused him to be so,</i> or <i>to do so.</i> And it is said in a trad., رَأَى رَجُلًا يَنْهَجُ <i>He saw a man breathing short,</i> or <i>unintermittedly,</i> or <i>panting for breath, by reason of fatness, and putting forth his tongue,</i> from fatigue or the like. (S.)\nنَهْجٌ (S, K,) and 🡻نَهجٌ (L) and 🡻مَنْهَجٌ and 🡻مِنْهَاجٌ (S, K) <i>A manifest, plainly apparent,</i> or <i>open, road,</i> or <i>way:</i> (S, L, K:) and so 🡻نَاهِجَةٌطَرِيقٌ: (TA, from a trad.:) pl. of the first نَهْجَاتٌ and نُهُجٌ and نُهُوجٌ: (L:) [and of the third مَنَاهِج]. === طُرُقٌ نَهْجَهٌ <i>Manifest roads,</i> or <i>ways.</i> (L.) === And نَهْجُ الطَّرِيقِ [<i>The plain,</i> or <i>open, track of the road</i>]. (M, K, in art. سن.)"
+}

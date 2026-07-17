@@ -1,0 +1,31 @@
+{
+  "rootId": "r1290",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:23:40.664Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Thought, reflection, deliberation, or mind",
+  "primaryMeaning": "To reflect or think",
+  "quranicRelevance": "Reflecting/thinking deeply (Tafakkur - 'yatafakkaroona fee khalqi as-samawati'), and plotting/deliberating ('fakkara wa qaddara').",
+  "keyDerivations": [
+    {
+      "lemma": "فَكَّرَ",
+      "form": "Form II Verb",
+      "meaning": "To think, reflect, deliberate, or plot"
+    },
+    {
+      "lemma": "تَفَكَّرَ",
+      "form": "Form V Verb",
+      "meaning": "To think deeply, reflect, ponder, or contemplate"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "إِنَّهُ فَكَّرَ وَقَدَّرَ (74:18): Indeed, he thought/deliberated and plotted (malicious calculation against the Quran)."
+  ],
+  "discardedNoise": [
+    "Post-classical terminology of logical philosophy.",
+    "Brain anatomy details."
+  ],
+  "summaryEn": "The root represents cognitive reflection, praising deep contemplation (Tafakkur) of nature while exposing the corrupt plotting (Fakkara) of the arrogant.",
+  "summaryAr": "يمثل هذا الجذر إعمال العقل، مادحاً التفكر الإيجابي في ملكوت السموات والأرض، وفاضحاً التفكير والمكر السلبي للمكذبين (فَكَّر).",
+  "rawText": "فَكَرَ فِيهِ 1 , (O, * Msb, K,) aor. ﹹ, (O, TK,) or ﹻ, (Msb,) inf. n. فَكْرٌ; (S, O, Msb, K; *) and 🡻أَفْكَرَ; (S, O, Msb, K;) and 🡻فكّر, (S, O, K,) [which is more common than either of the first and second,] inf. n. تَفْكِيرٌ; (O, TA;) and 🡻تفكّر; (S, O, Msb, K;) and 🡻افتكر, (Msb, TA,) but this last is vulgar; (TA;) <i>He thought upon it, considered it,</i> or <i>examined it</i> [<i>mentally</i>]; (Msb;) <i>he considered it in order to obtain a clear knowledge of it;</i> (S, O, * TA;) <i>he employed his mind,</i> (M, TA,) or <i>his consideration,</i> (K, TA,) <i>upon it.</i> (M, K, TA.) [See also فِكْرٌ.]\nفَكَّرَ 2 4, 5, and 8: see the preceding paragraph.\nفَكْرٌ inf. n. of 1 [q. v.]. === لَيْسَ لِى فِى هٰذَا الأَمْرِ فَكْرٌ, (Yaakoob, S, O, K, *) which is more chaste than 🡻فِكْرٌ, [in this case,] (Yaakoob, S, O,) but the latter is sometimes used, (K,) means <i>I have no want,</i> or <i>need, of this thing:</i> (Yaakoob, S, O, K: *) or, as is said in the A, لَا فَكْرَ لِى فِى هٰذَا i. e. <i>I have no want,</i> or <i>need, of this, nor do I care for it.</i> (TA.)\nفَيْكَرٌ : see what next precedes.\nفِكِّيرٌ [<i>Thoughtful;</i>] <i>having much</i> فِكْر; (IF, S, O, K;) as also 🡻فَيْكَرٌ. (Kr, K.)\nفِكْرٌ and 🡻فِكْرَةٌ (S, O, Msb, K) and 🡻فِكْرَى, (Lth, O, K,) are simple substs., (S, O, Msb, *) but the last is of rare occurrence, (Lth, O,) signifying <i>Thought, consideration,</i> or [<i>mental</i>] <i>examination,</i> فِى أَمْرٍ [<i>respecting a thing</i>]; (Msb;) <i>consideration</i> [of a thing] <i>in order to obtain a clear knowledge</i> [of it]; (S, TA;) the <i>employment of the mind,</i> (M, TA,) or <i>of the consideration,</i> (K, TA,) upon a thing: (M, K, TA:) or <i>repeated consideration for the purpose of seeking</i> [<i>to discover</i>] <i>meanings:</i> or the <i>arranging of things in the mind in order, by them, to arrive at some object of which the attainment is desired, though it be but a preponderating opinion:</i> (Msb:) or the <i>arranging of known things</i> [<i>in the mind</i>] <i>in order to attain to</i> [<i>the knowledge of</i>] <i>an unknown</i> [<i>thing</i>]: (KT:) pl. of the first أَفْكَارٌ: (IDrd, K;) but Sb says that neither فِكْرٌ nor عِلْمٌ nor نَظَرٌ has any pl.: (TA:) the pl. of 🡻فِكْرَةٌ is فِكَرٌ. (Msb.) One says, لِفُلَانٍ فِكَرٌ كُلُّهَا فِقَرٌ [<i>Such a one has thoughts all of which are points of wit</i>]. (A, TA.) ___ See also فَكْرٌ.\nفِكْرَةٌ : see the next preceding paragraph; the former in two places.\nفِكْرَى : see the next preceding paragraph; the former in two places."
+}

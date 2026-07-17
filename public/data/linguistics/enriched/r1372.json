@@ -1,0 +1,26 @@
+{
+  "rootId": "r1372",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:56:55.064Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Locking, sealing, closing securely, bolts, or returning caravan",
+  "primaryMeaning": "Locks/bolts",
+  "quranicRelevance": "Locks upon hearts (Aqfal - 'aqfaluha').",
+  "keyDerivations": [
+    {
+      "lemma": "قُفْلٌ",
+      "form": "Noun (Plural: أَقْفَال)",
+      "meaning": "Lock, bolt, or sealing device that prevents opening"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "أَفَلَا يَتَدَبَّرُونَ الْقُرْآنَ أَمْ عَلَىٰ قُلُوبٍ أَقْفَالُهَا (47:24): Do they not then reflect upon the Quran, or are there locks upon their hearts?"
+  ],
+  "discardedNoise": [
+    "Qafilah (traveling caravan) - classical custom of calling it so in hope of safe return.",
+    "Qafeel (dry grass)."
+  ],
+  "summaryEn": "The root represents locking and sealing (Qafl), serving as a metaphor for spiritual blindness where hearts are bolted shut against the reception of truth.",
+  "summaryAr": "يمثل هذا الجذر الضم والجمع وإقفال الأبواب بالحديد وصرف الفهم (قفل)، مستخدماً أقفال القلوب مثلاً للموانع النفسية التي تحجب التدبر والهداية.",
+  "rawText": "أَقْفَلَ البَابَ 4 <i>He locked the door.</i> (TK.) See also أَغْلَقَ.\nقَافِلٌ A <i>slender</i> horse. (TA, art. خشب.)\nقَافِلَةٌ <i>A company, or an assemblage of persons, travelling together:</i> (El-Fárábee, Msb:) or <i>a company returning from a journey:</i> (S, K:) and <i>commencing a journey;</i> as auguring their return: (El-Fárábee, Msb, K:) he who restricts it to those returning from a journey errs: (ElFárábee, Msb, in which see more:) <i>a caravan.</i>\nقَفْلٌ : see فَرَاشٌ."
+}

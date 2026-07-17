@@ -1,0 +1,26 @@
+{
+  "rootId": "r1585",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:52:16.826Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Mixed, mingled, combining different fluids, or diverse ingredients",
+  "primaryMeaning": "Mixed drop of fluid",
+  "quranicRelevance": "A mixed drop (Amshaj - 'nutfatin amshajin').",
+  "keyDerivations": [
+    {
+      "lemma": "مَشَجٌ / أَمْشَاجٌ",
+      "form": "Noun (Plural)",
+      "meaning": "Mixed elements, blended fluids, or combined genetic components"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "إِنَّا خَلَقْنَا الْإِنْسَانَ مِنْ نُطْفَةٍ أَمْشَاجٍ نَبْتَلِيهِ (76:2): Indeed, We created man from a mixed drop (sperm and egg union) to try him."
+  ],
+  "discardedNoise": [
+    "Mish-mish (apricot) - botanical confusion.",
+    "Mesh (sieve/grid) - modern tool translation."
+  ],
+  "summaryEn": "The root indicates mixing and blending (Mashj), highlighting the complex biological mixture (male and female fluids) that initiates human embryonic development.",
+  "summaryAr": "يشير هذا الجذر إلى خلط الشيء وامتزاجه وتداخل الألوان والسوائل (مشج)، واصفاً النطفة البشرية بالأمشاج لامتزاج ماء الرجل بماء المرأة لبدء التخليق.",
+  "rawText": "مَشَجَ 1 , aor. ﹹ, inf. n. مَشْجٌ, <i>He mixed,</i> or <i>confused,</i> syn. خَلَطَ, (K,) one thing with (بِ) another. (TK.) === مَشَجَ بَيْنَهُمَا <i>He made a confusion,</i> or <i>disturbance,</i> (خَلَطَ,) <i>between them two.</i> (S.)\nمَشِيجٌ (S, K) and 🡻مَشَجَ (K) and like كتف in its two dial. forms, (فِى لُغَتَيْهِ, K accord. to the TA,) i. e., 🡻مَشِجٌ and 🡻مِشْجٌ, or like كَتِفٌ in a dial. of little authority, (فِى لُغَيَّةٍ, CK and a MS. copy of the K.) [See مَشْيُوحَآءُ, in art. شيج.] A thing <i>mixed,</i> or <i>confused:</i> (S, K:) or <i>any two things mixed together:</i> or <i>any two colours mixed together:</i> or <i>what is a mixture of red and white:</i> (TA:) pl. (of all the above forms, TA) أَمْشَاجٌ. (S, K.) === نُطْفَةٌ أَمْشَاجٌ, occurring in the Kur, lxxvi. 2, [<i>A drop consisting of</i>] <i>mixtures;</i> meaning the sperma genitale, because it is a mixture of various kinds: (ISk:) or [<i>a drop consisting of</i>] <i>mixtures of sperma genitale and blood:</i> (Zj:) or [<i>a drop consisting of</i>] <i>the sperma genitale of the man mixed with that of the woman and with her blood.</i> (S, K.) === Also أَمْشَاجٌ <i>What collect together in the navel.</i> (K.)\nمِشْجٌ and مَشَجٌ and مَشِجٌ: see مَشِيجٌ."
+}

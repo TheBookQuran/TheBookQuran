@@ -1,0 +1,26 @@
+{
+  "rootId": "r1559",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:11:50.470Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Erasing, wiping out, effacing, canceling, or cleaning",
+  "primaryMeaning": "Erasing/effacing",
+  "quranicRelevance": "Effacing night (Mahawna - 'famahawna ayata al-layli'), and God erasing falsehood ('wayamhu Allahu al-batila').",
+  "keyDerivations": [
+    {
+      "lemma": "مَحَا / يَمْحُو",
+      "form": "Form I Verb",
+      "meaning": "To erase, efface, wipe out, cancel, nullify, or sweep away"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فَمَحَوْنَا آيَةَ اللَّيْلِ وَجَعَلْنَا آيَةَ النَّهَارِ مُبْصِرَةً (18:12): Then We effaced/wiped out the sign of the night (dimmed moon) and made the sign of the day illuminating (sun)."
+  ],
+  "discardedNoise": [
+    "Erase marks on modern paper writing.",
+    "Canceling debts in finance databases."
+  ],
+  "summaryEn": "The root denotes erasing, applied to the cosmic dimming of the moon's light (Mahawna), and the erasure of historical falsehoods by divine truth.",
+  "summaryAr": "يدل هذا الجذر على الإزالة الكلية والأثر والمحو، واصفاً محو وطمس نور القمر الفيزيائي (فمحونا آية الليل)، ومحو الباطل بنور الحق الكلماتي.",
+  "rawText": "مَحَاهُ 1 <i>He effaced, erased, rased, obliterated,</i> or <i>cancelled, it; removed,</i> or <i>did away with, its impression</i> or <i>trace.</i> (K.) === مَحَتِ الرِّيحُ عَنْهُ الأَسْقَامَ وَالدُّنُوبَ <i>The wind made to pass away,</i> or <i>dispelled, the clouds.</i> (TA.) === مَحَا الصُّبْحُ اللَّيْلَ <i>Daybreak dispelled the night.</i> (TA.) === مَحَاٱللّٰهُ عَنْهُ الأَسْقَامَ وَالدُّنُوبَ [<i>God removed from him diseases and sins;</i> as though He cancelled them]. (Msb in art. عفو.) === الإِحْسَانُ يَمْحُو الإِسَآءَةَ <i>Beneficence effaces, obliterates,</i> or <i>cancels, evil conduct.</i> (TA)"
+}

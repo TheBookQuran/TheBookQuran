@@ -1,0 +1,26 @@
+{
+  "rootId": "r763",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T18:07:39.528Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Covering, growing dark, quietness, stillness, calmness, or wrapping/covering a body",
+  "primaryMeaning": "Covering/growing dark/still (Saja)",
+  "quranicRelevance": "Grows dark/still (Saja - 'wa-al-layli iza saja').",
+  "keyDerivations": [
+    {
+      "lemma": "سَجَى / يَسْجُو",
+      "form": "Form I Verb",
+      "meaning": "To cover with darkness, grow quiet, calm down, or become still"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَاللَّيْلِ إِذَا سَجَىٰ (93:2): By the night when it grows dark/still."
+  ],
+  "discardedNoise": [
+    "Tasjiyah (covering a deceased body with shroud) - modern funeral ritual.",
+    "Sajiyah (natural disposition/instinct) - psychological."
+  ],
+  "summaryEn": "The root represents stillness, calmness, or darkness covering a space (Sajw), sworn by in Surat al-Duha as a metaphor for the peaceful, quiet hours of the night.",
+  "summaryAr": "يمثل هذا الجذر السكون والهدوء وتغطية الظلام للأرض وتطبيقه للكون ليلاً (سجو)، مقسماً بالليل إذا سكن وأظلم (والليل إذا سجى).",
+  "rawText": "أَسْجَوَ 4 see 2. ___ اسجت النَّاقَةُ <i>The she-camel had much milk.</i> (Sgh, K.)\nساجاهُ 3 , (K,) inf. n. مُسَاجَاةٌ, (TA,) <i>He touched it.</i> (K.) One says, أَتَانَا بِطَعَامٍ فَمَا سَاجَيْنَاهُ i. e. [<i>He brought us food, and</i>] <i>we did not touch it.</i> (AZ, TA.) === And <i>i. q.</i> عَالَجَهُ [meaning <i>He worked,</i> or <i>laboured, upon it,</i> or <i>at it;</i> &c.]. (K.) One says, هَلْ تُسَاجِى ضَيْعَةً i. e. تُعَالِجُهَا [meaning <i>Dost thou work,</i> or <i>labour, upon a landed estate?</i> or, probably, <i>dost thou cultivate a landed estate by the work,</i> or <i>labour, of others?</i>]. (Aboo-Málik, TA.)\nسجّى 2 <i>He covered</i> anything; as also 🡻اسجى, and 🡻سَجَا. (IAar, TA.) You say, سجّى المَيِّتَ, (S, Mgh, Msb,) inf. n. تَسْجَيةٌ, (S, Mgh, K,) <i>He covered the dead person</i> (Mgh, Msb, K) with a garment, or piece of cloth, (Mgh, Msb,) and the like. (Msb.)\nسَاجٍ <i>Still, silent,</i> or <i>quiet:</i> thus applied to the sea [as meaning <i>calm,</i> or <i>unruffled</i>]. (S, K.) And لَيْلَةٌ سَاجِيَةٌ <i>A calm night, in which the wind is still, and such as is not dark:</i> (T, TA:) or <i>a night in which the cold has become allayed, and in which the wind and the clouds have become still, and which is not dark.</i> (M, TA.) And طَرْفٌ سَاجٍ <i>A still,</i> or <i>motionless, eye:</i> (S, K:) [or] عَيْنٌ سَاجِيَةٌ, accord. to IAar, means <i>an eye that has a languid,</i> or <i>languishing, look;</i> which is an accessory to beauty in women. (TA.) See also the next preceding paragraph.\nسَجَا 1 , (S, Msb, K, &c.,) aor. يَسْجُو, (S, Msb,) inf. n. سُجُوٌّ (S, K, TA) and سَجْوٌ, (TA,) said of the night, (Fr, IAar, Msb, TA,) &c., (TA,) <i>It was,</i> or <i>became, silent, quiet,</i> or <i>still:</i> (Fr, IAar, S, K, TA:) and <i>dark:</i> (Fr, TA:) or <i>its darkness became extended:</i> (IAar, TA:) or <i>it covered,</i> or <i>concealed, by its darkness.</i> (Msb, TA.) وَ ٱللَّيْلِ إِذَا سَجَا, in the Kur [xciii. 2], means <i>And the night when it becomes still, silent,</i> or <i>quiet:</i> (IAar, Zj, S, Jel:) or <i>when it covers with its darkness:</i> (Jel:) or <i>when its people become silent:</i> or <i>when its darkness becomes still:</i> from سَجَا البَحْرُ, inf. n. سُجُوٌّ, <i>The sea became calm.</i> (Bd.) And one says, سَجَتِ الرِّيحُ <i>The wind became still.</i> (TA.) === سَجَتِ النَّاقَةُ <i>The she-camel prolonged her</i> حَنِين [or <i>cry of yearning towards her young one</i>]. (K.) === See also 2.\nسَجِىٌّ <i>A sincere companion</i> and <i>friend.</i> (Golius, from Meyd.)]\nسَجِيَّةٌ <i>A nature;</i> or <i>a natural, a native,</i> or <i>an innate, disposition</i> or <i>temper</i> or <i>the like;</i> syn. خُلُقٌ, and طَبِيعَةٌ, (S,) or غَرِيزَةٌ: (Msb:) or <i>a faculty,</i> or <i>quality, firmly rooted in the mind, not easy of removal:</i> (MF:) pl. سَجَايَا. (Msb.)\nنَاقَةٌ سَجْوَآءُ <i>A she-camel still,</i> or <i>quiet, when being milked.</i> (M, K.) === And <i>A she-camel whose fur is unruffled:</i> and شَاةٌ سَجْوَآءُ <i>a sheep whose wool is unruffled.</i> (TA.) === And رِيحٌ سَجْوَآءُ <i>A gentle wind.</i> (TA.) === And اِمْرَأَةٌ سَجْوَآءُ الطَّرْفِ i. e. 🡻سَاجِيَتُهُ, (K,) meaning <i>A woman languid,</i> or <i>languishing, in the eye.</i> (TA.)"
+}

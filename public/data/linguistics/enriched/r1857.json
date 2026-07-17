@@ -1,0 +1,26 @@
+{
+  "rootId": "r1857",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:56:22.540Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Homeland, place of residence, station, battlefield, or domestic habitations",
+  "primaryMeaning": "Battlefields/places of action",
+  "quranicRelevance": "In many battlefields (Mawatin - 'fee mawātina kaseeratin').",
+  "keyDerivations": [
+    {
+      "lemma": "مَوْطِنٌ",
+      "form": "Noun of Place (Plural: مَوَاطِن)",
+      "meaning": "Battlefield, place of standing, home, or station of combat"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "لَقَدْ نَصَرَكُمُ اللَّهُ فِي مَوَاطِنَ كَثِيرَةٍ ۙ وَيَوْمَ حُنَيْنٍ (9:25): God has already given you victory in many battlefields/combat locations and on the day of Hunayn."
+  ],
+  "discardedNoise": [
+    "Watan (country/nationality) - modern political citizenship meaning.",
+    "Watana (to domesticate animals)."
+  ],
+  "summaryEn": "The root signifies places of station or battle locations (Mawatin), reminding the companions of the numerous geographic sites where God granted them military victories.",
+  "summaryAr": "يشير هذا الجذر إلى الوطن ومكان الإقامة ومواقف الحرب ومعارك القتال ومقامات النصر (وطن)، مذكراً بنصر الله للمسلمين في مواطن وغزوات كثيرة.",
+  "rawText": "أَوْطَنَ 4 see 10.\nاِسْتَوْطَنَ 10 <i>He took for himself as a home,</i> or <i>settled place of abode,</i> (S, Msb, K,) a country; (S, Msb;) as also 🡻أَوْطَنَ (S, Msb, K) and 🡻وَطَّنَ (S, K) or 🡻تَوَطَّنَ. (Msb.)\nتَوَطَّنَتْ نَفْسُهُ عَلَى الشَّىْءِ 5 , and لَهُ, <i>He undertook the thing, and submitted to it;</i> syn. تَحَمَّلَتْ وَذَلَّتْ لَهُ (ISd, in TA) [see also 2 and 10] <i>his mind, or he, became disposed and subjected to do the thing;</i> syn. تَمَهَّدَتْ. (K [in the CK, for تَوَطُّنَهَا تَمَهُّدَهَا, is put تَوَطَّنَهَا تَمَهَّدَهَا].)\nوَطَنٌ The <i>place of abode</i> or <i>residence</i> (S, Mgh, K) of a man: (S, Mgh:) a man's <i>settled place of abode;</i> his <i>place of constant residence;</i> his <i>dwelling;</i> his <i>home.</i> (Msb)\nوَطَّنَ نَفْسَهُ عَلَى الأَمْرِ 2 <i>He disposed and subjected his mind,</i> or <i>himself, to do the thing;</i> syn. مَهَّدَهَا لِفِعْلِهِ وَذَلَّلَهَا (Msb.) === وظّن نفسه على الشَّىْءِ, and لَهُ, <i>He induced,</i> or <i>persuaded, himself to do the thing;</i> syn. حَمَلَهَا عَلَيْهِ. (ISd, in TA.) See also 5 and 10."
+}

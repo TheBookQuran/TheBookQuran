@@ -1,0 +1,26 @@
+{
+  "rootId": "r2048",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:51:40.463Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Pebble, counting, computing, calculating, or capturing",
+  "primaryMeaning": "To count or calculate",
+  "quranicRelevance": "Calculating/registering all deeds (Ahsa - 'ahsahu Allahu wa nasoohu', 'wa kulla shay'in ahsaynahu kitaban').",
+  "keyDerivations": [
+    {
+      "lemma": "أَحْصَى",
+      "form": "Form IV Verb",
+      "meaning": "To count, calculate, compute, register, or keep record of"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "لَقَدْ أَحْصَاهُمْ وَعَدَّهُمْ عَدًّا (19:94): He has counted/registered them and numbered them in detail (complete divine accounting)."
+  ],
+  "discardedNoise": [
+    "Pebbles (حصى) in mountain streams.",
+    "Modern computer calculator models."
+  ],
+  "summaryEn": "The root represents exhaustive calculation and registry (Ihsa), highlighting God's complete and detailed count of all creatures and deeds.",
+  "summaryAr": "يمثل هذا الجذر الإحصاء والضبط الشامل، مؤكداً دقة الحساب والعد الإلهي الشامل لكل المخلوقات والأعمال (أحصاهم).",
+  "rawText": "حصى 1 , (S, A, Msb, K,) aor. ﹹ, (Msb,) inf. n. حَضٌّ (S, Msb, K) and 🡻حُضٌّ, (IDrd, K,) or this latter is a simple subst., (S, K,) and 🡻حِضِّيضَى, (K,) or this also is a simple subst., (S, TA,) and 🡻حُضِّيضَى, (K,) or this also is a simple subst., and is the only instance of the measure فُعِّيلَى; and of these last two, the former is the more approved; (TA;) [both of these, accord. to some, have an intensive signification;] <i>He excited, incited, urged,</i> or <i>instigated, him;</i> syn. حَثَّهُ; (T, S, A, K;) or حَمَلَهُ; (Msb;) <i>and roused him to ardour;</i> (K;) عَلَيْهِ <i>to do it;</i> (K;) i. e. عَلَى الأَمْرِ <i>to do the thing;</i> (Msb;) or عَلَى الخَيْرِ <i>to do good;</i> (T, A;) or عَلَى القِتَال <i>to fight;</i> (S;) or it is used as relating to pace, and to driving, and to any other thing; (M, TA;) and El-Hareeree says, on the authority of Kh, that حَثَّهُ is used peculiarly in relation to pace, or journeying, or marching: (TA in art. حث:) and 🡻حضّضهُ, (T, S, K,) inf. n. تَحْضِيضٌ, (T, Msb,) signifies the same; (K;) or has a more intensive signification; (Msb;) or <i>i. q.</i> حَرَّضَهُ [which is equivalent to حَثَّهُ with the addition given above from the K]; (T, S;) and this is used as relating to fighting: (T, TA:) or تَحْضِيضٌ signifies the <i>asking,</i> or <i>requiring, with urgency.</i> (Mughnee voce أَلَا.) It is said in the Kur [lxxxix. 19], accord. to the reading of the people of El-Medeeneh, وَلَا يَحُضُّونَ عَلَى طَعَامِ المِسْكينِ; and accord. to that of El-Hasan, تَحُضُّونَ; [<i>Nor do they,</i> or <i>ye, excite</i> one another <i>to feed the poor,</i> or <i>destitute</i>]: (TA:) or <i>nor do they,</i> or <i>ye, command to feed the poor,</i> &c.: (Fr, TA:) and there are other readings thereof: see 3 and 6. (TA.) The grammarians apply to the particles هَلَّا and أَلَّا and لَوْلَا and لَوْمَا the term 🡻التَّحْضِيضِحُرُوفُ [<i>Particles of exciting</i>]; and say that when they are followed by a future, they denote exciting to an action, and seeking or desiring or demanding the performance of it; and when followed by a preterite, reproof for not doing a thing. (Msb.)"
+}

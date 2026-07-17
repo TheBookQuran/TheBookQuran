@@ -1,0 +1,52 @@
+{
+  "rootId": "r547",
+  "source": "lanes",
+  "enrichedAt": "2026-06-29T23:49:55.978Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Calling out, inviting, invoking, or claiming",
+  "primaryMeaning": "To call, invoke, or invite",
+  "quranicRelevance": "Very frequent. Mapped into: praying or invoking God (Dua'), calling/inviting to faith (Da'wah), claiming lineage or calling someone by name, and calling/summoning to account on the Day of Judgment.",
+  "keyDerivations": [
+    {
+      "lemma": "دَعَا",
+      "form": "Form I Verb",
+      "meaning": "To call, invoke, pray, or invite"
+    },
+    {
+      "lemma": "دُعَاءٌ",
+      "form": "Noun",
+      "meaning": "Prayer, supplication, or invocation"
+    },
+    {
+      "lemma": "دَعْوَةٌ",
+      "form": "Noun",
+      "meaning": "Call, invitation, or claim"
+    },
+    {
+      "lemma": "دَاعٍ",
+      "form": "Noun / Active part.",
+      "meaning": "Caller, inviter, or summoner"
+    },
+    {
+      "lemma": "أَدْعِيَاءُ",
+      "form": "Noun pl.",
+      "meaning": "Adopted sons (those claimed as sons)"
+    },
+    {
+      "lemma": "ادَّعَى",
+      "form": "Form VIII Verb",
+      "meaning": "To claim, demand, or assert"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "دَعْوَى: Claim, lawsuit, or plea (as in 'da'wahum feeha subhanak').",
+    "تَدَاعَى (Form VI Verb): To collapse or call out to one another."
+  ],
+  "discardedNoise": [
+    "Camel having a disease that causes it to call out.",
+    "Making a beast run by shouting at it."
+  ],
+  "summaryEn": "The root signifies calling and inviting, representing human supplication (Dua') to God and the divine invitation (Da'wah) to the path of guidance.",
+  "summaryAr": "يدل هذا الجذر على الدعاء والنداء، ممثلاً تضرع الإنسان ودعاءه لله (الدعاء) والدعوة الإلهية إلى طريق الهداية (الدعوة).",
+  "rawText": "أَدْعَاهُ 4 [so in some copies of the K; in other copies 🡻اِدَّعَاهُ; the former of which I regard as the right reading;] <i>He made him to assert his relationship as a son</i> [for يُدْعَى, in my copies of the K, I read 🡻يَدَّعِى, syn. with يَعْتَزِى,] <i>to one who was not his father.</i> (K.) [SM, who appears to have read 🡻اِدَّعَاهُ, says that it is like اِسْتَلْحَقَهُ and اِسْتَلَاطَهُ.]\nأُدْعُوَّةٌ : see what next follows.\nأُدْعِيَّةٌ (S, K) and 🡻أُدْعُوَّةٌ (K) <i>An enigma; a riddle;</i> (S, K; *) like أُحْجِيَّةٌ [and أُحْجُوَّةٌ]; and including <i>such as is in verse,</i> like that quoted above, in the second paragraph of this article. (S.)\nإِسْتَدْعَوَ 10 see 1, near the middle of the paragraph. === [Hence, استدعى signifies also <i>It called for, demanded, required,</i> or <i>invited,</i> a thing. See also دَعَابِهِ.]\nالتَّدَاعِى 6 signifies <i>The calling, summoning,</i> or <i>convoking, one another.</i> (Mgh.) You say, تَدَاعَوْ لِلْحَرْبِ [<i>They called, summoned,</i> or <i>convoked, one another for war:</i> and hence,] † <i>they prepared themselves for war.</i> (TA.) And تَدَاعَوْا عَلَيْهِ, (Msb, K,) or عَلَى بَنِى فُلَانٍ, (T, M,) <i>They collected themselves together,</i> (K,) or <i>called one another so that they assembled together,</i> (M,) or <i>leagued together, and called one another to mutual aid,</i> (T, Msb, *) <i>against him,</i> (Msb, K,) or <i>against the sons of such a one.</i> (T, M.) And تَدَاعَى عَلَيْهِ العَدُوُّ مِنْ كُلِّ جَانِبٍ † <i>The enemy advanced against him from every side.</i> (K, * TA.) === [Hence,] تَدَاعَتِ السَّحَابَةُ بِالبَرْقِ وَالرَّعْدِ مِنْ كُلِّ جَانِبٍ † <i>The cloud lightened and thundered from every quarter.</i> (TA.) And تَدَاعَى البُنْيَانُ, (Mgh, Msb,) or البِنَآءُ, (TA,) ‡ <i>The building cracked in its sides,</i> (Msb,) or <i>became much broken,</i> (TA,) <i>and gave notice of falling to ruin:</i> (Msb, TA:) or <i>cracked in several places, without falling;</i> and in like manner, تَدَاعَتِ الحِيطَانُ, (Mgh,) <i>the walls cracked in several places, without falling:</i> (Mgh, K: *) and تَدَاعَتِ الحِيطَانُ لِلْخَرَابِ <i>the walls fell to ruin by degrees;</i> syn. تَهَادَمَت: (S:) [but Mtr says,] تَدَاعَتْ إِلَى الخَرَابِ is a vulgar phrase; not [genuine] Arabic. (Mgh.) And تداعى said of a sand-hill, † <i>It, being put in notion,</i> or <i>shaken in its lower part, poured down.</i> (Msb.) And [hence,] تَدَاعَتْ إِبِلُ بَنِى فُلَانٍ ‡ ‡ <i>The camels of such a one became broken by emaciation.</i> (TA.) === تَدَاعَوْ بِالأَلْقَابِ <i>They called one another by surnames,</i> or <i>nicknames.</i> (Msb.) === التَّدَاعِى also signifies † <i>The trying one another with an enigma</i> or <i>enigmas;</i> or <i>contending, one with another, in proposing an enigma</i> or <i>enigmas;</i> syn. التَّحَاجِى. (TA in art. حجو.) You say, بَيْنَهُمْ أُدْعِيَّةٌ يَتَدَاعُوْنَ بِهَا † [<i>Between them is an enigma with which they try one another;</i> or <i>by proposing which they contend, one with another</i>]. (S, K. *) === يَتَدَاعَوْنَ فَصْلَ الخِطَابِ † <i>They compete, one with another,</i> [<i>as though each one challenged the others,</i>] <i>in discoursing of the science of chasteness of speech, and eloquence.</i> (Har p. 446.) === See also 8, in two places. ___ [It is also used transitively:] you say, تَدَاعَوُا القَوْمَ <i>They</i> [<i>together</i>] <i>called the people.</i> (Mgh in art. نقض. [See 6 in that art.])\nالتَّدَعِّى 5 [inf. n. of تَدَعَّتْ] signifies <i>The</i> تَطْرِيب [or <i>singing,</i> or <i>quavering</i> or <i>trilling and prolonging of the voice,</i> or <i>prolonging and modulating of the voice,</i>] of a woman wailing for the dead. (TA. [See دَعَا المَيِّتَ, above.])\nالدَّعَّآءَةُ [an epithet in which the quality of a subst. predominates;] <i>The</i> سَبَّابَة [or <i>fore finger</i>]; (K;) i. e. <i>the finger with which one calls</i> [or <i>beckons</i>]. [TA.)\nاندعى 7 <i>i. q.</i> أَجَابَ. (K.) Akh heard one or more of the Arabs say, لَوْدَعَوْنَا لَٱنْدَعَيْنَا, meaning لَأَجُبْنَا [i. e. <i>Had they called us,</i> &c., <i>we had certainly answered,</i> or <i>replied,</i> or <i>assented,</i> or <i>consented</i>]. (S.)\nاِدَّعَى 8 <i>He asserted</i> a thing <i>to be his,</i> or <i>to belong to him,</i> or <i>to be due to him,</i> either truly or falsely: (K, * TA:) <i>he claimed</i> a thing; <i>laid claim to</i> it; or <i>demanded</i> it <i>for himself:</i> and <i>he desired</i> a thing; or <i>wished for</i> it. (Msb.) And اِدَّعَوُا الشَّىْءَ and 🡻تَدَاعَوُاالشىء signify the same [i. e. <i>They claimed the thing, every one of them for himself</i>]. (Mgh.) You say, اِدَّعَيْتُ عَلَى فُلَانٍ كَذَا [<i>I asserted myself to have a claim upon such a one for such a thing; preferred a claim against such a one for such a thing;</i> or <i>claimed of such a one such a thing</i>]. (S.) And اِدَّعَى زَيْدٌ عَلَى عَمْرو مَالًا [<i>Zeyd asserted himself to have a claim upon 'Amr for property;</i> or <i>preferred a claim against 'Amr</i> &c.]. (Mgh.) And اِدَّعَيْتَ عَلَىَّ مَا لَمْ أَفْعَلْ [<i>Thou hast asserted against me,</i> or <i>charged against me,</i> or <i>accused me of, that which I have not done</i>]. (S and K in art. شرب, and S in art. اكل.) هٰذَا ٱلَّذِى كُنْتُمْ بِهِ تَدَّعُونَ, in the Kur [lxvii. 27], means <i>This is that on account of which ye used to assert vain and false things:</i> or <i>which ye used to deny,</i> or <i>disbelieve:</i> or, accord. to Fr, the latter verb may here be used in the sense of تَدْعُونَ; and the meaning may be, <i>this is that which ye desired to hasten, and for which ye prayed</i> to God in the words of the Kur [viii. 32], “ O God, if this be the truth from Thee, then rain Thou upon us stones from Heaven, or bring upon us some [other] painful punishment: ” it may be from الدُّعَآءُ: and it may be from الدَّعْوَى: (TA:) [i. e.] it means <i>this is that which ye used to demand, and desire to hasten;</i> from الدُّعَآءُ: or <i>that which ye used to assert,</i> [namely,] that there will be no raising to life; from الدَّعْوَى. (Bd.) And وَلَهُمْ مَا يَدَّعُونَ, in the Kur [xxxvi. 57], is explained as meaning <i>And they shall have what they desire,</i> or <i>wish for;</i> which is referrible to the meaning of الدُّعَآءُ. (TA.) === You say also, اِدَّعَى غَيْرَ أَبِيهِ [<i>He asserted the relationship of father to him of one who was not his father;</i> or <i>claimed as his father one who was not his father</i>]. (T, Mgh, Msb.) And يَدَّعِى إِلَى غَيْرِ أَبِيهِ [<i>He asserts his relationship as a son,</i> or <i>claims the relationship of a son, to one who is not his father</i>]. (T, Msb. See 4, in three places.) And يَدَّعِيهِ غَيْرُ أَبِيهِ [<i>One who is not his father asserts him to be his son;</i> or <i>claims him as his son</i>]. (T, Msb.) الاِدِّعَآءُ in war signifies <i>The asserting one's relationship;</i> syn. الاِعْتِزَآءُ; (S, TA;) as also 🡻التَّدَاعِى; (TA;) i. e. the saying “ I am such a one the son of such a one. ” (S.) And [hence] sometimes it includes the meaning of <i>Informing,</i> or <i>telling;</i> and therefore بِ may be prefixed to its objective complement; so that one says, فُلَانٌ يَدَّعِى بِكَرَمِ فِعَالِهِ, i. e. <i>Such a one informs of the generosity of his deeds.</i> (Msb.)\nدَاعٍ [<i>Praying,</i> or <i>supplicating</i> God:] <i>calling,</i> or <i>summoning:</i> (Mgh:) [<i>inviting:</i>] and particularly, [as an epithet in which the quality of a subst. predominates,] <i>one who calls,</i> or <i>summons,</i> or <i>invites, to obey a right</i> or <i>a wrong religion:</i> (TA:) pl. دُعَاةٌ (Mgh, Msb, TA) and دَاعُونَ. (Msb, TA.) [Hence,] دَاعِى ٱللّٰهِ [<i>God's summoner,</i> or <i>inviter;</i> i. e.] <i>the prophet:</i> (K:) and also, (Msb, K,) or simply الدَّاعِى, (TA,) <i>The</i> مُؤَذِّن [or <i>summoner to prayer</i>]. (Msb, K, TA.) [Hence also, دَاعِى المَنَايَا <i>The summoner of death,</i> lit. <i>of deaths;</i> like طَارِقُ المَنَايَا] === See also the next paragraph, in two places. === Also <i>A punisher.</i> "
+}

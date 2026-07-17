@@ -1,0 +1,26 @@
+{
+  "rootId": "r2075",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:56:22.540Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Shrinking with aversion, recoiling in disgust, contracting, or feeling hatred/disgust",
+  "primaryMeaning": "Shrinking with aversion/disgust",
+  "quranicRelevance": "They shrink with aversion (Ishma'azzat - 'ishma'azzat qulobu').",
+  "keyDerivations": [
+    {
+      "lemma": "اِشْمَأَزَّ / يَشْمَأِزُّ (Inf. Noun: اِشْمِئْزَازٌ)",
+      "form": "Form IV (Q.) Verb",
+      "meaning": "To shrink with aversion, recoil in disgust, contract, or feel repulsed"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَإِذَا ذُكِرَ اللَّهُ وَحْدَهُ اشْمَأَزَّتْ قُلُوبُ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ (39:45): And when God is mentioned alone, the hearts of those who do not believe in the Hereafter shrink with aversion."
+  ],
+  "discardedNoise": [
+    "Shamez (sour milk).",
+    "Shammaz (restless camel)."
+  ],
+  "summaryEn": "The root denotes severe emotional aversion or contraction of the heart (Shmz), portraying the visceral disgust polytheists feel when monotheism is asserted without their idols.",
+  "summaryAr": "يشير هذا الجذر إلى انقباض القلب ونفوره وكراهيته الشديدة واشمئزازه من سماع الحق (شمز)، مصوراً نفور قلوب الكفار وضيقها عند ذكر التوحيد.",
+  "rawText": "اِشْمَأَزَّ , (S, K,) inf. n. اِشْمِئْزَازٌ, (S,) <i>He</i> (a man, S) <i>shrank,</i> or <i>became contracted;</i> (S, K, TA;) as also 🡻تشمّز: (TA:) <i>he quaked,</i> or <i>shuddered:</i> (IAar, K:) or <i>he was frightened</i> (AZ, S, K) at a thing. (AZ, S.) It is said in the Kur xxxix. 46, وَإِذَا ذُكِرَ ٱللّٰهُ وَحْدَهُ ٱشْمَأَزَّتْ قُلُوبُ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْآخِرَةِ <i>And when God is mentioned alone, the hearts of those who will not believe in the world to come become contracted, and shrink with aversion:</i> (Bd, Jel:) or <i>quake,</i> or <i>shudder.</i> (Zj, TA.) And you say, قُلْتُ لَهُ كَذَا فَٱشْمَأَزَّ مِنْهُ [<i>I said to him such a thing, and he shrank from it;</i> or <i>quaked,</i> or <i>shuddered, at it;</i> or <i>was frightened at it</i>]. (A.) And اشمأزّ الشَّىْءَ, (K,) without a prep., accord. to Kr, (TA,) <i>He disliked,</i> or <i>hated, the thing.</i> (K.) [See also 1, and 5.]\nتشمّز وَجْهُهُ 5 <i>His face became changed,</i> or <i>altered,</i> (T, S, K,) <i>by anger,</i> (K,) <i>and contracted.</i> (T, S, K.) See also what next follows.\nشَمَزَتْ نَفْسِى مِنْهُ 1 , aor. ﹹ, (TK,) inf. n. شَمْزٌ, (IAar, K,) <i>My soul shrank from it in dislike</i> or <i>hatred.</i> (IAar, K, TK.) [See also 5, and Q. Q. 4.]\nشُمَأْزِيزَةٌ [a subst.] from Q. Q. 4, [<i>A shrinking,</i> or <i>contraction: a quaking,</i> or <i>shuddering:</i> or <i>fright:</i> and <i>dislike,</i> or <i>hatred.</i>] (S, K, * TA.) You say, رَجُلٌ فِيهِ شُمَأْزِيزَةٌ [<i>A man in whom is a shrinking,</i> &c.] (TA.)\nمُشْمَئِزٌّ <i>Shrinking with aversion;</i> syn. نَافِرٌ: (K:) <i>disliking,</i> or <i>hating,</i> (K,) a thing: (TA:) <i>frightened,</i> or <i>afraid.</i> (K.)"
+}

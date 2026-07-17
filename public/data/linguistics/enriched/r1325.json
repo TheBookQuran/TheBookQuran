@@ -1,0 +1,26 @@
+{
+  "rootId": "r1325",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:14:55.732Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Rushing headlong, charging, entering blindly, steep slope, or hurdle",
+  "primaryMeaning": "Rushing headlong or scaling a steep slope",
+  "quranicRelevance": "Scaling the steep hurdle (Iqtahama - 'fal-aqtahama al-'aqabata'), and armies charging headlong into Hell ('muqtahimun').",
+  "keyDerivations": [
+    {
+      "lemma": "اِقْتَاحَمَ / يَقْتَحِمُ",
+      "form": "Form VIII Verb (active part: muqtahim)",
+      "meaning": "To rush headlong, charge blindly, force entry, scale a steep slope, or scale hurdles"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "هَٰذَا فَوْجٌ مُقْتَحِمٌ مَعَكُمْ ۖ لَا مَرْحَبًا بِهِمْ (38:59): 'This is a crowd charging headlong with you (into Hell); no welcome for them!' (mutual curses of leaders/followers)."
+  ],
+  "discardedNoise": [
+    "Historic droughts (Qahmah) - spelling match.",
+    "Entering stadium gates."
+  ],
+  "summaryEn": "The root represents rushing headlong and scaling hurdles (Iqtiham), illustrating the command to scale the moral hurdle of charity, and the chaotic charging of sinners into Hell.",
+  "summaryAr": "يمثل هذا الجذر الرمي بالنفس في الشدائد والدخول المفاجئ بعسر (قحم)، واصفاً اقتحام عقبة البذل المالي الصعب، وازدحام ودخول الكفار جهنم.",
+  "rawText": "إِقْتَحَمَ 8 . See 1. === Said of a young camel: see voce بُلَعٌ. === اِقْتَحَمَ الغَمَراَتِ: see 1 in art. خوض. And اقتحم العَقَبَةَ: see عَقَبَةٌ.\nتَقَحَّمَ 5 <i>He experienced dearth, drought,</i> or <i>sterility.</i> See an ex. voce تَبِعَةٌ. === تَقَحَّمَ فِى الأَمْرِ بِلاَ رَوِيَّةٍ [<i>He plunged,</i> or <i>rushed, into the affair without consideration</i>]. (K, * TA in art. علط.) See 1. === تَقَحَّمَ: see تَدَلَّثَ.\nقحم نَفْسَهُ فِى الأُمُورِ 1 and 🡻تقحمّ and 🡻اقتحم <i>He entered into affairs without consideration.</i> (A.)\nقَحْمَةٌ , like قَحْبَةٌ, <i>An old woman.</i> See قَحْبٌ.\nمُقْحَمٌ <i>Redundant; pleonastic; foisted in:</i> applied to a word and to a letter. === حَرْفٌ مَقْحَمَةٌ <i>A letter inserted without reason.</i> مُقْحَمَةٌ is also applied in like manner to a word. [In a copy of the S, in art. بهت, I find it written مُقْحِمَةٌ]: <i>i. q.</i> زَائِدَةٌ. (TA in art. بهت.)"
+}

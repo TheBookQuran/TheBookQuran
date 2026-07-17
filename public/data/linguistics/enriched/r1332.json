@@ -1,0 +1,31 @@
+{
+  "rootId": "r1332",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:14:55.732Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Exemplar, role model, following, guide, pattern, or path",
+  "primaryMeaning": "Role model/exemplar",
+  "quranicRelevance": "Following guidance of past prophets (Iqtadih - 'fabihudahumu iqtadih'), and following ancestors ('muqtadoona').",
+  "keyDerivations": [
+    {
+      "lemma": "اِقْتَدَى / يَقْتَدِي",
+      "form": "Form VIII Verb (imperative: iqtadih)",
+      "meaning": "To follow as a role model, imitate guidance, copy pattern, or follow exemplar"
+    },
+    {
+      "lemma": "مُقْتَدٍ / مُقْتَدُونَ",
+      "form": "Noun / Active part. pl.",
+      "meaning": "Followers, imitators, copies, or conformers"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "أُولَٰئِكَ الَّذِينَ هَدَى اللَّهُ ۖ فَبِهُدَاهُمُ اقْتَدِهْ (9:90): Those are the ones whom God guided, so follow/imitate their guidance (instruction to the Prophet)."
+  ],
+  "discardedNoise": [
+    "Cooking pots (Qidr) - spelling and root difference.",
+    "Modern leadership training templates."
+  ],
+  "summaryEn": "The root represents role models and guidance imitation (Iqtidaa'), ordering the Prophet to follow the path of past messengers, and mocking blind conformers.",
+  "summaryAr": "يمثل هذا الجذر التأسيس والاقتداء بالقدوة واتباع الأثر (قدوة)، آمراً الرسول باتباع هدى الأنبياء السابقين (اقتده)، وذاماً التقليد الأعمى للوثنية.",
+  "rawText": "قَادِيَةٌ The <i>first that come to one,</i> or <i>come upon one, of a company of men.</i> (TA in art. طحم.)\nقُدْوَةٌ and قِدْوَةٌ (S, Msb, K,) and قَدْوَةٌ (K,) <i>A pattern; an exemplar; an example; an object of imitation; one who is,</i> or <i>is to be, imitated.</i> (S, Msb, K, TA.) See إِسْوَةٌ.\nقِدْيَهٌ : see فِدْيَهٌ."
+}

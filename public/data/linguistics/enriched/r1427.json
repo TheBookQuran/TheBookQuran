@@ -1,0 +1,26 @@
+{
+  "rootId": "r1427",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:21:37.831Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Laziness, sluggishness, slow state, or inactive",
+  "primaryMeaning": "Laziness/sluggishness",
+  "quranicRelevance": "Hypocrites standing up for prayer lazily (Kusala - 'qamoo kusala', 'wa-la ya'toona as-salata illa wahum kusala').",
+  "keyDerivations": [
+    {
+      "lemma": "كُسَالَى",
+      "form": "Noun pl. (acting as adverb)",
+      "meaning": "Lazily, sluggishly, or in a state of inactivity"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَإِذَا قَامُوا إِلَى الصَّلَاةِ قَامُوا كُسَالَىٰ يُرَاءُونَ النَّاسَ (4:142): And when they stand up for prayer, they stand up lazily, showing off to people (lack of genuine motivation)."
+  ],
+  "discardedNoise": [
+    "Economic recession (Kasad) - spelling shift.",
+    "Modern physical fitness muscle fatigue."
+  ],
+  "summaryEn": "The root represents sluggish laziness (Kasal), describing the heavy, unmotivated movements of hypocrites when performing congregational prayers.",
+  "summaryAr": "يمثل هذا الجذر الفتور والتثاقل البدني وغياب الهمة (كسل)، واصفاً تثاقل حركة المنافقين نحو الصلاة رياءً بلا رغبة حقيقية (قاموا كسالى).",
+  "rawText": "أَكْسَلَ عَنْهَا 4 signifies أَوْلَجَ وَلَمْ يُنْزِلْ; [<i>Inivit sed non emisit;</i>] (IAar, in TA, art. فهر;) [i. e., أَوْلَجَ ثُمَّ تَرَكَهَا وَلَمْ يُنْزِلْ].\nكَسَّلَهُ 2 , inf. n. تَكْسِيلٌ, said of satiety, <i>It rendered him heavy, sluggish, lazy, indolent,</i> or <i>torpid.</i> (TA.)\nكَسْلَانٌ <i>Heavy, sluggish, lazy, indolent, torpid.</i> (K.)\nمَكْسَلَةٌ : see an ex. voce كِطَّةٌ."
+}

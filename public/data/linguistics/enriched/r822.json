@@ -1,0 +1,52 @@
+{
+  "rootId": "r822",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T00:58:39.998Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Peace, submission, safety, or ladder",
+  "primaryMeaning": "To be safe or submit",
+  "quranicRelevance": "Submission to God (Islam), peace (Salam), safety/wholeness (Saleem), and stairs/ladder (Sullam).",
+  "keyDerivations": [
+    {
+      "lemma": "إِسْلَامٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Submission, self-surrender to God, or Islam"
+    },
+    {
+      "lemma": "سَلَامٌ",
+      "form": "Noun",
+      "meaning": "Peace, safety, security, or greeting"
+    },
+    {
+      "lemma": "أَسْلَمَ",
+      "form": "Form IV Verb",
+      "meaning": "To submit, surrender, or resign oneself"
+    },
+    {
+      "lemma": "سَلَّمَ",
+      "form": "Form II Verb",
+      "meaning": "To greet with peace, deliver, or make safe"
+    },
+    {
+      "lemma": "سَلِيمٌ",
+      "form": "Adjective",
+      "meaning": "Sound, whole, safe, or pure (e.g. 'qalb saleem')"
+    },
+    {
+      "lemma": "سُلَّمٌ",
+      "form": "Noun",
+      "meaning": "Ladder, stairs, or means of ascent"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "قَلْبٍ سَلِيمٍ: A heart free from spiritual diseases, pure and sound.",
+    "سَلَمًا لِرَجُلٍ (39:29): Wholly belonging to one man (in peace/safety of ownership)."
+  ],
+  "discardedNoise": [
+    "Names of specific thorny trees (سلم).",
+    "Camel being safe from hooves cracks."
+  ],
+  "summaryEn": "The root represents safety and submission, forming the base for the concepts of Islam (submission), peace (Salam), and spiritual soundness (Saleem).",
+  "summaryAr": "يمثل هذا الجذر السلامة والاستسلام، وهو الأساس لمفاهيم الإسلام (الاستسلام)، والسلام (التحية والأمان)، والسلامة القلبية (سليم).",
+  "rawText": "أَرْضٌ مَسْلُومَآءُ <i>A land abounding with the trees called</i> سَلَم. (M, K.) === Suh says, on the authority of AHn, that مَسْلُومَآءُ is a name for <i>A collection of</i> سَلَم; like مَشْيُوخَآءُ applied to “ many elders, or men advanced in age. ” (TA.)\nأَسْلَمَ 4 see 2, in nine places. [The first of the meanings there assigned to this verb is, in my opinion, more than doubtful. In all its senses, it seems to be properly trans.: when it is used as an intrans. verb, an objective complement is app. understood. Thus,] أَسْلَمَ is syn. with أَسْلَفَ [as meaning <i>He paid in advance,</i> or <i>beforehand</i>]; (S, M, Mgh, Msb;) الثَّمَنَ [<i>the price</i>] being suppressed, though sometimes it is expressed; (Mgh;) as also 🡻سلّم; (M;) and 🡻تسلّم, as occurring in a trad., where it is said, مَنْ تَسَلَّمَ فِى شَىْءٍ فَلَا يَصْرِفُهُ إِلَى غَيْرِهِ [<i>Whoso pays in advance for a thing, he shall not turn it over,</i> or <i>transfer it, to another than him</i>]; but Kt says that he had not heard this verb thus used except in this instance. (TA.) So the first of these verbs signifies in the saying, اسلم فِى الطَّعَامِ (S) or فى البُرِّ (Mgh) [<i>He paid in advance for the wheat</i>], and فى الشَّىْءِ [<i>for the thing</i>], as also 🡻سلّم. (M.) And hence the saying, إِذَا أَسْلَمَ صُوفًا فِى لِبْدٍ أَوْ شَعَرًا فِى مِسْحٍ لَمْ يَجُزْ [<i>If he give in advance wool for felt, or goats' hair for a garment,</i> or <i>piece, of haircloth, it will not be allowable</i>]. (Mgh.) And so in the phrase, أَسْلَمْتُ إِلَيْهِ [<i>I paid in advance to him</i>]. (Msb.) === Also [<i>He resigned,</i> or <i>submitted, himself;</i> نَفْسَهُ being understood: or] <i>he was,</i> or <i>became, resigned,</i> or <i>submissive;</i> (M, K;) and so 🡻استسلم: (S, M, Msb, K:) you say, اسلم لِلّٰهِ [<i>He resigned,</i> or <i>submitted, himself,</i> or <i>he was,</i> or <i>became, resigned,</i> or <i>submissive, to God:</i> see also an ex. (before referred to) in the last sentence of the second paragraph: or <i>he was,</i> or <i>became, sincere in his religion,</i> or <i>without hypocrisy, towards God:</i> see مُسْلِمٌ]: (Msb:) [or] اسلم signifies <i>he entered into</i> السِّلْم, (S, Msb,) which here means الاِسْتِسْلَام [i. e. <i>the state of resignation,</i> or <i>submission</i>]. (S.) === And <i>He became a Muslim;</i> as also 🡻تسلّم; (M, * K;) as in the saying, كَانَ كَافِرًا ثُمَّ تَسَلَّمَ, i. e. أَسْلَمَ [<i>He was an unbeliever,</i> or <i>a denier of the unity of God,</i> &c.; <i>then he became a Muslim</i>]: (M:) or <i>he entered</i> [<i>the pale,</i> or <i>communion, of</i>] <i>the religion of</i> الإِسْلَام. (S, * Msb.) الإِسْلَامُ as a principle of the law of God is <i>The manifesting of humility</i> or <i>submission, and outward conforming with the law of God, and the taking upon oneself to do or to say as the Prophet has done or said:</i> for this, the blood is to be spared, and one may demand the repelling of evil: (T, * M:) and if there is therewith firm belief with the heart, it is إِيمَانٌ: (T:) this is the doctrine of Esh-Sháfi'ee; but the doctrine of Aboo-Haneefeh makes no difference between these two terms: (KT:) [agreeably with the former doctrine,] Th well and briefly says, الاسلام is with the tongue, and الايمان is with the heart: and he says, in explaining verse 48 of ch. v. of the Kur, that every prophet has been sent with الاسلام, though the ordinances differ. (M.) === One says also, أَسْلَمْتُ عَنْهُ, meaning <i>I left it</i> [app. an affair, as in an explanation in the TK,] <i>after I had been</i> [<i>engaged</i>] <i>in it.</i> (Ibn-Buzurj, K.) And اسلم occurs intransitively in the saying, كَانَ رَاعِىَ غَنَمٍ ثُمَّ أَسْلَمَ, meaning [<i>He was a pastor of sheep,</i> or <i>goats; then</i>] <i>he left them.</i> (M.) === [Freytag assigns to اسلم another signification “ <i>Adscendere fecit</i> (vid. a سُلَّم), ” as from the Ham, p. 39: but this is app. a mistake, into which he has been led by a saying, there cited, of Zuheyr, which I read thus: <center> <h3> هَوِىَّ الدَّلْوِ أَسْلَمَهَا الرِّشَآءُ </h3> </center> (meaning, <i>The descent,</i> or <i>as the descent, of the bucket that the well-rope has let go</i>): and by its being there said that “ you should not prefer any reading of هوى to that with damm, though it has been said otherwise: ” whereas the correct reading is, in my opinion, هَوِىّ, agreeably with what here follows:] Er-Riyáshee says, on the authority of AZ, that الهَوِىُّ, with fet-h, is downwards; and with damm, upwards; and he cites the saying above as an ex. of the word as meaning downwards. (TA in art. هوى.)\nأَسْلَمُ [<i>More,</i> and <i>most, safe</i> or <i>secure</i> or <i>free from evils of any kind</i>]. You say, هٰذَا أَسْلَمُ مِنْ هٰذَا [<i>This is more safe</i> &c. <i>than this</i>]: and هٰذَا الأَسْلَمُ [<i>This is the most safe</i> &c.]; and هٰذِهِ السُّلْمَى. (Ham p. 214.) ___ And الاسلم [app. الأَسْلَمُ] signifies, like الطفى [i. e. الطَّفْىُ]; <i>The leaves</i> (خُوص) <i>of the</i> دَوْم [or <i>Theban palm</i>]. (Ibn-Beytár, app. from AHn, cited by De Sacy in his Chrest. Arabe, 2nd ed., iii. 480.)\nإِسْتَسْلَمَ 10 see 4, in the former half of the paragraph. ___ استسلم ثَكَمَ الطَّرِيقِ <i>He went upon the middle of the road, not missing it.</i> (K, * TA. [In the CK, after واسْتَسْلَمَ انقادَ, for وثَكَمَ الطَّرِيقِ, meaning واستسلم ثَكَمَ الطَّرِيقِ, is erroneously put وتَسَلَّمَ الطَّرِيقَ, assigning to تسلّم a meaning belonging to استسلم.])\nإِسْلَامِىٌّ [<i>Of,</i> or <i>relating to,</i> الأِسْلَام as meaning <i>the religion of Mohammad.</i> === And particularly] <i>A poet of the class next after the</i> مُخَضْرَمُون <i>and next before the</i> مُوَلَّدُون. (Mz 49th نوع.) [See the Preface to the present work, p. ix.] The most celebrated of the poets of this class, it seems, were Jereer, El-Farezdak, El-Akhtal, and Dhu-rRummeh, who were contemporaries, and flourished in the first and second centuries of the Flight. (Mz ubi suprà, and Ibn-Khillikán in art. جَرِير.) === لَفْظٌ إِسْلَامِىٌّ <i>A word,</i> or <i>phrase, introduced,</i> or <i>used in a new sense, on the occasion of the promulgation and establishment of the religion of</i> الإِسْلَام, by means of the Kur-án &c. (Mz 20th نوع.)\nاستلم 8 <i>He became at peace,</i> or <i>reconciled.</i> (TA.) Hence the saying, (TA,) هُوَ لَا يَسْتَلَمُ عَلَى سَخَطِهِ <i>He will not become at peace,</i> or <i>reconciled, during his displeasure</i> at a thing. (K, TA.) [See also 6.] === استلم الزَّرْعُ <i>The seed-produce put forth its ears.</i> (K.) ___ استلم الحَجَرَ <i>He touched,</i> (S, K,) or <i>reached,</i> (Mgh,) <i>the stone,</i> [meaning the Black Stone of the Kaabeh,] <i>by kissing,</i> or <i>with the hand:</i> (S, Mgh, K:) or <i>he wiped it,</i> or <i>stroked it, with the hand:</i> (Mgh:) or <i>he kissed the stone:</i> or <i>he embraced it:</i> (M:) and اِسْتَلْأَمَهُ signifies the same; (M, K;) but is not the original: (M:) accord. to ISk, the Arabs pronounced it with hemz, contr. to analogy; (Msb;) or it should not be pronounced with hemz, though some thus pronounce it, (S,) the original being استلم, (ISk, Msb,) because it is from سِلَامٌ [pl. of سَلِمَةٌ] signifying “ stones, ” (ISk, S, * M, Msb, * [in the Mgh, from سَلِمَةٌ signifying “ a stone, ” and in the Msb the pl. of سَلِمَةٌ is said to be سَلَامٌ, like كَلَامٌ,]) accord. to Sb, who says that it does not denote the act of taking; (M;) or, accord. to Sb, it is from السَّلَامُ, with fet-h, meaning “ salutation, ” and it means the touching with the hand by way of salutation in order to obtain a blessing thereby: (TA:) but accord. to IAar, the original is with hemz, from المُلَآءَمَةُ, meaning الاِجْتِمَاعُ [“ the coming together, ” &c., because denoting contact]. (Msb.) Abu-t-Tufeyl is related to have said, رَأَيْتُ رَسُولَ ٱللّٰهِ صَلَّى ٱللّٰهُ عَلَيْهِ وَسَلَّمَ يَطُوفُ عَلَى رَاحِلَتِهِ يَسْتَلِمُ بِمِحْجَنِهِ وَيُقَبِّلُ المِحْجَنَ [i. e. <i>I saw the Apostle of God</i> (<i>may God bless and save him</i>) <i>ci"
+}

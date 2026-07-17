@@ -1,0 +1,31 @@
+{
+  "rootId": "r227",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:00:21.796Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Destruction, ruin, gold dust, scrap, waste, or smash",
+  "primaryMeaning": "Destruction/ruin",
+  "quranicRelevance": "Complete destruction of cities/idols (Tabara - 'wa tab-barna ma kanoo 'aloo', 'inna ha'ula'i mutabbarun'), and loss of wrongdoers ('la tazidi ath-thalimeena illa tabaran').",
+  "keyDerivations": [
+    {
+      "lemma": "تَبَّرَ / يُتَبِّرُ",
+      "form": "Form II Verb",
+      "meaning": "To destroy completely, smash to pieces, shatter, or liquidate"
+    },
+    {
+      "lemma": "تَبَارٌ",
+      "form": "Noun",
+      "meaning": "Destruction, ruin, perdition, or complete loss"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَتَبَّرْنَا مَا كَانُوا يَعْلُونَ تَتْبِيرًا (25:39): And We destroyed/shattered completely what they had built, a complete destruction (ruin of tyrant monuments)."
+  ],
+  "discardedNoise": [
+    "Pure gold nuggets/dust (Tibr) in ancient currency standards.",
+    "Modern scrap metal recycling plants."
+  ],
+  "summaryEn": "The root denotes complete, smashing destruction (Tatbeer), describing the physical demolition of tyrant structures and the ultimate ruin (Tabar) of the wicked.",
+  "summaryAr": "يدل هذا الجذر على الهلاك التفتيتي والدمار، مصوّراً طمس وتخريب مباني الطغاة وآثارهم (وتبرنا)، وخسار الظالمين يوم الحساب (تباراً).",
+  "rawText": "تبّرهُ 2 , inf. n. تَتْبِيرٌ; (Zj, T, S, M, Msb, * K;) and 🡻تَبَرَهُ, aor. ﹻ, inf. n. تَبْرٌ; (K;) <i>He broke it:</i> (K:) or <i>he broke it in pieces;</i> (S, M;) <i>and did away with it:</i> (M:) or <i>he crumbled it,</i> or <i>broke it into small pieces, with his fingers:</i> (Zj, T:) and <i>he destroyed it:</i> (Zj, T, S, Msb, K:) <i>He</i> (God) <i>destroyed him.</i> (A.)\nتَبَارٌ <i>Destruction,</i> or <i>perdition:</i> (Zj, T, S, M, &c.:) inf. n. of تَبِرَ. (Lth, T, M.)\nتَبِرَ 1 , aor. ﹷ, (Lth, T, M, Msb, K,) inf. n. تَبَارٌ; (Lth, T, M;) and تَبَرَ, aor. ﹹ; (Msb;) <i>He,</i> or <i>it,</i> (a thing, Lth, T, M,) <i>perished.</i> (Lth, T, M, Msb, K.) ___ See also 2.\nتِبْرٌ [a coll. gen. n., of which the n. un. is with ة: <i>Native gold, in the form of dust</i> or <i>of nuggets:</i> this is the sense in which the word is generally used in the present day:] <i>broken gold:</i> (M:) it is not so called unless <i>in the dust of its mine,</i> or <i>broken:</i> (IJ, M:) or <i>gold,</i> and <i>silver, before it is wrought:</i> (Lth, T, IF, Msb:) or <i>broken,</i> or <i>crumbled, particles of gold,</i> and <i>of silver, before they are wrought:</i> when they are wrought, they are called ذَهَبٌ and فِضَّةٌ: (IAar, T, K:) or <i>uncoined gold</i> (S, Mgh, Msb) and <i>silver:</i> (Mgh:) when coined, it is called عَيْنٌ: (S, Msb:) [properly,] the term تبر should not be employed save as applied to gold; but some apply it to silver also: (S:) the تبر of silver, as well as of gold, is mentioned in a trad.: (TA:) or <i>gold</i> (M, K) universally: (M:) and <i>silver:</i> (K:) or <i>what is extracted from the mine,</i> (M, K,) <i>of gold</i> and <i>silver</i> and <i>all</i> جَوَاهِر [here meaning <i>native ores</i>] <i>of the earth,</i> (M,) <i>before it is wrought</i> (M, K) <i>and used:</i> (M:) or <i>any</i> جَوْهَر [or <i>native ore</i>] <i>before it is used, of copper</i> (Zj, T, Mgh, Msb) and <i>brass</i> (Zj, T, Mgh) or <i>iron</i> (Msb) <i>&c.:</i> (Zj, Mgh, Msb:) and <i>any</i> جوهر [or <i>native ore</i>] <i>that is used, of copper and brass:</i> (K:) the word is sometimes applied to other minerals than gold and silver, as <i>copper</i> and <i>iron</i> and <i>lead,</i> but generally to <i>gold;</i> and some say that its primary application is to gold, and that the other applications are later, or tropical: (TA:) also <i>broken pieces of glass.</i> (Zj, T, M, K.)\nتِبْرِيَةٌ a dial. var. of هِبْرِيَةٌ, (AO, S,) i. e. [<i>Scurf on the head;</i>] <i>what is formed at the roots of the hair, like bran.</i> (AO, S, K.)\nمَتْبُورٌ [<i>Destroyed;</i>] <i>in a state of destruction:</i> (IAar, T, K:) and <i>defective,</i> or <i>deficient.</i> (IAar, T.)\nمُتَبَّرٌ <i>Broken up</i> [<i>and</i>] <i>destroyed:</i> so in [the saying in the Kur vii. 135,] هٰؤُلَآءِ مُتَبَّرٌ مَا هُمْ فِيهِ [As to <i>these</i> people, <i>that wherein they are</i> shall be <i>broken up and destroyed</i>]. (S.) === رَأْىٌ مُتَبَّرٌ <i>Counsel destroyed,</i> or <i>brought to nought.</i> (TA, from a trad.)"
+}

@@ -1,0 +1,41 @@
+{
+  "rootId": "r1670",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:09:34.147Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Forgetting, neglecting, discarding, or women",
+  "primaryMeaning": "To forget or neglect",
+  "quranicRelevance": "Forgetfulness, deliberate abandonment/neglect ('nasoo Allaha fanaseyahum'), and women (Nisa').",
+  "keyDerivations": [
+    {
+      "lemma": "نَسِيَ",
+      "form": "Form I Verb",
+      "meaning": "To forget, neglect, or leave behind"
+    },
+    {
+      "lemma": "أَنْسَى",
+      "form": "Form IV Verb",
+      "meaning": "To cause to forget"
+    },
+    {
+      "lemma": "نِسْيَانٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Forgetfulness, or neglect"
+    },
+    {
+      "lemma": "نِسْيًّا",
+      "form": "Noun",
+      "meaning": "Forgotten thing, or neglected thing"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "نَسُوا اللَّهَ فَنَسِيَهُمْ (9:67): They neglected/abandoned God, so He abandoned/neglected them (reciprocal abandonment)."
+  ],
+  "discardedNoise": [
+    "Grammatical classification of Nisa' as plural of Imra'ah without singular root.",
+    "Obscure details on forgetting camel tracks."
+  ],
+  "summaryEn": "The root refers to forgetfulness and neglect, denoting both accidental forgetting and the deliberate neglect of divine covenants.",
+  "summaryAr": "يشير هذا الجذر إلى النسيان والإهمال، دالاً على السهو الطبيعي والإهمال المتعمد للعهود الإلهية.",
+  "rawText": "النَّسَا [vulg. عِرْقُ النَّسَا, app. <i>The sciatic vein;</i>] <i>the portion, in the thigh, of the vein</i> (عِرْق) <i>which, in the back, is called the</i> وَتِين, <i>and which extends to the shank, where it is called the</i> صَافِن: (IAth, TA, voce أَبْهَرُ:) or the صاَفِن and عرق النسا are <i>two branches of one</i> عِرْق [or <i>vein</i>]: (Ibn-Seenà, vol. i. book iii. p. 608: [where the opening of each of these to let blood is mentioned:]) [in a solid-hoofed animal,] النسا is <i>a vein</i> (عِرْق) <i>proceeding from the hip,</i> or <i>haunch, lying within each thigh, then passing by the hock, so as to reach the hoof: when the breast is fat, each of its thighs becomes cleft by two large portions of flesh, and the</i> نسا <i>runs between them, and is apparent.</i> (S.) [In the present day it seems to be applied by some to the <i>sciatic nerve:</i> and عِرْقُ النَّسَا, as also النَسَا alone, often signifies <i>sciatica,</i> or <i>hip-gout:</i> see نِقْرِسٌ and also شَنِجٌ.\nتَنَاسَاهُ 6 <i>He pretended that he had forgotten it:</i> (S, KL, * TA:) and (TA) <i>he forgot it;</i> (MA, KL, * TA;) like 🡻نَسِيَهُ: (TA:) [or] <i>he constrained himself to dismiss it from his mind.</i> (MA.) === تُنُوسِىَ <i>It</i> (a word or the like) <i>was forgotten by degrees.</i> (Occurring often in the larger Lexicons.)\nمُنْسِيهَا for مَنْسِئِهَا: see a verse cited voce عُقْبَةٌ.\nنَسڤوَ 1 see 6."
+}

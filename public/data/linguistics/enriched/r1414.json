@@ -1,0 +1,51 @@
+{
+  "rootId": "r1414",
+  "source": "lanes",
+  "enrichedAt": "2026-06-29T23:54:48.044Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Abundance, multiplicity, exceeding in number, or plenty",
+  "primaryMeaning": "To be many or abundant",
+  "quranicRelevance": "Denotes physical or numerical abundance (Katheer), striving to exceed in wealth/descendants (Takathur), and is the source of the river of abundance in Paradise (al-Kawthar).",
+  "keyDerivations": [
+    {
+      "lemma": "كَثِيرٌ",
+      "form": "Adjective",
+      "meaning": "Many, much, or abundant"
+    },
+    {
+      "lemma": "كَثْرَةٌ",
+      "form": "Noun",
+      "meaning": "Abundance or multiplicity"
+    },
+    {
+      "lemma": "كَثُرَ",
+      "form": "Form I Verb",
+      "meaning": "To be many, multiply, or increase"
+    },
+    {
+      "lemma": "أَكْثَرُ",
+      "form": "Adjective comparative",
+      "meaning": "More, most, or greater in number"
+    },
+    {
+      "lemma": "تَكَاثُرٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Competing in abundance or multiplying wealth/sons"
+    },
+    {
+      "lemma": "الكَوْثَرُ",
+      "form": "Noun",
+      "meaning": "Abundance, or the river Kawthar in Paradise"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "أَكْثَرَ (Form IV Verb): To do much, multiply words, or bring abundance."
+  ],
+  "discardedNoise": [
+    "Large amount of dust or dirt in a specific place.",
+    "Descriptions of specific types of thick milk (كثيرة)."
+  ],
+  "summaryEn": "The root denotes abundance and competition in numbers, warning against worldly greed (Takathur) while promising ultimate divine abundance (Kawthar).",
+  "summaryAr": "يدل هذا الجذر على الكثرة والوفرة والتنافس في العدد، محذراً من التكاثر المادي في الدنيا، ومبشراً بالوفرة الإلهية المطلقة (الكوثر) في الآخرة.",
+  "rawText": "أَكْثَرُ <i>More,</i> and <i>most, in quantity,</i> and <i>in number.</i> (The lexicons passim.)\nأَكْثَزِىٌّ <i>Having relation to the greater number of things</i> or <i>cases.</i>]\nاستكثر مِنَ الشَّىْءِ 10 <i>He desired,</i> or <i>wished for, much of the thing.</i> (K.) You say استكثر مِنَ المَالِ [<i>He desired,</i> or <i>wished for, much of the property</i>]. (A.) === استكثرهُ المَآءِ, and 🡻كاثرهُالمَآءَ, <i>He desired of him for himself much of the water that he might drink of it:</i> (K:) and so if the water were little. (TA.) === استكثر مِنَ الشّىُءِ also signifies <i>i. q.</i> أَكْثَرَ مِنْهُ, q. v. (S, Msb.) === Also استكثرهُ <i>He reckoned it much, abundant,</i> or <i>many.</i> (Msb.) You say هُوَ يَسْتَكْثِرُ الفَلِيلَ [<i>He reckons little,</i> or <i>few, much, abundant,</i> or <i>many</i>]. (A.)\nاكثرهُ 4 <i>He made it much, abundant, many,</i> or <i>numerous, he multiplied it;</i> as also 🡻كثّرهُ, (Msb, K, TA,) inf. n. تَكْثِيرٌ. (K.) === أَكْثَرْتُ مِنَ الشَّىْءِ and 🡻استكثرتُمِنْهُ signify the same; (S, Msb;) i. e., أَكْثَرْتُ فِعْلَهُ [<i>I did the thing much;</i> lit., <i>I made the doing of it much</i>]: or أَكْثَرْتُ مِنَ الأَكْلِ وَنَحْوِهِ [<i>I ate, and the like, much</i>] presents an instance of pleonasm, [being for أَكْثَرْتُ الأَكْلَ وَنَحْوَهُ,] accord. to the opinion of the Koofees: or it is an instance of explication [of the vague signification of the verb], accord. to the opinion of the Basrees; the objective complement being suppressed, and the complete phrase being أَكْثَرْتُ الفِعْلَ مِنَ الأَكْلِ: and so in the like cases. (Msb.) [You say also أَكْثَرَ فِى الكَلَامِ <i>He spoke,</i> or <i>talked, much; was profuse,</i> or <i>immoderate, in speech,</i> or <i>talk.</i> And in like manner, 🡻كَثُرَفِى الأَمْرِ <i>He did, acted,</i> or <i>occupied himself, much in the affair.</i>] === اكثر [as an intrans. v.] signifies أَتَى بِكَثِيرٍ [<i>He brought,</i> or <i>he did,</i> or <i>he said, much</i>]. (K.) === Also, [<i>He became rich; he abounded in property;</i>] <i>his property became much,</i> or <i>abundant.</i> (S, Msb, K.) ___ اكثر <i>It</i> (a palm-tree) <i>produced,</i> or <i>put forth, its</i> طَلْع [or <i>spadix</i>], (S, K,) i. e., its كَثَر, whence the verb. (TA.) ___ [مَا أَكْثَرَ مَالَهُ <i>How abundant is his wealth!</i> or <i>how numerous are his cattle!</i>]\nتكثّر 5 [<i>He endeavoured to acquire much,</i> or <i>abundance,</i> of a thing]. You say تكثّر مِنَ العِلْمِ لِيَحْفَظَ [<i>He endeavoured to acquire much knowledge, in order that he might preserve</i> it <i>in his memory</i>]. And تَكثّر مِنْهُ لِيَفْهَمَ [<i>He endeavoured to acquire much thereof in order that he might understand</i>]. (A.) See also 10. === <i>He made a vain,</i> or <i>false, boast of abundance,</i> or <i>riches;</i> or <i>a boast of more than he possessed;</i> and <i>invested himself with that which did not belong to him.</i> (TA, voce تَشَبَّعَ, which signifies the same.) You say تكثّر بِمَا لَيْسَ عِنْدَهُ <i>He made a boast of abundance,</i> or <i>riches, which he did not possess;</i> syn. تَشَبَّعَ. (Msb, art. شبع.) And فُلَانٌ يَتَكَثَّرُ بِمَالِ غَيْرِهِ [<i>Such a one makes a vain</i> or <i>false show of abundance</i> or <i>riches with the wealth</i> or <i>property of another</i>]. (S.)\nتَكَاْثَرَ 6 <i>i. q.</i> 3 [but relating to more than two]. (S.) [You say تَكَاتَرُوا <i>They contended, one with another, for superiority in number.</i>] التَّكَاثُرُ in the Kur, ci. 1, signifies <i>The contending together for superiority in</i> [<i>the amount</i> or <i>number of</i>] <i>property and children and men.</i> (Jel.) ___ تَكَاثَرَتْ أَمْوَالُهُ [<i>His riches multiplied by degrees</i>]. (A.) === تكاثر عَلَيْهِ النَّاسُ فَقَهَرُوهُ [<i>The people multiplied by degrees against him, and overcame him,</i> or <i>subdued him</i>]. (TA.)\nتَكَوْثَرَ <i>It</i> (dust) <i>was,</i> or <i>became, much,</i> or <i>abundant.</i> (S.) See كُوْثَرٌ.\nكَاثَرُوهُمْ فَكَثَرُوهُمْ 3 , (S, K,) inf. n. of the former, مُكَاثَرَةٌ, (S,) [and aor. of the latter, accord. to analogy, ﹹ,] <i>They contended with them for superiority in number, and overcame them therein,</i> (S, K, TA,) or <i>surpassed,</i> or <i>exceeded, them in number.</i> (TA.) ___ See also 10.\nكَاثِرٌ : see كَثِيرٌ, in two places.\nكَثَرٌ (S, Msb, K) and 🡻كَثْرٌ (Msb, K) The <i>heart,</i> or <i>pith,</i> (syn. جُمَّارٌ, S, Msb, K, and شَحْمٌ, and جَذَبٌ, TA,) <i>of a palm-tree:</i> (S, Msb, K:) of the dial. of the Ansár: (TA:) or <i>its spadix;</i> syn. طَلْعٌ. (S, Msb, K.)\nكَثُرَ 1 , aor. ﹹ, (S, Msb, K,) inf. n. كَثْرَةٌ (Msb, TA) and كِثْرَةٌ, or this is erroneous, (Msb,) [and perhaps كُثْرَةٌ, and كُثْرٌ, or these are simple substs., (see كَثْرَةٌ, below,)] and كَثَارَةٌ, (TA,) <i>It was,</i> or <i>became, much, copious, abundant, many, numerous, great in number</i> or <i>quantity; it multiplied; it accumulated.</i> (S, K, TA.) كَثُرُوا عَلَيْهِ فَغَلَبُوهُ [<i>They multiplied against him and overcame him.</i>] (TA in art. غرق). [كَثُرَ مِنْهُ كَذَا <i>Such a thing proceeded from him,</i> or <i>was done by him, much,</i> or <i>often.</i>] See also 4. ___ كَاثَرُوهُمْ فَكَثَرُوهُمْ: see 3.\nكَثِيرٌ (S, A, Msb, K) and 🡻كُثَارٌ (S, K) and 🡻كَاثِرٌ and 🡻كَثْرٌ and 🡻كَيْثَرٌ and 🡻كُوْثَرٌ (K) <i>Much; copious; abundant; many; numerous; multitudinous.</i> (S, A, Msb, K.) You say خَيْرٌ كَثِيرٌ, and 🡻كَيْثَرٌ, <i>Much,</i> or <i>abundant, good.</i> (A.) And قَوْمٌ كَثِيرٌ <i>A numerous party,</i> or <i>people:</i> and هُمْ كَثِيرُونَ <i>They are many.</i> (S.) And رِجَالٌ كَثِيرٌ, and كَثِيرَةٌ, <i>Many men:</i> and نِسَآءٌ كَثِيرٌ, and كَثِيرَةٌ, <i>Many women.</i> (Yoo, ISh, Msb.) And عَدَدٌ 🡻كَاثِرٌ, (S, Msb,) and, as some say, 🡻كَوْثَرٌ, (Msb,) and كَثِيرٌ, (K in art. بول, &c.) <i>A large number.</i> (S, Msb.) And غُبَارٌ 🡻كُوْثَرٌ <i>Much dust:</i> (S:) or <i>much confused dust</i> (K, TA) <i>rising and diffusing itself:</i> of the dial. of Hudheyl. (TA.) === [<i>A large quantity,</i> or <i>number,</i> مِنْ مَالٍ وَغَيْرِهِ <i>of property,</i> or <i>cattle, &c.</i>] === كَثِيرًا, as an adv., <i>Much; often.</i> (The lexicons passim.) === رَجُلٌ كثيرٌ [in the TA كثر: probably the right reading is 🡻كَيْثَرٌ, q. v.:] <i>A man whose ancestors are many, and whose high deeds are various.</i> (L.) === See also مُطَّرِدٌ.\nكَثِيرَةٌ , with ة, [as a subst., signifying <i>Much,</i>] is used only in negative phrases; like [its contr.] قَلِيلَةٌ, q. v. (AZ, in TA, art. قل.)\nكَثَّرَ 2 see 4.\nكَثْرٌ : see كَثِيرٌ. ___ See also كَثَرٌ.\nكَثْرَةٌ , (S, A, K,) and 🡻كِثْرَةٌ, (K,) or the latter should not be used, for it is a bad dial. form, (S,) or it is correct when coupled with قِلَّةٌ, for the sake of assimilation, (TA,) and 🡻كُثْرَةٌ, though the first is the best known, (Ibn- 'Allán, in his Sharh el-Iktiráh,) or the last is not allowable, (TA,) and 🡻كُثْرٌ, (S, A, K,) and 🡻كِثْرٌ, (S,) <i>Muchness; much,</i> as a subst.; <i>copiousness; abundance; a large quantity; numerousness; multiplicity; multitudinousness; a multitude; a plurality; a large number; numbers;</i> and <i>frequency: contr. of</i> قِلَّةٌ. (S, A, K.) [See also كَثُرَ.] You say مَا لَهُ قُلٌّ وَلَا 🡻كُثْرٌ <i>He has not little nor much</i> of property. (S.) And الحَمْدُ لِلّٰهِ عَلَى القُلٌّ 🡻وَالكُثْرِ, (S, A,) and عَلَى القِلِّ 🡻وَالكِثْرِ, (S,) <i>Praise be to God for little and much.</i> (S, * A.) [ 🡻كُثْرٌ is explained in the S by كَثِيرٌ, and so in one place in the TA; but it is a subst., or an epithet in which the quality of a subst. predominates.] === كَثْرَةٌ is also used to signify <i>Richness,</i> or <i>wealthiness;</i> syn. سَعَةٌ. (Mgh.)\nكَيْثَرٌ : see كَثِيرٌ, in two places: and كُوْثَرٌ.\nكُثَارٌ : see كَثِيرٌ. ___ Also, and 🡻كِثَارٌ, <i>Companies,</i> or <i>troops,</i> or <i>the like,</i> (K, TA,) of men or animals only. (TA.) You say فِى الدَّارِ كُثَارٌ مِنَ النَّاسِ, and كِثَارٌ, <i>In the house are companies of men.</i> (TA.)\nكُثْرٌ : see كَثْرَةٌ. ___ The <i>greater,</i> or <i>greatest,</i> or <i"
+}

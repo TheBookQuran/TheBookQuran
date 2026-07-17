@@ -1,0 +1,31 @@
+{
+  "rootId": "r1813",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:58:55.910Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Heavy rain, evil consequence, gravity, severity, or pasture",
+  "primaryMeaning": "Heavy rain or severe consequence",
+  "quranicRelevance": "Heavy torrential rain (Wabil - 'fa-asabaha wabilun fatarakahu saldan'), and tasting the evil consequence of deeds (Wabala - 'fathaqat wabala amriha').",
+  "keyDerivations": [
+    {
+      "lemma": "وَابِلٌ",
+      "form": "Noun",
+      "meaning": "Heavy rain, downpour, or torrential shower"
+    },
+    {
+      "lemma": "وَبَالٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Evil consequence, gravity, weight, severity, or toxicity of results"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فَذَاقَتْ وَبَالَ أَمْرِهَا (65:9): So it (the community) tasted the evil consequence/severity of its conduct (the heavy moral toll of disobedience)."
+  ],
+  "discardedNoise": [
+    "Plague and epidemic (Wabaa) - written with hamza (وَبَأ), distinct etymology.",
+    "Camel fat storage details."
+  ],
+  "summaryEn": "The root connects meteorological weight (Wabil - heavy downpour) with moral consequence (Wabal), illustrating how actions return as a heavy, crushing harvest.",
+  "summaryAr": "يربط هذا الجذر بين المطر الثقيل الغزير (وابل)، والجزاء الثقيل الوبيل للسيئات (وبال أمرها)، مصوراً عواقب الذنوب كحمل خانق.",
+  "rawText": "بُلَةٌ : see إِبَالَةٌ.\nوَابِلٌ : see وَبْلٌ.\nوَابِلَةٌ The <i>extremity</i> [<i>in which is the glenoid cavity</i>] of the scapula: and the <i>portion of flesh</i> [or <i>muscle</i>] of the scapula. (IAar, T.) See مَرْدَغَةٌ, and also ضَدَفٌ; and more particularly اِنْفَرَكَ.\nوَبَالٌ <i>An evil result.</i> (Msb.)\nوَبَلَ 1 <i>He</i> (a horse) <i>ran vehemently:</i> see an ex. in a verse cited voce دَامَ, in art. دوم.\nوَبَلَةٌ : see أَبَلَةٌ.\nوَبِيلَةٌ : see إِبَالَةٌ.\nوَبْلٌ <i>Violent rain, consisting of large drops;</i> as also 🡻وَابِلٌ; (K;) <i>a heavy rain.</i>"
+}

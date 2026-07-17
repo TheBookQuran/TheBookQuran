@@ -1,0 +1,26 @@
+{
+  "rootId": "r1341",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:14:55.732Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Paper, parchment, scroll, target hits, sheet, or envelope",
+  "primaryMeaning": "Paper/parchment scroll",
+  "quranicRelevance": "Scripture written on paper scrolls (Qaratees - 'fee qirtasin', 'qarateesa').",
+  "keyDerivations": [
+    {
+      "lemma": "قِرْطَاسٌ / قَرَاطِيسُ",
+      "form": "Noun / Noun pl. (quadriliteral)",
+      "meaning": "Paper scroll, sheet of parchment, manuscript page, or book paper"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَلَوْ نَزَّلْنَا عَلَيْكَ كِتَابًا فِي قِرْطَاسٍ فَلَمَسُوهُ بِأَيْدِيهِمْ لَقَالَ الَّذِينَ كَفَرُوا إِنْ هَٰذَا إِلَّا سِحْرٌ مُبِينٌ (7:7): And even if We had sent down to you a book on paper/parchment and they touched it with their hands, the disbelievers would say: 'This is nothing but obvious magic.'"
+  ],
+  "discardedNoise": [
+    "Shooting arrow targets (Qartasa) - archery files.",
+    "Modern paper mills and packaging boxes."
+  ],
+  "summaryEn": "The root refers to paper/parchment sheets (Qartas), detailing the material nature of ancient books and the obstinacy of deniers who would reject physical scriptures.",
+  "summaryAr": "يشير هذا الجذر إلى الصحف والأوراق والجلود المكتوب عليها (قرطاس)، مصوراً مكابرة قريش لو نزل الوحي في ورق حسي يلمس باليد، وتلاعب اليهود بالصحف.",
+  "rawText": "تَقَرْطَسَ <i>He perished.</i> (Sgh, K.)\nدَابَّةٌ قِرْطَاسِيَّةٌ <i>A beast of carriage in whose whiteness is no mixture of any other colour.</i> (K.)\nقرطس\nقَرْطَسٌ and قِرْطَسٌ: see قِرْطَاسٌ.\nقَرْطَسَ , (Msb, K,) inf. n. قَرْطَسَةٌ, (Msb,) <i>He</i> (an archer) [and <i>it</i> (an arrow)] <i>hit the</i> قِرْطَاس [or <i>target</i>]. (Msb, K.) It is also allowable to say, قَرْطَسَتِ الرَّمْيَةُ <i>The shot went right to the</i> قِرْطَاس. (Msb.)\nقِرْطَاسٌ <i>Paper;</i> syn. كَاغَدٌ: (K:) or <i>such as is made of the</i> بَرْدِىّ [or <i>papyrus</i>], <i>found in Egypt:</i> (TA:) [and particularly <i>a roll,</i> or <i>scroll, thereof:</i> see also طُومَارٌ, and سُرْفَةٌ:] <i>what one writes upon:</i> (S, Msb:) also written قُرْطَاسٌ; (S, Msb, K;) but the former is the better known, (Msb), or the former only is of established authority, for El-Járabardee says the contrary of the latter; (MF;) and قَرْطَاسٌ; (Lh, ISd, K;) but this is not mentioned by most of the lexicographers; (MF;) and 🡻قَرْطَسٌ signifies the same; (AZ, S, Msb, K;) and so does 🡻قِرْطَسٌ. (K [app. on the authority of El-Fárábee and Aboo-'Alyà; but the names are imperfectly written in the TA.]) === قِرْطَاسٌ also signifies <i>A writing,</i> or <i>book,</i> (صَحِيفَةٌ,) <i>of whatever thing it be:</i> (K:) pl. قَرَاطِيسُ. (TA.) === Also, <i>A butt,</i> or <i>target, to shoot at;</i> (S;) <i>a piece of skin,</i> (Msb,) or <i>any skin,</i> (K,) <i>set up for persons contending in shooting.</i> (Msb, K.) === And <i>A kind of</i> بُرْد [q. v.] <i>of the fabric of Egypt.</i> (K, TA.) === And <i>A white,</i> or <i>fair, girl, of tall stature.</i> (IAar, K.) === And <i>A camel such as is termed</i> آدَم. (Sgh, K.) === And <i>A young she-camel.</i> (IAar, K.)\nمُقَرْطِسٌ An archer [and in like manner an arrow] <i>hitting the</i> قِرْطَاس. (Msb.) And رَمْيَةٌ مُقَرْطِسَةٌ <i>A shot going right to the</i> قِرْطَاس. (TA.)"
+}

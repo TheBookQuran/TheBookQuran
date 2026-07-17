@@ -1,0 +1,31 @@
+{
+  "rootId": "r1273",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:52:53.400Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Explaining, interpreting, uncovering, revealing meaning, or clarifying details",
+  "primaryMeaning": "Explaining/interpreting",
+  "quranicRelevance": "The best explanation (Tafseeran - 'wa-ahsana tafseeran').",
+  "keyDerivations": [
+    {
+      "lemma": "فَسَّرَ / يُفَسِّرُ",
+      "form": "Form II Verb",
+      "meaning": "To explain, interpret, clarify, analyze, or uncover meaning"
+    },
+    {
+      "lemma": "تَفْسِيرٌ",
+      "form": "Noun",
+      "meaning": "Explanation, commentary, interpretation, or clarification"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَلَا يَأْتُونَكَ بِمَثَلٍ إِلَّا جِئْنَاكَ بِالْحَقِّ وَأَحْسَنَ تَفْسِيرًا (25:33): And they do not bring you any comparison/argument except We bring you the truth and the best explanation/interpretation."
+  ],
+  "discardedNoise": [
+    "Fasara (medical examination of liquid).",
+    "Scientific physics (modern translations)."
+  ],
+  "summaryEn": "The root represents uncovering hidden meanings or explaining a concept (Fasr), declaring the Quran as the ultimate source of truth and clear interpretation against all arguments.",
+  "summaryAr": "يمثل هذا الجذر الكشف عن المغطى وبيان معاني الكلام وإيضاح المشكل (فسر)، واصفاً حجج الوحي بأنها تأتي بالحق المطلق وأحسن بيان وتفصيل مقارنة بجدل المعارضين.",
+  "rawText": "أَوْرَدَ كَلَامَهُ غَيْرَ مُفَسَّرٍ : see عَاهِنٌ.\nاستفسرهُ كَذَا 10 <i>He asked him to explain, expound,</i> or <i>interpret, such a thing to him:</i> (S, Msb, TA:) and 🡻تَفَسُّرٌ is like اِسْتِفْسَارٌ. (TA.)\nتَفَسَّرَ 5 see the next following paragraph.\nتَفْسِرَةٌ <i>Anything by which is known the explanation and meaning</i> of a thing: (O, TA:) or <i>anything which interprets,</i> or <i>explains, the state,</i> or <i>condition,</i> of a thing. (B, TA.) === <i>Urine by means of which,</i> (M, O, K,) or <i>by means of the colour of which,</i> (TA,) <i>one seeks to obtain an indication of the disease</i> (M, O, K, TA) <i>of a patient:</i> (O, TA:) or it is an inf. n., as mentioned above. (O, K.) [See 1, last sentence.]\nفَسَرَ 1 , aor. ﹻ (S, M, O, Msb, K) and ﹹ, (M, K,) inf. n. فَسْرٌ; (S, M, O, Msb, K;) and 🡻فسّر, (S, M, K,) inf. n. تَفْسِيرٌ; (S, K;) which latter is the more common; (IKtt;) or the latter has an intensive signification; (Msb;) <i>He discovered, detected, revealed, developed,</i> or <i>disclosed,</i> a thing that was concealed or obscured; (IAar, O, K;) or a meaning perceived by the intellect: (B:) <i>he rendered</i> a thing <i>apparent, plain,</i> or <i>clear; explained, expounded,</i> or <i>interpreted,</i> it: (S, M, O, Msb, K:) accord. to Th (O, K, TA) and IAar, (TA,) 🡻تَفْسِيرٌ and تَأْوِيلٌ signify the same; (O, K, TA;) and so these and مَعْنًى: (O, TA:) or 🡻تفسير signifies the <i>discovering, detecting, revealing, developing,</i> or <i>disclosing, what is meant by a dubious expression;</i> and تأويل signifies the “ reducing one of two senses, or interpretations, which an expression bears, or admits, to that which suits the apparent meaning: ” (O, L, K, TA:) or the latter, the “ turning a verse of the Kur-án from its apparent meaning to a meaning which it bears, or admits, when the latter is agreeable with the Kur-án and the Sunneh: ” for instance, in the phrase in the Kur [vi. 95, &c.], يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ, if the meaning be [thus explained], “ He produceth the bird from the egg, ” this is 🡻تفسير: and if the meaning be [thus explained], “ He produceth the believer from the unbeliever, ” or “ the knowing from the ignorant, ” this is تأويل: (KT:) or 🡻تفسير signifies the <i>expounding, explaining,</i> or <i>interpreting, the narratives that occur collected without discrimination in the Kur-án, and making known the significations of the strange words or expressions, and explaining the occasions on which the verses were revealed;</i> and تأويل, the “ explaining the meaning of that which is مُتَشَابِه, [or what is equivocal, or ambiguous,] i. e., what is not understood without repeated consideration. ” (TA.) === Also فَسَرَ, inf. n. فَسْرٌ; and 🡻فسّر, inf. n. تَفْسِرَةٌ, (S, O, K,) like تَذْكِرَةٌ; (TA;) or تَفْسِرَةٌ has the last of the significations assigned to it below as a subst.; (O, K, TA;) or it is postclassical; (S, O, K;) <i>He</i> (a physician) <i>examined,</i> or <i>inspected, urine,</i> (S, O, K, [but the inf. ns. only are mentioned,]) <i>that he might judge, by its colour, of the disease of the person from whom it came.</i> (TA.)\nفَسَّرَ 2 see the preceding paragraph, in six places."
+}

@@ -1,0 +1,31 @@
+{
+  "rootId": "r2052",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:11:50.470Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Neighbor, seeking protection, partner, ally, shelter, or host",
+  "primaryMeaning": "Seeking protection/ally or neighbor",
+  "quranicRelevance": "Close neighbor (Jar - 'wal-jari thee al-qurba'), and providing protection (Yujeer - 'wa huwa yujeeru wa la yujaru').",
+  "keyDerivations": [
+    {
+      "lemma": "جَارٌ",
+      "form": "Noun",
+      "meaning": "Neighbor, protégé, ally, or partner under protection"
+    },
+    {
+      "lemma": "أَجَارَ / يُجِيرُ",
+      "form": "Form IV Verb",
+      "meaning": "To protect, grant asylum, host, shield from danger, or salvage"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَإِنْ أَحَدٌ مِنَ الْمُشْرِكِينَ اسْتَجَارَكَ فَأَجِرْهُ حَتَّىٰ يَسْمَعَ كَلَامَ اللَّهِ (9:6): And if any of the polytheists seeks your protection/asylum, then grant him protection so that he may hear the word of God (asylum laws)."
+  ],
+  "discardedNoise": [
+    "Injustice and tyranny (Jawr) - belonging to j-w-r but with negative semantic shift.",
+    "Neighboring countries in political geography."
+  ],
+  "summaryEn": "The root connects neighborhood proximity with political asylum (Ijarah), protecting neighbors (Jar) and ordering asylum protection for seeking enemies to hear revelation.",
+  "summaryAr": "يربط هذا الجذر بين مجاورة السكن الحسي وحق الجوار، والاستجارة وطلب اللجوء والأمان (يجير)، واصفاً حقوق الجار، وتشريع حماية المستجير الحربي.",
+  "rawText": "جَأَرَ 1 , aor. ﹷ, inf. n. جُؤَارٌ (S, A, K) and جَأْر (K,) <i>He,</i> (a bull, S and K, or a calf, A,) and جَأْرَتْ <i>she,</i> (a cow, K,) <i>lowed.</i> (S, A, K.) جُؤَارٌ is like خُوَارٌ; and is substituted for the latter in a reading of the Kur vii. 146 and xx. 90. (Akh, S.) === Also, (S, A, K,) inf. ns. as above, (K,) <i>He</i> (a man praying, A and TA) <i>raised his voice in prayer,</i> or <i>supplication:</i> (Th, K:) <i>he cried out:</i> (Es-Suddee, TA:) <i>he cried out, calling for aid,</i> or <i>succour; humbled,</i> or <i>abased, himself, and raised his voice:</i> (A:) <i>he humbled,</i> or <i>abased, himself, with earnest supplication;</i> (S, K;) اِلَى ٱللّٰهِ to God; (S;) <i>and cried out,</i> or <i>called, for aid,</i> or <i>succour.</i> (K.) [Accord. to Katádeh, يَجْأَرُونَ in the Kur xxiii. 66 signifies يَخْرَعُونَ, as written in the TA; but this is app. a mistranscription for يَجْزَعُونَ, <i>They manifest grief and agitation;</i> &c.] === Also ‡ <i>It</i> (a plant) <i>grew tall;</i> (A, K;) like as one says, صَاحَتِ الشَّجَرَةُ. (A.) And جَأَرَتِ الأَرْضُ ‡ <i>The plants,</i> or <i>herbage, of the land grew tall.</i> (A, K.)\nجَأْرٌ , applied to herbage, (Az, A, K,) ‡ <i>Fresh, juicy,</i> or <i>sappy:</i> (K, * TA:) or <i>tall, and fullgrown:</i> (Az, TA:) and <i>abundant.</i> (A, K.) === غَيْثٌ جَأْرٌ, (K,) and 🡻جُؤَرٌ, (As, S, A, K,) and, accord. to As, 🡻جُؤَارٌ, (TA voce جَوَرٌّ,) as also جِوَرٌّ, (K,) ‡ <i>A copious rain;</i> (As, S, A, K;) <i>that makes the plants,</i> or <i>herbage, to grow tall:</i> (A:) or the second, <i>a rain that makes a sound,</i> or <i>noise.</i> (TA.)\nجُؤَارٌ : see جَأْرٌ.\nجُؤّرٌ : see جَأْرٌ.\nهُوَ جَأّرٌ بِاللَّيْلِ [<i>He is one who cries out, calling for aid,</i> or <i>succour; who humbles,</i> or <i>abases, himself, and raises his voice; much,</i> or <i>often, by night</i>]. (A, TA.)"
+}

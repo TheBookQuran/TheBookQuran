@@ -1,0 +1,26 @@
+{
+  "rootId": "r278",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T18:01:00.335Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Idolatry, sorcery, superstition, empty magic, false gods, or vanity",
+  "primaryMeaning": "Idolatry/superstition (Jibt)",
+  "quranicRelevance": "In Jibt and Taghut (Al-jibt - 'yo'minoona bi-al-jibti').",
+  "keyDerivations": [
+    {
+      "lemma": "جِبْتٌ",
+      "form": "Noun",
+      "meaning": "Idol, sorcery, priest, devil, magic, or any false object of belief/worship"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "أَلَمْ تَرَ إِلَى الَّذِينَ أُوتُوا نَصِيبًا مِنَ الْكِتَابِ يُؤْمِنُونَ بِالْجِبْتِ وَالطَّاغُوتِ (4:51): Have you not seen those who were given a portion of the Scripture, believing in Jibt (superstition/idolatry) and Taghut?"
+  ],
+  "discardedNoise": [
+    "Jibtah (pagan goddess name).",
+    "Jibeen (forehead) - R-282."
+  ],
+  "summaryEn": "The root signifies sorcery, magic, or false idols (Jibt), censuring those Jews of Medina who allied with the pagans and compromised their monotheism by validating pagan idolatry.",
+  "summaryAr": "يشير هذا الجذر إلى كل ما عُبد من دون الله بلا فائدة، كالسحر والأصنام والكهانة والأوهام الباطلة (جبت)، ذامّاً إيمان بعض الكفرة بالجبت والطاغوت.",
+  "rawText": "الجِبْتُ , not a pure Arabic word, because it comprises the letters ج and ت without any of the letters of the kind called ذَوْلَقِىّ [which are ر and ل and ن]; (S;) <i>The idol:</i> (S, K:) or <i>idols:</i> (Ksh in iv. 54:) or the name of <i>a certain idol,</i> (Bd and Jel on that verse,) <i>belonging to Kureysh;</i> as also الطَّاغُوتُ: (Jel:) and <i>that which is worshipped instead,</i> or <i>to the exclusion, of God; whatever it be:</i> (Ksh, Bd, K:) said to be originally الجِبْسُ, i. e., (Bd,) <i>he,</i> or <i>that, wherein is no good:</i> (Bd, K:) and <i>the diviner:</i> (S, K:) and <i>the enchanter:</i> (S, K, Kull:) and <i>the like thereof:</i> (S:) or <i>the Devil; Satan:</i> (Kull:) and <i>enchantment.</i> (Esh-Shaabee, K.) Accord. to Esh-Shaabee, يُؤْمِنُونَ بِالجِبْتِ وَالطَّاغُوتِ, in the Kur [iv. 54], means <i>They believe in enchantment and the Devil:</i> or, accord. to I' Ab, by الجبت is meant Hoyeí Ibn-Akhtab; and by الطاغوت, Kaab Ibn-El-Ashraf: (TA:) or the words relate to these two men, Jews, who, in order to induce Kureysh to join with them in a league against Mohammad, prostrated themselves to the gods of Kureysh: (Ksh, Bd:) or to certain Jews, who said that the worship of idols is more pleasing to God than that to which Mohammad invited. (Bd.) It is said in a trad. that what are termed الطِّيَرَةُ and العِيَافَةُ and الطَّرْقُ are مِنَ الجِبْتِ [app. meaning <i>of things wherein is no good:</i> or <i>kinds of divination:</i> or <i>from the Devil</i>]. (S.)"
+}

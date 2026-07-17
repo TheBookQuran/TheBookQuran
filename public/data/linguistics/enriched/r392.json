@@ -1,0 +1,41 @@
+{
+  "rootId": "r392",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:12:08.450Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Gathering, assembling, crowding, or mobilizing",
+  "primaryMeaning": "To gather or mobilize",
+  "quranicRelevance": "Resurrecting and assembling souls for judgment (Hashr), mobilizing armies ('hashara fanada'), and assembling.",
+  "keyDerivations": [
+    {
+      "lemma": "حَشَرَ",
+      "form": "Form I Verb",
+      "meaning": "To gather, assemble, collect, or crowd"
+    },
+    {
+      "lemma": "حَشْرٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Gathering, assembly, resurrection, or mobilization"
+    },
+    {
+      "lemma": "مَحْشَرٌ",
+      "form": "Noun",
+      "meaning": "Place of assembly, or day of gathering"
+    },
+    {
+      "lemma": "حَاشِرُونَ",
+      "form": "Noun / Active part. pl.",
+      "meaning": "Gatherers, or mobilizers"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "حَشَرَ فَنَادَى (79:24): Mobilized/gathered (his forces) and proclaimed (Pharaoh's command)."
+  ],
+  "discardedNoise": [
+    "Specific details of post-resurrection geography.",
+    "Obscure details on insect swarms."
+  ],
+  "summaryEn": "The root denotes gathering and mobilization, framing the ultimate assembly of souls for divine judgment (Hashr) and physical troop mobilization.",
+  "summaryAr": "يدل هذا الجذر على الجمع والتحشيد، مؤطراً للحشر النهائي للأرواح للحساب يوم القيامة (حشر) وجمع الجند.",
+  "rawText": "انحشروا 7 <i>They</i> (people) <i>became collected together</i> from the desert to the places of settled abodes. (Abu-t-Teiyib.)\nحَاشِرٌ One <i>who congregates,</i> or <i>collects together,</i> people. (TA.) With the article ال, applied to Mohammad; (S, K;) because he collects people after him (S, IAth) and to his religion. (IAth.) === <i>A collector of spoils:</i> (El-Hulwánee, Mgh:) and [its pl.] حُشَّارٌ signifies <i>collectors of the tithes and poll-tax.</i> (TA.)\nحَشَرَ 1 , aor. ﹹ and ﹻ, (S, Msb, K,) the former of which aors. is found in the seven readings of the Kur, (Msb,) inf. n. حَشْرٌ, (S, Msb, K,) <i>He congregated,</i> or <i>collected together,</i> (S, Msb, K,) men: (S, Msb:) or <i>he congregated</i> them, or <i>collected</i> them <i>together, and drove</i> them: (Msb, TA:) <i>he made</i> them <i>to go forth, collected together, from one place to another:</i> (Bd in lix. 2:) <i>he,</i> or <i>it, compelled</i> them <i>to emigrate:</i> (K, * TA: [in the CK الخَلَآءُ is put by mistake for الجَلَاءُ, the explanation of the inf. n.:]) and [simply] <i>he drove</i> towards a place or quarter. (TA.) Hence يَوْمُ الحَشْرِ ‡ [<i>The day of congregation,</i> &c.; meaning] <i>the day of resurrection:</i> (S, * TA:) [see also مَحْشِرٌ:] and سُورَةُ الحَشْرِ ‡ [<i>The Chapter of the</i> <i>Compulsion to emigration;</i> which is the fifty-ninth chapter of the Kur-an]. (TA.) It is said by most of the expositors of the Kur that the wild animals and other beasts, and even the flies, will be collected together (تُحْشَرُ) for retaliation; and they cite a trad. on this subject. (TA.) So in the Kur [lxxxi. 5], وَ إِذَا الوُحُوشُ حُشِرَتْ <i>And when the wild animals shall be collected together,</i> (Bd, Jel,) from every quarter, (Bd,) after resurrection; (Jel;) or <i>raised to life,</i> (Bd,) for the purpose of their retaliating, one upon another; after which they shall return to dust: (Bd, Jel:) or the meaning is, <i>shall die,</i> (Az, S,) in the present world; accord. to some: (Az:) and thus says 'Ikrimeh, (S, TA,) on the authority of I'Ab, (TA,) as is related by Sa'eed Ibn-Masrook: (S, TA:) but accord. to some, the two meanings are nearly the same; for each denotes collection. (TA.) حَشْرٌ also signifies The <i>going forth with a people fleeing</i> or <i>hastening</i> or <i>dispersing themselves in war;</i> when used absolutely. (TA.) === حَشَرَتْهُمُ السَّنَةُ, aor. ﹹ and ﹻ (Lth,) inf. n. حَشْرٌ, (K,) ‡ <i>The year of dearth destroyed their camels and other quadrupeds;</i> because it causes the owners to collect themselves from the various quarters to the cities or towns: (Lth:) or <i>it caused them to go down to the cities or towns:</i> (A:) or <i>it distressed them;</i> app., because of their collecting themselves together from the desert to the places of settled abodes: (Abu-t- Teiyib:) and حَشَرَتِ السَّنَةُ مَالَ فُلَانٍ <i>The year of dearth destroyed the camels &c. of such a one.</i> (S, K. *) ___ حَشَرَهُ, (S, A,) inf. n. حَشْرٌ, (S, K,) ‡ <i>He made it</i> (a spear-head, S, A) <i>thin,</i> or <i>slender:</i> (S, A, K:) <i>he made it</i> (a spear-head, and a knife,) <i>sharp,</i> or <i>pointed, and thin,</i> or <i>slender:</i> (TA:) <i>he made it small, and thin,</i> or <i>slender:</i> (Th:) <i>he pared it;</i> namely, a stick: (TA:) <i>he pared it, and made it sharp,</i> or <i>pointed.</i> (S.)\nحَشَرَةٌ and حَشَرَاتٌ, (K,) each being a coll. n. without a sing.; (TA;) or the former is sing. of the latter; (S, Msb;) <i>Any small animals that creep or walk upon the earth;</i> (S, Mgh, Msb, K;) <i>as jerboas and hedgehogs and lizards of the kind called</i> ضَبّ <i>and the like:</i> (TA:) or the former, (Msb,) or latter, (Mgh,) is applied to <i>rats or mice, and jerboas, and lizards of the kind above mentioned,</i> (Mgh, Msb,) <i>colleted together:</i> (Msb:) or <i>any venomous</i> or <i>noxious reptiles</i> or <i>the like, such as scorpions and serpents;</i> syn. هَوَامُّ; (As, K;) as also أَحْرَاشٌ and أَحْنَاشٌ. (As.) === Also the former, <i>Whatever is captured, snared, entrapped, hunted,</i> or <i>chased, of wild animals</i> or <i>the like, birds,</i> and <i>fish, &c.;</i> (K;) <i>whether small or great:</i> (TA:) or the <i>great thereof:</i> or <i>what is eaten thereof:</i> (K:) thus in all the copies of the K; but the pronoun [in the latter case] does not refer to the animals &c. above mentioned: it is expressly said in the T and M that the word signifies <i>whatever is eaten of herbs,</i> or <i>leguminous plants, of the earth, such as the</i> دُعَاع and فَثّ. (TA.)\nحَشِرٌ : see حَشْرٌ.\nحَشْرٌ ‡ Anything <i>thin,</i> or <i>slender,</i> or <i>elegant.</i> (TA.) You say أُذُنُ حَشْرٌ ‡ <i>A thin,</i> or <i>an elegant, ear;</i> (Lth, ISk, S, A, K;) as though it were pared, (Lth, S,) and made sharp: (S:) or <i>small, elegant, and round:</i> (Lth:) or <i>thin at the end:</i> (Th:) or <i>sharp-pointed:</i> (TA:) and the epithet is the same for the dual also and the pl.: (K:) [J says that] it does not admit the dual form nor the pl., because it is originally an inf. n., and the expression above mentioned is like مَآءٌ غَوْرٌ and مَآءٌ سَكْبٌ: but اذن حَشْرَةٌ is sometimes said: (S:) and the pl. حُشُورٌ occurs in a verse of Umeiyeh Ibn-Abee-'Áïdh: (TA:) and you also say 🡻مَحْشُورَةٌاذن. (TA.) حَشْرٌ is also applied in the same sense as an epithet to other things. (S) You say قُذَّةٌ حَشْرٌ ‡ <i>A thin,</i> or <i>an elegant, feather of an arrow;</i> (Lth, S, A, K;) as though it were pared: (Lth:) or <i>sharp-pointed.</i> (TA.) Also سِنَانٌ حَشْرٌ ‡ <i>A thin,</i> or <i>slender, spear-head:</i> (S, K:) or <i>sharp,</i> or <i>sharp-pointed:</i> and سِكِّينٌ حَشْرٌ in like manner: and حَرْبَةٌ حَشْرَةٌ: (TA:) and سَهْمٌ حَشْرٌ, and سِهَامٌ حُشْرٌ: like جَوْنٌ and جُونٌ, and وَرْدٌ and وُرْدٌ: (Akh, S:) or سَهْمٌ حَشْرٌ signifies <i>an arrow having straight,</i> or <i>even, feathers;</i> and so سهم 🡻مَحْشُورٌ; and 🡻حَشِرٌ, of the same measure as كَتِفٌ, an arrow <i>having good feathers attached to it.</i> (TA.) You also say بَعِيرٌ حَشْرُ الأُذُنِ ‡ <i>A camel having a thin,</i> or <i>an elegant, ear.</i> (TA.)\nمَحْشُورٌ ; and its fem., with ة: see حَشْرٌ.\nمَحْشِرٌ (S, K) and مَحْشَرٌ (K) <i>A place of congregation:</i> (S, K:) a term used when people are collected together to a town or country, and to an encampment, and the like. (TA.) Hence, يَوْمُ المَحْشِرِ [<i>The day of the place of congregation;</i> meaning the day of judgment]. (TA.)"
+}

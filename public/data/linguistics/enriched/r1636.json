@@ -1,0 +1,26 @@
+{
+  "rootId": "r1636",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:52:16.826Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Offensive nicknames, labeling mockingly, insulting titles, or mocking call names",
+  "primaryMeaning": "Offensive nicknames/mocking labels",
+  "quranicRelevance": "Do not call by nicknames (Tanabazoo - 'wa-la tanabazoo').",
+  "keyDerivations": [
+    {
+      "lemma": "تَنَابَزَ / يَتَنَابَزُ",
+      "form": "Form VI Verb",
+      "meaning": "To call one another by offensive nicknames, insult with names, or exchange derogatory labels"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَلَا تَنَابَزُوا بِالْأَلْقَابِ ۖ بِئْسَ الِاسْمُ الْفُسُوقُ بَعْدَ الْإِيمَانِ (49:11): And do not call one another by offensive nicknames. Wretched is the name of disobedience after faith."
+  ],
+  "discardedNoise": [
+    "Nabz (pulse of veins) - confused spelling (N-B-D).",
+    "Nabeez (grape wine/fermented drink) - N-B-D-H."
+  ],
+  "summaryEn": "The root signifies labeling people with offensive titles (Nabz), outlawing the practice of calling people by names they dislike to keep community relations clean.",
+  "summaryAr": "يمثل هذا الجذر التنابز والتداعي بالألقاب الذميمة المعيبة المكروهة عند الآخر (نبز)، ناهياً عن إطلاق أسماء السخرية بين المسلمين حفظاً للروابط الاجتماعية.",
+  "rawText": "تنابزوا 6 , (Msb, K, *) or تنابزوا بِٱلْأَلْقَابِ, (S,) <i>They called one another by by-names, surnames,</i> or [rather] <i>nicknames:</i> (S, Msb, * K:) or <i>they upbraided, reproached,</i> or <i>reviled, one another;</i> (K, TA;) <i>calling one another by names of reproach.</i> (TA.) So in the Kur, xlix. 11; where the doing so is forbidden. (TA.)\nرَجُلٌ نُبَزَةٌ <i>A man who is much accustomed to call others by by-names, surnames,</i> or [rather] <i>nicknames.</i> (K.)\nنَبَزٌ , [or, accord. to the Msb, it seems to be نَبْزٌ, for it is there said to be an inf. n. used as a subst., but this form I have never met with elsewhere,] <i>A by-name;</i> or <i>surname;</i> or <i>nickname;</i> syn. لَقَبٌ; (S, Msb, K;) mostly, <i>the latter;</i> i. e., <i>a name of reproach; an opprobrious appellation:</i> (TA:) but Kh, [makes it, contr. to common usage, to signify <i>a proper name;</i> for he] says, that names are of two kinds; أَسْمَآءُ نَبَزٍ, such as زَيْدٌ and عَمْرُو; and أَسْمَآءُ عَامٍّ, such as فَرَسٌ and رَجُلٌ and the like: (TA:) pl. أَنْبَازٌ. (S.)\nنَبَزَهُ 1 , aor. ﹻ, inf. n. نَبْزٌ, <i>He called him,</i> or <i>named him, by a by-name, surname,</i> or <i>nickname; he by-named him, surnamed him,</i> or <i>nicknamed him;</i> syn. لَقَّبَهُ; (S, Msb, K;) mostly signifying <i>he called him,</i> or <i>named him, by a nickname, a name of reproach,</i> or <i>an opprobrious appellation;</i> (TA;) as also 🡻نبّزهُ: (K:) or the latter is with teshdeed to denote muchness, or frequency, or repetition, of the action, or its application to many objects: you say, فُلَانٌ 🡻يُنَبِّزُبِالصَّبْيَانِ <i>Such a one by-names, surnames,</i> or [rather] <i>nicknames, the children;</i> syn. يُلَقِّبْهُمْ. (S.) === النَّبْزُ is also <i>syn. with</i> اللَّمْزُ; (K;) or is <i>like the latter:</i> (TA;) [i. e., نَبَزَهُ also signifies <i>He upbraided,</i> or <i>reproached, him;</i> or <i>the like.</i>]\nنَبِزٌ <i>Ignoble,</i> or <i>mean,</i> (Sgh, K,) <i>in his grounds of pretension to respect,</i> or <i>his rank</i> or <i>quality, and in his natural disposition.</i> (K.)\nنَبَّزَ 2 see 1, in two places."
+}

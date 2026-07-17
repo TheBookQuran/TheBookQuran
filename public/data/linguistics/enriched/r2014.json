@@ -1,0 +1,26 @@
+{
+  "rootId": "r2014",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:56:22.540Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Exiling, banishing, expelling, rejecting, negating, or driving away",
+  "primaryMeaning": "Exiling/banishing from the land",
+  "quranicRelevance": "Be banished from the land (Yunfaw - 'aw yunfaw mina al-ardi').",
+  "keyDerivations": [
+    {
+      "lemma": "نَفَى / يَنْفِي (Passive: يُنْفَىٰ)",
+      "form": "Form I Verb",
+      "meaning": "To exile, banish, reject, expel, or drive away from home"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "أَنْ يُقَتَّلُوا أَوْ يُصَلَّبُوا أَوْ تُقَطَّعَ أَيْدِيهِمْ ... أَوْ يُنْفَوْا مِنَ الْأَرْضِ (5:33): That they be killed, or crucified, or have their hands cut off... or be banished from the land (for waging war against God)."
+  ],
+  "discardedNoise": [
+    "Nafy (grammatical negation) - linguistic tool.",
+    "Nifayat (garbage/waste) - modern municipal."
+  ],
+  "summaryEn": "The root signifies banishing or driving away (Nafy), prescribing exile from the community's land as a severe penalty for highway robbery and terrorism.",
+  "summaryAr": "يشير هذا الجذر إلى النفي والطرد والإبعاد والإقصاء عن الوطن والإنكار والرفض (نفي)، جاعلاً عقوبة نفي قطاع الطرق من الأرض أحد الخيارات الجزائية الرادعة.",
+  "rawText": "اِنْتَفَى 8 <i>It was negative:</i> contr. of ثَبَتَ and and وَجَبَ. (IbrD.) === اِنْتَفَى مِنْ شَىْءٍ <i>He denied a thing;</i> meaning an accusation or the like: syn. تَنَضَّحَ.\nتَنَافَيَا 6 <i>They two were incompatible.</i>\nفِعْلٌ مَنْفِىٌّ <i>A verb rendered negative</i> by its being preceded by مَا or the like; <i>contr. of</i> مُثْبَتٌ and مُوجَبٌ. === كَلاَمٌ مَنْفِىٌّ <i>A denied sentence; contr. of</i> مُثْبَتٌ and مُوجَبٌ; virtually the same as كَلاَمٌ نَافٍ <i>a denying,</i> or <i>negative, sentence.</i>\nنَفَاهُ 1 <i>He drove away, expelled, or banished, him, or it.</i> (T, in TT.)\nنُفَايَةٌ <i>Refuse;</i> i. e. <i>what one rejects,</i> of a thing, <i>because of its badness:</i> (S:) or <i>refuse little in quantity:</i> (T:) or the <i>remains, and bad portion,</i> of a thing: (M, K:) or, accord. to IAar, <i>what is bad of wheat</i> or <i>food.</i> (M.)\nهٰذَا يُنَافِى هٰذَا 3 <i>This precludes the co-existence of this therewith; is inconsistent,</i> or <i>incompatible, with this.</i>"
+}

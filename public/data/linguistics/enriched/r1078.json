@@ -1,0 +1,31 @@
+{
+  "rootId": "r1078",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:09:12.475Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Frowning, scowling, grim, dusty day, or stern look",
+  "primaryMeaning": "Frowning/scowling",
+  "quranicRelevance": "Frowning at the blind man (Abasa - 'abasa wa tawalla'), grim day ('yawnan 'aboosan'), and scowling in disbelief ('abasa wa basara').",
+  "keyDerivations": [
+    {
+      "lemma": "عَبَسَ / يَعْبِسُ",
+      "form": "Form I Verb",
+      "meaning": "To frown, scowl, contract face muscles, or show stern displeasure"
+    },
+    {
+      "lemma": "عَبُوسٌ",
+      "form": "Adjective",
+      "meaning": "Grim, harsh, stern, distressful, or scowling (day)"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "إِنَّا نَخَافُ مِنْ رَبِّنَا يَوْمًا عَبُوسًا قَمْطَرِيرًا (76:10): Indeed, we fear from our Lord a day grim/harsh and distressful (apocalyptic severity)."
+  ],
+  "discardedNoise": [
+    "Historical Abbasid dynasty records.",
+    "Modern psychiatric charts of facial muscle tics."
+  ],
+  "summaryEn": "The root represents frowning (Abas), referencing the Prophet's correction for frowning at Ibn Umm Maktum, the scowling face of stubborn disbelievers, and the grim (Abus) day of doom.",
+  "summaryAr": "يمثل هذا الجذر تقطيب الوجه والعبوس والشدة، مصوراً عتاب الرب لنبيه لتقطيب وجهه مع الأعمى (عبس وتولى)، وعبوس منكري البعث، واليوم العبوس.",
+  "rawText": "أَعْبَسَتِ الإِبِلُ 4 <i>The camels had dried urine and dung clinging upon their tails;</i> (S, O, K;) as also 🡻عَبِسَت, inf. n. عَبَسٌ; (A'Obeyd, TA;) whence, (TA,) عَبِسَتْ فِى أَبْوَالِهَا وَأَبْعَارِهَا, [meaning the same,] a phrase occurring in a trad. (O, TA.)\nالعَنْبَسُ and العُنَابِسُ: see the next preceding paragraph.\nتَعَبَّسَ 5 see 1, first sentence.\nعَابِسٌ [and 🡻عَبِسٌ, mentioned above,] A man <i>frowning,</i> or <i>contracting his face:</i> (Msb:) [<i>grimfaced;</i> or <i>looking sternly, austerely,</i> or <i>morosely:</i>] or <i>contracting the part between his eyes;</i> &c.: (TA:) and 🡻عَبَّاسٌ one <i>who does so much</i> [or <i>habitually; stern, austere,</i> or <i>morose, in look</i> or <i>countenance;</i> as also 🡻عَبُوسٌ and 🡻مُعَبِّسٌ]: (Msb:) or 🡻عَبَّاسٌ and 🡻مُعَبِّسٌ signify a man <i>having a hateful face:</i> and 🡻عَبَّاسِىٌّ, <i>hateful to encounter</i> or <i>meet; stern, austere,</i> or <i>morose, in countenance.</i> (TA.) === [Hence,] العَابِسُ signifies <i>The lion;</i> (O, K;) as also 🡻العَبُوسُ, and 🡻العَبَّاسُ, (IAar, O, K,) and 🡻العَنْبَسُ, (S, and mentioned in the K in art. عنبس, q. v.,) [accord. to some,] of the measure فَنْعَل, (S,) and 🡻العُنَابِسُ: (K in art. عنبس:) or <i>the lion from whom other lions flee.</i> (TA.) === See also عَبُوسٌ.\nعَبَسٌ [an inf. n.: see 1, latter part; and see also 4. === Also a subst. signifying] <i>Urine and dung that have clung to the tails of camels, drying thereon,</i> (S, O, K, TA,) <i>and on their thighs;</i> occasioned only by fat: (TA:) and also <i>dung and urine that have clung to the wool of sheep,</i> or <i>to their tails and the inner sides of the roots of their things, becoming dry</i> [<i>thereon</i>]; syn. وَذَحٌ: (TA:) or <i>dung and urine that have dried upon the thighs of camels:</i> (Mgh:) or <i>urine and dung that dry upon the tails of sheep</i> or <i>goats</i> and <i>the like:</i> n. un. with ة. (Msb.)\nعَبَسَ 1 , (S, L, Msb,) or عَبَسَ وَجْهَهُ, (A, O, K, TA,) or وَجْهُهُ, (Bd in lxxvi. 10,) aor. ﹻ, inf. n. عُبُوسٌ [app. properly used only when the verb is intrans.] (S, A, O, Msb, K) and عَبْسٌ [app. only when the verb is trans.]; (A, O, K;) and 🡻عبّس, (L, K, TA,) inf. n. تَعْبِيسٌ; (TA;) <i>He frowned;</i> [<i>looked sternly, austerely,</i> or <i>morosely;</i>] or <i>contracted his face:</i> (Msb:) or <i>he contracted the part between his eyes:</i> (L, TA:) or <i>he grinned,</i> or <i>displayed his teeth, frowning,</i> or <i>contracting his face,</i> or <i>looking sternly, austerely,</i> or <i>morosely;</i> syn. كَلَحَ: (S, A, O, K:) or 🡻عبّس has an intensive signification; (S, O, TA;) عبّس وَجْهَهُ meaning <i>he did so much:</i> (S, O:) or عبّس [alone], <i>he had</i> [or <i>made</i>] <i>a hateful face:</i> but when one displays his teeth, or grins, the epithet كَالِحٌ is applied to him: (TA:) and [in like manner] 🡻تعبّس signifies تَجَهَّمَ, (S, O, K,) i. e. <i>he showed a sour, a crabbed,</i> or <i>an austere, face;</i> (TK;) and تَقَطَّبَ [which is <i>syn. with</i> عَبَسَ]. (TA.) === [Hence,] عَبَسَ اليَوْمُ [for عَبَسَ مِنْ شَهِدَ اليَوْمَ <i>He who witnessed the day frowned,</i> or <i>contracted his face,</i> &c., (see يُوْمٌ عَبُوسٌ,)] means † <i>the day was,</i> or <i>became, distressful, afflictive,</i> or <i>calamitous.</i> (Msb.) ___ عَبِسَتْ said of camels: see 4. === [Hence,] عَبِسَ said of a man, <i>He was,</i> or <i>became, dirty,</i> or <i>filthy.</i> (TA.) === And said of a garment, <i>It had dirt,</i> or <i>filth, that had dried upon it.</i> (TA.) === And عَبِسَ الوَسَخُ فِى يَدِهِ (S, K, TA) and عَلَى يَدِهِ (TA) <i>The dirt,</i> or <i>filth, dried upon his hand,</i> or <i>arm.</i> (S, K, TA.) === And [the inf. n.] عَبَسٌ signifies A slave's <i>voiding his urine in,</i> or <i>on, his bed, when he has a habit of doing so and the effect thereof appears upon his person,</i> (O, TA,) <i>by reason of its muchness,</i> (O,) <i>and upon his bed:</i> (TA:) for doing this he may be returned; (O, TA;) but not if it is little and rare. (O.)\nعَبُوسٌ : see عَابِسٌ, in two places. === [Hence,] يَوْمٌ عَبُوسٌ † <i>A distressful, an afflictive,</i> or <i>a calamitous, day;</i> (S, Msb, TA;) as also 🡻عَابِسٌيَوْمٌ: (TA:) or <i>a hateful day, on account of which faces frown,</i> or <i>contract themselves,</i> &c.: (O, K:) or <i>a day in which one frowns,</i> or <i>contracts his face,</i> &c. (TA.)\nعَبِسٌ [part. n. of عَبِسَ. === And occurring in the A, art. دعب, in the phrase المُنَافِقُ عَبِسٌ قَطِبٌ, in which both of the epithets are app. altered in form to assimilate them to دَعِبٌ and لَعِبٌ by which they are there preceded]: see عَابِسٌ.\nعَبَّاسٌ : see عَابِسٌ, in three places.\nعَبَّاسِىٌّ : see the next paragraph.\nعَبَّسَ 2 see the first sentence above, in two places.\nمُعَبِّسٌ : see عَابِسٌ, in two places."
+}

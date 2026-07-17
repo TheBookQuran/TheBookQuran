@@ -1,0 +1,26 @@
+{
+  "rootId": "r543",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T18:03:45.341Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Nails, iron pins, fibers to bind planks, pushing/thrusting with force, or solid fastening",
+  "primaryMeaning": "Nails/pins (fasteners)",
+  "quranicRelevance": "Planks and nails (Dusurin - 'alwāhin wa-dusurin').",
+  "keyDerivations": [
+    {
+      "lemma": "دِسَارٌ",
+      "form": "Noun (Plural: دُسُر)",
+      "meaning": "Nail, iron pin, wooden peg, or fiber thread used to bind ship planks together"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَحَمَلْنَاهُ عَلَىٰ ذَاتِ أَلْوَاحٍ وَدُسُرٍ (54:13): And We carried him on that (Noah's Ark) of planks and nails/fasteners."
+  ],
+  "discardedNoise": [
+    "Dasara (to push away with violence) - classical force action.",
+    "Dusr (fatness/grease) - D-S-M."
+  ],
+  "summaryEn": "The root refers to nails or fiber fasteners (Dusur), describing the simple yet sturdy construction of Noah's Ark made of flat planks sewn or nailed together to survive the deluge.",
+  "summaryAr": "يشير هذا الجذر إلى الدسر وهي المسامير التي تشد الألواح أو حبال الليف لربط أخشاب السفينة، والدفع بقوة (دسر)، واصفاً مكونات سفينة نوح بالألواح والدسر.",
+  "rawText": "أَدْسَرُ : see دَسْرَآءُ.\nدَسَرَهُ 1 , (S, M, A,) aor. ﹹ, (S, M,) inf. n. دَسْرٌ, (S, M, K,) <i>He,</i> or <i>it, pushed, thrust, drove, impelled, propelled,</i> or <i>repelled, him,</i> or <i>it.</i> (S, M, A, K.) Ambergris is said (by I' Ab, S) to be شَىْءٌ يَدْسُرُهُ البَحْرُ <i>A thing which the sea drives</i> (S, A) <i>and casts upon the shore.</i> (TA.) And دَسَرَتِ السَّفِينَةُ المَآءَ بِصَدْرِهَا means <i>The ship repelled,</i> (TA,) or <i>opposed,</i> (M,) <i>the water with its prow.</i> (M, TA.) === <i>He thrust, pierced,</i> or <i>stabbed, him,</i> (S, M, A, K,) <i>vehemently,</i> (A,) with a spear. (S, A.) === دَسَرَ, (M,) aor. ﹹ and ﹻ, (TA,) inf. n. دَسْرٌ, (M, K, TA,) <i>He drove in</i> a nail, <i>with force:</i> (K, * TA:) <i>he nailed</i> anything: (M:) <i>he fastened,</i> (M,) or <i>repaired,</i> (K,) a ship <i>with a nail,</i> (M, K,) or <i>with cord of fibres of the palm-tree:</i> (M:) or <i>he fastened</i> a ship <i>by uniting its planks in the manner of sewing.</i> (TA.) === دَسَرَ, (A,) inf. n. as above, (M, K,) ‡ <i>Inivit</i> feminam: (M, * A, K: *) you say دَسَرَهَا بِأَيْرِهِ. (TA.)\nدَسْرَآءُ , [fem. of 🡻أَدْسَرُ, and] sing. of دُسْرٌ, which (as some say, TA) means Ships <i>that repel</i> [<i>or oppose</i>] <i>the water with their prows.</i> (K.)\nدَوْسَرٌ <i>A bulky</i> camel: fem. with ة: (S, K:) a camel (M) <i>strong and bulky;</i> (M, K;) as also 🡻دَوْسَرِىٌّ (S, * M, K) and 🡻دَوْسَرَانِىٌّ (S, * K) and 🡻دُوَاسِرٌ (M, K) and 🡻دُوَسِرِىٌّ: (L:) fem. دَوْسَرٌ [like the masc.] and دَوْسَرَةٌ: or دَوْسَرٌ, applied to a she-camel, signifies <i>large:</i> (M:) and 🡻دَوْسَرِىٌّ a <i>strong</i> camel: (Fr, TA:) and 🡻دُوَاسِرٌ <i>sharp, spirited,</i> or <i>vigorous, and strong.</i> (TA.) === A <i>tough,</i> or <i>hardy,</i> lion, (K, B,) <i>firm in make.</i> (B, TA.) === A penis <i>bulky</i> (M, K) <i>and strong.</i> (M.) === كَتِيبَةٌ دَوْسَرٌ, and دَوْسَرَةٌ, <i>An army,</i> or <i>a troop of horse,</i> or <i>a portion of an army, collected together.</i> (M.) And دَوْسَرُ <i>An army,</i> or <i>a troop of horse,</i> or <i>a portion of an army, belonging to En-Noamán</i> (S, M, K) <i>Ibn-El-Mundhir.</i> (S, K.)\nدَوْسَرَانِىٌّ : see دَوْسَرٌ.\nدَوْسَرِىٌّ : see دَوْسَرٌ, in two places.\nدُوَاسِرٌ : see دَوْسَرٌ, in two places.\nدُوَاسِرِىٌّّ : see دَوْسَرٌ.\nدِسَارٌ <i>Cord of the fibres of the palm-tree</i> (لِيف) <i>with which the planks of a ship are bound together:</i> (S, M, A, K:) or (so accord. to the S and M and A, but accord. to Fr and the K “ and ”) <i>a nail,</i> (S, M, A, K,) <i>of a ship:</i> (M:) pl. دُسُرٌ (S, M, A, K) and دُسْرٌ: (S, K:) used in one or the other of these two significations in the Kur liv. 13. (S, TA.)\nمِدْسَرٌ [A man <i>who thrusts much</i> with the spear. A signification implied in the S.] === ‡ <i>Qui multum coit.</i> (K.)"
+}

@@ -1,0 +1,36 @@
+{
+  "rootId": "r1886",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:55:18.217Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Weakness, fragility, fading, feebleness, or bone decay",
+  "primaryMeaning": "Weakness or fragility",
+  "quranicRelevance": "Physical weakness of aging bones (Wahana - 'wahana al-'athmu minnee'), weakness of spider houses ('awhana al-buyooti labaytu al-'ankaboot'), and spiritual feebleness/discouragement ('wa la tahinoo wa la tahzanoo').",
+  "keyDerivations": [
+    {
+      "lemma": "وَهَنَ / يَهِنُ",
+      "form": "Form I Verb",
+      "meaning": "To grow weak, feeble, lose strength, or decay"
+    },
+    {
+      "lemma": "وَهْنٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Weakness, feebleness, fragility, or decay"
+    },
+    {
+      "lemma": "أَوْهَنُ",
+      "form": "Adjective (comp.)",
+      "meaning": "Weakest, most fragile, or flimsiest"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "لَبَيْتُ الْعَنْكَبُوتِ لَوْ كَانُوا يَعْلَمُونَ (29:41): The house of the spider (the flimsiest/weakest house, representing the fragility of seeking security in false gods)."
+  ],
+  "discardedNoise": [
+    "The physical speed of spider silk weaving.",
+    "Post-classical military defeat analysis."
+  ],
+  "summaryEn": "The root denotes weakness and fragility, framing the natural decline of old age (Wahana), warning against spiritual defeatism, and utilizing the spider's web metaphor.",
+  "summaryAr": "يدل هذا الجذر على الوهن والوهاد البنيوي، واصفاً وهن عظام الهرم (وهن العظم)، ووهن شباك العنكبوت المجازي للشرك، وناهياً عن الضعف الإيماني.",
+  "rawText": "أَوْهَنَهُ 4 <i>He,</i> or <i>it, weakened him:</i> [<i>rendered him languid, languid and faint,</i> or <i>lax in the joints; enervated him, unnerved him,</i> or <i>broke his energy; rendered him cowardly:</i> (see وَهَنَ:)] (S, Msb, K:) and 🡻وَهَنَهُ, (S, Mgh, Msb, K,) but the former is the better, (Msb,) and 🡻وَهَّنَهُ. (S, K.)\nتَوَهُّنٌ <i>Weak, languid, unable to rise:</i> see عُدَوَآءُ.\nعِرْقُ الوَاهِنَةِ <i>The cephalic vein:</i> see فَلِيقٌ.\nوَهَنَ 1 <i>He was,</i> or <i>became, weak,</i> or <i>infirm, in an affair,</i> and <i>in operation,</i> and <i>in body;</i> (Msb:) and so said of a bone: (Bd, and Jel in xix. 3:) and <i>he was,</i> or <i>became, languid, languid and faint,</i> or <i>lax in the joints;</i> (TA, Bd in iii. 140;) <i>enervated, unnerved,</i> or <i>broken in energy;</i> (Bd, ubi suprà;) <i>cowardly.</i> (TA, Jel in iii. 140.) === See also 4.\nوَهَّنَ 2 see 4.\nوَهْنٌ The <i>period about midnight;</i> (S, K;) or the <i>time after an hour,</i> or <i>a short period,</i> (سَاعَة,) <i>of the night:</i> (JK, K, TA:) or <i>when the night is departing.</i> (S.) See إِنْىٌ.\nوَهْنَانَةٌ <i>I. q.</i> وَنَاةٌ, q. v.; and see أَنَاةٌ."
+}

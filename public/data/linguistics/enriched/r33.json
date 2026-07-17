@@ -1,0 +1,51 @@
+{
+  "rootId": "r33",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T00:58:39.998Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Hearing, permission, announcement, or ear",
+  "primaryMeaning": "To permit or listen",
+  "quranicRelevance": "Permission (Ithn), call/announcement (Athan), ear (Uthn), and listening attentively ('athinat').",
+  "keyDerivations": [
+    {
+      "lemma": "إِذْنٌ",
+      "form": "Noun",
+      "meaning": "Permission, leave, consent, or will"
+    },
+    {
+      "lemma": "أَذِنَ",
+      "form": "Form I Verb",
+      "meaning": "To permit, allow, listen, or pay attention"
+    },
+    {
+      "lemma": "أُذُنٌ / آذَانٌ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Ear / ears"
+    },
+    {
+      "lemma": "أَذَّنَ",
+      "form": "Form II Verb",
+      "meaning": "To call, proclaim, announce, or summon"
+    },
+    {
+      "lemma": "مُؤَذِّنٌ",
+      "form": "Noun / Active part.",
+      "meaning": "Proclaimer, announcer, or caller to prayer"
+    },
+    {
+      "lemma": "آذَنَ",
+      "form": "Form IV Verb",
+      "meaning": "To declare, warn, or make known"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ (84:2): And listens and obeys its Lord, and is obligated (of the sky)."
+  ],
+  "discardedNoise": [
+    "The handle of a cup (أذن الكوب).",
+    "Obscure details on the ears of desert rodents."
+  ],
+  "summaryEn": "The root encompasses hearing and permission, linking divine permission (Ithn) with physical hearing (Uthn) and prophetic announcements (Athan).",
+  "summaryAr": "يشمل هذا الجذر السماع والإذن، رابطاً الإذن والمشيئة الإلهية (إذن) بالاستماع الحسي (أذن) والإعلام والنداء (أذّن).",
+  "rawText": "أذّنهُ 2 , (S, M, K,) inf. n. تَأْذِينٌ, (K,) <i>He wrung,</i> or <i>twisted,</i> (عَرَكَ,) <i>his</i> (a boy's, S) <i>ear:</i> (S, K:) or <i>he struck,</i> (ضَرَبَ, TA,) or <i>struck with his finger,</i> or <i>fillipped,</i> (نَقَرَ, M, TA,) <i>his ear.</i> (M, TA.) [See also أَذَنَهُ.] They say, (in a prov., TA in art. جوز,) لِكُلِّ جَابِهٍ جَوْزَةٌ ثُمَّ يُؤْذَّنُ, (M, TA,) i. e. <i>For every one that comes to water is a single watering</i> for his family and his cattle; <i>then his ear is struck,</i> to apprize him that he has nothing more to receive from them: (TA in the present art., and the like is said in the same in art. جوز:) or, † <i>then he is repelled from the water:</i> (TA in art. جوز:) [for أذّنهُ signifies also] === † <i>He repelled him,</i> (IAar, T, M, K,) namely, a man, (IAar, T, M,) <i>from drinking,</i> (K,) <i>and did not give him to drink.</i> (M, K.) You say also, أَذِّنُوا عَنِّى أُوَلَهَا, [in which the pronoun appears, from the context, to relate to camels,] † <i>Send ye away from me the first ones of them.</i> (En-Nadr, T.) ___ أذّن النَّعْلَ, (inf. n. as above, S,) <i>He put to the sandal what is termed</i> أُذُنٌ, q. v. infrà: (S, M, K:) and in like manner one says with respect to other things. (S, K.) ___ أذّن, (M, K,) inf. n. as above, (K,) also signifies <i>He made known,</i> or <i>notified,</i> a thing (بِشَىْءٍ) <i>much;</i> (M, K; *) <i>he proclaimed,</i> or <i>made proclamation;</i> syn. نَادَى: (Jel in vii. 42, and Bd and Jel in xii. 70 and xxii. 28:) Sb says that some of the Arabs make أَذَّنَ and 🡻آذَنَ to be syn.: but some say that the former signifies <i>he called out publickly;</i> and the latter, <i>i. q.</i> أَعْلَمَ [<i>he made to know,</i> &c.: see 4]. (M, TA.) It is said in the Kur [xxii. 28], وَأَذِّنْ فِى النَّاسِ بِالحَجِّ (M) <i>And proclaim thou, among the people, the pilgrimage.</i> (Bd, Jel.) === Also, (S, K,) or أذّن بِالصَّلَاةِ, (Msb,) inf. n. as above, (M, K,) or أَذَانٌ, (S,) or both, (TA,) or the latter is [properly speaking] a simple subst. [used as an inf. n.], as in the instances of وَدَّعَ وَدَاعَّا and سَلَّمَ سَلَامًا and كَلَّمَ كَلَامًا &c., (Msb,) <i>He called to prayer;</i> (M, K;) <i>he notified,</i> or <i>made known,</i> or <i>proclaimed,</i> [i. e., <i>chanted,</i> from the مِئْذَنَة,] <i>the time of prayer;</i> (S, * Msb, * TA;) and 🡻آذَنَ signifies the same, (K,) inf. n. إِيذَانٌ. (TA.) IB says, the phrase أَذَّنَ العَصْرُ, with the verb in the act. form, [a phrase commonly obtaining in the present day,] is wrong; the correct expression being أُذِّنَ بِالعَصْرِ [<i>The time of the prayer of afternoon was proclaimed,</i> i. e., <i>chanted</i>], with the verb in the pass. form, and with the preposition to connect it with its subject. (Msb.) === You say also, أَذَّنَ بِإِرْسَالِ إِبِلِهِ <i>He spoke of sending away his camels.</i> (En-Nadr, T.)\nأَذَانٌ <i>A making known; a notification; an announcement.</i> (T, S, Mgh.) [See 4.] So in the Kur [ix. 3], وَ أَذَانٌ مِنَ ٱللّٰهِ وَرَسُولِهِ إِلَى النَّاسِ [<i>And a notification,</i> or <i>an announcement, from God and his apostle to men,</i> or <i>the people</i>]. (T, Mgh.) === Also, and 🡻أَذِينٌ, (T, S, M, K,) and تَأْذِينٌ, [the last an inf. n. of 2, and the second a quasi-inf. n. of the same, which see,] (M, K,) The <i>notification,</i> or <i>announcement, of prayer,</i> and <i>of the time thereof;</i> (T, S;) the <i>call to prayer.</i> (M, K.) [The words of this call (which is usually chanted from the مِئْذَنَة, or turret of the mosque,) are اَللّٰهُ أَكْبَرْ (four times) أَشْهَدُ أنْ لَا إِلٰهَ إِلَّا ٱللّٰهْ (twice) أَشْهَدُ أَنَّ مُحَمَّدًا رَّسُولُ ٱللّٰهُ (twice) حَيَّ عَلَى الصَّلَاهٌ (twice) حَىَّ عَلَى الفَلَاحْ (twice) اَللّٰهُ أَكْبَرٌ (twice) لَا إِلٰهَ إِلَّا ٱللّٰهٌ.] === الأَذَانُ also signifies <i>The [notification,</i> or <i>announcement, called</i>] إِقَامَة; (M, K;) because it is a notification to be present at the performance of the divinelyordained prayers. (TA.) [This (which is chanted in the mosque) consists of the words of the former أَذَان with the addition of قَدْ قَامَتِ الصَّلَاهْ pronounced twice after حَىَ عَلَى الفَلَاحْ.] === الأَذَانَانِ signifies <i>The</i> أَذَانِ [<i>more commonly so called</i>] <i>and the</i> إِقَامَة. (TA.)\nأَذَنٌ : see أَذَنَةٌ\nأَذَنَةٌ The <i>leaves of trees,</i> (En-Nadr, T,) or <i>of grain.</i> (K.) === [The <i>kind of leaf called</i> خُوصَة of the ثُمَام.] === ‡ The <i>young ones of camels</i> and <i>of sheep</i> or <i>goats;</i> (En-Nadr, T, K;) as being likened to the خُوصَة of the ثُمَام. (TA.) === <i>A piece of straw:</i> pl. [or rather coll. gen. n.] 🡻أَذَنٌ [in the CK أُذُنٌ]. (IAar, T, K.) ___ <i>Appetite, appetency, longing, yearning,</i> or <i>strong desire.</i> (En-Nadr, T.) You say, هٰذِهِ بَقْلَةٌ تَجِدُ بِهَا الإِبِلُ أَذَنَةَ شَدِيدَةً <i>This is a herb for which the camels feel a strong appetite &c.</i> (En-Nadr, T.) And هٰذَا طَعَامٌ لَا أَذَنَةَ لَهُ <i>This is food for the odour of which there is no appetite.</i> (K, * TA.)\nأَذُونٌ [An animal <i>having an ear;</i> as distinguished from صَمُوخٌ, which means “having merely an ear-hole”]. (Msb in art. بيض.)\nأَذِنَ لَهْ 1 (T, S, M, Msb, K) and إِلَيْهِ, (M, K,) aor. ﹷ, (T, Msb, K,) inf. n. أَذَنٌ, (T, S, Msb, K,) <i>He [gave ear</i> or] <i>listened to it,</i> (T, S, M, Msb, K,) or <i>him:</i> (T, S, M, K: *) or it signifies, (K,) or signifies also, (M,) <i>he listened to it,</i> or <i>him, pleased,</i> or <i>being pleased.</i> (M, K.) It is said in a trad., (T,) مَا أَذِنَ ٱللّٰهِ لِشَىْءٍ لِنَبِىٍّ يَتَغَنَّى بالقُرآنِ (T, S) <i>God hath not listened to anything</i> [in a manner] <i>like his listening [to a prophet chanting the Kur-án</i>]. (T.) And in the Kur [lxxxiv. 2 and 5], وَأَذِنَتْ لِرَبِّها <i>And shall listen to its Lord,</i> (M, Bd, Jel,) <i>and obey;</i> (Jel;) i. e., shall submit to the influence of his power as one listens to the commander and submits to him. (Bd.) And you say, أَذِنَ لِلَّهْوِ <i>He listened and inclined to sport,</i> or <i>play.</i> (M.) === [Hence, perhaps,] أَذِنَ لِرَائِحَةِ الطَّعَامِ † <i>He desired eagerly,</i> or <i>longed for, the food, [perceiving its odour,</i>] (ISh, K,) and <i>inclined to it.</i> (ISh, TA.) === [Hence also, app.,] أَذِنَ لَهُ فِى الشَّىء, (S, M, K,) or فِى أَمْرِ كَذَا, (T,) or فِى كَذَا, (Msb,) aor. ﹷ, (T, K,) inf. n. إِذْنٌ, (T, S, M, K,) or this is a simple subst., (Msb,) and أَذِينٌ, (K,) [as though originally signifying <i>He gave ear to him in respect of such a thing;</i> and then] <i>he permitted him, allowed him,</i> or <i>gave him permission</i> or <i>leave, to do the thing, or such a thing.</i> (M, Msb, K.) [See also إِذْنٌ, below.] You say, أَذِنْتُ لِلْعَبْدِ فَي التِّجَارَةِ [<i>I gave permission,</i> or <i>leave, to the slave to traffic</i>]. (Msb.) === أَذِنَ لَهُ عَلَيْهِ <i>He took,</i> or <i>got, permission,</i> or <i>leave, for him from him.</i> (M.) You say, اِيذَنْ لِى عَلَى الأَمِيرِ (S, TA) <i>Take thou,</i> or <i>get thou, permission for me from the commander,</i> or <i>governor,</i> or <i>prince.</i> (TA.) El-A'azz Ibn-'AbdAllah says, <center> <h3> وَ إِنِّى إِذَا ضَنَّ الأَمِيرُ بإِذْنِهِ </h3> <h3> عَلَي الإِذنِ مِنْ نَفْسِى إِذا شِئْتٌ قَادِرٌ </h3> </center> [<i>And verily I, when the prince is niggardly of his permission, am able to take permission of myself when I will</i>]. (TA.) And a poet says, <center> <h3> قُلْتُ لِبَوَّابٍ لَدَيْهِ دَارُهَا </h3> <h3> تِئْذَنْ فَإِنِّى حَيْؤُهَا وَجَارُهَا </h3> </center> [<i>I said to a door-keeper, near by whom was her house, take thou,</i> or <i>get thou, permission</i> for me to enter, <i>for I am her husband's father, and her neighbour</i>]: meaning, says Aboo-Jaafar, لِتَأْذَنْ; for the suppression of the ل is allowable in poetry, and the pronunciation with kesr to the ت is accord. to the dial. of him who says أَنْتَ تِعْلَمُ. (S.) === أَذِنَ بِالشَّىءِ, (S, * M, Msb, K,) aor. ﹷ, (S, M, K,) inf. n. إِذْنٌ and أَذَنٌ and أَذَانٌ and أَذَانَةٌ, (M, K,) <i>He kne"
+}

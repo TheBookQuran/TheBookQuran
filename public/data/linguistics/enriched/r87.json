@@ -1,0 +1,26 @@
+{
+  "rootId": "r87",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:09:12.475Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Term, period, distance, span, limit, or duration",
+  "primaryMeaning": "Span of time/distance limit",
+  "quranicRelevance": "Wishing a long span of time/distance from evil (Amad - 'amadan ba'eedan'), and feeling the warning term is far ('amadan').",
+  "keyDerivations": [
+    {
+      "lemma": "أَمَدٌ",
+      "form": "Noun",
+      "meaning": "Span of time, period, distance limit, duration, or target end"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَا عَمِلَتْ مِنْ خَيْرٍ مُحْضَرًا وَمَا عَمِلَتْ مِنْ سُوءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُ أَمَدًا بَعِيدًا (3:30): The Day every soul will find what it did of good presented, and what it did of evil, it will wish that between itself and that (evil) was a long span of time/distance."
+  ],
+  "discardedNoise": [
+    "Helping and supplying (Madd) - spelling overlap (belonging to m-d-d).",
+    "Modern timeline milestones."
+  ],
+  "summaryEn": "The root represents a specific span of time or spatial distance limit (Amad), illustrating the sinner's desperate wish to be distanced from their own record.",
+  "summaryAr": "يمثل هذا الجذر الغاية والمدى الزمني أو المكاني الفاصل (أمد)، مصوراً أمنية الفاجر التباعد الجغرافي والزمني الهائل بينه وبين صحيفة أعماله السيئة.",
+  "rawText": "أمّد 2 , inf. n. تَأْمِيدٌ, <i>He declared the time, considered with regard to its end;</i> or <i>the utmost,</i> or <i>extreme, extent, term, limit, point,</i> or <i>reach;</i> expl. by بَيَّنَ الأَمَدَ. (K.)\nأَمَدٌ <i>Time, considered with regard to its end:</i> زَمَانٌ being time considered with regard to its end and its beginning: (Er-Rághib:) [but sometimes it is interchangeable with زَمَانٌ, as will be seen in what follows:] or the <i>utmost,</i> or <i>extreme, extent, term, limit, point,</i> or <i>reach.</i> (S, M, A, Msb, K.) You say, بَلَغَ أَمَدَهُ <i>He,</i> or <i>it, reached,</i> or <i>attained, his,</i> or <i>its, utmost,</i> or <i>extreme, extent, term,</i> &c. (Msb.) And ضَرَبَ لَهُ أَمَدًا [<i>He assigned,</i> or <i>appointed, for him,</i> or <i>it, a term,</i> or <i>limit</i>]. (A.) And هُوَ بَعِيدُ الآمَادِ [<i>He is one whose limits are remote:</i> آمَادٌ being the pl.]. (A.) === The <i>period of life which one has reached;</i> as in the saying, مَا أَمَدُكَ <i>What is thy period of life which thou hast reached?</i> (S.) === <i>Each of the two terms of the life</i> of a man; i. e. the <i>time of</i> his <i>birth,</i> and the <i>time of</i> his <i>death.</i> (Sh, T.) El-Hasan [El-Basree], being asked by El-Hajjáj, مَا أَمَدُكَ, meaning <i>What was the time of thy birth?</i> answered by saying that it was two years before the expiration of 'Omar's reign as Khaleefeh. (T, L, from a trad.) === The <i>startingplace,</i> and the <i>goal,</i> of horses in a race. (Sh, T, L.) === ‡ <i>Any space of time:</i> (Er-Rághib:) <i>a space of time of unknown limit.</i> (Kull pp. 9 and 10.) === Sometimes, † <i>A particular time;</i> as in the phrase أَمَدُ كَذَا <i>The time of such a thing;</i> like زَمَانُ أَمَدٌ. (Kull p. 10.) === [It is also used for ذو أَمَدٌ, and (applied to a fem. n.) ذَات أَمَدٍ, <i>Having a term,</i> or <i>limit; limited in duration;</i> as in the saying,] الدُّنْيَا أَمَدٌ والآخِرةُ أَبَدٌ [<i>The present state of existence is limited in duration, but the final state of existence is everlasting</i>]. (Obeyd Ibn-'Omeyr, L in art. ابد.)\nأَمَرَهُ <i>An extreme term, limit,</i> or <i>point, reached,</i> or <i>attained.</i> (K.)\nأَمِدَ عَلَيْهِ 1 , aor. ﹷ, inf. n. أَمَدٌ, <i>He was angry with him:</i> (S, M, Msb, * K:) like أَبِدَ (S) and وَمَد and وَبِدَ and عَبِدَ. (T in art. ابد.)\nأُمْدَةٌ <i>A remainder,</i> or <i>what remains,</i> (K,) of anything. (TA)\nسِقَآءٍ مُؤَمَّدٌ <i>A skin</i> [<i>exhausted;</i>] <i>in which there remains not a gulp,</i> or <i>as much as is swallowed at once, of water.</i> (K.)"
+}

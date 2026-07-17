@@ -1,0 +1,26 @@
+{
+  "rootId": "r1575",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:11:50.470Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Mixing, blending, mixture, tempering, dilute, or cup component",
+  "primaryMeaning": "Mixing/blending",
+  "quranicRelevance": "Mixtures of camphor/ginger in Paradise cups (Mizaj - 'kana mizajuha kafooran', 'mizajuha min tasneemin').",
+  "keyDerivations": [
+    {
+      "lemma": "مِزَاجٌ",
+      "form": "Noun",
+      "meaning": "Mixture, blend, flavor, tempering element, dilution, or cup mixture"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَمِزَاجُهُ مِنْ تَسْنِيمٍ (83:27): And its mixture/blend is from Tasneem (the premium celestial spring diluting pure nectar)."
+  ],
+  "discardedNoise": [
+    "Psychological temperament states (Mizaj) in modern clinics.",
+    "Mixing oil and water."
+  ],
+  "summaryEn": "The root refers to mixture blends (Mizaj), detailing the premium chemical flavoring of Paradise beverages with camphor, ginger, and Tasneem.",
+  "summaryAr": "يشير هذا الجذر إلى خلط المشروب وتحليته وصب القليل فيه (مزاج)، واصفاً مزج وتلطيف شراب الجنة بالكافور والزنجبيل وعين تسنيم الرفيعة.",
+  "rawText": "امتزج 8 <i>It was,</i> or <i>became, mixed</i> with (بِ) another thing. (TA.) See 6.\nتمازخا 8 and 🡻امتزجا <i>They two mixed,</i> or <i>mingled,</i> or <i>became mixed</i> or <i>mingled, each with the other.</i> (TA.)\nرَجُلٌ مَزَّاجٌ , and 🡻مُمَزِّجٌ; <i>A man who continues not of one disposition,</i> or <i>temper, but varies in disposition,</i> or <i>temper:</i> or <i>a liar, who confounds,</i> or <i>confuses, things.</i> (IAar.)\nشَرَابٌ مَزْجٌ <i>i. q.</i> 🡻مَمْزُوجٌ, <i>Mixed mine,</i> or <i>beverage.</i> (TA.) === See مِزْجٌ.\nطَبْعُ عُطَارِدَ مُتَمَزِّجٌ [<i>The nature of</i> the planet <i>Mercury is various</i>]. (A.)\nمازجهُ 3 , inf. n. مُمَازَجَةٌ, <i>It mixed, mingled, commingled, intermixed, intermingled,</i> or <i>became incorporated</i> or <i>blended, with it;</i> as some does with water. (TA.) ___ مازجهُ, ‡ <i>He contended with him,</i> or <i>disputed with him, for glory,</i> or <i>honour,</i> or <i>glorious</i> or <i>honourable qualities, and the like.</i> (K.)\nمزّج 2 , inf. n. تَمْزِيجٌ, <i>He gave.</i> (K.) Ex. مزّج السَّائِلَ <i>He gave the beggar something.</i> (ISh.) ___ مزّج, inf. n. تَمْزِيجٌ, <i>It</i> (an ear of corn, K, and a grape, TA,) <i>became changed in colour from green to yellow.</i> (T, K.)\nمَزَجَ 1 , (S, K,) aor. ﹹ, (L Msb,) [not ﹷ, as in the lexicons of Golius and Freytag,] inf. n. مَزْجٌ, (K, &c.,) <i>He mixed, mingled, incorporated,</i> or <i>blended,</i> (S, K,) a thing with (بِ) water; (Msb;) or beverage, or wine, (شَرَاب,) with something else. (S.) === مَزَجَ ‡ <i>He exasperated,</i> or <i>irritated.</i> (K.) مَزَجْتُهُ عَلَى صَاحِبِهِ <i>I enraged him, and exasperated him,</i> or <i>irritated him, against his companion.</i> (A.)\nمَزِيجٌ : see مِزْجٌ.\nمَمْزُوجٌ : see مَزْجٌ.\nمَوْزَجٌ <i>A boot,</i> (K,) worn by women: (A:) an arabicized word, (S, K,) from the Persian مُوزَهْ: (S:) pl. مَوَازِجَةٌ (because it is a foreign word, S) and مَوَازِجُ. (S, K.)\nمُمَزِّجٌ : see مَزَّاجٌ.\nمِزَاجٌ : see مِزْجٌ.\nمِزْجُ شَىْءٍ , and 🡻مِزَاجُهُ, <i>What is mixed,</i> or <i>mingled, with a thing; its admixture.</i> (TA.) === 🡻مِزَاجُالشَّرَابِ <i>What is mixed with mine,</i> or <i>a beverage.</i> (S, K.) 🡻مِزَاجُالخَمْرِ كَافُورٌ [see Kur, lxxvi., 5,] <i>The odour,</i> not the taste, of the <i>wine is</i> [<i>like</i>] <i>camphor.</i> (TA.) === 🡻مِزَاجُالبَدَنِ [<i>The constitution,</i> or <i>temperament, of the body;</i>] <i>the aggregate natural constituents</i> (طَبَائِعُ) <i>with which the body is composed;</i> (S, K;) i. e. <i>the four humours of the body;</i> namely, <i>black bile</i> [السَّوْدَآءُ], <i>yellow bile</i> [الصَّفْرَآءُ], (المِرَّتَانِ), <i>phlegm</i> (البَلْغَمُ), <i>and blood</i> (الدَّمُ). (TA) Pl. أَمْزِجَةٌ. (Msb.) You say, هُوَ صَحِيحُ 🡻المِزَاجِ, and فَاسِدُهُ, <i>He is of sound, and of unsound, constitution,</i> or <i>temperament:</i> meaning the humours of the body. And أَمْزِجَةُ النِّسَآءِ مُخْتَلِفَةٌ <i>The constitutions,</i> or <i>temperaments, of women are discordant,</i> or <i>various.</i> (A.) === مِزْجٌ (As, K, &c.) and 🡻مَزْجٌ, (Az, S, &c.,) or the latter is erroneous, or a word of weak authority, (K,) <i>Honey:</i> (S, K:) or <i>honey in the comb;</i> syn. شَهْدٌ: (T:) so called because every sweet beverage is mixed with it. (AHn.) === Also, <i>Water with which wine is mixed.</i> (TA.) === مِزْجٌ The <i>bitter almond;</i> as also 🡻مَزِيجٌ: see لَوْزٌ (K:) but IDrd doubts of its correctness; and it is said to be correctly مُنْج [which is Persian]. (TA.)"
+}

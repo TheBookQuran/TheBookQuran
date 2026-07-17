@@ -1,0 +1,31 @@
+{
+  "rootId": "r668",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T18:03:45.341Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Stillness, motionlessness, stagnating, resting in place, quiet, or wind fading",
+  "primaryMeaning": "Motionless/still",
+  "quranicRelevance": "They remain motionless (Rawakida - 'fayazlalna rawakida 'ala').",
+  "keyDerivations": [
+    {
+      "lemma": "رَكَدَ / يَرْكُدُ",
+      "form": "Form I Verb",
+      "meaning": "To remain still, motionless, quiet, or stop blowing (wind)"
+    },
+    {
+      "lemma": "رَاكِدٌ",
+      "form": "Active Participle (Plural: رَوَاكِد)",
+      "meaning": "Motionless, still, stagnant, or stationary"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "إِنْ يَشَأْ يُسْكِنِ الرِّيحَ فَيَظْلَلْنَ رَوَاكِدَ عَلَىٰ ظَهْرِهِ (39:33): If He wills, He calms the wind, so they (ships) remain motionless/still on its back (the water surface)."
+  ],
+  "discardedNoise": [
+    "Rukood (recession/economic stagnation) - modern market finance.",
+    "Rakada (to kick) - confused with R-K-D' (with Dad)."
+  ],
+  "summaryEn": "The root represents stillness or cessation of movement (Rukud), illustrating how sailing ships depend on divine wind currents, warning that without wind, they would sit paralyzed and motionless on the sea.",
+  "summaryAr": "يمثل هذا الجذر الهدوء والسكون وانقطاع حركة الريح وسفن البحر المتوقفة عن المسير (ركد)، واصفاً شلل حركة السفن الشراعية بالرواكد حال سكون الريح.",
+  "rawText": "اركدهُ 4 <i>He rendered it still,</i> or <i>motionless;</i> namely, water [&c.]. (Msb.)\nتراكد 6 [app., in its proper sense, <i>It became still,</i> or <i>motionless, by degrees</i>]. See 1.\nجَفْنَةٌ رَكُودٌ ‡ <i>A bowl that is full,</i> (K,) or <i>filled;</i> (S;) or <i>heavy;</i> (A;) or <i>filled and heavy.</i> (L.) And نَاقَةٌ رَكُودٌ ‡ <i>A she-camel whose supply of milk is constant,</i> (A, K,) <i>unceasing.</i> (K.)\nرَاكِدٌ [<i>Still,</i> or <i>motionless:</i> and] anything <i>remaining fixed in its place; stationary.</i> (S.) You say مَآءٌ رَاكِدٌ <i>Water that is not running:</i> and رِيحٌ رَاكِدَةٌ <i>a wind becoming still,</i> or <i>calm;</i> pl. رِيَاحٌ رَوَاكِدُ. (A.) === [Hence,] الرَّوَاكِدُ [and also, accord. to Reiske, as mentioned in Freytag's Lex., الرُّكَّدُ,] <i>The three pieces of stone upon which a cooking-pot is set:</i> so called because they remain in their places. (L.)\nرَكَدَ 1 , (S, A, Msb,) aor. ﹹ, (Msb,) inf. n. رُكُودٌ, (S Msb, K,) <i>It was,</i> or <i>became, still,</i> or <i>motionless;</i> (S, A, Msb, K;) said of water: (S, A, Msb:) and <i>fixed,</i> or <i>stationary.</i> (K.) And in like manner, using the verb in the former sense, one says of the wind: (S, A:) [whence] one says also, رَكُدَتْ رِيحُهُمْ [lit. <i>Their wind became still,</i> or <i>calm</i>] meaning ‡ <i>their good fortune ceased, and their affairs,</i> or <i>circumstances, began to retrograde by degrees:</i> and [in like manner,] طَفِقَتْ رِيحُهُمْ 🡻تَتَرَاكَدُ ‡ [<i>their good fortune began to cease by degrees</i>]. (A.) So too one says of the expressed juice of grapes, meaning <i>It ceased to estuate.</i> (L.) And of the heat, i. e. <i>It remitted,</i> or <i>subsided.</i> (L. [See also رَقَدَ.]) And رَكَدَتِ السَّفِينَةُ <i>The ship became still,</i> or <i>motionless,</i> (S, * A, * Msb, TA,) or <i>aground.</i> (TA.) And رَكَدَ المِيزَانُ <i>The balance was,</i> or <i>became, in a state of equilibrium.</i> (S, A, K.) And رَكَدَتِ البَكْرَةُ <i>The sheave of the pulley was,</i> or <i>became, fixed:</i> and also <i>the sheave of the pulley turned,</i> or <i>revolved:</i> thus bearing two contr. significations. (L.) And رَكَدَتِ الشَّمْسُ <i>The sun was,</i> or <i>became, at its midday-height:</i> (S:) or <i>continued overhead; as though not quitting its place.</i> (A.) And رَكَدَ القَوْمُ <i>The people were,</i> or <i>became, still, motionless,</i> or <i>silent.</i> (S, A.)\nمَرَاكِدُ [pl. of مَرْكَدٌ, like مَرْكَزٌ,] <i>Places in which a man,</i> or <i>some other thing, remains still,</i> or <i>motionless.</i> (S, A, * L.) And <i>Much depressed parts of the earth.</i> (L.) Usámeh Ibn-Habeeb El-Hudhalee says, describing an ass [i. e. a wild ass] that had been chased by horses, or horsemen, and had fied for refuge to the mountains, whence, from their ravines, he saw the sky like streaks, <center> <h3> أَرْتْهُ مِنَ الجَرْبَآءِ فِى كُلِّ مَوْطِنٍ </h3> <h3> طِبَابًا فَمَثْوَاهُ النَّهَارَ المَرَاكِدُ </h3> </center> [<i>They</i> (the ravines) <i>showed him, in every spot where he stopped, streaks of the shy, and the much-depressed parts of the earth were his places of abode all the day</i>]. (S, * L.) [J quotes this verse, in the S, but with مَنْزِلٍ in the place of موطن, and مَرْعَاهُ in the place of مثواه, as an ex. of مراكد in the former of the senses explained above.]"
+}

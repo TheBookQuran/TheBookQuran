@@ -1,0 +1,26 @@
+{
+  "rootId": "r1385",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:56:55.064Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Lice, ticks, agricultural pests, wingless bugs, or crop-destroying insects",
+  "primaryMeaning": "Lice/agricultural pests",
+  "quranicRelevance": "Lice/ticks plague (Al-qummal - 'wa-al-qummala').",
+  "keyDerivations": [
+    {
+      "lemma": "قُمَّلٌ",
+      "form": "Noun (Collective)",
+      "meaning": "Lice, ticks, crop-destroying wingless bugs, or annoying insects"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فَأَرْسَلْنَا عَلَيْهِمُ الطُّوفَانَ وَالْجَرَادَ وَالْقُمَّلَ وَالضَّفَادِعَ وَالدَّمَ آيَاتٍ مُفَصَّلَاتٍ (7:133): So We sent upon them the flood, locusts, lice/pests, frogs, and blood as detailed signs."
+  ],
+  "discardedNoise": [
+    "Qamila (to become infested with lice).",
+    "Camel ticks."
+  ],
+  "summaryEn": "The root refers to lice or crop-destroying pests (Qummal), sent as one of the nine plagues to afflict Pharaoh's Egypt and demand the release of Israel.",
+  "summaryAr": "يشير هذا الجذر إلى حشرة القمل أو سوس الحبوب والآفات الزراعية المؤذية (قمل)، مرسلاً كآية عقابية وبلاء حشري أفسد زروع فرعون ومساكنهم.",
+  "rawText": "أَقْمَلَ 4 , said of the رِمْث: see حَنَطَ.\nقَمِلَ 1 : see تِينٌ.\nقُمَّلٌ <i>i. q.</i> سُوسٌ: or <i>a kind of</i> قُرَاد. (Jel, vii. 130.) See سَاسَ.\nمُقْمِلٌ : see تِينٌ."
+}

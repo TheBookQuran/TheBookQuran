@@ -1,0 +1,37 @@
+{
+  "rootId": "r2045",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:58:55.910Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Retaining, container, vessel, attention, memory, or gathering",
+  "primaryMeaning": "To retain/comprehend or container",
+  "quranicRelevance": "Retaining ear/mind (Wa'iyah - 'wa ta'iyaha othunon wa'iyah'), storing wealth in containers (Aw'a - 'wa jama'a fa-aw'a'), and containers/bags ('wi'ai akheehi').",
+  "keyDerivations": [
+    {
+      "lemma": "وَعَى / يَعِي",
+      "form": "Form I Verb",
+      "meaning": "To retain, comprehend, preserve, keep in memory, or listen attentively"
+    },
+    {
+      "lemma": "أَوْعَى / يُوعِي",
+      "form": "Form IV Verb",
+      "meaning": "To gather in a vessel, hoard, accumulate, or lock up"
+    },
+    {
+      "lemma": "وِعَاءٌ / أَوْعِيَةٌ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Container, bag, vessel, or receptacle"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَتَعِيَهَا أُذُنٌ وَاعِيَةٌ (69:12): And that a retaining/conscious ear might retain/preserve it (attentive listening and memory).",
+    "وَاللَّهُ أَعْلَمُ بِمَا يُوعُونَ (84:23): And God knows best what they hoard/keep inside (their hearts' secrets or plans)."
+  ],
+  "discardedNoise": [
+    "Modern awareness (Wa'y) posters.",
+    "The physical design of shipping crates."
+  ],
+  "summaryEn": "The root connects memory retention with containers, contrasting the hoarded wealth (Aw'a) and locked secrets of the heart with the open, retaining ear (Wa'iyah).",
+  "summaryAr": "يربط هذا الجذر بين الوعاء الحافظ للحاجة والوعي العقلي، واصفاً الأذن الحافظة للذكرى (واعية)، وجمع الكنز بالأوعية، وسرائر الصدور.",
+  "rawText": "أَوْعَاهُ الحَدِيثَ 4 <i>He made him to retain the narration in his memory;</i> or <i>to know it,</i> or <i>learn it, by heart.</i> (TA, in art. زكت.)\nوَعَاهُ 1 <i>He kept it in mind, and considered it.</i> (Msb.) === وَعَى الحَدِيثَ <i>He kept,</i> or <i>retained, the narration in his mind,</i> or <i>memory;</i> or <i>knew it,</i> or <i>learned it, by heart;</i> and <i>studied it until he knew it.</i> (Msb.) === وَعَى, aor. ﹻ, <i>He heeded; paid attention to.</i>\nوِعَآءٌ <i>A</i> [<i>bag,</i> or <i>wallet,</i> or] <i>receptacle, for travelling-provisions, and for goods or utensils, &c.:</i> (S, MA:) <i>a vessel</i> (?). === وِعَآءُ القَلْبِ [<i>The pericardium</i>]. (TA, voce فُؤَادٌ.) === بَتَثْتُ لَهُ مَا فِى وِعَائِى † <i>I showed him what was in my heart.</i> (Er-Rághib, TA, in art. شكو and شكى.) === حَرْفُ الوِعَآءِ [<i>The adverbial particle</i> فِى]. (IB, in TA, art. وسط.)"
+}

@@ -1,0 +1,31 @@
+{
+  "rootId": "r455",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:13:34.921Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Humbling oneself, submissiveness, low land, plain, quietness, or yield",
+  "primaryMeaning": "Humbling oneself/submitting",
+  "quranicRelevance": "Humbling oneself before God (Akhbatoo - 'wa-akhbatoo ila rabbihim'), and glad tidings to the humble ('al-mukhbiteena').",
+  "keyDerivations": [
+    {
+      "lemma": "أَخْبَتَ / يُخْبِتُ",
+      "form": "Form IV Verb",
+      "meaning": "To humble oneself, submit, yield to, quieten before, or show submissiveness"
+    },
+    {
+      "lemma": "مُخْبِتٌ / مُخْبِتِينَ",
+      "form": "Adjective / Active part. pl.",
+      "meaning": "Humble, submissive, quiet before God, or yielded ones"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَبَشِّرِ الْمُخْبِتِينَ ﴿٣٤﴾ الَّذِينَ إِذَا ذُكِرَ اللَّهُ وَجِلَتْ قُلُوبُهُمْ (22:34-35): And give glad tidings to the humble/submissive ones - who, when God is mentioned, their hearts feel fear."
+  ],
+  "discardedNoise": [
+    "Low desert plain lands (Khabat).",
+    "Traditional medicine therapies using sand walking."
+  ],
+  "summaryEn": "The root represents submissive humility (Ikhbat), describing the serene, quiet yielding of heart that distinguishes true believers from arrogant deniers.",
+  "summaryAr": "يمثل هذا الجذر الخشوع القلبي والسكون والتمهيد الأرضي المستوي، واصفاً الطمأنينة والإخبات كشرط لإيمان الجنة، وبشارة الخاشعين الوجلين.",
+  "rawText": "اخبت 4 <i>He became in what is termed</i> خَبْتٌ [q. v.]. (A, TA.) === And, (S, Msb, K, TA,) [hence, or] from خَبْتٌ, (Ksh and Bd in xi. 25, and TA,) or from خَبَتَ ذِكْرُهُ, (L,) inf. n. إِخْبَاتٌ, (S, Msb,) ‡ <i>He</i> (a man, Msb, TA) <i>was,</i> or <i>became, lowly, humble,</i> or <i>submissive,</i> (S, Msb, K, TA,) <i>in heart,</i> (Msb,) <i>and obedient,</i> (TA,) لِلّٰهِ <i>to God.</i> (S, TA.) And in like manner, in the Kur [xi. 25], (TA,) وَأَخْبَتُوا إِلَى رَبِّهِمْ means ‡ <i>And who have become lowly, humble,</i> or <i>submissive,</i> [<i>and obedient,</i>] <i>to their Lord;</i> or <i>have lowered, humbled,</i> or <i>abased, themselves to their Lord;</i> or <i>have trusted to their Lord:</i> (A, * TA:) for the Arabs put إِلَى in the place of لِ. (TA.)\nخَبَتَ ذِكْرُهُ 1 <i>The mention of him,</i> or <i>it, was,</i> or <i>became, concealed:</i> (L:) [app. meaning <i>he,</i> or <i>it, was,</i> or <i>became, obscure;</i> or <i>of no reputation,</i> or <i>repute.</i>] ___ خَبُثَ, accord. to Z, <i>i. q.</i> خَبُثَ [q. v.]: occurring in a trad. (TA.) [See خَبِيتٌ.]\nخَبِيتٌ A thing that is <i>contemptible,</i> or <i>despicable;</i> (K, TA;) <i>bad, corrupt, abominable, vile, base,</i> or <i>disapproved;</i> [&c.;] (TA;) and [thus] <i>i. q.</i> خَبِيثٌ. (As, K.) The Jew of Kheyber says, <center> <h3> يَنْفَعُ الطَّيِّبُ القَلِيلُ مِنَ الرِّزْ </h3> <h3> قِ وَلَا يَنْفَعُ الكَثِيرُ الخَبِيتُ </h3> </center> [<i>The lawful, but small, supply of the means of subsistence is beneficial, but the large and unlawful is not beneficial</i>]. (TA.) Kh asked As respecting الخبيت in this verse; and the latter replied that the poet meant الخَبِيث; the former word being of the dial. of Kheyber: but Kh rejoined, “ If so, the poet would have said الكتير: it behooves you only to say that the people of Kheyber change ث into ت in some words: ” AM thinks that الخبيت in this verse is a mistranscription for الخَتِيت, which means the thing that is “ contemptible and bad, ” and is syn. with الخَسِيس. (TA.) === It is also applied to a man; meaning as above; or <i>Bad, corrupt, vitious,</i> or <i>depraved.</i> (TA.)\nخَبْتٌ <i>A low,</i> or <i>depressed, tract of ground:</i> (TA:) or <i>a low,</i> or <i>depressed,</i> (S,) or <i>concealed and low,</i> (TA,) <i>tract of ground, in which is sand:</i> (S, TA:) or <i>a wide,</i> or <i>spacious, low tract of ground:</i> (IAar, A, K:) or <i>a plain,</i> or <i>soft, tract of ground in a</i> [<i>stony tract such as is termed</i>] حَرَّة: (TA:) and <i>a wide bottom,</i> or <i>bed,</i> or <i>interior, of a valley:</i> (A:) or <i>a deep valley, easy to be walked or ridden through, extended</i> [<i>to a great length</i>], <i>and in which grow varieties of the</i> عِضَاه: (TA:) pl. [of pauc.] أَخْبَاتٌ (K) and [of mult.] خُبُوتٌ: (A, K:) it is a genuine Arabic word. (TA.)\nفِيهِ خَبْتَةٌ ‡ <i>In him is lowliness, humility,</i> or <i>submissiveness.</i> (S, TA.)\nمُخْبِتٌ † <i>Still; motionless:</i> as also مُخْبِطٌ. (TA in art. خمد.)"
+}

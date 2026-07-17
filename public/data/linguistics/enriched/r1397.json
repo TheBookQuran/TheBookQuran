@@ -1,0 +1,40 @@
+{
+  "rootId": "r1397",
+  "source": "lanes",
+  "enrichedAt": "2026-06-29T23:22:58.696Z",
+  "modelId": "claude-3-5-sonnet-human-curated",
+  "semanticCore": "speech; expression; word/saying",
+  "primaryMeaning": "To say, speak, utter, or express a thought or statement.",
+  "quranicRelevance": "Extremely frequent, denoting: 1) The act of speaking or commanding (e.g. قال 'He said'). 2) The speech or Word of God (قَوْل / كَلَام) (e.g. 39:18 'who listen to speech and follow the best of it'). 3) The Quran itself as the Word of a noble messenger (قَوْلُ رَسُولٍ كَرِيمٍ) (e.g. 69:40). 4) Setting forth opinions or false claims (تَقَوَّلَ) (e.g. 52:34).",
+  "keyDerivations": [
+    {
+      "lemma": "قَالَ",
+      "form": "Form I",
+      "meaning": "To say, speak, command, or state."
+    },
+    {
+      "lemma": "تَقَوَّلَ",
+      "form": "Form V",
+      "meaning": "To fabricate sayings; to attribute false statements to someone."
+    },
+    {
+      "lemma": "قَوْلٌ",
+      "form": "Noun / Inf. N.",
+      "meaning": "A saying, word, speech, or statement (pl. أَقْوَال)."
+    },
+    {
+      "lemma": "قِيلٌ",
+      "form": "Noun",
+      "meaning": "A word, speech, or utterance (e.g. 'their saying' in 43:88)."
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "To speak through action or condition (e.g. 'the wall said...')."
+  ],
+  "discardedNoise": [
+    "Taking a midday nap (قيلولة) which is from a different root (قيل) but sometimes confused."
+  ],
+  "summaryEn": "The root قول refers to speech, command, and expression. In the Quran, it describes human speech, divine communication, parables, and the condemnation of fabricating words against God (تَقَوُّل).",
+  "summaryAr": "يدور جذر قول حول النطق والتعبير والقول. ويستخدم في القرآن الكريم لوصف الحديث البشري، والوحي الإلهي، والقول الحق، والتحذير من افتراء الأقوال وكذبها (تقوَّل).",
+  "rawText": "المَقُولَاتُ العَشْرُ , in logic, <i>The Ten Predicaments,</i> or <i>Categories;</i> namely, الجَوْهَرُ <i>Substance,</i> الكَمُّ <i>Quantity,</i> الكَيْفُ <i>Quality,</i> الإِضَافَةُ <i>Relation,</i> الأَيْنُ <i>Place,</i> or <i>where,</i> المَتَى <i>Time,</i> or <i>when,</i> الوَضْعُ <i>Collocation,</i> or <i>posture,</i> المِلْكُ <i>Possession,</i> or <i>having,</i> الفِعْلُ <i>Action,</i> or <i>doing,</i> and الإِنْفِعَالُ <i>Passion,</i> or <i>suffering.</i>\nاِقْتَالَ عَلَيْهِ 8 , (S,) or عَلَيْهِمْ, (K,) <i>i. q.</i> تَحَكَّمَ, (S,) or اِحْتَكَمَ. (K.) See مُؤْتَالٌ.\nتَقَوَّلَ عَلَيْهِ 5 <i>He lied against him.</i> (Har, p. 256.)\nقَالَ 1 . The objective complement of قال, meaning <i>He said,</i> or what is termed مَقُولُ القَوْلِ, must be a complete proposition, or a word signifying at least one complete proposition, as كَلَامًا; or a word signifying a command or the like; or a word significant of a sound, termed إِسْمُ صَوْتٍ: it may be a verb; but cannot be an inf. n., as عِبَادَةٌ. (Gr.) [This is what is meant where] it is said in the Keshsháf, العِبَادَةُ لا تُقَالُ. (Kull, p. 327.) === قَالَ لَهُ signifies خَاطَبَ له: قال عَنْهُ, رَوَى عنه: قال عَلَيْهِ, اِفْتَرَى عليه: قال بِهِ, حَكَمَ به: and قال فيه, اِجْتَهَدَ فِيهِ. (Marg. note in Additions to a copy of the KT.) === قَالَ فِيهِ فَمَا اتَّرَكَ, i. e. اِجْتَهَدَ فِيهِ: see تَرَكَ. === قَالَ عَلَيْهِ, aor. ﹹ, <i>He lied,</i> or <i>said what was false, against him.</i> (TA in art. تلو.) See تَقَوَّلَ. === قَالَ فِيهِ and عَنْهُ <i>He said of him,</i> or <i>it,</i> such a thing. === قَالَ بِكَذَا <i>He asserted his belief in such</i> <i>a thing,</i> as a doctrine or the like: a well-known meaning. === قَالَتِ العَيْنَانِ <i>The eyes made a sign</i> [as though saying...]. (TA.) === قَالَ بِرَأْسِهِ <i>He made a sign with his head:</i> (TA:) or <i>a motion.</i> (Ham, p. 242.) === قَالَ بِيَدِهِ <i>He took</i> [<i>with his hand</i>]. (TA.) === قَالَ بِرِجْلِهِ <i>He walked,</i> or <i>struck</i> [<i>with his leg,</i> or <i>foot</i>]. (TA.) === قَالَ بِثَوْبِهِ <i>He raised his garment.</i> (TA.) === قَالَ بِالمَآءِ عَلَى يَدِهِ <i>He poured the water on his arm</i> or <i>hand.</i> (TA.) === قَالَ فِيهِ <i>He spoke against him; vituperated him.</i> === قَالَ شِعْرًا lit., <i>He said,</i> or <i>spoke,</i> or <i>put forth,</i> or <i>uttered,</i> or <i>gave utterance to,</i> or <i>recited, poetry; he spoke in verse; he poetized,</i> or <i>versified.</i> === قَالَ <i>He made a sign;</i> syn. أَوْمَأَ. (Ham, p. 601, where see other meanings: see also p. 242 of the same: and see Mgh.) قَالَ بِيَدِهِ [<i>He made a sign with his hand,</i> meaning to say...]. (A trad. cited voce حَطَّ; and another voce حَرَّفَ.) Also, <i>He struck his hand</i> upon a thing. (Mgh.) See an ex. voce. أَشْرَبَ.\nقَالَةٌ : see فُوَّهَةٌ, near the end.\nقَوَّالٌ , &c., <i>Good in speech:</i> or <i>loquacious;</i> or <i>copious in speech; chaste,</i> or <i>perspicuous, in speech; and eloquent.</i> (K.) === إِبْنُ أَقْوَالٍ <i>The man who talks much.</i> (TA in art. بنى.)\nقَوْلٌ <i>A saying; something said:</i> and <i>speech,</i> or <i>diction.</i> === صَعُبَ عَلَيْهِ القَوْلُ [<i>Diction,</i> or <i>speech, was,</i> or <i>became, difficult to him</i>]. (K in art. جبل.)\nقَيْلٌ and 🡻مِقْوَلٌ: see زَعِيمٌ.\nقِيلٌ : see exs. voce أَصْبَحَ and voce صِرَّى. === قِيلَةٌ [<i>A saying</i>]. (M, art. أبد.)\nمَقُولُ القَوْلِ <i>The thing said:</i> as كَذَا in the phrases قَالَ كَذَا and يُقَالُ كَذَا. See قَالَ.\nمِقْوَلٌ : see قَيْلٌ."
+}

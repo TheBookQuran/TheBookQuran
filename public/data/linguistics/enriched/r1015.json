@@ -1,0 +1,26 @@
+{
+  "rootId": "r1015",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:44:39.226Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Harm, damage, injury, negative effect, or trouble",
+  "primaryMeaning": "Harm/injury",
+  "quranicRelevance": "No harm in dying for faith (Dayr - 'la dayra').",
+  "keyDerivations": [
+    {
+      "lemma": "ضَيْرٌ",
+      "form": "Noun",
+      "meaning": "Harm, injury, damage, negative consequence, or trouble"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "قَالُوا لَا ضَيْرَ ۖ إِنَّا إِلَىٰ رَبِّنَا مُنْقَلِبُونَ (26:50): They (the sorcerers) said: 'No harm/trouble! Indeed, to our Lord we will return' (confronting Pharaoh's threats)."
+  ],
+  "discardedNoise": [
+    "Negative side effects of medicine.",
+    "Losing a chess game."
+  ],
+  "summaryEn": "The root represents harm and damage (Dayr), capturing the sorcerers' defiance of Pharaoh's threats by declaring that physical torture causes no real spiritual harm.",
+  "summaryAr": "يمثل هذا الجذر الضرر والأذى والشر المترتب على التهديد (ضير)، مصوراً ثبات سحرة فرعون التائبين وإعلانهم عدم الخوف من قطع الأيدي (لا ضير).",
+  "rawText": "ضَارَهُ 1 , aor. يَضِيرُ, inf. n. ضَيْرٌ; (S, M, A, Msb, K;) as also ضَارَهُ, aor. يَضُورُ, inf. n. ضَوْرٌ; (S, M, K;) <i>It</i> (a thing, M, K) <i>harmed, injured, hurt, mischiefed,</i> or <i>damaged, him; i. q.</i> ضَرَّهُ, (S, M, K,) or أَضَرَّ بِهِ. (Msb.) You say, هٰذَا مِمَّا لَا يَضِيرُكَ [<i>This is of the things that will not harm thee</i>]: and لَوْ فَعَلْتَهُ لَمْ يَضِرْكَ [<i>Hadst thou done it, it had not harmed thee</i>]: and لَا ضَيْرَ عَلَيْكَ [<i>No harm shall befall thee</i>]. (A.) And مَا يَضِيرُكَ عَلَى الضَّبِّ صِيْدٌ <i>i. q.</i> مَا يَضُرُّكَ q. v. (A in art. ضر.) And Ks says that he had heard (from one of the people of El-' Áliyeh. TA) the phrase لَا يَنْفَعُنِى ذٰلِكَ وَلَا يَضُورُنِى [<i>That will not benefit me, nor will it harm me</i>]. (S, TA.) See also a reading of a phrase in a trad. cited in art. ضر. conj. 3."
+}

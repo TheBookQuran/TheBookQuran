@@ -1,0 +1,37 @@
+{
+  "rootId": "r1910",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:05:27.741Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Right hand, oath, blessing, or direction",
+  "primaryMeaning": "Right hand or oath",
+  "quranicRelevance": "Right hand/side (Yameen), oaths/covenants (Ayman), and blessings/prosperity (Maymanah).",
+  "keyDerivations": [
+    {
+      "lemma": "يَمِينٌ / أَيْمَانٌ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Right hand, right side, or oath/covenant"
+    },
+    {
+      "lemma": "مَيْمَنَةٌ",
+      "form": "Noun",
+      "meaning": "Right side, right hand, or blessed/prosperous state"
+    },
+    {
+      "lemma": "أَيْمَنُ",
+      "form": "Adjective",
+      "meaning": "Right (side), or blessed"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "أَصْحَابُ المَيْمَنَةِ: The companions of the right side (the blessed ones in Paradise).",
+    "لَأَخَذْنَا مِنْهُ بِاليَمِينِ (69:45): We would have seized him by the right hand (representing power and authority)."
+  ],
+  "discardedNoise": [
+    "The country of Yemen (اليمن).",
+    "Specific details of legal oaths in court."
+  ],
+  "summaryEn": "The root encompasses the right side and oaths, representing both the hand of power and covenants (Yameen) and the eschatological companions of the right (Maymanah).",
+  "summaryAr": "يشمل هذا الجذر الجانب الأيمن والأيمان، ممثلاً يد القوة والعهود المغلظة (يمين) وأصحاب اليمين يوم القيامة (ميمنة).",
+  "rawText": "أَيْمَنَهُ 4 <i>He made it to incline towards the right:</i> see an ex. voce سِنٌّ (near the end of the paragraph). === أَيْمَنَ: see أَشْأَمَ in two places. === أَيْمَنْتُ إِبِلِى: see أَيْسَرْتُ.\nأَيْمَنُ [The <i>right, as opposed to</i> the <i>left;</i> see Kur, xix. 53, xx. 82, and xxviii. 30:] <i>contr. of</i> أَيْسَرُ; and [in like manner] 🡻مَيْمَنَةٌ is <i>contr. of</i> مَيْسَرَةٌ. (S.) === أَيْمَنُ, <i>contr. of</i> أَشْأَمُ, as signifying The <i>right,</i> opposed to the <i>left:</i> and as signifying <i>Lucky,</i> or <i>auspicious:</i> pl. أَيَامِنُ. See أَشْأَمُ. === It is also used in the sense of يُمْنٌ: see أَشْأَمُ. === Also <i>More,</i> and <i>most, lucky,</i> or <i>auspicious,</i> or <i>happy:</i> see 8 in art. فئل.\nأَيْمُنٌ , used only in swearing, is a sing. noun, not a particle, nor pl. of يَمِينٌ: and is derived from يُمْنٌ. (Mughnee.)\nالأَيَامِنُ : see an ex. of this word, voce ثَابِرٌ.\nاليَمِينُ <i>The location that is on the right.</i> === يَمِينٌ also, The <i>south.</i> See سَرْحٌ. === يَمِينُ also signifies <i>A covenant</i> (Bd, and Jel in lxviii. 39) <i>confirmed by an oath.</i> (Bd, ibid.) يَمِينُ ٱللّٰهِ <i>The oath by attestation of God:</i> see أَيْمُ ٱللّٰهِ, and عَهْدُ ٱللّٰهِ. === حَلَفْتُ يَمِينًا [<i>I swore,</i> or <i>have sworn, an oath</i>]. (T, S, M, voce أَمِينٌ, which see. You say, يَمِينَ ٱللّٰهِ لَا أَفْعلُ (as in some copies of the S [meaning, حَلَفْتُ يَمِينَ ٱللّٰهِ]): or يَمِينُ ٱللّٰهِ (as in other copies [meaning, يَمِينُ ٱللّٰهِ قَسَمِى]). See a similar form of oath voce حَرَامٌ. === يَمِينًا صَادِقَةً لَأَفْعَلَنَّ: see زَعْمةٌ.\nتَيَامَنَ 6 : see تَشََّامَ. === تَيَامَنُوا: see 3 in art. يسر.\nتَيَمَّنَ 5 <i>He was placed on his right side in the grave.</i> (TA, voce عَلْبَى.) === تَيَمَّنَ بِهِ <i>i. q.</i> تَبَرَّكَ بِهِ [q. v.]. (S.) === فُلَانٌ يُتَيَمَّنُ بِرَأْيِهِ, i. e. يُتَبَرَّكُ بِهِ, (T,) app. <i>One is fortunate in, or derives a blessing from, his counsel.</i> === <i>He augured good by it,</i> or <i>from it; or looked for good fortune, or a blessing, from it;</i> syn. تَبَّرَكَ بِهِ: (Mgh, Msb, &c:) opposed to تَشَأءَمَ بِهِ, in the K, art. طير; and in Bd, xvii. 14; and well known. === تَيَمَّنَ بِكَلِمَةٍ [<i>He augured good from the word</i>], (Har, p. 488,) and بِكَلَامٍ. (Msb. in art. فأل.)\nتَيَمُّنٌ The <i>having</i> [or <i>receiving</i>] a <i>blessing.</i> (K L.)\nتِيمَنَّا for تَأْمَنَّا: see أَمِنَهُ.\nمَيْمَنَةٌ The <i>right wing</i> of an army. See أَيْمَنُ.\nمَيْمُونٌ <i>Fortunate; happy;</i> (T, M, MA, KL;) <i>blest.</i> (T.) See an ex. voce عَرِيكَةٌ.\nيَامَنَ 3 : see 3 in art. شأم in two places.\nيَامِنٌ : see يَاسِرٌ.\nيَمَانٍ <i>A garment of Yemen:</i> see a verse voce تَسْهِيمٌ.\nيَمَانِىٌّ and يَمَانُونَ: see تِهَامِىٌّ.\nيُمِنَ 1 , (T, M, K,) and يَمِنَ, (M, K,) <i>He was prosperous; fortunate; lucky.</i> (T, M, K.)\nيُمْنٌ <i>Prosperity; good fortune; good luck; auspiciousness;</i> (T, S, M, K;) <i>contr. of</i> شُؤْمٌ, (M,) and of نَحْسٌ. (L, art. سعد.)\nيُمْنَةٌ : its pl. seems to be يُمَنٌ. See بُرْدٌ."
+}

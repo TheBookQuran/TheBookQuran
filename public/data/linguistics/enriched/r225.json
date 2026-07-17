@@ -1,0 +1,31 @@
+{
+  "rootId": "r225",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:07:33.756Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Ruin, loss, cutting off, destruction, or perish",
+  "primaryMeaning": "Ruin/destruction",
+  "quranicRelevance": "The ruin of Abu Lahab's hands (Tabba - 'tabbat yada abee lahabin wa tabba'), and ruin of Pharaoh's plan ('tababin').",
+  "keyDerivations": [
+    {
+      "lemma": "تَبَّ / يَتِبُّ",
+      "form": "Form I Verb",
+      "meaning": "To perish, be ruined, fail, cut off, or waste away"
+    },
+    {
+      "lemma": "تَبَابٌ",
+      "form": "Noun",
+      "meaning": "Ruin, loss, destruction, or complete failure"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَمَا كَيْدُ فِرْعَوْنَ إِلَّا فِي تَبَابٍ (40:37): And the plot of Pharaoh was only in ruin/destruction (doomed schemes)."
+  ],
+  "discardedNoise": [
+    "Tabouleh salad - phonetic mismatch.",
+    "Modern legal definitions of corporate liquidations."
+  ],
+  "summaryEn": "The root represents ruin and loss (Tabab), describing the complete failure of Pharaoh's conspiracies and the cursed destruction of Abu Lahab.",
+  "summaryAr": "يمثل هذا الجذر الخسار والهلاك والقطع والتباب، واصفاً هلاك وقطع يدي أبي لهب بنار الجحيم (تبّ)، وانهيار وضياع مؤامرات فرعون (في تباب).",
+  "rawText": "اتبّ ٱللّٰهُ قُوَّتَهُ 4 ‡ <i>God weakened,</i> or <i>impaired,</i> or <i>may God weaken,</i> or <i>impair, his strength.</i> (K, TA.)\nاستتبّ 10 ‡ <i>It</i> (a road) <i>became beaten,</i> or <i>trodden, and rendered even, or easy to walk or ride upon,</i> or <i>easy and direct.</i> (A.) === ‡ <i>It</i> (an affair) <i>was,</i> or <i>became, rightly disposed</i> or <i>arranged; in a right state:</i> (S, M, A, Msb:) or <i>it followed a regular,</i> or <i>right, course; was in a right state; and clear,</i> or <i>plain:</i> from مُسْتَتِبٌّ applied to a road, explained below: (T, TA:) or <i>it became complete, and in a right state:</i> lit. <i>it demanded loss,</i> or <i>diminution,</i> or <i>destruction;</i> because these sometimes follow completeness: (Har p. 35:) or the ب may be a substitute for م; the meaning being استتمّ. (TA.)\nتبّب 2 , inf. n. تَتْبِيبٌ: see 1, in three places. ___ , تبّبهُ (inf. n. as above, S,) [<i>He caused him to suffer loss,</i> or <i>to become lost:</i> or] <i>he destroyed him,</i> or <i>killed him.</i> (S, K.) === <i>He said to him</i> تَبًّا: (M, K: *) [i. e.] <i>he imprecated loss,</i> or <i>perdition,</i> or <i>death, upon him.</i> (A.)\nتَابٌّ ‡ An <i>old</i> man; (AZ, T, M, A, K;) fem. with ة: (AZ, T, M, A:) and † <i>weak:</i> pl. أَتْبَابٌ: of the dial. of Hudheyl; and extr. [with respect to analogy]. (M.) You say, كُنْتُ شَابًّا فَصِرْتُ تَابًّا [<i>I was a young man, and I have become an old man</i>]. (A.) And أَشَابَّةٌ أَنْتِ أَمْ تَابَّةٌ [<i>Art thou a young woman or an old woman?</i>] (A.) === Also, (T, K,) or تَابُّ الظَّهْرِ, (T,) † An ass, and a camel, <i>having galls,</i> or <i>sores, on his back:</i> (T, K:) pl. as above. (K.) === [See also بَاتٌّ.]\nتَبَابٌ : see 1, in several places.\nتَبَبٌ : see 1, in several places.\nتَبِيبٌ : see 1, in several places.\nتَبُّوبٌ <i>i. q.</i> مَهْلَكَةٌ [<i>A place of perdition,</i> or <i>destruction;</i> or <i>a desert;</i> or <i>a desert such as is termed</i> مَفَازَة]. (K.) ___ [It is also said in the K to signify <i>What the ribs infold:</i> but I think it probable that this meaning has been assigned to it from its having been found erroneously written for تَبُوتٌ, a dial. var. of تَابُوتٌ.]\nتَبْتَبَ : see 1.\nتَبڤبَ 1 [تَبَّ, aor. ﹻ, inf. n. تَبٌّ, and perhaps 🡻تَبَبٌ and 🡻تَبَابٌ and 🡻تَبِيبٌ, <i>He,</i> or <i>it, suffered loss,</i> or <i>diminution;</i> or <i>became lost:</i> and <i>perished,</i> or <i>died:</i> as also 🡻تبّب, inf. n. تَتْبِيبٌ: and app. تُبَّ also.] تَبٌّ (M, A, K) and 🡻تَتْبِيبٌ (M, K) [as inf. ns.] signify The <i>suffering loss,</i> or <i>diminution;</i> or <i>being lost:</i> and <i>perishing,</i> or <i>dying:</i> or [used as substs.] <i>loss,</i> or <i>diminution;</i> or the <i>state of being lost:</i> and <i>perdition, or death:</i> (M, * A, K: *) and so 🡻تَبَابٌ, (T, S, A, Msb, K,) [said to be] a subst. from تَبَّبَهُ, with teshdeed, (Msb,) and 🡻تَبَبٌ and 🡻تَبِيبٌ: (K:) or the last three signify [simply] <i>perdition,</i> or <i>death:</i> (M:) and 🡻تَتْبِيبٌ is explained as signifying <i>loss,</i> or <i>diminution, that brings,</i> or <i>leads, to perdition</i> or <i>death;</i> (IAth, TA;) and so 🡻تَبَابٌ; (Bd in cxi. 1;) and the <i>causing to perish.</i> (T, TA.) Hence you say, تَبَّ 🡻تَبَابًا [meaning, in an emphatic manner, <i>May he suffer loss,</i> or <i>be lost,</i> or <i>perish</i>]. (S.) And تَبًّا لَهُ May God decree <i>to him loss,</i> or <i>perdition;</i> or cause <i>loss,</i> or <i>perdition,</i> to cleave <i>to him:</i> (S, M, * Msb, * K: *) تَبًّا being in the accus. case as an inf. n. governed by a verb understood. (S.) And تَبًّا 🡻تَبِيبًا, [in the CK تَتْبِيبًا,] meaning the same in an intensive, or emphatic, manner: (M, K:) and تَبًّا 🡻تَبَابًا. (TA.) And تَبَّتْ يَدَاهُ, (T, S, M, K,) and تَبَّتْ يَدُهُ, aor. ﹻ, (Msb,) inf. n. تَبٌّ and 🡻تَبَابٌ, but IDrd says that the former of these seems to be the inf. n., and the latter the simple subst., (M,) <i>May his arms,</i> or <i>hands,</i> and <i>his arm,</i> or <i>hand, suffer loss,</i> or <i>be lost,</i> or <i>perish:</i> (T, M, Msb, K, and Bd in cxi. 1:) or ‡ <i>may he himself suffer loss,</i> &c., (Msb, * and Bd ubi suprà,) i. e., ‡ <i>his whole person:</i> (Jel in cxi. 1:) or ‡ <i>his good in the present life and that in the life to come.</i> (Bd ubi suprà.) === [Hence,] تَبَّ (A, TA) and 🡻تَبْتَبَ (T, K) ‡ <i>He became an old man:</i> (T, A, K:) the loss of youth being likened to تَبَابَ. (TA.) ___ تَبَّ, [aor., accord. to rule, ﹹ,] <i>He cut,</i> or <i>cut off,</i> a thing. (K.) And تُبَّ <i>It was cut,</i> or <i>cut off.</i> (TA.)\nتِبَّةٌ <i>A difficult,</i> or <i>distressing, state</i> or <i>condition.</i> (K.)\nمُسْتَتِبٌّ , applied to a road, ‡ <i>Furrowed by passengers, so that it is manifest to him who travels along it;</i> and to this is likened an affair that is clear, or plain, and in a right state. (T.) [See the verb, 10.]"
+}

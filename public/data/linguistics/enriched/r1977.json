@@ -1,0 +1,37 @@
+{
+  "rootId": "r1977",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:23:40.664Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Doubt, dispute, contention, milking, or debate",
+  "primaryMeaning": "Doubt or to dispute",
+  "quranicRelevance": "Doubting/arguing about truth (Miryah - 'fala taku fee miryatin'), disputing (Mumarat - 'fala tumari feehim'), and doubting/challenging ('afatumaroonahu').",
+  "keyDerivations": [
+    {
+      "lemma": "مِرْيَةٌ",
+      "form": "Noun",
+      "meaning": "Doubt, skepticism, or hesitation"
+    },
+    {
+      "lemma": "مَارَى / يُمَارِي",
+      "form": "Form III Verb",
+      "meaning": "To dispute, debate, argue, or wrangle"
+    },
+    {
+      "lemma": "اِمْتَرَى",
+      "form": "Form VIII Verb",
+      "meaning": "To doubt, dispute, or suspect"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "أَفَتُمَارُونَهُ عَلَى مَا يَرَى (53:12): Do you then dispute/challenge him on what he saw? (challenging vision).",
+    "فَلَا تُمَارِ فِيهِمْ إِلَّا مِرَاءً: So do not argue/dispute concerning them except a brief argument."
+  ],
+  "discardedNoise": [
+    "Milking a she-camel (مري) - original physical meaning.",
+    "Obscure details of horse galloping speeds."
+  ],
+  "summaryEn": "The root signifies doubt and contention, warning against spiritual skepticism (Miryah) and futile disputation of historical accounts.",
+  "summaryAr": "يدل هذا الجذر على الشك والمخالفة، محذراً من الريب والشك العقدي (مرية) والمجادلة العمياء في الحقائق والوقائع التاريخية (يمارون).",
+  "rawText": "التَّمَارِى 6 <i>The disputing,</i> or <i>contending, together.</i> (TA.) You say, هُمَا يَتَمَارَيَانِ بِالشِّعْرِ [<i>They two dispute,</i> or <i>contend, together, with verses</i> or <i>poetry</i>]. (TA in art. بده.)\nالرِّيحُ تَمْرِى السَّحَابَ 1 and 🡻تَمْتَرِيهِ <i>The wind draws forth the clouds.</i> (M, TA.) See an ex. in a verse cited voce عَزْلَآءُ.\nاِسْتَمْرَتِ الإِبِلُ المحَمْضَ 10 for اِسْتَمْرَأَتْهُ: see 1 in art. عدن.\nاِمْترَى 8 <i>He doubted,</i> به <i>of it.</i> (Kur, xliii. 61.) === See 1.\nمَارَاهُ 3 , inf. n. مُمَارَاةٌ and مِرَآءٌ, <i>i. q.</i> جَادَلَهُ; (S, K; *) <i>He disputed with him,</i> or <i>did so obstinately,</i> &c.: (TA:) it is only <i>in opposing</i> [what has been said; not in commencing a disputation]. (Msb.)\nمَرْوٌ <i>A certain plant:</i> see خَافُورٌ, and حَبَقٌ, and فَاخُورٌ."
+}

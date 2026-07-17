@@ -1,0 +1,41 @@
+{
+  "rootId": "r155",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:16:02.189Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Piety, righteousness, land, kindness, or truth",
+  "primaryMeaning": "Righteousness or dry land",
+  "quranicRelevance": "Righteousness/piety (Birr), righteous ones (Abrar/Bararah), dry land (Barr - opposite of sea), and being kind/dutiful to parents (Barr).",
+  "keyDerivations": [
+    {
+      "lemma": "بِرٌّ",
+      "form": "Noun",
+      "meaning": "Righteousness, piety, goodness, or virtue"
+    },
+    {
+      "lemma": "بَرٌّ / أَبْرَارٌ",
+      "form": "Adjective / Noun pl.",
+      "meaning": "Righteous, pious, or virtuous ones"
+    },
+    {
+      "lemma": "بَرٌّ",
+      "form": "Noun",
+      "meaning": "Dry land, or shore"
+    },
+    {
+      "lemma": "بَرَرَةٌ",
+      "form": "Noun pl.",
+      "meaning": "Dutiful, virtuous, or kind ones (angels)"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "بَرًّا بِوَالِدَيْهِ: Kind and dutiful to his parents (showing righteous devotion)."
+  ],
+  "discardedNoise": [
+    "Descriptions of geographical boundaries of dry land.",
+    "Historical details of land trade routes."
+  ],
+  "summaryEn": "The root encompasses righteousness and dry land, capturing the essence of virtue (Birr), parental devotion, and spatial dry land (Barr).",
+  "summaryAr": "يشمل هذا الجذر البر واليابسة، واصفاً التقوى والصلاح (برّ)، وبر الوالدين، واليابسة الجغرافية المقابلة للبحر (بَرّ).",
+  "rawText": "بَبْرٌ <i>A certain beast of prey,</i> (M, K,) <i>well known;</i> (K;) <i>a certain animal,</i> (Msb,) namely, the فُرَانِق [or <i>lion's provider</i>], (S,) <i>that emulates,</i> or <i>vies with, the lion in running,</i> or <i>that is hostile to the lion:</i> [so may be rendered the words يُعَادِى الأَسَدَ; and in the uncertainty that exists respecting the animal in question, the meaning of this expression is doubtful: an animal may be called (as the jackal is) the lion's provider merely because the lion follows it and deprives it of its prey:] (S, Msb:) or <i>a certain Indian animal, stronger than the lion, between which and the lion and leopard,</i> or <i>panther,</i> (نَمِر,) <i>exists hostility</i> (مُعَادَاةٌ); <i>when it attacks the leopard,</i> or <i>panther,</i> (نمر,), <i>the lion aids the latter; but the scorpion is on friendly terms with it, and sometimes makes its abode in its hair:</i> (Kzw:) the word is foreign, or Persian, (أَعْجَمِىٌّ,) [app. the Persian بَبَرْ, which is said to be applied to the <i>tiger, leopard,</i> and <i>lion,</i>] arabicized: (M, K:) Az thinks it to be a foreign word introduced into the Arabic language: (Msb:) pl. بُبُورٌ. (S, Msb, K.)"
+}

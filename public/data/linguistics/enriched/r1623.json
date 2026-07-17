@@ -1,0 +1,26 @@
+{
+  "rootId": "r1623",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:05:27.741Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Property, wealth, capital, or possession",
+  "primaryMeaning": "Wealth or money",
+  "quranicRelevance": "Material wealth (Mal/Amwal), which serves as a major trial for humanity, and spending resources.",
+  "keyDerivations": [
+    {
+      "lemma": "مَالٌ / أَمْوَالٌ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Wealth, money, property, or goods"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "أَمْوَالٌ: Originally means anything possessed (like livestock or gold) that inclines (mala) human hearts toward it."
+  ],
+  "discardedNoise": [
+    "Modern monetary systems and currency names.",
+    "Inheritance law details."
+  ],
+  "summaryEn": "The root refers to possessions and wealth (Mal), which Quranically represents both a gift of sustenance and a potential moral test.",
+  "summaryAr": "يشير هذا الجذر إلى الممتلكات والمال، ويمثل في القرآن رزقاً معيشياً واختباراً أخلاقياً وفتنة للقلوب.",
+  "rawText": "تَمَوَّلَ 5 <i>He became abundant in wealth.</i> (TA, art. ثمر).\nمَالٌ <i>Whatever one possesses:</i> (K:) <i>property; wealth:</i>] accord. to Mohammad [the Hanafee Imám), <i>whatever men possess, of dirhems,</i> or <i>deenárs,</i> or <i>gold,</i> or <i>silver,</i> or <i>wheat,</i> or <i>barley,</i> or <i>bread,</i> or <i>beasts,</i> or <i>garments or pieces of cloth,</i> or <i>weapons,</i> or <i>other things:</i> (Mgh:) [<i>property,</i> or <i>wealth:</i>] or originally <i>what one possesses of gold and silver:</i> then applied to <i>anything that one acquires and possesses of substantial things:</i> and mostly applied by the Arabs to <i>camels,</i> because these constitute most of their wealth: (IAth, TA:) and <i>animals.</i> (TA.) === مَالٌ <i>Camels or sheep or goats.</i> (S.) The مال of the people of the desert consists of what are termed نَعَمٌ, (T, Msb,) i. e. <i>Cattle, consisting of camels</i> or <i>neat</i> or <i>sheep</i> or <i>goats,</i> or <i>all these,</i> or <i>camels alone;</i> (Msb in art. نعم;) <i>herds,</i> or <i>flocks,</i> or <i>herds and flocks.</i> === مَالٌ <i>A square in arithmetic:</i> pl. أَمْوَالٌ. See جَذْرٌ. === رَجُلٌ مَالٌ, for ذُومَالٍ. (L, art. صيد.)\nمَالِىٌّ <i>Of,</i> or <i>relating to, property</i> or <i>wealth.</i>"
+}

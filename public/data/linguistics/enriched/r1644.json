@@ -1,0 +1,26 @@
+{
+  "rootId": "r1644",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:39:17.504Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Star, rising, segment, grass without stem, or configuration",
+  "primaryMeaning": "Star",
+  "quranicRelevance": "Celestial stars/planets (Najm/Nujoom - 'wan-najmi itha hawa'), plants without stems (Najm - 'wan-najmu wash-shajaru yasjudan'), and configuration of time.",
+  "keyDerivations": [
+    {
+      "lemma": "نَجْمٌ / نُجُومٌ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Star / stars, or stemless plants/vegetation"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَالنَّجْمُ وَالشَّجَرُ يَسْجُدَانِ (55:6): And the stemless plants and the trees prostrate (najm here meaning low grass/herbs that have no stem, contrasting with shajar)."
+  ],
+  "discardedNoise": [
+    "Paying debts in segments/installments (نجوم) - post-classical transaction term.",
+    "Modern astrology forecasts."
+  ],
+  "summaryEn": "The root denotes stars and stemless grass, capturing celestial bodies (Nujoom) and the ground vegetation (Najm) that bows to God.",
+  "summaryAr": "يدل هذا الجذر على النجم والنبوت، واصفاً الأجرام السماوية المضيئة (نجوم) والنباتات الأرضية التي لا ساق لها (النجم والشجر).",
+  "rawText": "أَنْجَمَ 4 <i>It</i> (<i>rain,</i> &c.) <i>left off.</i> (K.)\nمِنْجَمٌ The <i>beam of a balance;</i> (MA;) the <i>transverse piece of iron, in which is the tongue, of a balance.</i> (S, K.) See عَمُودُ المِيزَانِ.\nنَجْمٌ [<i>A star.</i> === Also, <i>An asterism, or constellation:</i> being applied autonomastically to] <i>the Pleiades.</i> (S.) === نُجُومٌ [like عِرْقٌ] signifies also The <i>sprouts from the roots</i> [of a tree, or shrub], <i>before the</i> رَبِيع [meaning either <i>spring</i> or <i>autumn</i>], <i>the heads of which one sees like large needles, clearing the ground.</i> (TA.) See عُسْلُوجٌ. === نَجْمٌ also signifies ‡ The <i>time when a payment falls due.</i> (Msb.) [Hence, app., an ex. cited voce طىٌّ.] === And hence, (Msb,) ‡ <i>An instalment:</i> syn. وَظِيفَةٌ. (Mgh, Msb.) See also عَزْلٌ. === نَجْمٌ and نَجْمَةٌ <i>A kind of plant, triticum repens</i> or <i>dogs' grass:</i> see ثِيلٌ."
+}

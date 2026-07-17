@@ -1,0 +1,37 @@
+{
+  "rootId": "r1726",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:01:45.660Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Warning example, chains, torture, restraint, or shying away",
+  "primaryMeaning": "Warning example or chains",
+  "quranicRelevance": "Exemplary warning punishment (Nakal - 'faja'alnaha nakalan'), and heavy chains of Hell (Ankal - 'inna ladayna ankalan').",
+  "keyDerivations": [
+    {
+      "lemma": "نَكَالٌ",
+      "form": "Noun",
+      "meaning": "Warning example, deterrent punishment, exemplary caution, or lesson"
+    },
+    {
+      "lemma": "أَنْكَالٌ",
+      "form": "Noun pl. (of nikl)",
+      "meaning": "Heavy chains, shackles, fetters, or binding constraints"
+    },
+    {
+      "lemma": "نَكَّلَ / يُنَكِّلُ",
+      "form": "Form II Verb (inf. n. tankeel)",
+      "meaning": "To make a warning example of, punish severely, or deter"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "إِنَّ لَدَيْنَا أَنْكَالًا وَجَحِيمًا (73:12): Indeed, with Us are heavy chains/shackles and Hellfire.",
+    "فَأَخَذَهُ اللَّهُ نَكَالَ الْآخِرَةِ وَالْأُولَىٰ (79:25): So God seized him with an exemplary warning punishment of the Hereafter and the first life (Pharaoh's end)."
+  ],
+  "discardedNoise": [
+    "Shying away from battle (Nukool) in military histories.",
+    "Reneging on legal testimonies (Nukool)."
+  ],
+  "summaryEn": "The root represents warning and constraint, detailing the heavy chains (Ankal) of Hell and historical deterrent punishments (Nakal) meant to serve as moral warnings.",
+  "summaryAr": "يمثل هذا الجذر القيد والمنع الرادع، واصفاً أصفاد وقيود العذاب الأخروي (أنكالاً)، والعقوبة التاريخية المهلكة لفرعون لتكون عبرة مانعة لغيره (نكالاً).",
+  "rawText": "النِّكْلُ signifies أَلَّذِى يُنْكِلُ أَقْرَانَهُ. (A, art. عض.) === See نَكَلٌ.\nنَكَالٌ <i>Any punishment serving to give warning to others than the sufferer:</i> (M, K, TA:) or <i>that restrains the offender from repeating the offence.</i> (Bd, ii. 6.)\nنَكَلٌ and 🡻نِكْلٌ: see بَدَلٌ.\nنَكِلَ 1 , aor. يَنْكُلُ, see 1 in art. فضل."
+}

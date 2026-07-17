@@ -1,0 +1,53 @@
+{
+  "rootId": "r503",
+  "source": "lanes",
+  "enrichedAt": "2026-06-29T23:47:48.448Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Creating, originating, shaping, or measuring",
+  "primaryMeaning": "To create or shape",
+  "quranicRelevance": "Fundamental theological term for creation (Khalq). Refers to: God bringing the universe into existence from nothing, shaping the human form, the character or innate nature of humans (Khuluq), and ideological fabrication or lying (Ikhtilaq).",
+  "keyDerivations": [
+    {
+      "lemma": "خَلَقَ",
+      "form": "Form I Verb",
+      "meaning": "To create, shape, or bring into being"
+    },
+    {
+      "lemma": "خَلْقٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Creation, creatures, or constitution"
+    },
+    {
+      "lemma": "خَالِقٌ / خَلَّاقٌ",
+      "form": "Noun / Active part.",
+      "meaning": "Creator, or Constant Creator"
+    },
+    {
+      "lemma": "خُلُقٌ",
+      "form": "Noun",
+      "meaning": "Character, morals, or natural disposition"
+    },
+    {
+      "lemma": "اخْتَلَقَ",
+      "form": "Form VIII Verb",
+      "meaning": "To fabricate, forge, or invent a lie"
+    },
+    {
+      "lemma": "خَلَاقٌ",
+      "form": "Noun",
+      "meaning": "Portion, share of good, or lot"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "خَلَقَ (Form I): To measure or determine the proportions of leather before cutting.",
+    "أَخْلَقُ: Smooth, solid, or worn out.",
+    "خَلِيقٌ: Fit, worthy, or suitable."
+  ],
+  "discardedNoise": [
+    "A garment becoming old and worn out (خَلِقَ الثَّوْبُ).",
+    "Smoothing stones or mountains in the wilderness."
+  ],
+  "summaryEn": "The root means to create and measure, serving as the primary Quranic term for divine creation (Khalq), human innate character (Khuluq), and ideological fabrication (Ikhtilaq).",
+  "summaryAr": "يعني هذا الجذر الخلق والتقدير، ويمثل المصطلح القرآني الأساسي للخلق الإلهي، والسمت الأخلاقي البشري (الخُلق)، والافتراء الفكري (الاختلاق).",
+  "rawText": "أَخْلَقُ <i>Smooth:</i> (JK, K:) <i>smooth and solid;</i> (S, K, TA;) applied in this sense to anything: (TA:) <i>smooth and firm:</i> (JK:) fem. خَلْقَآءُ. (JK, S, K.) You say حَجَرٌ أَخْلَقُ <i>Stone that is smooth</i> (K, TA) <i>and solid, upon which nothing makes an impression.</i> (TA.) And صَخْرَةٌ خَلْقَآءُ <i>A rock,</i> or <i>great mass of stone, smooth</i> (K, TA) <i>and solid:</i> (TA:) or <i>free from crack and fracture.</i> (S, K, TA.) And فِرْسِنٌ خَلْقَآءُ <i>A camel's foot in which is no crack.</i> (Ibn-'Abbád, K.) And هَضْبَةٌ خَلْقَآءُ [<i>A hill,</i> or <i>the like,</i>] <i>destitute of herbage</i> or <i>vegetation.</i> (TA.) === [Hence,] † <i>Poor;</i> syn. فَقِيرٌ. (K.) You say رَجُلٌ أَخْلَقُ مِنَ المَالِ † <i>A man destitute of property.</i> (TA.) And it is said in a trad., لَيْسَ الفَقِيرَ فَقِيرُ المَالِ إِنَّمَا الفَقِيرُ الأَخْلَقُ الكَسْبِ, i. e. † [<i>The poor in respect of property is not the poor the poor is only</i>] <i>he who has no good deeds for which he will be rewarded</i> in the world to come. (TA, in two places.) === الأَخْلَقُ also signifies <i>The exterior of a horse's hoof.</i> (JK.) === And خَلْقَآءُ, (JK, S, K,) applied to a woman, (JK, S,) <i>Impervia coëunti;</i> (S, K, TA;) as also 🡻خُلَّقٌ. (Ibn-'Abbád, K.) === See also خَلِقٌ. === And الخَلْقَآءُ [used as a subst.] <i>The sky;</i> because of its smoothness and evenness. (TA.) === And <i>The side</i> of a camel &c. (K.) One says also, ضَرَبْتُ خَلْقَآءَ جَنْبِهِ (K, TA [in the CK على خَلْقَاءَ جَنْبِهِ]) <i>I struck the outer part of his side.</i> (TA.) === And <i>The interior</i> (Lth, K, TA) <i>and smooth part</i> (Lth, TA,) of the غَار, (K,) i. e., of [the upper part of the interior of the mouth, or] what is termed الغَارُ الأَعْلَى; (Lth, TA;) as also 🡻الخُلَيْقَآءُ [the dim. of الخَلْقَآءُ]: (Lth, K, TA:) or both signify <i>what appears</i> of the غار: and the dim. form is that which is predominant in this case. (TA.) === And <i>The part</i> of the forehead <i>that is even</i> (JK, K, TA) <i>and smooth;</i> (TA;) as also 🡻الخُلَيْقَآءُ. (JK, K, TA.) One says, سُحِبُوا عَلَى خَلْقَاوَاتِ جِبَاهِهِمْ [<i>They were dragged along upon the even and smooth parts of their foreheads</i>]. (TA [in which this is said to be tropical]) === 🡻خُلَيْقَآءُالفَرَسِ <i>That</i> [<i>part</i>] <i>of the horse which is like the</i> عِرْنِين [or <i>upper part of the nose</i>] <i>of man;</i> (S, K;) <i>the part where the forehead of the horse meets the narrow portion of the bone of the nose:</i> AO says that the خُلَيْقَاوَانِ in the face of the horse are [the <i>two parts</i>] <i>where his forehead meets the bone of his nose, on the right and left of the</i> خُلَيْقَآء, <i>sloping towards the eye;</i> and the خُلَيْقَآء is [the <i>part</i>] <i>between the eyes;</i> and some call it the خَلْقَآء. (TA.) ___ إِنَّ أَخْلَقَ بِكَ أَنْ تَفْعَلَ كَذَا is a phrase mentioned by Ks, as meaning <i>Verily the most apt, meet, suitable, fit,</i> or <i>proper, thing for thee to do is such a thing.</i> (TA.)\nإِخْتَلَقَ 8 see 1, latter half, in two places.\nاخلق 4 : see 1, latter part, in three places. === Also <i>He had old and worn-out garments.</i> (TA.) ___ اخلقهُ <i>He wore it out;</i> namely, a garment; the verb being trans. as well as intrans. (S, Msb, K.) [Hence,] اخلق الدَّهْرُ الشَّىْءَ † <i>Time wore out,</i> or <i>wasted, the thing.</i> (TA.) [Hence also,] one says to the beggar, أَخْلَقْتَ وَجْهَكَ ‡ (TA) [lit. <i>Thou hast worn out thy face;</i>] meaning ‡ <i>thou hast used thy face for mean service</i> [<i>so that it has lost its grace,</i> or <i>has become disgraced</i>]: and in like manner one says, أُخْلِقُ لَهُ دِيَبَاجَتِى, i. e. وَجْهِى: and يُخْلِقُ دِيبَاجَتَيْهِ ‡ <i>He uses his face for mean service by begging.</i> (Har pp. 15 and 476.) === Also, (K,) or اخلقهُ ثَوْبًا, (S,) <i>He clad him with an old and worn-out garment.</i> (S, K.) And اخلقِنى ثَوْبَهُ <i>He gave me his old and worn-out garment.</i> (JK.) And some say, اخلقهُ خَلَقًا <i>He gave him an old and worn-out garment.</i> (TA.) === And إِخْلَاقٌ الثَّوْبِ also signifies <i>The cutting out of the garment:</i> whence the saying, to UmmKhálid, أَبْلِى وَأَخْلِقِى [<i>Wear out, and cut out</i> new]; or, as some relate it, وَأَخْلِفِى, i. e., “ and replace, ” which is the more likely. (TA.) ___ مَا أَخْلَقَهُ and أَخْلِقْ بِهِ [have both of the following significations; though it is said that] the former signifies <i>How likely is he,</i> or <i>it!</i> (JK, TA;) and the latter, <i>How well adapted</i> or <i>disposed,</i> or <i>how apt, meet, suited, suitable, fitted, fit, competent,</i> or <i>proper,</i> or <i>how worthy, is he,</i> or <i>it! i. q.</i> أَجْدِرْ بِهِ and أَحْرِ بِهِ. (TA. [See 4 in arts. جدر and حرى.])\nاخلولق 12 , said of the back (مَتْن) of a horse, <i>It was,</i> or <i>became, smooth;</i> (K;) [like خَلِقَ and خَلُقَ; or <i>very smooth;</i> for] the verb is of a form intensive in signification. (TA. [See its part. n., مَخْلَوْلِقٌ, below.]) === Said of a رَسْم [i. e. a trace, or a remain or relic marking the place of a house or the like and cleaving to the ground,] <i>It was,</i> or <i>became, even with the ground.</i> (S, K.) === اخلولق السَّحَابُ <i>The clouds became equable,</i> or <i>uniform,</i> (JK, S, K, TA,) <i>their sides becoming conjoined;</i> or, as some say, <i>they became smooth;</i> (TA;) and, (K,) or as some say, (S, TA,) <i>they became adapted,</i> or <i>disposed, to rain;</i> (S, K, TA;) as though they were rendered smooth: or <i>they became collected together</i> after separation, <i>and prepared to rain.</i> (TA.) And اخلولقت السَّمَآءُأَنْ تَمْطُرَ <i>The sky was near, and likely, to rain.</i> (TA.) === See also 1, latter part.\nتَخَلَّقَ 5 see 1, a little after the middle of the paragraph. === تخلّق بِغَيْرِ خُلُقِهِ means <i>He affected a</i> خُلُق [or <i>nature,</i> &c.,] <i>that was not his own.</i> (S, K.) And تخلّق بِكَذَا <i>He feigned such a thing, it not being in his nature,</i> or <i>not being created in him.</i> (TA.) And تخلّق لِلنَّاسِ بِمَا لَيْسَ مِنْ نَفْسِهِ, occurring in a trad., [<i>He affected, to men, a nature,</i> &c., <i>that did not belong to him;</i> or] <i>he pretended</i> [<i>to men</i>] <i>that there was in his nature</i> فِى خُلُقِهِ) <i>that which was contrary to his real intention;</i> (Mbr, TA;) or <i>that which was contrary to what he had in his heart:</i> the verb is similar to تَصَنَّعَ and تَجَمَّلَ. (TA.) ___ تخلّق بِهِ; (S, K;) and تخلّقت به; (Msb;) <i>He was,</i> or <i>became, rubbed over,</i> (S,) or <i>perfumed;</i> (K;) and <i>she was,</i> or <i>became, so;</i> (Msb;) [or <i>he rubbed himself over,</i> or <i>perfumed himself;</i> and <i>she did so;</i>] <i>with it;</i> (S, Msb, K;) namely, with خَلُوق. (S, Msb.)\nخلّقهُ 2 : see 1, latter half, in two places. ___ Also, (S, K,) inf. n. تَخْلِيقٌ, (K,) <i>He rubbed him over with</i> خَلُوق [q. v.]: (S:) or <i>he perfumed him:</i> (K:) or خلّقهُ بِخَلُوقٍ <i>he perfumed him with</i> خلوق (TA.) And خَلَّقْتُ المَرْأَةَ بِالخَلُوقِ [<i>I perfumed the woman,</i> or <i>rubbed her over, with the</i> خلوق]. (Msb.) And خَلَّقَتْ جِسْمَهَا <i>She</i> (a woman) <i>rubbed her body and limbs over with</i> خلوق. (TA.)\nخَالَقَهُمْ 3 , (K,) inf. n. مُخَالَقَةٌ, (TA,) <i>He consorted</i> [or <i>comported himself</i>] <i>with them</i> (K, TA) <i>according to their natures,</i> or <i>moral characters</i> or <i>qualities;</i> (TA;) or <i>with good nature,</i> or <i>moral character</i> or <i>qualities:</i> (K:) or خالقهم بِخُلُقٍ حَسَنٍ has this latter meaning. (TA.) One says, خَالِصِ المُؤْمِنَ وَخَالِقِ الفَاجِرَ, (S,) or وخالق الكَافِرَ, (TA,) [<i>Act thou with reciprocal sincerity towards the believer, and comport thyself with the vitious,</i> or <i>the unbeliever, according to his nature,</i> &c. See also 3 in art. خلص, where a similar saying is mentioned.]\nخَالِقٌ [act. part. n. of خَلَقَ:] <i>A worker in leather</i> and <i>the like;</i> (K, TA;) because he measures first, a"
+}

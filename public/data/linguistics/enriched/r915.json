@@ -1,0 +1,26 @@
+{
+  "rootId": "r915",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:44:39.226Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Braying sound, drawing breath, sighing, high mountain, or gasp",
+  "primaryMeaning": "Drawing breath/braying sound (associated with Hellfire)",
+  "quranicRelevance": "Hearing drawing breath of Hell (Shaheeq - 'sami'oo laha shaheeqan', 'zafeerun wa-shaheequn').",
+  "keyDerivations": [
+    {
+      "lemma": "شَهِيقٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Drawing breath, sighing, braying sound of agony, gasp, or inhalation sound"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "إِذَا أُلْقُوا فِيهَا سَمِعُوا لَهَا شَهِيقًا وَهِيَ تَفُورُ (67:7): When they are thrown into it, they hear its drawing breath/braying while it boils."
+  ],
+  "discardedNoise": [
+    "Lofty high mountains (Shahig) - geographical files.",
+    "Gasping for air due to running."
+  ],
+  "summaryEn": "The root represents a painful inhalation/sigh (Shaheeq), using the gasping sound of a roaring stove/donkey to describe the terrifying acoustics of Hellfire.",
+  "summaryAr": "يمثل هذا الجذر شهيق الحمار الحاد وزفير الصدر الحار وصوت غليان جهنم عند الاستنشاق (شهق)، واصفاً أنين وعذاب الكفار المسموع صياحاً.",
+  "rawText": "تَشْهَاقٌ an inf. n. (S, * O, K. [See 1.]) === [And also an epithet.] One says ضَحِكٌ تَشْهَاقٌ [app. meaning † <i>A loud laughing,</i> likened to the تَشْهَاق of the ass]. (S, O.)\nشَاهِقٌ <i>High,</i> or <i>lofty;</i> applied to a mountain, (S, O, Msb, K,) and to a building, &c.: (O, K:) or, applied to a mountain, <i>high and inaccessible:</i> (JK, TA:) pl. شَوَاهِقُ: (JK, Msb, TA:) you say جِبَالٌ شَاهِقَةٌ and شَاهِقَاتٌ and شَوَاهِقُ. (Msb.) === Applied to a vein [or an artery], ‡ <i>Pulsing upwards:</i> (O, K, TA:) a term of the physicians. (O, TA.) === ذُو شَاهِقٍ ‡ A man <i>whose anger is vehement:</i> (JK, S, A, O, L, TA:) wrongly expl. in the K by the words لَا يَشْتَدُّ غَضَبُهُ: (TA:) and so ذُو صَاهِلٍ. (A, TA.) And ‡ A stallion [camel] <i>Excited by lust, assaulting</i> [<i>the she-camels</i>], <i>and causing a sound to be heard from his inside;</i> as also ذُو صَاهِلٍ. (TA.)\nشَهَقَ 1 , aor. ﹷ, (S, Msb,) inf. n. شُهُوقٌ, (Msb,) [said of a mountain, and of a building, &c., (see شَاهِقٌ,)] <i>It rose high;</i> or <i>became high,</i> or <i>elevated,</i> or <i>lofty.</i> (S, Msb.) === شَهَقَ, aor. ﹷ and ﹻ, inf. n. شَهِيقٌ [and تَشْهَاقٌ], said of an ass, [<i>He uttered the ending of his braying,</i> or <i>the final sounds thereof;</i>] (S;) [for] شَهِيقٌ signifies the <i>ending,</i> or <i>final part, of the crying,</i> or <i>braying,</i> of the ass; (S, O;) and to this the cries of the punished in Hell are likened in the Kur xi. 108; (O;) and زَفِيرٌ signifies the “ beginning, or commencing part, thereof: ” (S:) or شهيق signifies the <i>drawing back of the breath;</i> and زفير the “ emitting thereof: ” (Lth, S: [but the reverse is said by Lth and in the S in art. زفر:]) and تَشْهَاقٌ signifies the same as شَهِيقٌ: (S:) or both of these words signify [absolutely] the <i>crying,</i> or <i>braying,</i> of the ass: (O, K:) Zj says that شَهِيقٌ as denoting one of the cries of the afflicted [in Hell] means <i>a very high-sounding moaning:</i> and that, accord. to some, زَفِيرٌ [as used in the Kur ubi suprà] is similar to the beginning of the cry of the ass, termed شَهِيق; and that شَهِيقٌ is <i>in the chest.</i> (TA.) [Said of a man,] شَهَقَ, aor. ﹷ and ﹻ; and شَهِقَ, aor. ﹷ; inf. n. شَهِيقٌ and شُهَاقٌ (O, K) and شُهُوقٌ (O) and تَشْهَاقٌ; signify <i>The</i> [<i>sound of</i>] <i>weeping became reiterated in his chest:</i> (O, K:) or, as in the L, <i>he reiterated the</i> [<i>sound of</i>] <i>weeping in his chest.</i> (TA.) [Or] شَهَقَ, aor. ﹷ and ﹻ, inf. n. شَهِيقٌ, signifies [or signifies also] <i>He reiterated his breath, making his voice audible, naturally.</i> (Msb.) One says also, شَهَقَ فُلَانٌ شَهْقَةً فَمَاتَ <i>Such a one uttered a single cry and died.</i> (S, TA.) === And شَهَقَتْ عَيْنُ النَّاظِرِ عَلَيْهِ ‡ <i>The eye of the looker smote him with evil influence:</i> (O, K, TA:) or, <i>was pleased with him, and therefore continued looking at him.</i> (A, TA.)\nشَهْقَةٌ <i>A single cry.</i> (S, TA.) [See 1, last sentence but one.]\nشُهْقَةٌ <i>Height, elevation,</i> or <i>loftiness.</i> (TA.)"
+}

@@ -1,0 +1,26 @@
+{
+  "rootId": "r1491",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:23:40.664Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Proximity, source, presence, soft, or from",
+  "primaryMeaning": "From presence / from",
+  "quranicRelevance": "Special adverbial noun indicating close source/presence ('ladun' - 'min ladunnee', 'min ladunka').",
+  "keyDerivations": [
+    {
+      "lemma": "لَدُنْ / لَدُنِ",
+      "form": "Adverbial noun of place/source",
+      "meaning": "With, near, from the presence of, or from the side of"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَعَلَّمْنَاهُ مِنْ لَدُنَّا عِلْمًا (18:65): And We had taught him from Our presence/source a knowledge (special divine source)."
+  ],
+  "discardedNoise": [
+    "The flexibility of soft wood/spears (لدن).",
+    "Grammatical classification of indeclinable (mabni) adverbs."
+  ],
+  "summaryEn": "The root serves as an adverbial particle of close proximity, describing gifts, mercy, and knowledge sourced directly from the divine presence.",
+  "summaryAr": "يخدم هذا الجذر كظرف لدلالة القرب اللدني الشديد، واصفاً المعارف والرحمات اللدنية الممنوحة مباشرة من الخالق للعبد.",
+  "rawText": "لَدْنٌ <i>Supple; lithe; limber; limp; pliant; pliable; flexible.</i>\nمِنْ لَدُنْ <i>From the time of:</i> see a verse cited in art. عى, conj. 4. === هٰذَا الأَمْرُ مِنْ لَدُنْهُ <i>i. q.</i> مِنْ قِبَلِهِ, q. v. (Lth in TA, in art. قبل.)"
+}

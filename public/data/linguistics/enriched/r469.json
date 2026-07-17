@@ -1,0 +1,52 @@
+{
+  "rootId": "r469",
+  "source": "lanes",
+  "enrichedAt": "2026-06-29T23:52:37.690Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Exiting, issuing forth, bringing out, or yield/tribute",
+  "primaryMeaning": "To exit or go out",
+  "quranicRelevance": "Very frequent. Covers: physical exiting (e.g. going out of a town), the resurrection as the coming out of graves ('al-khurooj'), bringing out vegetation or provisions (Ikhraj), and tribute/taxes paid to a ruler (Kharaj).",
+  "keyDerivations": [
+    {
+      "lemma": "خَرَجَ",
+      "form": "Form I Verb",
+      "meaning": "To go out, exit, or emerge"
+    },
+    {
+      "lemma": "أَخْرَجَ",
+      "form": "Form IV Verb",
+      "meaning": "To bring out, extract, expel, or produce"
+    },
+    {
+      "lemma": "خُرُوجٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Exiting, or emerging"
+    },
+    {
+      "lemma": "مَخْرَجٌ",
+      "form": "Noun",
+      "meaning": "Exit, way out, or escape"
+    },
+    {
+      "lemma": "خَرَاجٌ / خَرْجٌ",
+      "form": "Noun",
+      "meaning": "Tribute, tax, or recompense"
+    },
+    {
+      "lemma": "اسْتَخْرَجَ",
+      "form": "Form X Verb",
+      "meaning": "To extract, bring forth, or draw out"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "خَارِجٌ: Rebel or one who goes out against authority (historical usage, though Quranic usage is literal).",
+    "خَرَجَ (Form I): To be of mixed colors, white and black (e.g. a sheep)."
+  ],
+  "discardedNoise": [
+    "Sheep of mixed colors (أخرج).",
+    "Path marked out in a specific terrain."
+  ],
+  "summaryEn": "The root refers to exiting and producing, describing the physical act of going out, the vegetation brought out by rain, and the final emergence (resurrection) of souls.",
+  "summaryAr": "يشير هذا الجذر إلى الخروج والإنتاج، واصفاً الفعل المادي للخروج، والنبات الذي يخرج بالمطر، وكذلك الخروج النهائي للأرواح يوم البعث.",
+  "rawText": "أَخْرَجُ A ram, (S, K,) and (so in the S, but in the K “ or ”) a male ostrich, (AA, S, A, K,) <i>of two colours, white and black:</i> (S, A, * K:) or a male ostrich <i>of a colour in which black predominates over white, like the colour of ashes:</i> and in this sense also applied to a mountain: (Lth, TA:) and a goat <i>half white and half black:</i> and a horse <i>of which the belly, and the sides as far as the back, but not the back itself, are white, and the rest of any colour:</i> (TA:) fem. خَرْجَآءُ: (A, TA:) which is applied to a female ostrich: (A:) and to a ewe or she-goat <i>having white hind legs and flanks:</i> (AZ, S:) or a ewe <i>that is black, with one hind leg,</i> or <i>both hind legs, and the flanks, white; the rest being black:</i> (TA:) or a ewe <i>white in the hinder part, half of her being white, and the other half of any colour:</i> (T, TA:) and a small isolated mountain (قَارَةٌ) <i>of two colours,</i> (A, TA,) <i>white and black:</i> (A:) pl. خُرْجٌ. (K.) Also ‡ A garment <i>white and red;</i> rendered so by being besmeared with blood. (TA.) El-'Ajjáj says, <center> <h3> إِنَّا إِذَا مُذْكِى الحُرُوبِ أَرَّجَا </h3> <h3> وَلَبِسَتْ لِلْمَوْتِ ثَوْبًا أَخْرَجَا </h3> </center> (so in the TA: in the S, جُلًّا اخرجا:) meaning ‡ [<i>Verily we, when the inflamer of wars excites</i> them, <i>and</i>] <i>they</i> (the wars) <i>have put on, for death, a garment white and red, rendered so by being besmeared with blood:</i> i. e., have been rendered notable like a thing that is black and white. (S, TA.) === الأَخْرَجُ <i>The</i> [<i>bird called</i>] مُكَّآء; (K;) because of its colour. (TA.) === أَرْضٌ خَرْجَآءُ (TA) and 🡻مُخَرَّجَةٌ (Sh, S, K) and فِيهَا 🡻تَخْرِيجٌ (TA) ‡ <i>Land having plants,</i> or <i>herbage, in one place and not in another:</i> (S, K, TA:) <i>that has been rained upon, and has produced herbs, in some parts and not in others:</i> (Sh:) or the second means <i>land upon which rain has not fallen.</i> (L in art. صح.) === عَامٌ أَخْرَجُ (TA) and 🡻مُخَرَّجٌ (A, TA) and فِيهِ 🡻تَخْرِيجٌ (S, A, K) and ذُو تَخْرِيجٍ (K) ‡ <i>A year of fruitfulness,</i> or <i>of abundant herbage, and of sterility:</i> (S, A, K, TA:) or <i>half fruitful,</i> or <i>abundant in herbage, and half sterile.</i> (TA.)\nإِخْتَرَجَ 8 see 4, in three places: and see also 10.\nإِخْرَاْجَّ 11 see 9.\nاخرجهُ 4 , (S, Msb, K, &c,) inf. n. [إِخْرَاجٌ and] بِهِ, (S, K,) <i>He made,</i> or <i>caused, him,</i> or <i>it, to go, come, pass,</i> or <i>get, out,</i> or <i>forth; to issue, emanate, proceed,</i> or <i>depart:</i> [<i>he put, cast,</i> or <i>thrust, him,</i> or <i>it, out,</i> or <i>forth; expelled, ejected,</i> or <i>dislodged, him,</i> or <i>it: he took, led, drew,</i> or <i>pulled, him,</i> or <i>it, out,</i> or <i>forth: he gave it forth: he,</i> or <i>it, produced it:</i>] as also 🡻خَرَجَبِهِ: [but it should be observed that this latter properly and generally denotes accompaniment, like ذَهَبَ بِهِ; and may be literally rendered <i>he went, came, passed,</i> or <i>got, out,</i> or <i>forth, with him,</i> or <i>it:</i>] and 🡻اخترج, also, is <i>syn. with</i> أَخْرَجَ; as in the saying, in a trad., فَٱخْتَرَجَ تَمَرَاتٍ مِنْ قِرْبَةٍ [<i>And he took forth,</i> or <i>took forth for himself</i> (accord. to a property of many erbs of this form), <i>some dates from a water-skin</i>]: (TA:) [so, too, is 🡻استخرج; as meaning <i>he took, led, drew,</i> or <i>pulled, out,</i> or <i>forth:</i> but this generally implies some degree of effort, or labour; as does also 🡻اخترج; and likewise, desire: i. e. it means <i>he sought,</i> or <i>endeavoured, to make</i> a thing <i>come forth:</i> the former is also syn. with أَبْدَعَهُ (q. v.) and أَحْدَثَهُ: and both of them signify, and so does اخرج in many instances, <i>he drew out,</i> or <i>forth; extracted; educed; produced; elicited; fetched out by labour</i> or <i>art; got out;</i> or <i>extorted:</i> this is what is meant by its being said that] 🡻الاِسْتِخْرَاجُ is <i>syn. with</i> الاِسْتِنْبَاطُ, (S, K,) and so is 🡻الاِخْتِرَاجُ. (K.) أَخْرِجْنِى مَخْرَجَ صِدْقٍ, in the Kur xvii. 82, means <i>Cause Thou me to go forth</i> from Mekkeh <i>in a good,</i> or <i>an agreeable, manner,</i> so that I may not turn my heart [or affections] towards it: (Jel: [see also various similar explanations in Bd:]) or مخرج is here a n. of place, or, accord. to the more approved opinion, of time. (TA.) === اخرج مَا فِى صَدْرِهِ † [<i>He vented that which was in his bosom,</i> or <i>mind</i>]. (TA in art. سرح.) === [اخرج said of a definition or a rule or the like, or of a portion thereof, means † <i>It excluded</i> something.] === اخرجهُ مِنَ الأَمْرِ † [<i>He excluded him from participation in the affair</i>]. (TA in art. حضن, &c.) ___ اخرج [intrans.] <i>He paid his</i> خَرَاج; (K;) i. e. his <i>land-tax,</i> and <i>poll-tax.</i> (TA.) ___ <i>He hunted ostriches such as are termed</i> خُرْجٌ, (K, TA, [in the CK الخَرَجَ is erroneously put for الخُرْجَ,]) pl. of أَخْرَجُ. (TA.) === <i>He married to a woman of brown complexion, white intermixed with black, whose parents were, one, white, and the other, black.</i> (T, K.) === ‡ <i>He passed a year of fruitfulness and sterility,</i> (K, TA,) or <i>half fruitful and half sterile.</i> (TA.) === اخرجتِ الرَّاعِيَةُ ‡ <i>The pasturing animals ate part of the pasture and left part.</i> (K, TA. [See also 2.])\nاخرجّ 9 <i>He</i> (a ram, K, or an ostrich, S, K) <i>was,</i> or <i>became,</i> أَخْرَج, i. e., <i>of two colours, white and black;</i> as also 🡻اخراجّ. (S, K.)\nاستخرج 10 : see 4, in two places. You say, اِسْتَخْرَجْتُ الشَّىْءَ مِنَ المَعْدِنِ <i>I extracted the thing from the mine, clearing it from its dust.</i> (Msb.) And اِسْتِخْرَاجُ المُعَمَّى مَتْبَعَةٌ لِلْخَوَاطِرِ † [<i>The eliciting of the meaning of that which is made enigmatical is a cause of fatigue to minds</i>]. (A in art. تعب.) === [Also † <i>He tilled</i> land, <i>and made</i> it <i>productive.</i> (See K voce غَامِرٌ.]) And اُسْتُخْرِجَتِ الأَرْضُ † <i>The land was put into a good state for sowing</i> or <i>planting.</i> (AHn, TA.) === استخرجهُ and 🡻اخترجهُ <i>He asked him,</i> or <i>petitioned him, to go,</i> or <i>come, out,</i> or <i>forth;</i> or <i>he desired of him that he should go,</i> or <i>come, out,</i> or <i>forth.</i> (TA.)\nالمُخَارَجَةُ 3 <i>i. q.</i> المُنَاهَدَةُ بِالأَصَابِعِ, (S, TA,) i. e. (TA) <i>One person's putting forth as many of his fingers as he pleases, and the other's doing the like:</i> (K, TA:) [or <i>the playing at the game called morra; micare digitis:</i> see خَرِيجٌ. You say, خارجهُ <i>He played with him at the game of morra.</i> See also 6.] === خَارَجَهُمْ, [inf. n. as above,] <i>He contributed with them to the expenses of a journey</i> or <i>an expedition against an enemy, sharing equally with each of them;</i> like نَاهَدَهُمْ. (L in art. نهد.) === And خارجهُ <i>He made an agreement with him,</i> namely, his slave, <i>that he</i> (the latter) <i>should pay him a certain import at the expiration of every month;</i> (Mgh, L, TA;) <i>the slave being left at liberty to work:</i> (L, TA:) in which case the slave is termed عَبْدٌ 🡻مَخَارَجٌ. (Mgh, L, TA.)\nبِلَادٌ خَرَاجِيَّةٌ <i>Countries subject to a</i> [خَرَاج, or] <i>tax upon their lands.</i> (MF.)\nتخرّج 5 [† <i>It</i> (a saying) <i>was resolved, explained,</i> or <i>rendered.</i> عَلَى هٰذَا يَتَخَرَّجُ قَوْلُ كَذَا † <i>According to this</i> meaning &c. <i>is,</i> or <i>may be, resolved, explained,</i> or <i>rendered, such a saying,</i> is a phrase of frequent occurrence in the larger lexicons &c. === ] ‡ <i>He was,</i> or <i>became, well educated</i> or <i>disciplined</i> or <i>trained,</i> (A, * TA,) in polite accomplishments, (S, K, TA,) or in science and art. (A. [See also 1: and see 2, of which it is quasi-pass.])\nتَخَارُجٌ 6 <i>i. q.</i> تَنَاهُدٌ; (S;) <i>similar to</i> مُخَارَجَةٌ <i>with the fingers, as explained above.</i> (TA.) You say, تخارجوا, meaning تناهدوا [i. e. <i>They played together, one puttin"
+}

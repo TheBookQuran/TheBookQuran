@@ -1,0 +1,31 @@
+{
+  "rootId": "r1709",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:07:33.756Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Spoils of war, optional prayer, extra gift, bonus, or grandchild",
+  "primaryMeaning": "Spoils of war or optional gift/prayer",
+  "quranicRelevance": "Spoils of war (Anfal - 'ani al-anfali'), grandson given as extra gift (Nafilah - 'wa ya'qooba nafilatan'), and optional night prayer ('nafilatan laka').",
+  "keyDerivations": [
+    {
+      "lemma": "نَفَلٌ / أَنْفَالٌ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Spoil of war, booty, extra distribution, or gift"
+    },
+    {
+      "lemma": "نَافِلَةٌ",
+      "form": "Noun (singular)",
+      "meaning": "Extra gift, optional prayer/deed, supererogatory act, or grandson"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَكَ (17:79): And from the night, pray therewith as an extra/optional worship for you (prophetic night distinction)."
+  ],
+  "discardedNoise": [
+    "Grandparent inheritance fractions.",
+    "Modern corporate bonus structures."
+  ],
+  "summaryEn": "The root represents extra allocations, covering military spoils of war (Anfal), Zechariah's grandson Jacob given as an extra gift (Nafilah), and night prayers.",
+  "summaryAr": "يمثل هذا الجذر الزيادة على الفريضة والهبة الإضافية، واصفاً غنائم الحرب والأنفال، ووهب يعقوب حفيداً نافلة لإبراهيم، وصلاة قيام الليل النافلة.",
+  "rawText": "نَافِلَةٌ : the pl. نَوَافِلُ, is explained in the TA, art. حرز, by زَوَائِدُ [<i>Accessions,</i> or <i>additions</i>]. === <i>What accedes to,</i> or <i>exceeds, the original.</i> (T.) <i>A voluntary gift, by way of alms,</i> or <i>as a good work:</i> (T:) <i>a gift:</i> (K:) or <i>a gift</i> عَنْ يَدٍ: (M:) <i>a deed beyond what is incumbent,</i> or <i>obligatory.</i> (M, K.) === نَافِلَةٌ <i>Supererogatory prayer.</i> (S, Msb.) See تَطَوَّعَ.\nنَفَلٌ <i>Trifolium melilatus indica</i> of Linn.: and <i>medicago intertexta</i> of Linn. (Delile, nos. 706, 730.) === نَفَلٌ: see غَنِيَمَةٌ.\nنَفَّلَهُ 2 , inf. n. تَنْفِيلٌ, <i>He gave him spoil,</i> (S, Msb, * K,) and <i>a free and disinterested gift.</i> (Msb, K.) And it is doubly trans.: see 2 in art. غنم.\nنُفَلٌ : see تُسَعٌ."
+}

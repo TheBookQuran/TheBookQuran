@@ -1,0 +1,307 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-small, 0.75rem);
+  width: 100%;
+}
+
+/* Sidebar variant mimics .meaningCard */
+.variantSidebar {
+  background-color: var(--color-background-default);
+  border: 1px solid var(--color-border-default);
+  border-inline-start: 4px solid var(--color-background-brand);
+  border-radius: 8px;
+  padding: var(--spacing-medium);
+  box-shadow: var(--shadow-small);
+}
+
+/* Text styles */
+.summaryBody {
+  display: flex;
+  flex-direction: column;
+}
+
+.summaryWrapper {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-xxsmall, 0.25rem);
+}
+
+.summaryHeadword {
+  font-family: var(--font-family-kitab), serif;
+  font-size: 1.3rem;
+  font-weight: var(--font-weight-bold, 700);
+  color: var(--color-background-brand, #2ca4ab);
+  display: inline-block;
+  margin-bottom: 0.15rem;
+}
+
+[dir="rtl"] .summaryHeadword {
+  text-align: right;
+}
+
+[dir="ltr"] .summaryHeadword {
+  text-align: left;
+}
+
+.summaryCore {
+  font-size: var(--font-size-small, 0.875rem);
+  color: var(--color-text-default);
+  line-height: 1.6;
+}
+
+.variantPage .summaryCore {
+  font-size: var(--font-size-normal, 1rem);
+}
+
+.summaryText {
+  margin: 0;
+  font-size: var(--font-size-small, 0.875rem);
+  color: var(--color-text-default);
+  line-height: 1.6;
+  white-space: pre-wrap;
+}
+
+.scrollArea {
+  margin: 0;
+  font-size: var(--font-size-small, 0.875rem);
+  color: var(--color-text-default);
+  line-height: 1.6;
+  max-height: 46vh; /* Increased from 45vh to stretch vertically and fill the tall sidebar layout */
+  overflow-y: auto;
+  padding-inline-end: 8px;
+}
+
+/* Custom scrollbar styling */
+.scrollArea::-webkit-scrollbar {
+  width: 6px;
+}
+
+.scrollArea::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.scrollArea::-webkit-scrollbar-thumb {
+  background-color: var(--color-border-default);
+  border-radius: 3px;
+}
+
+.scrollArea::-webkit-scrollbar-thumb:hover {
+  background-color: var(--color-text-muted);
+}
+
+/* For pages, font-size is slightly larger */
+.variantPage .summaryText,
+.variantPage .scrollArea {
+  font-size: var(--font-size-normal, 1rem);
+}
+
+/* Inside the HTML rendering, preserve formatting */
+.scrollArea p[translate="no"] {
+  font-family: var(--font-family-kitab), serif;
+  font-size: var(--font-size-normal);
+  line-height: 1.8;
+}
+
+/* Button styles */
+.buttonWrapper {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: var(--spacing-xxsmall, 0.25rem);
+}
+
+.toggleButton {
+  background: none;
+  border: none;
+  color: var(--color-background-brand, #2ca4ab);
+  font-size: var(--font-size-xsmall, 0.75rem);
+  font-weight: var(--font-weight-semibold, 600);
+  cursor: pointer;
+  padding: var(--spacing-xxsmall) var(--spacing-small);
+  border-radius: 4px;
+  transition: all var(--transition-fast, 0.15s) ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.variantPage .toggleButton {
+  font-size: var(--font-size-small, 0.875rem);
+}
+
+.toggleButton:hover {
+  background-color: rgba(44, 164, 171, 0.08);
+  transform: translateY(-1px);
+}
+
+.toggleButton:active {
+  transform: translateY(0);
+}
+
+/* Enriched Structured Content styles */
+.enrichedFullContent {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-medium2, 1.25rem);
+  width: 100%;
+}
+
+.enrichedSection {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-xsmall, 0.5rem);
+}
+
+.enrichedSectionTitle {
+  margin: 0;
+  font-size: var(--font-size-xsmall, 0.75rem);
+  font-weight: var(--font-weight-bold, 700);
+  color: var(--color-text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  border-bottom: 1px dashed var(--color-border-default);
+  padding-bottom: var(--spacing-xxsmall, 0.25rem);
+}
+
+.enrichedText {
+  margin: 0;
+  font-size: var(--font-size-small, 0.875rem);
+  color: var(--color-text-default);
+  line-height: 1.6;
+  white-space: pre-wrap;
+}
+
+.variantPage .enrichedText {
+  font-size: var(--font-size-normal, 1rem);
+}
+
+.enrichedList {
+  margin: 0;
+  padding-inline-start: var(--spacing-medium, 1rem);
+  font-size: var(--font-size-small, 0.875rem);
+  color: var(--color-text-default);
+  line-height: 1.6;
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-xxsmall, 0.25rem);
+}
+
+.variantPage .enrichedList {
+  font-size: var(--font-size-normal, 1rem);
+}
+
+.enrichedList li {
+  list-style-type: disc;
+}
+
+/* ─── Collapsible Details (Figurative/Rare Usages) ─── */
+.detailsCollapsible {
+  border: 1px solid var(--color-border-default);
+  border-radius: 6px;
+  background-color: var(--color-background-neutral, rgba(0, 0, 0, 0.01));
+  padding: var(--spacing-xxsmall, 0.25rem) var(--spacing-small, 0.5rem);
+  transition: all 0.2s ease;
+}
+
+.detailsCollapsible[open] {
+  background-color: var(--color-background-neutral, rgba(0, 0, 0, 0.02));
+  padding-bottom: var(--spacing-small, 0.5rem);
+}
+
+.detailsSummary {
+  font-size: var(--font-size-small, 0.875rem);
+  font-weight: var(--font-weight-semibold, 600);
+  color: var(--color-text-muted);
+  cursor: pointer;
+  padding: var(--spacing-xxsmall, 0.25rem) 0;
+  list-style: none; /* Hide default arrow */
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-small, 0.5rem);
+  user-select: none;
+}
+
+.detailsSummary::-webkit-details-marker {
+  display: none; /* Hide default arrow */
+}
+
+.detailsSummary::before {
+  content: "▶";
+  display: inline-block;
+  font-size: 0.65rem;
+  transition: transform 0.2s ease;
+  color: var(--color-text-muted);
+}
+
+.detailsCollapsible[open] .detailsSummary::before {
+  transform: rotate(90deg);
+}
+
+.detailsCollapsible .enrichedList {
+  margin-top: var(--spacing-xsmall, 0.5rem);
+}
+
+/* ─── Semantic Core ─── */
+.semanticCoreText {
+  margin: 0;
+  font-size: var(--font-size-normal, 1rem);
+  font-weight: var(--font-weight-semibold, 600);
+  color: var(--color-background-brand, #2ca4ab);
+  font-style: italic;
+  letter-spacing: 0.02em;
+}
+
+/* ─── Structured Derivations ─── */
+.derivationList {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-xsmall, 0.5rem);
+  list-style: none;
+}
+
+.derivationItem {
+  display: grid;
+  grid-template-columns: auto 1fr 2fr;
+  align-items: baseline;
+  gap: var(--spacing-small, 0.75rem);
+  padding: var(--spacing-xxsmall, 0.25rem) var(--spacing-small, 0.75rem);
+  border-radius: 4px;
+  background-color: var(--color-background-neutral, rgba(0, 0, 0, 0.02));
+  border-inline-start: 2px solid var(--color-border-default);
+  transition: border-color 0.15s ease;
+}
+
+.derivationItem:hover {
+  border-inline-start-color: var(--color-background-brand, #2ca4ab);
+}
+
+.derivationLemma {
+  font-family: var(--font-family-kitab), serif;
+  font-size: 1.15rem;
+  font-weight: var(--font-weight-bold, 700);
+  color: var(--color-text-default);
+  white-space: nowrap;
+}
+
+.derivationForm {
+  font-size: var(--font-size-xsmall, 0.72rem);
+  font-weight: var(--font-weight-semibold, 600);
+  color: var(--color-background-brand, #2ca4ab);
+  background-color: rgba(44, 164, 171, 0.1);
+  padding: 2px 6px;
+  border-radius: 20px;
+  white-space: nowrap;
+  align-self: center;
+  text-align: center;
+}
+
+.derivationMeaning {
+  font-size: var(--font-size-small, 0.875rem);
+  color: var(--color-text-secondary, var(--color-text-default));
+  line-height: 1.5;
+}
+
+
+

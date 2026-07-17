@@ -1,0 +1,52 @@
+{
+  "rootId": "r1323",
+  "source": "lanes",
+  "enrichedAt": "2026-06-29T23:52:37.690Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Killing, slaying, battling, or subjugation",
+  "primaryMeaning": "To kill or slay",
+  "quranicRelevance": "Very frequent. Covers: physical killing (Qatl), fighting or battling in war (Qital), the condemnation of murderers, and metaphorical expressions of cursing or severe trial ('qutila al-insanu ma akfarahu').",
+  "keyDerivations": [
+    {
+      "lemma": "قَتَلَ",
+      "form": "Form I Verb",
+      "meaning": "To kill, slay, or execute"
+    },
+    {
+      "lemma": "قَاتَلَ",
+      "form": "Form III Verb",
+      "meaning": "To fight, wage war, or battle"
+    },
+    {
+      "lemma": "قِتَالٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Fighting, war, or combat"
+    },
+    {
+      "lemma": "قَتْلٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Killing, slaying, or execution"
+    },
+    {
+      "lemma": "مَقْتُولٌ",
+      "form": "Noun / Passive part.",
+      "meaning": "Slain or killed person"
+    },
+    {
+      "lemma": "تَقْتِيلٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Slaughtering or killing extensively"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "قُتِلَ: Cursed or condemned (as in 74:19 'qutila kayfa qaddara').",
+    "قَتَلَهُ (Form I): To render weak, dilute wine with water, or subdue."
+  ],
+  "discardedNoise": [
+    "Diluting wine with water until it is weak.",
+    "Descriptions of specific styles of combat."
+  ],
+  "summaryEn": "The root centers on killing and fighting, defining the literal acts of combat (Qital) and homicide, as well as the figurative expression of divine condemnation/curse.",
+  "summaryAr": "يتمركز هذا الجذر حول القتل والقتال، محدداً الأفعال المادية للقتال والقتل، وكذلك التعبيرات المجازية التي تفيد اللعن والهلاك.",
+  "rawText": "اِسْتَقْتَلَ 10 [properly <i>He sought,</i> or <i>courted, slaughter;</i>] <i>i. q.</i> اِسْتَمَاتَ; (S, K;) meaning <i>he cared not for death,</i> by reason of his courage; (JM;) <i>he resigned and subjected himself to slaughter, and cared not for death.</i> (Mgh.)\nتَقَتَّلَتْ لَهُ 5 means تَخَضَّعَتْ لَهُ وَتَذَلَّلَتْ حَتَّى عَشِقَهَا. (A.)\nقَاتَلَهُ 3 <i>He fought,</i> or <i>combated, him; contended with him in fight</i> or <i>conflict</i> or <i>battle.</i> قَاتَلَ عَلَى دِيِن ٱللّٰهِ: see 3 in art. ازى.\nقَاتِلٌ <i>Deadly;</i> applied to a tree; (K in art. خمط;) and to poison. (TA in that art.)\nقَتَلَ الشَّىْءَ 1 , inf. n. قَتْلٌ, † <i>He knew the thing; he was,</i> or <i>became, acquainted with it:</i> (Msb:) [or rather, <i>i. q.</i>] قَتَلَهُ عِلْمًا, (Bd in iv. 156, and TA,) and خُبْرًا, (K,) and بِعِلْمِهِ, (Bd, ubi supra,) <i>he knew it</i> (Bd, K, TA) <i>completely,</i> (TA,) or <i>thoroughly, very well,</i> or <i>superlatively well;</i> as also نَحَرَهُ عِلْمًا. (Bd.) See أَثْبَتَ الشَّىْء مَعْرِفَةً in art. ثبت.\nقَتَّالٌ [<i>Murderous; slaughterous; very deadly.</i>] You say حَيَّةٌ قَتَّالَهٌ [<i>A very deadly serpent</i>]. (TA in art. اصل.)\nقَتَّلَ 2 : see a verse cited in art. عتب, conj. 4.\nقَتْلٌ : from this word is formed the pl. قُتُولٌ, on the authority of hearsay. (El-Jurjánee, in Msb, art. قصد.)\nمَقْتَلٌ <i>A</i> [<i>vital</i>] <i>place</i> in a man [or an animal, i. e.] <i>where a wound causes death;</i> (S, Msb;) as the temple: (Msb:) pl. مَقَاتِلُ. (S.)\nمُسْتَقْتِلٌ : see مُسْتَمِيتٌ.\nوَلِنِّى مَقَاتِلَكَ means حَوِّلْ إِلَىَّ وَجْهَكَ. (A.)"
+}

@@ -1,0 +1,30 @@
+.progressBar {
+  position: absolute;
+  bottom: -3px;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background-color: transparent;
+  z-index: 9999;
+  pointer-events: none;
+}
+
+.progressFill {
+  height: 100%;
+  background: linear-gradient(
+    90deg,
+    var(--color-background-brand, #cb955b) 0%,
+    #e8b87a 50%,
+    var(--color-background-brand, #cb955b) 100%
+  );
+  background-size: 200% 100%;
+  animation: shimmer 2s infinite linear;
+  transition: width 0.15s ease-out;
+  border-radius: 0 2px 2px 0;
+  box-shadow: 0 0 8px rgba(203, 149, 91, 0.6);
+}
+
+@keyframes shimmer {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}

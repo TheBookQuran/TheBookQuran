@@ -1,0 +1,52 @@
+{
+  "rootId": "r172",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T00:58:39.998Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Vision, sight, insight, or clear proof",
+  "primaryMeaning": "To see or perceive",
+  "quranicRelevance": "Physical sight (Basar/Absar), spiritual insight (Baseerah), God as All-Seeing (al-Baseer), and making things clear (Mubsir).",
+  "keyDerivations": [
+    {
+      "lemma": "بَصُرَ / بَصِرَ",
+      "form": "Form I Verb",
+      "meaning": "To see, perceive, or understand"
+    },
+    {
+      "lemma": "أَبْصَرَ",
+      "form": "Form IV Verb",
+      "meaning": "To see, observe, or make visible"
+    },
+    {
+      "lemma": "بَصَرٌ / أَبْصَارٌ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Sight, vision, or eyes"
+    },
+    {
+      "lemma": "بَصِيرَةٌ",
+      "form": "Noun",
+      "meaning": "Insight, clear evidence, or perception"
+    },
+    {
+      "lemma": "بَصِيرٌ",
+      "form": "Noun / Adjective",
+      "meaning": "All-Seeing (attribute of God), or seeing/discerning"
+    },
+    {
+      "lemma": "مُبْصِرٌ",
+      "form": "Adjective / Active part.",
+      "meaning": "Visible, giving light, or seeing clearly"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "بَصِيرَةٌ: Used as an internal, intellectual, or spiritual eye (insight).",
+    "مُبْصِرَةً: Giving light, or making things clear (as in 'ayatun mubsirah')."
+  ],
+  "discardedNoise": [
+    "Plaster or gypsum used in construction (بَصْر).",
+    "Descriptions of specific white stones."
+  ],
+  "summaryEn": "The root covers physical and spiritual sight, serving as the basis for terms representing human perception (Basar), insight (Baseerah), and God's attribute as the All-Seeing (al-Baseer).",
+  "summaryAr": "يغطي هذا الجذر الرؤية المادية والمعنوية، وهو الأساس لمصطلحات الإدراك البشري (البصر)، والبصيرة، واسم الله السميع البصير.",
+  "rawText": "أَبْصَرُ [<i>More,</i> and <i>most, sharp-sighted</i> or <i>clearsighted:</i> see an ex. voce حَيَّةٌ].\nأَرْضٌ بَصِرَةٌ <i>Land in which are stones that cut the hoofs of beasts.</i> (TA.) See also بَصْرَةٌ, in two places.\nابصرهُ 4 , (Lh S M, A, &c.,) inf. n. إِبْصَارٌ, (Msb,) <i>He saw him,</i> or <i>it,</i> (Lh, S, A, Mgh, Msb,) بِرُؤْيَةِ العَيْنِ <i>by the sight of the eye;</i> (Msb;) as also 🡻بَصُرَبِهِ: (A:) or <i>he looked</i> (M, K) <i>at,</i> or <i>towards, him,</i> or <i>it,</i> (M,) <i>trying whether he could see him,</i> or <i>it;</i> (M, K;) as also 🡻بَصُرَبِهِ, inf. n.بَصَرٌ and بَصَارَةٌ and بِصَارَةٌ; (M;) and به ↓بَصِرَ; (Lh, M;) and 🡻تبّصرهُ; (M, K;) and 🡻باصرهُ: (M:) or, accord. to Sb, 🡻بَصُرَ [is used when no object of sight is mentioned, and] signifies <i>he</i> [<i>saw,</i> or] <i>became seeing:</i> and ابصرهُ is said when one mentions that upon which his eye has fallen. (M.) You say also, أَبْصِرَ إِلَىَّ <i>Look thou at me:</i> or <i>turn thy face towards me.</i> (Ibn-Buzurj, TA.) === See also 1. ___ And see 2. ___ أَبْصِرْ بِهِ وَ أَسْمِعْ, in the Kur [xviii. 25], means مَا أَبْصَرَهُ وَ مَا أَسْمَعَهُ (Jel) ‡ <i>How clear is his sight! and how clear his hearing!</i> the pronoun relating to God; (Bd, Jel;) and thus used, the phrase is tropical; i. e., nothing escapes his sight and hearing. (Jel.) And أَسْمِعْ بِهِمْ وَ أَبْصِرْ, in the same [xix. 39], means مَا أَسْمَعَهُمْ وَ مَا أَبْصَرَهُمْ (S in art. سمع, and Jel) <i>How clearly shall they hear! </i> and <i>how clearly shall they see!</i> (S, Bd, Jel:) or the meaning is, <i>do thou make them to hear, and make them to see,</i> the threats of that day which is afterwards mentioned, and what shall befall them therein. (Bd.) ___ أَبْصَرَ also signifies <i>He relinquished infidelity, and adopted the true belief.</i> (IAar.) ___ See also 10. ___ <i>He hung upon the door of his dwelling a</i> بَصِيرَة, i. e. <i>an oblong piece of cotton</i> or <i>other cloth.</i> (TA.) ___ See also 2, last sentence.\nاستبصر 10 [<i>He sought,</i> or <i>endeavoured, to see,</i> or <i>to perceive mentally</i>]. You say, استبصر فِى رَأْيِهِ: see 5, last sentence. === <i>He had,</i> or <i>was endowed with,</i> [<i>mental perception,</i> or] <i>knowledge,</i> (Msb,) [or <i>understanding, intelligence,</i> or <i>skill:</i> as in the phrase,] استبصر فِى شَىْءٍ [<i>He had a mental perception,</i> or <i>knowledge,</i> &c., <i>of,</i> or <i>in relation to, a thing</i>]. (S.) [See مُسْتَبْصِرٌ.] ___ <i>It</i> (a road, TA) <i>was,</i> or <i>became, plain, clear, manifest,</i> or <i>conspicuous;</i> (K, * TA;) as also 🡻ابصر. (A.)\nباصرهُ 3 <i>He looked with at a thing, trying which of them two would see it before the other.</i> (M.) And بَاصَرَا <i>They two looked, trying which of them would see first.</i> (K.) === <i>He elevated himself,</i> or <i>rose up,</i> or <i>stood up, so as to be higher than the surrounding objects,</i> (أَشْرَفَ,) <i>looking at him,</i> or <i>towards him, from afar.</i> (S.) === See also 4.\nبصّر 2 <i>He</i> (a whelp) <i>opened his eyes.</i> (M, K.) ___ بصّرهُ, (S, K,) inf. n. تَبْصِيرٌ; (TA;) or * ابصرهُ; (accord. to some copies of the K; [see مُبْصِرٌ, as confirmatory of the latter; but both seem to be correct;]) <i>It</i> [or <i>he</i>] <i>made him</i> [or <i>caused him</i>] <i>to see,</i> or <i>to have sight:</i> or <i>to have mental perception,</i> or <i>knowledge,</i> or <i>skill:</i> syn. جَعَلَهُ بَصِيرًا. (S, K.) === And the former, (K,) inf. n. as above, (S, K,) <i>He made him to know.</i> (S, K) You say, بَصَّرْتُهُ بِهِ, (A, Msb,) inf. n. as above, (Msb,) <i>I made him to know it; acquainted him with it.</i> (A, Msb.) And بصّرهُ الأَمْرَ, inf. n. as above and تَبْصِرَةٌ, <i>He made him to understand the affair,</i> or <i>case.</i> (M.) === Also <i>He rendered it apparent,</i> or <i>plainly apparent, conspicuous, manifest,</i> or <i>evident.</i> (S, K.) ___ بُصِّرَتْ بِدِمَامٍ, said of the feathers of an arrow, <i>They were besmeared</i> بِالبَصِيرَةِ, i. e. <i>with blood:</i> (S:) or <i>were strengthened and fastened with glue.</i> (M.) ___ Also بصّر, inf. n. تَبْصِيرٌ; (S, K) and 🡻ابصر; (K;) <i>He went,</i> (S,) or <i>came,</i> (M, K,) <i>to the city of El-Basrah</i> (البَصْرَة). (S, M, K.)\nبَاصُورٌ : see بَاسُورٌ.\nبَاصِرٌ : see بَصِيرٌ. === لَمْحٌ بَاصِرٌ ‡ <i>An intent,</i> or <i>a hard, glance:</i> (M, K:) or <i>a very intent</i> or <i>hard glance.</i> (S.) You say, أَرَيْتُهُ لَمْحًا بَاصِرًا ‡ <i>I showed him a very intent</i> or <i>hard glance:</i> (S, M: *) باصرا being here used for the augmented epithet [مُبْصِرًا]; (M;) or it is a possessive epithet, (Yaakoob, M,) like لَابِنٌ and تَامِرٌ, meaning ذُو بَصَرٍ, from أَبْصَرْتُ, like مَوْتٌ مَائِتٌ from أَمَتُّ; and it means <i>I showed him a severe thing.</i> (S.) And لَقِىَ مِنْهُ لَمْحًا بَاصِرًا ‡ <i>He experienced from him a manifest,</i> or <i>an evident, thing.</i> (M. [See also art. لمح.]) And رَأَى فُلَانٌ لَمْحًا بَاصِرًا ‡ <i>Such a one beheld a terrible thing.</i> (Lth, TA.) And أَرَانِى الزَّمَانُ لَمْحًا بَاصِرًا ‡ <i>Fortune showed me a terrifying thing.</i> (A.) === It is said in a prov., خَيْرُ الغَدَآءِ بَوَاكِرُهُ وَخَيْرُ العَشَآءِ بَوَاصِرُهُ, [the word بَوَاصِرُ being pl. of 🡻بَاصِرَةٌ,] meaning [<i>The best kinds of morning-meal are those thereof that are early; and the best kinds of evening-meal are those thereof</i>] <i>in which the food is seen,</i> before the invasion of night. (Meyd. See Freytag's Arab. Prov. i. 442.) === بَاصِرَةٌ [as an epithet in which the quality of a subst. predominates]: see بَصَرٌ. ___ See also بَصَيرَةٌ, last sentence.\nبَاصِرَةٌ : see بَصَرٌ: and see بَاصِرٌ.\nبَصَرٌ The <i>sense of sight,</i> (Lth, S,) or <i>of the eye:</i> (M, K:) or the <i>light whereby the organ</i> [<i>of sight</i>] (الجَارِحَة) <i>perceives the things seen</i> (المُبْصَرَات): (Msb:) pl. أَبْصَارٌ. (M, Msb, K.) [Hence,] صَلَاةُ البَصَرِ <i>The prayer of sunset:</i> or, as some say, <i>of daybreak:</i> because performed when the darkness becomes mixed with the light: (TA:) or because performed when the stars are seen: also called صَلَاةُ الشَّاهِدِ: (TA in art. شهد:) or because performed at a time when the eyes see corporeal forms, after the intervention of darkness, or before it. (JM.) And لَقِيَهُ بَصَرًا <i>He met him when eyes saw one another:</i> or <i>at the beginning of darkness, when there remained enough light for objects to be distinguished thereby:</i> [accord. to some,] the noun is used [in the sense which it here bears] only as an adv. n. [of time]. (M.) And رَأَيْتُهُ بَيْنَ سَمْعِ الأَرْضِ وَبَصَرِهَا ‡ <i>I saw him in a vacant tract of land,</i> or <i>of the earth, where nothing but it heard or saw me.</i> (A.) [See also سَمْعٌ, in two places.] === See also بَصِيرَةٌ, first sentence, in four places. === Also The <i>eye;</i> [and so 🡻بَاصِرَةٌ;] syn. عَيْنٌ; but of the masc. gender: (TA:) pl. as above: (Kur ii. 6, &c.:) but the sing. is also used in a pl. sense [like سَمْعٌ]. (TA in art. سمع.) See two exs. voce بَصِيرةٌ.\nبَصَرَةٌ : see بَصْرَةٌ.\nبَصُرَ 1 , [aor. ﹹ,] (Sb, M, K,) and بَصِرَ, [aor. ﹷ,] (Lh, K, ) inf. n. بَصَرٌ and بَصَارَةٌ and بِصَارَةٌ, (M, K,) [<i>He saw;</i> i. e.] <i>he became seeing;</i> syn.صَارَ مُبْصِرًا; (Sb, M, K;) with بِ prefixed to the noun following. (K.) But see 4, in four places. بَصُرَ is seldom used to signify the sense of sight unless to this meaning is conjoined that of mental perception. (B.) === [Hence,] بَصُرَ, [and بَصِرَ.] inf. n. بَصَارَةٌ [and بَصَرٌ], <i>He was,</i> or <i>became, endowed with mental perception;</i> or <i>belief,</i> or <i>firm belief;</i> or <i>knowledge, understanding, intelligence,</i> or <i>skill.</i> (S, * M, TA.) And بَصُرَبِهِ, (S Msb, B,) and بَصِرَبِهِ, and sometimes بَصُرَهُ and بَصِرَهُ, but more chastely with بِ, inf. n. [بَصَارَةٌ and] بَصَرٌ; (Msb;) and * ابصرهُ; (B;) <i>He perceived it mentally;</i> (B;) <i>he knew it</i> [or <i>understood it</i>]. (S, Msb.) بَصُرْتُ بِمَا لَمْ يَبْصُرُوا بِهِ, i"
+}

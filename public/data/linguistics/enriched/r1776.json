@@ -1,0 +1,27 @@
+{
+  "rootId": "r1776",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:21:37.831Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Dry chaff, broken straw, dry grass, crushing, or generous bread breaker",
+  "primaryMeaning": "Dry chaff/broken straw",
+  "quranicRelevance": "Plants drying to scattered chaff (Hasheem - 'hasheeman tathroohu', 'ka-hasheemi al-muhtathiri').",
+  "keyDerivations": [
+    {
+      "lemma": "هَشِيمٌ",
+      "form": "Noun / Adjective",
+      "meaning": "Dry chaff, broken straw, crushed vegetation, or dry grass fragments"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فَأَصْبَحَ هَشِيمًا تَذْرُوهُ الرِّيَاحُ (18:45): Then it (the plant) becomes dry chaff scattered by the winds (temporary life cycle comparison).",
+    "إِنَّا أَرْسَلْنَا عَلَيْهِمْ صَيْحَةً وَاحِدَةً فَكَانُوا كَهَشِيمِ الْمُحْتَظِرِ (54:31): Indeed, We sent upon them a single shout, and they became like the dry, broken straw of a sheepfold builder."
+  ],
+  "discardedNoise": [
+    "Breaking bread into broth (Tharid Hashim) - cultural references.",
+    "The Hashim ancestry name of the Prophet's clan."
+  ],
+  "summaryEn": "The root represents crushed, dry vegetation (Hashm), comparing ruined nations to broken straw and earthly life's end to dry chaff scattered by winds.",
+  "summaryAr": "يمثل هذا الجذر كسر الشيء اليابس وهشيم النباتات والزروع الجافة المتكسرة (هشم)، واصفاً زوال الدنيا بالهشيم الطائر، وهلاك ثمود كعشب الحظيرة المفتت.",
+  "rawText": "الكُرُّ الهَاشِمِىُّ : see كُرٌّ.\nتَهَشَّمَ 5 <i>It</i> (a plant, or herbage,) <i>became</i> هَشِيم, i. e. <i>dry, and broken in pieces.</i>\nهَاشِمَةٌ <i>A wound in the head which breaks the bone:</i> see شَجَّةٌ.\nهَشَمَهُ 1 <i>He crushed it.</i>\nهَشِيمٌ A plant <i>that is dry, and breaks,</i> or <i>is broken, in pieces.</i> (S, Msb, K.)\nهَشَّمَهُ 2 , inf. n. تَهْشِيمٌ, <i>He broke it</i> [<i>much,</i> or <i>so crushed it</i>]; (TA;) namely, a dry thing, and anything hollow, such as the head, and the like. (TA in art. شدخ.)"
+}

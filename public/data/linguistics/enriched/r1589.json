@@ -1,0 +1,26 @@
+{
+  "rootId": "r1589",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:11:50.470Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Chewing, chewed lump, fetus stage, mouthful, or muscle",
+  "primaryMeaning": "Chewed lump (embryonic stage)",
+  "quranicRelevance": "Embryo developing into chewed lump (Mudghah - 'min mudhghatin mukhallaqatin').",
+  "keyDerivations": [
+    {
+      "lemma": "مُضْغَةٌ",
+      "form": "Noun (embryology stage)",
+      "meaning": "Chewed lump of flesh, early embryo stage, mouthful, or small mass"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "ثُمَّ مِنْ عَلَقَةٍ ثُمَّ مِنْ مُضْغَةٍ مُخَلَّقَةٍ وَغَيْرِ مُخَلَّقَةٍ (22:5): Then from a clinging clot, then from a chewed lump of flesh (Mudghah), formed and unformed (embryology sequence)."
+  ],
+  "discardedNoise": [
+    "Chewing gum (Mudgh) in oral health brochures.",
+    "The heart piece Hadith ('إذا صلحت صلح الجسد كله') - post-canonical hadith text."
+  ],
+  "summaryEn": "The root represents chewed lumps (Mudghah), serving as a precise biological description of the early embryo's segmented, teeth-like shape.",
+  "summaryAr": "يمثل هذا الجذر مضغ الطعام وقطعة اللحم الصغيرة بقدر ما يمضغ (مضغة)، واصفاً المرحلة الجنينية الثالثة لتطور هيكل اللحم والفقار (مضغة مخلقة).",
+  "rawText": "مُضْغَةٌ <i>A piece,</i> or <i>bit, of flesh</i> (T, S, K), &c.: (T, K:) or <i>a morsel,</i> or <i>gobbet, of flesh,</i> i. e. <i>a piece of flesh such as a man puts into his mouth:</i> (Khálid Ibn-Jembeh, TA:) or <i>as much as is chewed</i> [<i>at once</i>]: (Msb:) and <i>such as the heart, and the tongue, of a man:</i> (TA:) and <i>a fœtus when it has become like a lump of flesh:</i> see Kur. xxii. 5; and see خَلِيقٌ."
+}

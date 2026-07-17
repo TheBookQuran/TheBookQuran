@@ -1,0 +1,31 @@
+{
+  "rootId": "r2085",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T18:01:00.335Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Weakness, frailty, splitting open, tearing apart, collapsing, or losing structural strength",
+  "primaryMeaning": "Weak/frail (splitting open)",
+  "quranicRelevance": "Frail and split (Wahiyah - 'fahiya yawma'izin wahiyatun').",
+  "keyDerivations": [
+    {
+      "lemma": "وَهَى / يَوهِي",
+      "form": "Form I Verb",
+      "meaning": "To become weak, frail, split, torn, or fall to pieces"
+    },
+    {
+      "lemma": "وَاهِيَةٌ",
+      "form": "Active Participle (Feminine)",
+      "meaning": "Frail, weak, split open, or physically collapsing"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَانْشَقَّتِ السَّمَاءُ فَهِيَ يَوْمَئِذٍ وَاهِيَةٌ (69:16): And the sky will split open, and it on that Day is frail/weak."
+  ],
+  "discardedNoise": [
+    "Wahn (weakness) - W-H-N.",
+    "Wahiba (giver) - W-H-B."
+  ],
+  "summaryEn": "The root represents structural collapse or extreme frailty (Wahy), describing how the heavens will split apart and lose their structural integrity on the Day of Resurrection.",
+  "summaryAr": "يمثل هذا الجذر الضعف والوهن والتشقق والتمزق وتداعي البنيان وسقوط القوة (وهي)، واصفاً تفتت السماء وتصدعها يوم القيامة بالواهية.",
+  "rawText": "وَاهٍ <i>Lax; weak: frail; wanting in strength, compactness, firmness,</i> or <i>toughness; unsubstantial; unsound.</i> See an ex. in the S, voce أُنْشُوطَةٌ, where it is applied to love, or affection. === وَاهًا: see an ex. voce نُغْبَةٌ; and see آهِ, in art. اوه, in two places.\nوَهَى 1 <i>It was,</i> or <i>became, much slit,</i> or <i>rent.</i> (Msb.) === <i>It was,</i> or <i>became, lax, flaccid,</i> or <i>flabby:</i> (Msb:) or <i>weak;</i> said of a rope, (Mgh,) or other thing: or <i>it fell.</i> (Msb.) See وَاهٍ. === وَهَِىَ <i>It was,</i> or <i>became, uncompact, unsound,</i> or <i>weak.</i> === وَهَى أَمْرُهُ [<i>His affair,</i> or <i>case, was,</i> or <i>became, in a weak,</i> or <i>an unsound, state</i>]. (TA, art.نغض, &c.)"
+}

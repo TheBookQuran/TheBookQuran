@@ -1,0 +1,26 @@
+{
+  "rootId": "r1509",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:56:55.064Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Offensive nicknames, titles, labeling, calling names, or honorary names",
+  "primaryMeaning": "Offensive nicknames/titles",
+  "quranicRelevance": "Do not call offensive nicknames (Alqab - 'bi-al-alqabi').",
+  "keyDerivations": [
+    {
+      "lemma": "لَقَبٌ",
+      "form": "Noun (Plural: أَلْقَاب)",
+      "meaning": "Nickname, title of status, or label (often derogatory in this context)"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَلَا تَلْمِزُوا أَنْفُسَكُمْ وَوَلَا تَنَابَزُوا بِالْأَلْقَابِ (49:11): And do not defame one another, and do not insult one another with offensive nicknames."
+  ],
+  "discardedNoise": [
+    "Laqab (royal family title) - modern aristocracy.",
+    "Ascription of books."
+  ],
+  "summaryEn": "The root represents nicknames and titles (Laqab), forbidding social mockery and the usage of insulting nicknames to preserve community dignity.",
+  "summaryAr": "تشير مادة هذا الجذر إلى الكناية بالأسماء والنبز بالألقاب الذميمة التي يكرهها المرء (لقب)، واصفاً النهي عن التنابز بالألقاب صيانةً لكرامة المؤمنين.",
+  "rawText": "تلقّب بِكَذَا 5 <i>He was by-named, surnamed,</i> or <i>nicknamed, so.</i> (S, K.) See لَقَبٌ.\nتَلَاقَبُوا 6 <i>They called one another by by-names, surnames,</i> or <i>nicknames.</i> (TA.)\nلقّبهُ بِكَذَا 2 , inf. n. تَلْقِيبٌ, <i>He called him,</i> or <i>named him, by such a by-name,</i> or <i>surname,</i> or <i>nickname; he surnamed him,</i> or <i>nicknamed him, so.</i> (S, K.) See لَقَبٌ. === لقّب الإِسْمَ بِالفِعْلِ [i. e., بِالفَاءِ وَالعَيْنِ وَاللَّامِ] <i>He called the noun by an appellation in which its radical letters were represented by</i> ف, ع, <i>and</i> ل; <i>this appellation being its measure;</i> as when جَوْرَبٌ is called فَوْعَلٌ. (TA.) [But this signification belongs to the conventional language of lexicology and grammar.]\nلَاقَبَهُ 3 , inf. n. مُلَاقَبَةٌ, <i>He called him by a byname, surname,</i> or <i>nickname; the latter doing to him the like.</i> (TA.)\nلَقَبٌ <i>A by-name; a surname; a nickname;</i> syn. نَبَزٌ: (S, K:) <i>a name of reproach; an opprobrious appellation:</i> in this sense forbidden: (Msb:) it is said in the Kur, xlix., 11, لَا تَنَابَزُوا بِٱلْأَلْقَابِ <i>Call not one another by nicknames;</i> i. e., let not one of you call another by a name which he dislikes: (Jel:) also <i>a by-name,</i> or <i>surname, which is not one of reproach:</i> such are the surnames given to certain Imáms; الأَنْمَشُ and الأَخْفَشُ and الاَّعْرَجُ and the like; and such are not forbidden, because by them is not meant reproach, or disparagement, but they are meant as mere appellations given with the approval of the persons to whom they are applied. (Msb.) [A لَقَب is distinguished from a كُنْيَة, q. v.] Pl. أَلْقَابٌ. (S, K.) === [لَقَبُ ٱسْمٍ <i>The appellation given to a noun by substituting</i> ف, ع, <i>and</i> ل <i>for its radical letters.</i> See 2.]"
+}

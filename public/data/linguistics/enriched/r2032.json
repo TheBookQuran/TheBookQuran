@@ -1,0 +1,26 @@
+{
+  "rootId": "r2032",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:56:22.540Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Resembling, matching, imitating, copying, or mimicking",
+  "primaryMeaning": "Imitating/matching sayings",
+  "quranicRelevance": "They imitate/match the saying (Yudahi'oon - 'yudahi'oona').",
+  "keyDerivations": [
+    {
+      "lemma": "ضَاهَى / يُضَاهِئُ",
+      "form": "Form III Verb",
+      "meaning": "To resemble, match, copy, imitate, or mimic another's statement/action"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "ذَٰلِكَ قَوْلُهُمْ بِأَفْوَاهِهِمْ ۖ يُضَاهِئُونَ قَوْلَ الَّذِينَ كَفَرُوا مِنْ قَبْلُ (9:30): That is their statement by their mouths; they imitate/match the saying of those who disbelieved before."
+  ],
+  "discardedNoise": [
+    "Dahah (sunlight height) - spelling mismatch.",
+    "Duha (forenoon) - D-H-Y."
+  ],
+  "summaryEn": "The root signifies imitating or mimicking (Dah'), accusing the Jews and Christians of copying the theological formulas of ancient polytheists by claiming Ezra or Jesus as sons of God.",
+  "summaryAr": "يمثل هذا الجذر المشابهة والمضاهاة ومطابقة الأقوال والتقليد الأعمى للباطل (ضها)، مبيناً تشابه عقائد أهل الكتاب المنحرفة مع وثنيات الأمم السابقة.",
+  "rawText": "ضَهْيَأٌ and ضَهْيَأَةٌ: see art. ضهيأ.\nمُضَاهَأَةٌ 3 is <i>syn. with</i> مُضَاهَاةٌ, (K, TA, [the و before المُضاهاةُ in the CK should be erased,]) <i>i. q.</i> مُشَاكَلَةٌ: (S, O, Msb, TA:) you say, ضَاهَأْتُهُ and ضَاهَيْتُهُ, ('Eyn, S, * O, * Msb, * TA,) i. e. <i>I resembled him;</i> syn. شَابَهْتُهُ: ('Eyn, TA:) [or <i>I conformed with him:</i>] or ضَاهَأَهُ, inf. n. as above, signifies <i>he imitated him;</i> syn. عَارَضَهُ and بَارَاهُ; and one says also, ضَاهَيْتُهُ, inf. n. مُضَاهَاةٌ: (Msb:) the verb is read both with and without ء in the Kur [ix. 30]. (O, Msb, TA.) === ضَاهَا بِهِ, (A 'Obeyd, TA,) [or ضَاهَأَهُ, like ضَاهَاهُ, mentioned in art. ضهى,] inf. n. as above, (K,) <i>He</i> (a man) <i>was,</i> or <i>became, gentle, tender,</i> or <i>courteous,</i> or <i>he acted,</i> or <i>behaved, gently,</i> &c., <i>with him,</i> or <i>to him.</i> (A 'Obeyd, K, * TA.)"
+}

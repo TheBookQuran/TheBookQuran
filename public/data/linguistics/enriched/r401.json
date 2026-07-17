@@ -1,0 +1,31 @@
+{
+  "rootId": "r401",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:13:34.921Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Urging, prompting, inciting, advocating, low land, or nudge",
+  "primaryMeaning": "Urging/prompting (others)",
+  "quranicRelevance": "Not urging one another to feed the poor (Yahuddu - 'la yahuddu 'ala ta'ami', 'la tahad-doona').",
+  "keyDerivations": [
+    {
+      "lemma": "حَضَّ / يَحُضُّ",
+      "form": "Form I Verb",
+      "meaning": "To urge, prompt, incite, advocate, or encourage"
+    },
+    {
+      "lemma": "تَحَاضَّ / يَتَحَاضُّ",
+      "form": "Form VI Verb",
+      "meaning": "To urge one another, encourage mutually, or collaborate in urging"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "كَلَّا ۖ بَلْ لَا تُكْرِمُونَ الْيَتِيمَ ﴿١٧﴾ وَلَا تَحَاضُّونَ عَلَىٰ طَعَامِ الْمِسْكِينِ (89:17-18): Nay! But you do not honor the orphan, nor do you urge one another on the feeding of the poor."
+  ],
+  "discardedNoise": [
+    "Low valley floors (Hadid) - geography logs.",
+    "Nudging to speed up walks."
+  ],
+  "summaryEn": "The root denotes active urging (Haddh), condemning social negligence where elites neither feed the poor themselves nor encourage (Yahuddu) others to do so.",
+  "summaryAr": "يدل هذا الجذر على الحث والدفع المتبادل للفعل (حضّ)، معاتباً وموبخاً كفار قريش لعدم حثهم بعضهم البعض على كفاية وإطعام الفقراء والمساكين.",
+  "rawText": "تحاضّوا 6 <i>They excited,</i> &c., <i>one another.</i> (S, K.) In the Kur ubi suprà, some read وَلَا تَحَاضُّونَ (Fr, S, TA) <i>Nor do ye excite one another.</i> (Fr.)\nحاضّهُ 3 , (TK,) inf. n. مُحَاضَّةٌ, (S, K,) <i>He excited him,</i> &c., as above, <i>being excited,</i> &c., <i>by him.</i> (S, K, TK.) In the Kur ubi suprà, among the various readings are these two: وَلَا يُحَاضُّونَ and ولا تُحَاضُّونَ, meaning, accord. to Fr, <i>Nor are they,</i> or <i>ye, mindful.</i> (TA.)\nحضّضهُ 2 , inf. n. تَحْضِيضٌ: see 1, in two places.\nحَضِيضٌ <i>A depressed piece</i> (قَرَار) <i>of ground at the place where a mountain ends;</i> (S;) or <i>a depressed piece</i> (قرار) <i>of ground at,</i> or <i>by, the</i> سَفْح [i. e. <i>foot,</i> or <i>bottom,</i> or <i>lowest part,</i>] <i>of a mountain;</i> or <i>in,</i> or <i>at, the lower,</i> or <i>lowest, part thereof,</i> (فِى أَسْفَلِهِ,) <i>the</i> سفح <i>being behind the</i> حضيض; <i>the</i> حضيض <i>being in the part next the</i> سفح, <i>and the</i> سفح <i>being</i> دُونَ ذٰلِكَ [which seems to be virtually a repetition, signifying <i>behind that part,</i> or it may mean <i>above that part</i>]: (TA:) or <i>i. q.</i> سَفْحٌ: (K in art. سفح:) or <i>a depressed piece</i> (قرار) <i>of ground:</i> (A:) or <i>a tract</i> (حِجزٌ [in the CK, erroneously, حَجَر]), and a <i>depressed piece</i> (قرار), <i>in land</i> or <i>ground:</i> (K:) and <i>any low piece</i> (سَافِلٌ) <i>of land</i> or <i>ground:</i> (TA:) and the <i>ground</i> [in an absolute sense]: (S:) pl. [of pauc.] أَحِضَّةٌ and [of mult.] حُضُضٌ. (K.) It has the last of the above-mentioned significations in a certain trad., in which it is related that a present being brought to Mohammad, he, not finding anything upon which to put it, said, ضَعْهُ بِالحَضِيضِ, meaning بِالأَرْضِ; [i. e. <i>Put thou it upon the ground;</i>] adding, for I am only a servant; I eat as the servant eateth. (S.)\nحُضٌّ , said to be a subst.: see 1.\nحِضِّيضَى and حُضِّيضَى, said to be substs.: see 1."
+}

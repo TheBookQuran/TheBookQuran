@@ -1,0 +1,26 @@
+{
+  "rootId": "r1856",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:21:37.831Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Necessary desire, purpose, aim, marriage need, or target",
+  "primaryMeaning": "Necessary desire/purpose",
+  "quranicRelevance": "Fulfilling marriage necessity/purpose (Watar - 'qadha zaydun minha wataran').",
+  "keyDerivations": [
+    {
+      "lemma": "وَطَرٌ",
+      "form": "Noun",
+      "meaning": "Necessary desire, purpose, aim, vital marriage need, objective, or target"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فَلَمَّا قَضَىٰ زَيْدٌ مِنْهَا وَطَرًا زَوَّجْنَاكَهَا (33:37): So when Zayd had fulfilled his desire/purpose regarding her (divorce completed), We married her to you (to break the taboo of marrying ex-wives of adopted sons)."
+  ],
+  "discardedNoise": [
+    "Aiming for home targets in archery.",
+    "Modern goal-setting templates."
+  ],
+  "summaryEn": "The root represents fulfilling vital purposes and marriage desires (Watar), documenting the legal dissolution of Zayd's marriage to permit the Prophet's exemplary marriage.",
+  "summaryAr": "يمثل هذا الجذر الحاجة النفسية الملحّة والهدف المرغوب الضروري (وطر)، مخلداً إتمام زيد لحاجة زواجه بالطلاق لتشريع كسر تابوهات الأدعياء.",
+  "rawText": "وَطَرٌ <i>A want; an object of want</i> or <i>need:</i> (Zj, S, A, Msb, K:) or one <i>which one purposes to accomplish:</i> (Lth:) or <i>for which one is anxious,</i> (A, K,) or <i>desirous:</i> (Msb:) pl. أَوْطَارٌ. (S, A, Msb, K.) It has no verb. (Kh, S, Msb.) You say, قَضَيْتُ وَطَرِى <i>I accomplished,</i> or <i>obtained, my want,</i> &c. (A, Msb, K.) And قَضَيْتُ مِنْ كَذَا وَطَرِى <i>I accomplished my want of such a thing</i> [so as to have no further need of it: see Kur, xxxiii. 37, in two places]. (Lth.)"
+}

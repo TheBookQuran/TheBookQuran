@@ -1,0 +1,31 @@
+{
+  "rootId": "r1396",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:14:55.732Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Flat plain, empty land, depression, level ground, or yard",
+  "primaryMeaning": "Flat level plain",
+  "quranicRelevance": "Mirages in a flat plain (Qe'ah - 'bi-qe'atin'), and turning mountains to flat plains ('qa'an').",
+  "keyDerivations": [
+    {
+      "lemma": "قَاعٌ",
+      "form": "Noun",
+      "meaning": "Flat plain, level ground, bottom valley, or bare floor"
+    },
+    {
+      "lemma": "قِيعَةٌ",
+      "form": "Noun (singular/plural variant)",
+      "meaning": "Flat plain, open desert land, level floor, or empty basin"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَالَّذِينَ كَفَرُوا أَعْمَالُهُمْ كَسَرَابٍ بِقِيعَةٍ يَحْسَبُهُ الظَّمْآنُ مَاءً (24:39): And those who disbelieved - their deeds are like a mirage in a flat plain which a thirsty person thinks is water (futility of unguided actions)."
+  ],
+  "discardedNoise": [
+    "Deep wells in modern desert oases.",
+    "Bottom of the sea (Qaa' al-Bahr) - geographic maps."
+  ],
+  "summaryEn": "The root represents flat plains (Qaa'), using it to describe the flat level plain left after mountains are blown away and serving as the geographic canvas for the mirage metaphor of bad deeds.",
+  "summaryAr": "يمثل هذا الجذر الأرض المستوية الخالية من الشجر والارتفاع (قاع)، واصفاً مصير الأرض الممهدة المستوية بعد نسف الجبال، وسراب قيعة البادية الكاذب.",
+  "rawText": "قَاعٌ <i>An even place;</i> (S, voce مَقَدٌّ;) <i>plain,</i> or <i>level, land,</i> (S, Msb,) <i>that produces nothing;</i> (IF, Msb;) <i>plain,</i> or <i>soft, land,</i> (أَرْضٌ سَهْلَةٌ,) <i>low, and free from mountains.</i> (K.) See also رَوْضَةٌ. Respecting its pls., see جَارٌ."
+}

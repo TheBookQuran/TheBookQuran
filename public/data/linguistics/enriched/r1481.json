@@ -1,0 +1,26 @@
+{
+  "rootId": "r1481",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:21:37.831Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Milk, brick, white fluid, suckling, or building blocks",
+  "primaryMeaning": "Milk",
+  "quranicRelevance": "Milk for drinking (Laban - 'labanan khalisan', 'anharun min labanin').",
+  "keyDerivations": [
+    {
+      "lemma": "لَبَنٌ",
+      "form": "Noun",
+      "meaning": "Milk, white nutritious fluid produced by female mammals, or dairy"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَإِنَّ لَكُمْ فِي الْأَنْعَامِ لَعِبْرَةً ۖ نُسْقِيكُمْ مِمَّا فِي بُطُونِهِ مِنْ بَيْنِ فَرْثٍ وَدَمٍ لَبَنًا خَالِصًا سَائِغًا لِلشَّارِبِينَ (16:66): And indeed, for you in grazing livestock is a lesson. We give you drink from what is in their bellies - between digested food and blood - pure milk, pleasant to the drinkers."
+  ],
+  "discardedNoise": [
+    "Clay bricks (Liben) used in historic mudbrick houses.",
+    "Yogurt drinks."
+  ],
+  "summaryEn": "The root refers to milk (Laban), celebrating the biological extraction of pure, delicious milk from cattle and describing rivers of milk in Paradise.",
+  "summaryAr": "يشير هذا الجذر إلى الحليب واللبن السائل المغذي (لبن)، واصفاً إعجاز استخلاص اللبن الخالص السائغ من بين الفرث والدم، وأنهار ألبان الجنة.",
+  "rawText": "بَنَاتُ لَبَنٍ [app. <i>The small guts</i> or <i>intestines, in which originate the lacteals;</i>] <i>the intestines in which is the milk.</i> (M, K.) See حَويَّةٌ, termed بَنَاتُ اللَّبَنِ. === لَبَنَةٌ [n. un. of لَبَنٌ]. (Az, in TA, art. خرس.)\nعَسَلُ اللُّبْنَى <i>i. q.</i> المَيْعَةُ [now applied to <i>Storax,</i> or <i>styrax</i>] <i>sometimes used for fumigation.</i> (TA.) See art. عسل.\nلَبَنِيَّةٌ <i>Food made with milk:</i> so in modern Arabic: see خَطِيفَةٌ.\nلَبُونٌ : see لَقُوحٌ and بَكْرٌ. === إِبْنُ لَبُونٍ <i>A male camel that has entered upon his third year:</i> (S, Mgh, K:) or <i>entering upon his third year:</i> (Msb:) or <i>in his second year.</i> (K.)\nلَبِنٌ <i>Bricks;</i> (T, S, M, Mgh, Msb, K;) <i>crude,</i> or <i>unburnt, bricks.</i> (MA.)\nلُبَانٌ [The <i>frankincense-tree</i>] is <i>a tree of the kind called</i> عِضَاه, <i>having a fruit resembling the pistachio-nut, and a resin like the</i> كُنْدُر, [which is said in the S and TA to be the same as the لُبَان,] <i>when it concretes:</i> (O and TA in art. سيع:) it is also, and more commonly, applied to the <i>resin itself,</i> i. e. <i>frankincense,</i> or <i>olibanum:</i> the <i>tree that produces it is now known to be of the genus Boswellia,</i> found in Hadramowt and other parts of Southern Arabia, and also in the opposite (eastern) region of Africa, and in India: it was formerly erroneously supposed to be the Juniperus Lycia. === حَصَى لُبَانٍ: see K, voce عَسَلٌ; and see art. حصى.\nلُبَانَةٌ مَغْرِبِيَّةٌ : see فَرْبَيُونٌ.\nلُبَيْنَةٌ [<i>A little milk:</i> dim. of لَبَنَةٌ, n. un. of لَبَنٌ]: see رَثَأَ.\nلِبَانٌ The <i>sucking of milk</i> or <i>of the breast:</i> (S, Msb, K:) see an ex. in a verse of El-Aashà cited voce أَسْحَمُ: and see 1 in art. غذو.\nلِبْنَةٌ : see بَنِيقَةٌ.\nمِلْبَنٌ <i>A thing like the</i> مِحْمَل, <i>upon which bricks</i> (لَبِن) <i>are carried from place to place.</i> (M.) See فَتْخَآءُ."
+}

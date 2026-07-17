@@ -1,0 +1,37 @@
+{
+  "rootId": "r1851",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:39:17.504Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Connection, link, joining, union, or delivery",
+  "primaryMeaning": "To connect or join",
+  "quranicRelevance": "Joining/connecting relatives/covenants (Wasl - 'wa yaqta'oona ma amara Allahu bihi an yoosala'), and delivering/connecting words continuously ('wa laqad wassalna lahum al-qawla').",
+  "keyDerivations": [
+    {
+      "lemma": "وَصَلَ",
+      "form": "Form I Verb",
+      "meaning": "To connect, join, reach, unite, or arrive"
+    },
+    {
+      "lemma": "وَصَّلَ",
+      "form": "Form II Verb",
+      "meaning": "To deliver continuously, connect together, or weave"
+    },
+    {
+      "lemma": "وَصِيلَةٌ",
+      "form": "Noun",
+      "meaning": "Wasilah (a she-camel/sheep that gave birth to twins, connected/ spared from slaughter in pagan custom)"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَلَقَدْ وَصَّلْنَا لَهُمُ القَوْلَ (28:51): And We have delivered to them the Word continuously (without interruption, connecting warnings).",
+    "إِلَّا الَّذِينَ يَصِلُونَ إِلَى قَوْمٍ: Except those who connect/take refuge with a people."
+  ],
+  "discardedNoise": [
+    "Hair extensions (وصل) in cosmetic rulings.",
+    "Receiving postal receipts (وصول)."
+  ],
+  "summaryEn": "The root represents connection and continuity, covering familial bonds (Wasl), the continuous flow of scripture (Wassalna), and pagan camel customs (Wasilah).",
+  "summaryAr": "يدل هذا الجذر على الوصل والاتصال، مغطياً صلة الرحم والعهود (يوصل)، وتتابع وتدريج بلاغ الوحي (وصلنا)، والوصيلة المحرمة الجاهلية.",
+  "rawText": "أَوْصَلَهُ 4 <i>He made,</i> or <i>caused, him,</i> or <i>it, to reach; he caused to come, brought, conveyed,</i> or <i>delivered, him,</i> or <i>it;</i> (S, * M, K, *) إِلَيْهِ <i>to him,</i> or <i>it;</i> as also 🡻وَصَّلَهُ. (M.) See أَدَّاهُ.\nإِسْتِثْنَآءٌ مُتَّصِلٌ <i>An exception in which the thing excepted is united in kind to that from which the exception is made; contr. of</i> مُنْقَطِعٌ.\nاِتَّصَلَ بِهِ 8 <i>It communicated with it.</i> (Modern usage.)\nتوصّل إِلَيْهِ 5 <i>He applied himself with gentleness,</i> or <i>courtesy, to obtain access,</i> or <i>nearness, to him.</i> (S.) See 1.\nصِلَةُ الرَّحِمِ ‡ <i>The</i> [<i>making close one's ties of relationship by</i>] <i>behaving with kindness,</i> or <i>goodness and affection and gentleness, and considerateness,</i> or <i>regard for their circumstances, to kindred,</i> or <i>relations, even though remote, or evil-doers:</i> and قَطْعُ الرَّحِمِ signifies the contr. (IAth, TA.) === صِلَةٌ <i>A gift for which no compensation is to be made; a free gift; a gratuity;</i> like هِبَةٌ and صَدَقَةٌ. (Marg. note in a copy of the KT.) === صِلَةٌ The <i>connexion</i> of a verb <i>with the objective complement,</i> whether immediate or by means of a preposition. === صِلَةٌ The <i>complement of a</i> مَوْصُول [or <i>conjunct</i>], (I have thus rendered it voce أَلْ,) whether the latter be a particle or a noun. (I' Ak, sect. المَوْصُولُ.) === [The term صِلَةٌ is also applied in the Msb, art. أذن, to لَهُ in the phrase مَأْذُونٌ لَهُ.] Often applied to the connective prep. by which a verb or act. part. n. is transitive, together with the noun or pronoun governed by it; as to لَهُ in أَذَنَ لَهُ: and that prep. alone is called حَرْفُ الصِّلَةِ. Also, to a prep. by which a pass. verb or part. n. is connected with its subject, together with that subject; as لَهُ in أُذِنَ لَهُ. In this case it is an inf. n. in the sense of a pass. part. n., namely, of مَوْصُولٌ. (IbrD.) === [صِلَةٌ A <i>connective</i> word or phrase: as يَكَدْ is said to be in the phrase لَمْ يَكَدْ يَرَاهَا: see art. كود. In this case it is an inf. n. used in the sense of an act. part. n.] It is used in this sense especially with reference to cases in the Kur-án. (MF, art. كود.)\nمَوْصُولٌ , in grammar, [<i>A conjunct</i>]. This is of two kinds; مَوْصُولٌ حَرْفِىٌّ and مَوْصُولٌ إِسْمِىٌّ. The former term [or <i>conjunct particle</i>] is applied to the infinitive particles أَنْ, أَنَّ, كَى, لَوْ, and مَا. The latter term [or <i>conjunct noun</i>] (I have thus rendered it voce أَلْ, and voce إِنْ, and voce إِنَّ) is applied to the conjunctive nouns أَلَّذِى, and its fem. اَلَّتِى, and مَنْ, and مَا, and ذُو in the dial. of Teiyi, and to اَلْ, which last some incorrectly hold to be a conjunct particle, and others assert to be a determinative particle and not a conjunct, and to ذَا after the interrogative مَا or مَنْ. (I' Ak, sect. المَوْصُولُ.)\nمَوْصِلٌ <i>A joint,</i> or <i>place of juncture.</i>\nوَاْصَلَ 3 See 1. === وَاصَلَ الصِّيَامَ, inf. n. مُوَاصَلَةٌ and وِصَالٌ, <i>He continued the fasting uninterruptedly.</i> (TA.) === وَاصَلَ: see وَاتَرَ. === وَاصَلَ المَرْأَةَ <i>He held communion,</i> or <i>commerce, of love with the woman.</i> === وَاصَلَا <i>Contr. of</i> قَاطَعَا. (K in art. قطع.)\nوَصَلَهُ 1 , and وَصَلَ إِلَيْهِ, <i>He, or it, arrived at, came to, reached, attained, him, or it;</i> (S, K, &c.;) as also 🡻تَوَصَّلإِلَيْهِ. (M.) === وَصَلَ رَحِمَهُ <i>He made close his ties of relationship by behaving with goodness and affection,</i> &c., <i>to kindred:</i> see صِلَةُ الرَّحِمِ. === وَصَلَهُ and 🡻وَاصَلَهُ <i>He had,</i> or <i>held, close,</i> or <i>loving, communion, commerce, or intercourse, with him.</i> (Msb, K.) === وَصَلَهُ, inf. n. وَصْلٌ and صلَةٌ; and 🡻وَاصَلَهُ, inf. n. مُوَاصَلَةٌ and وِصَالٌ; are said with relation to love, whether chaste or unchaste. (M, K.) === And وَصَلَ حَبْلَهُ, inf. n. وَصْلٌ and صِلَةٌ; and 🡻وَاصَلَحَبْلَهُ: [<i>He made close his bond of love, by affectionate conduct</i>]. (M.) === وَصَلَهُ <i>He gave him property.</i> (TA.) And وَصَلَهُ بِجَائِزَةٍ [<i>He gave him a gift</i>]. (K in art. حذف.) === وَصَلَ <i>He connected,</i> or <i>conjoined, a word with a following word, not pausing after the former; he made no interruption.</i>\nوَصَّلَهُ 2 , inf. n. تَوْصِيلٌ, <i>He joined,</i> or <i>connected, much: he made</i> a string <i>to have many joinings.</i> (TA: the latter from an explanation of the pass. part. n.) === وَصَّلَهُ إِلَيْهِ <i>He made it to reach it,</i> or <i>him:</i> syn. أَنْهَاهُ إِلَيْهِ, and أَبْلَفَهُ إِيَّاه; like 🡻أَوْصَلَهُإِلَيْهِ [q. v.]. (TA.) See an ex. voce غفَلَ.\nوَصْلٌ <i>Union</i> [of companions or friends or lovers]; <i>contr. of</i> فِرَاقٌ (T, S, voce بَيْنٌ) or <i>of</i> فُرْقَةٌ (Msb, ibid.) or <i>of</i> فَصْلٌ (Bd in vi. 94) or <i>of</i> هِجْرَانٌ. (S.) === فِى الوَصْلِ وَالوَقْفِ <i>In the case of connexion with a following word and in the case of a pause.</i>\nوُصْلٌ : see وِصْلٌ.\nوُصْلَةٌ : see عُلْقَةٌ: <i>A means of connexion,</i> or <i>attachment:</i> see ذَرِيعَةٌ.\nوِصْلٌ and 🡻وُصْلٌ <i>A limb:</i> see فَخِذٌ and فَعْمٌ; and see also Har, p. 346. Between every فَصْلَانِ [or rather between every فَصْل and the فَصْل next to it] is a وِصْل. (O, K, in art. فصل.)"
+}

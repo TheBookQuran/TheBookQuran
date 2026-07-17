@@ -1,0 +1,26 @@
+{
+  "rootId": "r1390",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:56:55.064Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Hanging clusters of dates, bunch of fruit, possessing property, or gaining wealth",
+  "primaryMeaning": "Hanging date clusters",
+  "quranicRelevance": "Hanging clusters of dates (Qinwan - 'qinwanun daniyatun').",
+  "keyDerivations": [
+    {
+      "lemma": "قِنْوٌ",
+      "form": "Noun (Plural: قِنْوَان)",
+      "meaning": "Hanging cluster of dates, bunch of dates from a palm branch"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَمِنَ النَّخْلِ مِنْ طَلْعِهَا قِنْوَانٌ دَانِيَةٌ (9:99): And from the palm trees - of its spathe - clusters of dates hanging low/accessible."
+  ],
+  "discardedNoise": [
+    "Qaniha (to acquire/satisfy) - Q-N-Y.",
+    "Qanoon (law) - Greek origin."
+  ],
+  "summaryEn": "The root refers to the heavy clusters of dates (Qinwan), cited as an accessible botanical blessing that hangs within easy reach for harvest.",
+  "summaryAr": "يشير هذا الجذر إلى عذوق النخلة المتدلية المحملة بالرطب والتمر السهل جنيها (قنو)، معدداً ثمار النخل الدانية كنعمة غذائية وجمالية متجددة.",
+  "rawText": "أَقْنَى in the prov., خَلَاؤُكَ أَقْنَى لِحَيائِكَ <i>i. q.</i> أَلْزَمُ [as meaning <i>Most preservative:</i> see that prov. in art. خلو, and see قَنِىَ الحَيَآءَ, above]. (S in art. خلو, and Meyd.)\nإِسْتَقْنَوَ 10 see 1.\nاقْتَنَى 8 <i>He gained, acquired,</i> or <i>got, for himself,</i> (S, K,) or <i>took for himself,</i> (Mgh,) property, or camels, &c., (S, Mgh,) <i>as a permanent stock, for propagation,</i> (Mgh,) <i>not for merchandise:</i> (S, Mgh:) <i>he made</i> it <i>to be in his possession, not to depart from his hand:</i> (TA:) <i>he acquired</i> it <i>for himself permanently,</i> or <i>for a permanence.</i> See 1.\nفِنْوَةٌ : see قِنِيَّةٌ.\nقَانَى 3 : see قَانَأَ.\nقَنًا of the nose: see شَمَمٌ. === قنا وُشَّق a name given in Egypt to وُشَّق; also called أُشَّق and أُشَّج. (TA in art. اشق.)\nقَنَاةٌ <i>A spear-shaft;</i> (Mgh;) <i>a spear</i> (T, S. K) <i>that is hollow, like a cane;</i> (Az, in TA;) <i>a spear with a head affixed to it.</i> (Msb.) === Hence, <i>A subterranean channel,</i> or <i>conduit, for water.</i> (Mgh.) === [And A <i>pipe.</i>] === قَنَاةُ الكُوزِ <i>The</i> بُلْبُل [or <i>spout</i>] <i>of the</i> كوز [or <i>mug</i>], <i>that pours forth the water.</i> (M, K, in art. بل.) === قَنَاةٌ, said to signify بَقَرَةٌ وَحْشِيَّةٌ: see فَنَاةٌ.\nقَنِىَ الحَيَآءَ 1 <i>He kept to the sense of shame,</i> or <i>modesty;</i> (S, K;) <i>he preserved it:</i> and <i>i. q.</i> اِسْتَحْيَى: and 🡻اِسْتَقْنَى <i>he kept to</i> [or <i>preserved</i>] <i>his sense of shame,</i> or <i>modesty.</i> (TA.) === قَنَا غَنَمًا, and 🡻اِقْتَنَى, <i>He took for himself, got,</i> or <i>acquired, sheep,</i> or <i>goats</i> [<i>for a permanent possession</i>], <i>not for sale.</i> (JK.) === قَنَا, aor. يَقْنُو, inf. n. قُنُوٌّ; a dial. var. of قَنَأَ, q. v. (TA.)\nقِنْيَةٌ and 🡻قِنْوَةٌ Sheep, or goats, <i>taken for oneself, gotten,</i> or <i>acquired,</i> [<i>for a permanent possession,</i>] <i>not for sale.</i> (JK.)\nمُقَانَاةٌ The <i>weaving with one thread white and one thread black.</i> (T, voce نِيرٌ.)"
+}

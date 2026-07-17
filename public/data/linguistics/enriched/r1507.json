@@ -1,0 +1,36 @@
+{
+  "rootId": "r1507",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:11:50.470Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Wrapping, gathering, surrounding, dense trees, tangle, or fold",
+  "primaryMeaning": "Wrapping or dense/tangled",
+  "quranicRelevance": "Gardens of dense foliage (Alfafa - 'jannatin alfafan'), thigh wrapping in death ('wal-taffati'), and gathered crowd ('lafeefan').",
+  "keyDerivations": [
+    {
+      "lemma": "أَلْفَافٌ",
+      "form": "Noun pl. (of lafeef)",
+      "meaning": "Dense, tangled, intertwined gardens, or thick foliage"
+    },
+    {
+      "lemma": "اِلْتَفَّ / يَلْتَفُّ",
+      "form": "Form VIII Verb",
+      "meaning": "To wrap, join, entangle, wind together, or overlap"
+    },
+    {
+      "lemma": "لَفِيفٌ",
+      "form": "Noun",
+      "meaning": "Gathered crowd, mixed assembly, or combined force"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَالْتَفَّتِ السَّاقُ بِالسَّاقِ (75:29): And the thigh wraps/overlaps with the (other) thigh (the physical posture of death-rigor or joining of life trials)."
+  ],
+  "discardedNoise": [
+    "Winding motor coils.",
+    "Wrap sandwiches in modern fast food."
+  ],
+  "summaryEn": "The root represents wrapping and entangling, detailing the thick, dense foliage (Alfaf) of fertile land, the physical rigor of death (thighs wrapping), and gathered eschatological crowds (Lafeef).",
+  "summaryAr": "يمثل هذا الجذر الالتفاف والربط والتشابك، واصفاً بساتين الجنات ذات الأغصان المتداخلة (ألفافاً)، والتفاف ساقي الميت كرباً (والتفت الساق)، وحشر البشر لفيفاً.",
+  "rawText": "اِلْتَفَّ 8 <i>It</i> (herbage) <i>tangled; became confused, and caught,</i> one part to another: (Msb:) or <i>became luxuriant,</i> or <i>abundant;</i> (S;) <i>it</i> (a collection of trees) <i>became luxuriant,</i> or <i>abundant, and close together:</i> (AHn:) [or <i>thickly intermixed:</i>] <i>it</i> (a thing) <i>became collected together, and dense;</i> (TA:) best rendered <i>tangled,</i> or <i>luxuriant,</i> or <i>abundant and dense.</i> === اِلْتَفَّ and 🡻تَلْفَفَّ <i>He wrapped,</i> or <i>enwrapped, himself</i> in, or with, a garment; (KL, PS;) <i>i. q.</i> اِشْتَمَلَ. (Msb.) === اِلْتَفَّ وَجْهُ الغُلَامِ means اِتَّصَلَتْ لِحْيَتُهُ [i. e. <i>The face of the young man became continuous,</i> or <i>uninterrupted, in its beard</i>]. (TA.) === اِلْتَفَّ <i>It</i> (an affair) <i>became complicated.</i>\nتَلَفَّفَ 5 see 8.\nفُلَانٌ مِنْ لَفِيفِنَا وَضَفِيفِنَا : see art. ضف.\nلَفِيفَةٌ <i>A lock</i> (خُصْلَةٌ) of hair. (S, voce خُصْلَةٌ.)\nلَفٌّ ونَشْرٌ in rhetoric, [<i>Complication and explication, involution and evolution;</i> i. e., <i>a construction in which two</i> or <i>more words are mentioned, and, after them, two or more other words, as epithets, &c., referring to the former.</i> لفّ ونشر مُرَتَّبٌ, <i>Involution and evolution regularly disposed,</i> is when the order of the latter words agrees with that of those to which they refer. لفّ ونشر مَعْكُوسٌ, or مُشَوَّشٌ, <i>Involved, or disordered, involution and evolution,</i> is when the order of the latter words is contrary to that of those to which they refer]. (TA, passim.) See Har, p. 383.\nلَفَّ 1 <i>He folded,</i> or rather <i>wrapped; folded up,</i> or rather <i>wrapped up,</i> or <i>rolled up,</i> a thing in another thing. === لَفَّ العَدُوَّ [app. <i>He involved the enemy</i> (<i>in difficulty</i>), <i>or entangled him:</i>] said with reference to war, and excellence of judgment, and knowledge of the case of the enemy, and the subduing him, with the infliction of many wounds. (L, in TA, voce عَمَتَهُ.) But see عَمَتَ.\nلَفَّآءُ <i>A thick thigh:</i> see a verse voce تَسَاهَمُوا.\nلُفَّةٌ <i>i. q.</i> لُقْمَةٌ: see صُفَّةٌ, last sentence.\nلِفَافَةٌ <i>A wrapper for the leg</i> or <i>foot &c.</i> (S, K.) === And <i>A pericarp;</i> a <i>glume,</i> and <i>the like; an envelope:</i> pl. لَفَائِفُ.\nمُلْتَفُّ الخَلْقِ A man <i>having a well-knit frame; compact in make.</i> (L, art. مسد.)\nنَاقَةٌ مُلَفَّفَةُ السَّنَامِ [<i>A she-camel having the hump much enveloped with fur:</i> see اِلْتَفَّ وجْهُ الغُلَامِ]. (Ibn-'Abbád, O, K, voce عُلْفُوفٌ q. v.)"
+}

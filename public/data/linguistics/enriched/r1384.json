@@ -1,0 +1,26 @@
+{
+  "rootId": "r1384",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:56:55.064Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Subduing, striking, subduing-clubs, maces, iron collars, or funnel shape",
+  "primaryMeaning": "Subduing maces/clubs",
+  "quranicRelevance": "Clubs/maces of iron (Maqami' - 'maqami'u min hadeedin').",
+  "keyDerivations": [
+    {
+      "lemma": "مِقْمَعَةٌ",
+      "form": "Noun (Plural: مَقَامِع)",
+      "meaning": "Iron club, hooked rod, mace, or subduing instrument used for punishment"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَلَهُمْ مَقَامِعُ مِنْ حَدِيدٍ (22:21): And for them are hooked maces/clubs of iron (for physical punishment in Hell)."
+  ],
+  "discardedNoise": [
+    "Qam'a (suppression/censorship) - modern political shift.",
+    "Qum' (funnel used for liquids)."
+  ],
+  "summaryEn": "The root represents subduing by force or striking (Qam'), describing the iron maces designed to strike and subdue inhabitants of Hell whenever they try to escape.",
+  "summaryAr": "يمثل هذا الجذر الضرب بمقامع الحديد لردع المعتدي وقهر الخصم وإذلاله (قمع)، واصفاً أدوات العذاب ومطارق الحديد المعدة لضرب مستحقي النار.",
+  "rawText": "قَمَعَهُ 1 : see قَمَأَهُ.\nقَمِعُ البُسْرِ <i>What sticks to the date, around its stalk:</i> (Mgh:) <i>the base of the date.</i> (Mgh, art. ذنب.) See ثُفْرُوقٌ. === See also a use of the pl. أَقْمَاع, voce دَرْدَار. === قِمَعُ الأُذُونِ <i>The meatus of the ear:</i> see جُلْجُلاَنٌ."
+}

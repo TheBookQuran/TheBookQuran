@@ -1,0 +1,27 @@
+{
+  "rootId": "r1359",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:56:55.064Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Breaking, shattering with noise, violent storm, roaring thunder, or bombarding",
+  "primaryMeaning": "Violent gale/shattering storm",
+  "quranicRelevance": "A violent shattering gale (Qasifan - 'qasifan mina al-reehi').",
+  "keyDerivations": [
+    {
+      "lemma": "قَاصِفٌ",
+      "form": "Noun/Adjective",
+      "meaning": "Violent storm, shattering wind, or roaring gale that breaks everything"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فَيُرْسِلَ عَلَيْكُمْ قَاصِفًا مِنَ الرِّيحِ فَيُغْرِقَكُمْ بِمَا كَفَرْتُمْ (17:69): '...and He sends upon you a violent gale of wind and drowns you because of your disbelief.'"
+  ],
+  "discardedNoise": [
+    "Qasf (bombing/artillery) - modern military meaning.",
+    "Qasf (amusement/revelry) - classical slang.",
+    "Louder typing noises."
+  ],
+  "summaryEn": "The root denotes a loud, destructive breaking force (Qasf), describing the terrifying marine gale that God can unleash to shatter ships and drown deniers.",
+  "summaryAr": "يشير هذا الجذر إلى الكسر العنيف المصحوب بالصوت الشديد كصوت الرعد والريح الهوجاء المدمرة (قصف)، واصفاً ريح البحر العاصفة التي تكسر السفن وتغرق الكفار.",
+  "rawText": "نَبَاتٌ قَصِيفٌ رَيّانُ [<i>A weak,</i> or <i>fragile, sappy plant</i>]. (TA, in art. خرع.)"
+}

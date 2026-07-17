@@ -1,0 +1,31 @@
+{
+  "rootId": "r1865",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:07:33.756Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Success, reconciling, matching, agreement, harmony, or luck",
+  "primaryMeaning": "Reconciliation/harmony or success",
+  "quranicRelevance": "God bringing reconciliation (Tawfeeq - 'yuwaffiqi Allahu'), and matching/fitting reward ('jaza-an wifagan').",
+  "keyDerivations": [
+    {
+      "lemma": "تَوْفِيقٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Success, divine assistance, reconciliation, or guidance to right action"
+    },
+    {
+      "lemma": "وِفَاقٌ",
+      "form": "Adjective",
+      "meaning": "Fitting, matching, harmonious, appropriate, or exact"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "جَزَاءً وَفَاقًا (78:26): An appropriate/exact fitting recompense (exact justice of Hell punishments)."
+  ],
+  "discardedNoise": [
+    "Signing official treaties of concordance.",
+    "Modern career success strategies (Tawfeeq)."
+  ],
+  "summaryEn": "The root denotes harmony and fitting match, applied to marital dispute reconciliation (Tawfeeq), and the exact, fitting reward (Wifaq) of judgment.",
+  "summaryAr": "يدل هذا الجذر على التوافق والمطابقة والصلح، واصفاً صلح الزوجين بتوفيق إلهي، والجزاء العادل لذنوب الكفار دون زيادة (جزاءً وفاقاً).",
+  "rawText": "أَوْفَقَ أَمْرَهُ 4 <i>He found his affair,</i> or <i>case, agreeable with his wish,</i> or <i>desire.</i> (TA.)\nإِتِّفَاقِىٌّ <i>Casual.</i>\nاِتَّفَقَ 8 <i>It happened; chanced.</i> So used in the K, art. لفت, and in many other works. === اِنَّفَقَ مَعَهُ عَلَى أَمْرٍ: see 3.\nتَوْفِيقٌ <i>A certain legal document: a pleading.</i> See مَحْضَرٌ.\nوَافَقَهُ 3 <i>He, or it, was conformable, or did conformably, to him, or it; was as he, or it, was, or did as he, or it, did: coincided with him, or it: it suited him, or it: it matched it; tallied with it.</i> === وَافَقَهُ عَلَى أَمْرٍ <i>i. q.</i> مَعَهُ 🡻اِتَّفَقَ عَلَيْهِ, <i>He agreed with him,</i> or <i>was of one mind or opinion with him, upon, or respecting, a thing, or an affair.</i> (TA.) === [وَافَقَهُ is best rendered <i>He agreed, consented, accorded,</i> or <i>was of one mind or opinion, with him:</i> and <i>he complied with him,</i> or <i>it</i> (see طَاوَعَهُ): and <i>he coincided with him, suited him,</i> or <i>it; it matched it,</i> &c.] === وَافَقَ العَذَابُ الذَّنْبَ [<i>The punishment agreed, or corresponded with the sin, crime, or offence</i>]. (TA.) === وَافَقَ <i>It was suitable,</i> or <i>convenient.</i> === See مُشَاكَلَةٌ in art. شكل, conj. 3. === وَافَقَهُ <i>He encountered him; syn. with</i> صَادَفَهُ, q. v.\nوَفِقَ أَمْرُهُ 1 <i>His affair,</i> or <i>case, was right, agreeable with what was wished,</i> or <i>desired.</i> (A, TA.)\nوَفَّقَ أَمْرَهُ 2 [<i>He accomodated, adapted,</i> or <i>disposed, his affair to its object; directed it to a right issue;</i>] <i>prospered it.</i> (TK.) === وَفَّقَهُ لِأَمْرٍ <i>He disposed him,</i> or <i>adapted him, to a thing; he disposed him,</i> or <i>made him fit, for a thing.</i> === وَفَّقَهُ ٱللّٰهُ <i>God accommodated him, adapted him, or disposed him, or directed him, to the right course;</i> syn. سَدَّدَهُ: (Msb:) <i>God made him to take, or follow, a right way, course,</i> or <i>direction,</i> [in an affair]: or <i>directed him by inspiration to that which was good,</i> or <i>to prosperity.</i> (TA.) === وَفَّقَهُ لِلسَّدَادِ [<i>He accommodated, adapted, disposed, or directed him, to that which was right</i>]. (K, art. سد.) === وَفَّقَ بين الشَّيْئَيْنِ <i>He effected an agreement, a harmony, a reconciliation, an accommodation,</i> or <i>an adjustment, between the two things.</i> (MA.) And وَفَّقْتُ بَيْنَ القَوْمِ [<i>I effected an agreement, a harmony,</i> &c., <i>between the people,</i> or <i>party; made peace between them</i>]. (Msb, in art. صلح; &c.)"
+}

@@ -1,0 +1,26 @@
+{
+  "rootId": "r1742",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:52:16.826Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Fish, whale, the Arabic letter Nun, inkstand, or curved shape of a boat",
+  "primaryMeaning": "Fish/whale",
+  "quranicRelevance": "Companion of the fish (Za al-noon - 'wa-za al-nooni').",
+  "keyDerivations": [
+    {
+      "lemma": "نُونٌ",
+      "form": "Noun",
+      "meaning": "Fish, whale, massive sea creature, or the Arabic letter Nun"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَذَا النُّونِ إِذْ ذَهَبَ مُغَاضِبًا فَظَنَّ أَنْ لَنْ نَقْدِرَ عَلَيْهِ (21:87): And the Companion of the Fish (Jonah), when he went away in anger and thought We would not restrict him."
+  ],
+  "discardedNoise": [
+    "Noon (middle of day) - English language homophone.",
+    "Annoon (flower name)."
+  ],
+  "summaryEn": "The root denotes a large fish or whale (Nun), designating Prophet Jonah as the 'Companion of the Fish' (Dhu al-Nun) due to his ocean ordeal.",
+  "summaryAr": "تشير مادة هذا الجذر إلى الحوت والسمك العظيم في البحر، وحرف النون (نون)، ملقباً يونس بـ (ذا النون) لابتلاع الحوت له ونجاته بفضل تسبيحه.",
+  "rawText": "نَوْنَةٌ The <i>dimple in the chin of a young child:</i> (M, K:) see خُنْعُبَةٌ, and قَلْتَةٌ, and دَائِرَةٌ, and 2 in art. دسم."
+}

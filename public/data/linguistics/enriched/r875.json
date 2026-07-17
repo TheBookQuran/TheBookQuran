@@ -1,0 +1,26 @@
+{
+  "rootId": "r875",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T18:07:39.528Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Small band, remnant of people, minor group, patch, or shredded pieces",
+  "primaryMeaning": "Small band/remnant (Shirzimah)",
+  "quranicRelevance": "A small band/group (Shirzimatun - 'in ha'ola'i lashirzimatun').",
+  "keyDerivations": [
+    {
+      "lemma": "شِرْذِمَةٌ",
+      "form": "Noun (Quadriliteral)",
+      "meaning": "Small band of people, remnant group, minor detachment, or shredded fragments"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "إِنَّ هَٰؤُلَاءِ لَشِرْذِمَةٌ قَلِيلُونَ (26:54): [Pharaoh said]: 'Indeed, these (Israelites) are a small band/group.'"
+  ],
+  "discardedNoise": [
+    "Sharmada (shredding fabric).",
+    "Shirzimah (modern colloquial for gangster group)."
+  ],
+  "summaryEn": "The root refers to a small, scattered group or remnant of people (Shirzimah), used by Pharaoh to dismiss and belittle the fleeing Israelites as an insignificant, minor band.",
+  "summaryAr": "يشير هذا الجذر إلى الشرذمة وهي الطائفة القليلة المتفرقة والقطعة المتبقية من الناس والخرقة الممزقة (شرذم)، واصفاً قول فرعون تحقيراً لبني إسرائيل.",
+  "rawText": "شرذم\nشِرْذِمَةٌ <i>A party,</i> or <i>company,</i> (طَائِفَةٌ,) of men, or people: (S:) or <i>a small company:</i> (TA:) or <i>a small number of men,</i> or <i>people:</i> (K:) and so شِرْدِمَةٌ, with the unpointed د, on the authority of AA: (IB, TA:) the former occurring in the Kur xxvi. 54. (TA.) === <i>A piece,</i> or <i>portion,</i> (S, K,) of a thing, (S,) of a quince &c.: pl. شَرَاذِمُ and شَرَاذِيمُ. (K.) === [Hence,] ثَوْبٌ شَرَاذِمُ, (S,) or ثِيَابٌ شَرَاذِمُ, (K,) <i>A garment,</i> or <i>garments, old and worn out,</i> (S, K,) <i>much rent.</i> (K.)"
+}

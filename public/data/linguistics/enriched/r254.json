@@ -1,0 +1,26 @@
+{
+  "rootId": "r254",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T18:01:00.335Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Discouraging, holding back, delaying, preventing, holding back from duty, or slowing down",
+  "primaryMeaning": "Discouraging/holding back from action",
+  "quranicRelevance": "He made them lag behind (Thabbatahum - 'fathabbatahum').",
+  "keyDerivations": [
+    {
+      "lemma": "ثَبَّطَ / يُثَبِّطُ",
+      "form": "Form II Verb",
+      "meaning": "To discourage, hold back, prevent, make slow/inert, or delay someone from acting"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَلَوْ أَرَادُوا الْخُرُوجَ لَأَعَدُّوا لَهُ عُدَّةً وَلَٰكِنْ كَرِهَ اللَّهُ انْبِعَاثَهُمْ فَثَبَّطَهُمْ (9:46): But God disliked their sending forth, so He made them lag behind/discouraged them."
+  ],
+  "discardedNoise": [
+    "Thabat (firmness/constancy) - Th-B-T.",
+    "Tabt (beating) - T-B-T."
+  ],
+  "summaryEn": "The root represents holding back or creating delay/discouragement (Thabt), describing how God made the hypocrites feel inert and lazy to prevent them from marching with the Muslim army.",
+  "summaryAr": "يمثل هذا الجذر الحبس والمنع والتأخير عن الأمر وتثقيل الهمة وصرف الشخص عن العزم (ثبط)، واصفاً تثبيط الله للمنافقين كراهة لخروجهم للقتال.",
+  "rawText": "اثبطهُ المَرَضُ 4 <i>The disease scarcely,</i> or <i>never, quitted him.</i> (S, K.)\nاِثْبَأْطَطْتُ عَنِ الأَمْرِ <i>I held back,</i> or <i>hung back, from the affair,</i> or <i>thing, relinquishing it.</i> (TA.)\nتثبّط 5 [quasi-pass. of 2, <i>He became hindered, withheld,</i> or <i>prevented,</i> &c.; عَنِ الأَمْرِ <i>from the affair,</i> or <i>thing.</i> This signification and that next following are well known. === ] <i>He paused,</i> or <i>waited;</i> [عَلَى الأَمْرِ at the thing, or affair; as is implied in the K and TA;] syn. تَوَقَّفَ. (K, TA.)\nثبّطهُ عَنِ الأَمْرِ 2 , (Lth, IDrd, S, Msb, K,) or الشَّىْءِ, (TA,) inf. n. تَثْبِيطٌ, (S, Msb,) <i>He hindered him, withheld him,</i> or <i>prevented him,</i> (IDrd, Msb, K, TA,) <i>and retarded him,</i> (IDrd, K, TA,) <i>from doing the affair,</i> or <i>thing;</i> (IDrd, Msb, K, TA;) as also 🡻ثَبَطَهُ: (IDrd, K:) <i>he diverted him from it, by occupying him otherwise:</i> (Lth, S, Msb:) or <i>he prevented him from doing it by inducing him to be cowardly and weak-hearted:</i> (Msb:) or تثبيط signifies one's <i>turning</i> a man <i>back,</i> or <i>away, from a thing that he would do:</i> (Aboo-Is- hák:) or one's <i>intervening as an obstacle between a man and a thing that he desires.</i> (TA.) The verb occurs in the Kur ix. 46. (TA.) === ثبّطهُ عَلَى الأَمْرِ, inf. n. as above, <i>He made him to pause,</i> or <i>wait, at the thing,</i> or <i>affair;</i> (TA;) as also 🡻ثَبَطَهُعَلَيْهِ, (K, * TA,) inf. n. ثَبْطٌ; (TA;) syn. وَقَّفَهُ عَلَيْهِ [which here has the meaning assigned to it above, as is shown by the explanation of the quasi-pass. تَثَبَّطَ immediately following in the K: in the CK, we find, erroneously, وَقَفَ عليه]. (K, TA.)\nثَبِطٌ <i>Stupid in his work,</i> or <i>action; and weak: heavy, sluggish,</i> or <i>slow;</i> applied to a man, and to a horse; (K;) to the latter, <i>with respect to covering:</i> (TA:) and a man <i>who will not move from his place:</i> (TA:) fem. with ة: (K:) and pl. [of pauc.] أَثْبَاطٌ and [of mult.] ثِبَاطٌ, (K,) and, applied to men, ثَبِطُونَ also. (TA.)\nثَبِطَ 1 , aor. ﹷ, [inf. n., accord. to rule, ثَبْطٌ,] (K,) or, as Sgh says, [judging from the part. n. ثَبِطٌ,] thus analogy requires that it should be, (TA,) <i>He was,</i> or <i>became, stupid in his work,</i> or <i>action; and weak:</i> and <i>he</i> (a man, and a horse, K and TA, said of a horse with respect to covering, TA) <i>was,</i> or <i>became, heavy, sluggish,</i> or <i>slow.</i> (K, * TA.) ___ See also 2, in two places."
+}

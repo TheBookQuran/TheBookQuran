@@ -1,0 +1,26 @@
+{
+  "rootId": "r2033",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:56:22.540Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Branding, cauterizing, burning with hot metal, marking skin, or hot irons",
+  "primaryMeaning": "Branding/burning skin",
+  "quranicRelevance": "Branded therewith (Tukawa - 'fatukawa biha').",
+  "keyDerivations": [
+    {
+      "lemma": "كَوَى / يَكْوِي (Passive: يُكْوَىٰ)",
+      "form": "Form I Verb",
+      "meaning": "To brand, cauterize, burn with a hot iron, or mark with fire"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "يَوْمَ يُحْمَىٰ عَلَيْهَا فِي نَارِ جَهَنَّمَ فَتُكْوَىٰ بِهَا جِبَاهُهُمْ وَجُنُوبُهُمْ (9:35): The Day it will be heated in the fire of Hell, and branded therewith will be their foreheads and their sides."
+  ],
+  "discardedNoise": [
+    "Kawayah (ironing clothes) - modern household laundry.",
+    "Kawa (window alcove) - K-W-A."
+  ],
+  "summaryEn": "The root denotes branding or burning tissue with hot metal (Kawy), describing the punishment of hoarders whose gold and silver will be heated and pressed into their foreheads and bodies in Hell.",
+  "summaryAr": "يمثل هذا الجذر كي الجلد بالنار والحديد المحمى وإحراقه للتأليم أو التداوي (كوي)، واصفاً تعذيب مانعي الزكاة بكي جباههم وجنوبهم بكنوزهم المحماة.",
+  "rawText": "كَوَاهُ 1 <i>He</i> (a veterinary, and any other, TA) <i>cauterized him;</i> i. e. <i>burned his skin; with an iron,</i> and <i>the like:</i> (K:) or <i>he burned him</i> with fire. (Mgh.)"
+}

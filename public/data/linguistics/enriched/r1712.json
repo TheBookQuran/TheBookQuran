@@ -1,0 +1,31 @@
+{
+  "rootId": "r1712",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:01:45.660Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Rescue, saving, delivering, extraction, or recovery",
+  "primaryMeaning": "Rescue/saving",
+  "quranicRelevance": "Rescuing/saving from Hellfire (Anqatha - 'fa-anqathakum minha'), and inability of idols to rescue their food from flies ('la yastanqithoohu').",
+  "keyDerivations": [
+    {
+      "lemma": "أَنْقَذَ / يُنْقِذُ",
+      "form": "Form IV Verb",
+      "meaning": "To rescue, save, deliver, or pull out of danger"
+    },
+    {
+      "lemma": "اِسْتَنْقَذَ / يَسْتَنْقِذُ",
+      "form": "Form X Verb",
+      "meaning": "To extract, rescue back, recover, or deliver from custody"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَإِنْ يَسْلُبْهُمُ الذُّبَابُ شَيْئًا لَا يَسْتَنْقِذُوهُ مِنْهُ (23:73): And if the fly should snatch anything from them, they cannot rescue/recover it back from it (utter weakness of idols)."
+  ],
+  "discardedNoise": [
+    "Modern rescue boats (Anqath) at sea beaches.",
+    "Paramedic emergency response teams."
+  ],
+  "summaryEn": "The root denotes rescue, detailing the divine saving (Inqadh) of Arab tribes from pre-Islamic hellish wars, and the helpless idols unable to rescue (Yastanqithoo) food from flies.",
+  "summaryAr": "يدل هذا الجذر على الإنقاذ والتخليص من الهلكة، واصفاً إنقاذ الأمة من حفرة النار الحربية الجاهلية (فأنقذكم)، وعجز الآلهة الباطلة عن استرداد سلب الذباب.",
+  "rawText": "إِسْتَنْقَذَ 10 see 4.\nالأَنْقَذُ [or أَنْقَذُ, without the art.,] <i>The hedgehog;</i> القُتْفُذُ: (K;) as also with د. (TA.)\nانقذهُ 4 , (S, A, L, Msb, K,) inf. n. إِنْقَاذٌ; (K;) and 🡻استنقذهُ; and 🡻تنقّذهُ; (S, A, L, K;) and 🡻نقّذٌ, inf. n. تَنْقِيذٌ; and 🡻نَقَذَهُ, [aor. ﹹ,] inf. n. نَقْذٌ; (K;) <i>He saved, rescued,</i> or <i>liberated, him</i> or <i>it,</i> (S, A, L, Msb, K,) from such a one, (S, L,) and from evil. (Msb.)\nتَنَقَّذَ 5 see 4.\nنَقَذٌ A thing <i>that one has saved, rescued,</i> or <i>liberated;</i> (S, L, Msb, K;) of the measure فَعَلٌ in the sense of the measure مَفْعُولٌ, like نَفَضٌ and قَبَضٌ; (S, L;) as also 🡻نَقِيذٌ and نَقِيذَةٌ: (L:) a man <i>saved,</i> or <i>rescued,</i> or <i>liberated:</i> (L:) also, a horse <i>taken from another people:</i> (L:) or a camel &c. <i>taken by, and then recovered from, the enemy;</i> as also نَقِيذَةٌ and نَقِيذٌ; pl. نَقَائِذُ: (A:) or 🡻نَقِيذَةٌ signifies a horse <i>saved,</i> or <i>rescued,</i> or <i>liberated,</i> (S, L, K,) <i>and taken,</i> (S, L,) <i>from the enemy;</i> (S, L, K;) pl. نَقَائِذُ: (S, L;) or the sing. of نقائذ, signifying horses <i>saved,</i> or <i>rescued,</i> or <i>liberated, from the hands of men,</i> or <i>of the enemy,</i> is 🡻نَقِيذٌ, without ة: (IAar, L:) and, accord. to El-Muffaddal, (L,) 🡻نَقِيذَةٌ signifies <i>a coat of mail,</i> دِرْعٌ; (L, K;) because it saves the person wearing it from the sword: (L:) and Az says, I have read in the handwriting of Shemir, that it signifies <i>a coat of mail saved,</i> or <i>rescued, from the enemy.</i> (L.) You say also, هُوَ نَقِيذَةُ بُؤْسٍ, and هُمْ نَقَائذُ بُؤْسٍ, <i>He is saved,</i> or <i>rescued, from distress,</i> or <i>adversity;</i> and <i>they are &c.</i> (A.) === مَا لَهُ شَقَذٌ وَلَا نَقَذٌ <i>He possesses not anything.</i> (K.)\nنَقِذَ 1 , aor. ﹷ, inf. n. نَقَذٌ; (Msb, K;) or نَقَذَ, (A, L,) aor. ﹹ, (L,) inf. n. نَقْذٌ; (A, L;) <i>He became safe, in safety, saved,</i> or <i>liberated; he escaped.</i> (A, L, Msb, K.) === نَقْذًا لَكَ <i>Safety to thee!</i> Said to a man stumbling. (A, K.) === See also 4.\nنَقِيذٌ and نَقِيذَةٌ: see نَقَذٌ. === Also the latter, A woman <i>having had a husband.</i> (K.)\nنَقَّذَ 2 see 4."
+}

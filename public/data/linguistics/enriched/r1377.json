@@ -1,0 +1,36 @@
+{
+  "rootId": "r1377",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:05:27.741Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Fewness, smallness, lifting up, or reducing",
+  "primaryMeaning": "To be few or lift",
+  "quranicRelevance": "Fewness in number (Qaleel), reducing or showing as few ('yulallilukum'), and carrying/lifting up clouds ('aqallat sahaban').",
+  "keyDerivations": [
+    {
+      "lemma": "قَلِيلٌ",
+      "form": "Adjective",
+      "meaning": "Few, little, small, or scarce"
+    },
+    {
+      "lemma": "قَلَّلَ",
+      "form": "Form II Verb",
+      "meaning": "To lessen, make few, or reduce"
+    },
+    {
+      "lemma": "أَقَلَّ",
+      "form": "Form IV Verb",
+      "meaning": "To carry, lift, or raise up (e.g. heavy clouds)"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "أَقَلَّتْ سَحَابًا ثِقَالًا (7:57): Carried/raised up heavy clouds (conceptually related to taking a small/portable portion of water)."
+  ],
+  "discardedNoise": [
+    "The physical trembling of a weak person.",
+    "Obscure details on the low density of sand dunes."
+  ],
+  "summaryEn": "The root denotes fewness and lifting, describing small numbers (Qaleel) and the action of lifting up clouds or showing armies as small to encourage believers.",
+  "summaryAr": "يدل هذا الجذر على القلة والرفع، واصفاً الأعداد القليلة (قليل) وفعل تقليل الأعداء في أعين المؤمنين تشجيعاً لهم.",
+  "rawText": "أَقَلَّهُ 4 <i>He lifted it,</i> or <i>raised it, from the ground;</i> and <i>carried it.</i> (Msb.) === أَقَلَّهُ الغَضَبُ † <i>Anger disquieted,</i> or <i>flurried, him.</i> (Mj, TA, in art. حمل.) And أُقِلَّ [alone] † <i>He was disquieted,</i> or <i>flurried, by anger.</i> (T, TA, in that art.) === أَقَلَّ مِنْهُ <i>i. q.</i> 🡻قَلَّلَهُ. (M.) === أَقَلَّ <i>He became poor:</i> (S, Msb:) or <i>he had little property.</i> (K.)\nأَقَلُّ مَالًا وَوَلَدًا <i>Possessing,</i> or <i>possessor, of less</i> than another <i>in respect of wealth and children:</i> see an ex. (from the Kur xviii. 37) in art. ف.\nاِسْنَفَلَّ 10 <i>He was independent,</i> or <i>alone; with none to share,</i> or <i>participate, with him.</i> (TA.) [And اِسْتَقَلَّ بِنَفْسِهِ, <i>the same;</i> or (as shown by an explanation of the act. part. n. in the TA) <i>he managed his affairs, by himself alone, thoroughly, soundly,</i> or <i>vigorously.</i>] And هُوَ لاَ يَسْتَقِلُّ بِهٰذَا <i>He is not able</i> [<i>by himself</i>] <i>to do this.</i> (TA.) === اِسْتَقَلَّ <i>He was independent of all others; absolute.</i> === اِسْتَقلَّ <i>He</i> (a man) <i>rose,</i> or <i>raised himself,</i> with a burden: (JK:) and a bird in his flight. (JK, K.) === اُسْتُقِلَّ غَضَبًا <i>He</i> (a man) <i>became affected with a tremour,</i> or <i>trembling, by anger.</i> (JK.) === اِسْتَقَلَّ بِالشَّىْءِ <i>i. q.</i> اِسْتَبَدَّ بِهِ. (TA in art. حكر.)\nتَقَلَّلَ 5 (K, art. نزر) <i>It became diminished,</i> or <i>rendered little</i> or <i>small in quantity.</i> (TK, same art.) === تَقَلَّلَهُ <i>He saw it,</i> or <i>deemed it, to be little in quantity.</i> (TA.)\nقَلِيلٌ <i>Few; small,</i> or <i>little, in number, quantity,</i> or <i>amount; scanty.</i> === <i>A small quantity,</i> or <i>quantum,</i> or <i>number,</i> مِن مَالٍ وَغَيْرِهِ <i>of property,</i> or <i>cattle, &c.</i> === قَلِيلُ الخَيْرِ: [see art. خير, where an explanation is given equivalent to عَادمُ الخَيْرِ: and in like manner] قَلِيلُ الخَيْرِ is used to signify <i>Not making use of oaths at all.</i> (Mgh in art. حفظ.) It may be well rendered <i>Lacking,</i> or <i>destitute of, good,</i> or <i>wealth;</i> as well as <i>having little thereof:</i> it generally means <i>having little,</i> or <i>no, wealth,</i> or <i>good;</i> or <i>lacking,</i> or <i>destitute of, goodness</i> or <i>good things.</i> === قَلِيلٌ: see مَطَّرِدٌ. === <i>Possessing little,</i> or <i>possessed in a small degree,</i> of anything.\nقَلِيلَةٌ as a subst., <i>Little:</i> see كَثِيرَةٌ.\nقَلَّ 1 , <i>It was,</i> or <i>became, few; small,</i> or <i>little, in number, quantity,</i> or <i>amount; scanty.</i> === هُوَ يَقِلُّ عَنْ كَذَا <i>He,</i> or <i>it, is smaller than,</i> or <i>too small for, such a thing;</i> syn. يَصْغُرُ. (TA.) === قَلَّ لَبَنُهَا <i>Her milk became little,</i> or <i>scanty; she became scant in her milk.</i> === قَلَّ خَيْرُهُ [<i>His good things,</i> or <i>wealth,</i> and <i>his beneficence, became few,</i> or <i>little; scanty,</i> or <i>wanting; he became poor;</i> and <i>he became niggardly:</i>] for قِلَّةُ خَيْرٍ signifies “ poverty ” and “ niggardliness. ” (A, TA, in art. حجد.) And <i>It became scanty,</i> or <i>deficient,</i> or <i>wanting, in goodness.</i> === قَلَّ <i>He had few aiders:</i> sec an ex. voce فَلَّ.\nقَلَّلَهُ 2 <i>He made it,</i> or <i>held it, to be little.</i> (Msb.) === <i>He showed it,</i> or <i>made it to appear, to be little, in quantity.</i> (TA.) === See 4.\nقُلٌّ <i>Poverty:</i> see an ex. in a verse cited voce طَلَّاع.\nقُلَّةٌ The <i>top,</i> or <i>highest part,</i> of a mountain, &c. (S, K.) === The <i>top of the head and hump.</i> (K.) See a verse cited voce ظِلٌّ. === قلتانِ [app. قُلَّتَانِ, or rather قَلْتَانِ, from قلت] The <i>hollows of the two collar-bones</i> (الترقوتان). (TA, art. ترب.)\nقُلُّ بْنُ قُلٍّ : see ضُلُّ.\nقِلَّةٌ [<i>Paucity; smallness; littleness; scantiness; want of due amount</i> of anything: as in قِلَّةُ مُبَالَاةٍ <i>want of due care:</i> or this phrase signifies <i>want of care:</i> also <i>fewness:</i> for] قِلَّةٌ sometimes signifies <i>i. q.</i> عَدَمٌ. (Mgh in art. حفَظ.) === قِلَّةٌ may often be well rendered <i>Lack.</i>\nمُسْتَقِلٌّ A writing <i>on a particular, peculiar,</i> or <i>special, subject.</i> === رِسَالَةٌ مُسْتَقِلَّةٌ <i>A monograph.</i> See also a verse cited voce غَتْمٌ. === مَعْنًى مُسْتَقِلٌّ بِهِ <i>An independent meaning.</i>"
+}

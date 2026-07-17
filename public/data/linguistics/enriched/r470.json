@@ -1,0 +1,26 @@
+{
+  "rootId": "r470",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:25:04.476Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Mustard, tiny seed, chopping meat, yellow plant, or minor",
+  "primaryMeaning": "Mustard seed (metaphor for microscopic weight)",
+  "quranicRelevance": "Mustard seed weight of actions (Khardal - 'mithqala habbatin min khardalin').",
+  "keyDerivations": [
+    {
+      "lemma": "خَرْدَلٌ",
+      "form": "Noun (collective)",
+      "meaning": "Mustard, mustard plant, or microscopic mustard seed"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَإِنْ كَانَ مِثْقَالَ حَبَّةٍ مِنْ خَرْدَلٍ أَتَيْنَا بِهَا ۗ وَكَفَىٰ بِنَا حَاسِبِينَ (21:47): And even if it be the weight of a mustard seed, We will bring it forth. And sufficient are We as accountant (ultimate scale accuracy)."
+  ],
+  "discardedNoise": [
+    "Mustard sauces in kitchens.",
+    "Chopping meat into minor cubes (classical physical root definition)."
+  ],
+  "summaryEn": "The root refers to mustard seeds (Khardal), using the microscopic seed as the ultimate benchmark of weight to guarantee that no human deed is ignored at judgment.",
+  "summaryAr": "يشير هذا الجذر إلى نبات الخردل الصغير المتناهي الدقة والوزن (خردل)، مستخدماً حبة الخردل كأصغر مقياس وزني لبيان إحصاء وحفظ الأعمال.",
+  "rawText": "خردل\nخَرْدَلٌ <i>[Mustard-seed;]</i> the <i>grain of a certain tree,</i> (K,) <i>well known;</i> (S, K;) <i>a species of</i> حُرْف [q. v.]; (JK;) <i>heating; emollient; drawing; a phlegmagogue; lenitive; digestive; used as a liniment, good for the</i> نِقْرِس <i>[or gout], and [especially] the</i> نَسَا [or <i>sciatica</i>], <i>and the [malignant species of leprosy termed]</i> بَرَص (K,) <i>and the [mild species thereof termed]</i> بَهَق; <i>clearing to the face; good for the alopecia, especially the wild sort thereof;</i> (TA;) <i>its smoke drives away serpents,</i> or, as in the Kánoon, <i>venomous or noxious reptiles or the like;</i> (TA;) <i>its juice, dropped, allays earache,</i> (K,) <i>and in like manner its oil;</i> (TA;) <i>and its powder, upon the aching tooth, is extremely efficacious,</i> (K,) <i>especially when</i> حِلْتِيت [or <i>assa</i>] <i>has been cooked with it:</i> (TA: [in which many other properties assigned to it are mentioned:]) n. un. with ة. (S.) === الخَرْدَلُ الفَارِسِىُّ is <i>A certain plant in Egypt known by the name of</i> حَشِيشَةُ السُّلْطَانِ. (K.)"
+}

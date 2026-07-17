@@ -1,0 +1,32 @@
+{
+  "rootId": "r1472",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:29:55.134Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Measuring volume, dry measure, portion, or load",
+  "primaryMeaning": "To measure (volume)",
+  "quranicRelevance": "Measuring volume of food/grains (Kayl - 'wa awfoo al-kayla'), and portion/camel load ('kayla ba'eer').",
+  "keyDerivations": [
+    {
+      "lemma": "كَالَ",
+      "form": "Form I Verb",
+      "meaning": "To measure (by volume), weigh out, or receive measure"
+    },
+    {
+      "lemma": "كَيْلٌ",
+      "form": "Noun",
+      "meaning": "Measure, volume measure, portion, or load"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "كَيْلٌ يَسِيرٌ (12:65): An easy measure / small portion.",
+    "وَإِذَا كَالُوهُمْ أَوْ وَزَنُوهُمْ يُخْسِرُونَ: And when they measure/weigh for them, they cause loss."
+  ],
+  "discardedNoise": [
+    "Grammatical classification of units of volume.",
+    "Post-classical cargo shipping measurement standards."
+  ],
+  "summaryEn": "The root represents volumetric measurement, defining transactional honesty in trade weights (Kayl) and portion allotments in Egypt's famine distribution.",
+  "summaryAr": "يمثل هذا الجذر الكيل القياسي للحجم، محدداً الأمانة التجارية في الميزان (كيل)، وحصص الميرة الغذائية الموزعة في مصر.",
+  "rawText": "اِكْتَالَ عَلَيْهِ 8 and : see عَلَى in the sense of مِنْ.\nكَيَّالٌ [<i>A measurer</i> of corn and the like]. (A, art. بخس.)\nكَيْلٌ : see مِكْيَالٌ.\nمِكْيَالٌ <i>A measure with which corn is measured;</i> (S, Msb, K;) as also 🡻كَيْلٌ; (Msb;) <i>a measure of capacity.</i>"
+}

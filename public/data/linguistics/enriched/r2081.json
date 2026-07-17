@@ -1,0 +1,26 @@
+{
+  "rootId": "r2081",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:56:22.540Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Satisfying, contenting, giving wealth to store/keep, acquiring permanent assets, or high nose bridge",
+  "primaryMeaning": "Satisfying/giving permanent assets (Aqna)",
+  "quranicRelevance": "Enriches and contents (Aqna - 'aghna wa-aqna').",
+  "keyDerivations": [
+    {
+      "lemma": "أَقْنَى / يُقْنِي",
+      "form": "Form IV Verb",
+      "meaning": "To satisfy, content, give wealth to keep/store, or make rich permanently"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَأَنَّهُ هُوَ أَغْنَىٰ وَأَقْنَىٰ (53:48): And that it is He who enriches (gives temporary wealth) and contents/satisfies (or gives permanent assets to keep)."
+  ],
+  "discardedNoise": [
+    "Qana (spear shaft) - related spelling but secondary.",
+    "Qanawat (canals/channels) - modern media/hydraulic term."
+  ],
+  "summaryEn": "The root signifies contenting or providing permanent, stored assets (Qany), praising God who provides both immediate livelihood (Ighna) and long-term security/satisfaction (Iqna).",
+  "summaryAr": "يمثل هذا الجذر الرضا والقناعة واكتساب الأصول المدخرة وإعطاء ما يقتنى ويلازم العبد (قني)، مقرراً أن الله وحده هو مغني الفقراء ومرضيهم بالرزق والرضا.",
+  "rawText": "قنى <i>Short:</i> (K:) an epithet applied to a man. (TA.)"
+}

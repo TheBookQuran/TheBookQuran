@@ -1,0 +1,26 @@
+{
+  "rootId": "r1690",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:39:17.504Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Sperm-drop, pure water, leaking, or drop",
+  "primaryMeaning": "Sperm-drop",
+  "quranicRelevance": "The initial sperm-drop of human conception (Nutfah - 'khalaqa al-insana min nutfatin').",
+  "keyDerivations": [
+    {
+      "lemma": "نُطْفَةٌ / نُطَفٌ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Sperm-drop, drop of fluid, or seed of life"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "مِنْ نُطْفَةٍ خَلَقَهُ فَقَدَّرَهُ (80:19): From a sperm-drop He created him and proportioned him."
+  ],
+  "discardedNoise": [
+    "Pure mountain water trickles (نطاف).",
+    "Obscure details of leaking leather skins."
+  ],
+  "summaryEn": "The root represents fluid drops, primarily defining the biological seed (Nutfah) that serves as the baseline of human material creation.",
+  "summaryAr": "يمثل هذا الجذر قطرات الماء الصافي، محدداً القطرة التناسلية الموجدة للبدن البشري (نطفة) كآية على الإيجاد والتقدير.",
+  "rawText": "نَاطِفٌ <i>A kind of sweetmeat;</i> (Msb;) <i>i. q.</i> قُبَّيْطَى. (S, Msb.)\nنَطَفٌ <i>Earrings:</i> see a verse cited in art. سجد.\nنُطْفَةٌ <i>Sperma</i> of a man (S, Msb, K) and of a woman. (Msb.)"
+}

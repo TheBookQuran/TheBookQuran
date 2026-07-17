@@ -1,0 +1,42 @@
+{
+  "rootId": "r1853",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:20:57.876Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Placing, laying down, birth, lower status, or speed",
+  "primaryMeaning": "To place, lay down, or give birth",
+  "quranicRelevance": "Laying down burdens or rules ('wada'na'), giving birth (Wadha'at - 'wada'at hamlaha'), establishing the scale ('wada'a al-mizan'), and making places.",
+  "keyDerivations": [
+    {
+      "lemma": "وَضَعَ",
+      "form": "Form I Verb",
+      "meaning": "To place, set, lay down, deliver (birth), or establish"
+    },
+    {
+      "lemma": "أَوْضَعَ",
+      "form": "Form IV Verb",
+      "meaning": "To hasten, ride quickly, or spread discord swiftly"
+    },
+    {
+      "lemma": "مَوْضِعٌ / مَوَاضِعُ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Place / places, or context/positions"
+    },
+    {
+      "lemma": "مَوْضُوعَةٌ",
+      "form": "Adjective / Passive part.",
+      "meaning": "Placed, set in place, or prepared"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَلأَوْضَعُوا خِلَالَكُمْ (9:47): And they would have active/swiftly run about among you (spreading discord).",
+    "وَالْأَرْضَ وَضَعَهَا لِلْأَنَامِ: And the earth He established/set for creature life."
+  ],
+  "discardedNoise": [
+    "Grammatical status of prepositions.",
+    "Post-classical definitions of 'fabricated' (Mawdoo') traditions."
+  ],
+  "summaryEn": "The root denotes establishing and laying down, representing physical placement, childbirth, cosmic balance (Mizan), and malicious speed (Awda'u).",
+  "summaryAr": "يدل هذا الجذر على الحط والوضع، ممثلاً وضع الحمل والولادة، ووضع الميزان، ومواضع الكلمات، والإسراع في الفتنة (أوضعوا).",
+  "rawText": "أَكَمَةٌ مُتَوَاضِعَةٌ [† <i>A low hill</i>]. (S in art. خشع.)\nأَوْضَعَ 4 See 1. === مِنْ أَيْنَ أَوْضَعَ الرَّاكِبُ <i>i. q.</i> من اين أَوْضَحَ. (T, in L, art. وضح.)\nاِتَّضَعَتْ أَرْكَانُهُ 8 : see R. Q. 2 in art. ضع.\nتَوَاضَعَ 6 <i>He was,</i> or <i>became, lowly, humble, submissive,</i> or <i>in a state of abasement:</i> (Msb:) or <i>he lowered, humbled,</i> or <i>abased, himself.</i> (S, K.) === تَوَاضَعَا الرُّهُونَ <i>They two laid bets, wagers,</i> or <i>stakes, each with the other;</i> syn. تَرَاهَنَا. (TA, art. رهن.) === تَوَاضَعَتِ الأَرْضُ ‡ <i>The land was lower than that which was next to it.</i> (TA.)\nضَِعَةٌ perhaps an inf. n. of وَضَعَتْ, meaning “ she brought forth: ” see 1, third sentence, in art. قرأ.\nفِى فُلَانٍ تَوْضِيعٌ 2 : see طُرْقَةٌ.\nمَوْضُوعٌ <i>A certain pace</i> of a beast; <i>contr. of</i> مَرْفُوعٌ. (S in art. رفع.) === مَوْضُوعٌ as an inf. n., signifying a certain manner of going of a beast: see رَفَعَ البَعِيرُ. === مَوْضُوعٌ, in logic, † <i>A subject, as opposed to a predicate:</i> and † <i>a substance, as opposed to an accident:</i> in each sense, <i>contr. of</i> مَحْمُولٌ. === † The <i>subject</i> of a book or the like. === See مَصْنُوعٌ. === أَصْوَاتٌ مَصُوغَةٌ مَوُضُوعَةٌ: see art. صوغ.\nمُوَاضَعَة [when used as a conv. term in lexicology] <i>i. q.</i> إِصْطِلَاحٌ [when so used]. (Mz, 1st نوع.)\nهُوَ مَوْضِعُ سِرِّى <i>He is the depository of my secret, or secrets.</i> === مَوْضِعُهُ الرَّفْعُ <i>Same as</i> مَحَلُّهُ الرفع === مَوْضِعٌ The <i>proper application,</i> or <i>meaning,</i> of a word. (Bd, iv. 48 and v. 45.) See 1 in art. حرف. And The <i>case in which a word is to be used:</i> see S, art. on the particle فَ. === And The <i>proper place</i> of a thing. === <i>Ground;</i> as when one says, “ a ground for, or of, belief, trust, accusation, ” &c. And The <i>proper object</i> of an action, &c.: as in the phrase فُلَانٌ مَوْضِعٌ لِلْإِكْرَامِ <i>Such a one is a proper object of honouring.</i>\nوَضَعَهُ 1 <i>He put it,</i> or <i>laid it,</i> (KL, * PS,) in, or on, a place: (PS:) <i>he put it,</i> or <i>threw it, down</i> from his hand: (TA:) <i>contr. of</i> رَفَعَه: (Mgh:) syn. حَطَّهُ: (K, * TA, in art. حط:) but it has a more general sense than this last. (Er-Rághib, Kull.) === وَضَعَ <i>He put down</i> a thing: contr. of رَفَعَ. (K, voce نَصَبَ.) === وَضَعَتْ <i>She brought forth.</i> === وَضَعَ لَهُ <i>He appointed to him,</i> or <i>for him,</i> a sign, or token, &c.: see Msb in art. علم. === وَضَعَ عَلَيْهِ <i>He imposed upon him</i> a fine, or tax, &c. === وَضَعَ <i>He remitted</i> a tax or the like; <i>did not exact</i> it. (Mgh, Msb, in art. جوح.) === وَضَعُوا الحَرْبَ † [<i>They gave over,</i> or <i>relinquished, war;</i>] <i>they made peace;</i> opposed to رَفَعُوهَا. (Ham, pp. 179 and 180.) === وَضَعَ مِنْهُ, (S,) or عَنْهُ, (K,) <i>He lowered his grade, rank, condition,</i> (S, K,) or <i>estimation.</i> (K.) === وُضِعَ فِى تِجَارَتِهِ <i>He lost,</i> or <i>suffered loss or diminution, in his traffic;</i> (S, Mgh, Msb, K;) <i>did not gain in it;</i> (Mgh;) as also 🡻أُوْضِعَ. (Mgh.) === وَضَعَ <i>He forged</i> (a word:) <i>he forged</i> (poetry, على in the name of). (Mz, 8th نوع.) === وَضَعَ لَفْظًا لِشَىْءٍ <i>He applied</i> or <i>assigned</i> or <i>appropriated a word,</i> or <i>phrase, to denote,</i> or <i>signify, a thing.</i> (Kull, 371, &c.) See also إِزَآء. === وَضَعْتُ عَلَيْهِ الشَّىْءَ app. signifies <i>I made the thing according to his,</i> or <i>its, measare.</i> See قَدَرْتُ.\nوَضِيعٌ <i>Low, ignoble, vile,</i> or <i>mean; of no rank,</i> or <i>estimation.</i> (Msb.)\nوَضْعٌ , as one of the ten predicaments, or categories, <i>Collocation,</i> or <i>posture.</i> === Also The <i>constitution</i> of a thing; its <i>conformation;</i> its <i>make.</i> And <i>i. q.</i> قَنٌّ, meaning <i>A mode,</i> or <i>manner,</i> &c."
+}

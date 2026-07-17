@@ -1,0 +1,26 @@
+{
+  "rootId": "r1448",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:21:37.831Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Guarding, protecting, watching over, preserving, or shield",
+  "primaryMeaning": "Guarding/protecting",
+  "quranicRelevance": "Who protects you at night and day? (Yakla'ukum - 'man yakla-ukum bil-layli').",
+  "keyDerivations": [
+    {
+      "lemma": "كَلَأَ / يَكْلَأُ",
+      "form": "Form I Verb",
+      "meaning": "To guard, protect, watch over, shield, preserve, or shepherd"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "قُلْ مَنْ يَكْلَؤُكُمْ بِاللَّيْلِ وَالنَّهَارِ مِنَ الرَّحْمَٰنِ (21:42): Say: 'Who guards/protects you by night and by day from the (punishment of the) Most Merciful?'"
+  ],
+  "discardedNoise": [
+    "Green desert grass (Kala') - spelling overlap in dictionaries.",
+    "Fawning over royalty (Mala')."
+  ],
+  "summaryEn": "The root denotes protective guarding (Kilaa'ah), asking a rhetorical question to challenge humans on who preserves them from sudden cosmic harm other than God.",
+  "summaryAr": "يدل هذا الجذر على الحفظ والحراسة والرعاية الحذرة (كلأ)، سائلاً الكفار عمن يحفظهم ويحرسهم ليل نهار من بأس الرحمن غير الله (يكلوكم).",
+  "rawText": "الكُلَى : <i>the feathers</i> so called: see مَنَاكِبُ and أَبْهَرُ.\nالكُلْيَتَانِ <i>A name of two stars on the ear of Taurus.</i> (See الكَلْبَانِ.)\nكَلَا 1 , first pers. كَلَاتُ, aor. يَكْلُو; and كَلَا, first pers. كَلَيْتُ, aor. يَكْلَا; inf. n., كِلَايَةٌ; see كَلَأَ."
+}

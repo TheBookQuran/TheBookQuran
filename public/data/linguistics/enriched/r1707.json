@@ -1,0 +1,36 @@
+{
+  "rootId": "r1707",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:09:34.147Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Benefit, utility, gain, or profit",
+  "primaryMeaning": "To benefit or be useful",
+  "quranicRelevance": "Usefulness/benefit (Naf'), profit in trade or deeds, and giving benefit.",
+  "keyDerivations": [
+    {
+      "lemma": "نَفَعَ",
+      "form": "Form I Verb",
+      "meaning": "To benefit, profit, be useful, or avail"
+    },
+    {
+      "lemma": "نَفْعٌ",
+      "form": "Noun",
+      "meaning": "Benefit, utility, or profit"
+    },
+    {
+      "lemma": "مَنَافِعُ",
+      "form": "Noun pl.",
+      "meaning": "Benefits, advantages, or uses"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "لَا يَمْلِكُونَ لِأَنْفُسِهِمْ نَفْعًا وَلَا ضَرًّا: They possess for themselves neither benefit nor harm."
+  ],
+  "discardedNoise": [
+    "Profit margins in international trade.",
+    "Obscure details on camels' wool utilities."
+  ],
+  "summaryEn": "The root represents benefit and utility, contrasting the real benefits of faith with the uselessness of idols.",
+  "summaryAr": "يمثل هذا الجذر النفع والفائدة، مقارناً النفع الحقيقي للإيمان بعجز الأوثان وعدم إفادتها.",
+  "rawText": "اِسْتَنْفَعَهُ 10 <i>He sought,</i> or <i>demanded, his profiting him,</i> or <i>being useful to him.</i> (IAar, TA.) === And اِسْتَنَفَعَ sometimes occurs in the sense of 🡻اِنْتَفَعَ. (TA.)\nاِنْتَفَعَ بِهِ 8 <i>He benefited</i> or <i>profited by it; made use of it; had the use of it; enjoyed it;</i> like تَمَتَّعَ بِهِ. See 10.\nمَنْفَعَةٌ [<i>A cause, or means, of advantage, profit, utility;</i> or <i>benefit:</i> and simply, <i>advantage; profit,</i> or <i>profitableness; utility, use, usefulness;</i> or <i>benefit:</i>] contr. of مَضَرَّةٌ. (S, art. ضر.)\nنَفَعَهُ 1 <i>It profited him; availed him; was of use</i> or <i>benefit,</i> or <i>was useful</i> or <i>beneficial, to him.</i> === نَفَعَهُ مِنْهُ: see an ex. voce جَدٌّ. === يَنْفَعُ لِكَذَا, and مِنْ كَذَا, <i>It</i> (a medicine) <i>is good, beneficial,</i> or <i>profitable, as a remedy, for,</i> or <i>against, such a thing,</i> meaning such a disease or the like.\nنَفَّعَهُ 2 , inf. n. تَنْفِيعٌ, <i>He caused</i> نَفْع <i>to come to him.</i> (TA.)\nنَفْعٌ <i>contr. of</i> ضَرٌّ: (TA:) or <i>a thing whereof one makes use for the attainment of good:</i> (B:) or <i>good:</i> or <i>a means of attaining one's desire.</i> (Msb.)"
+}

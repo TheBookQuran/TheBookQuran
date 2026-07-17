@@ -1,0 +1,31 @@
+{
+  "rootId": "r166",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:21:37.831Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Crumbling, crushing to dust, driving sheep, flour paste, or mix",
+  "primaryMeaning": "Crumbling/crushing to dust",
+  "quranicRelevance": "Mountains crumbled to dust (Bussat - 'wa-bussati al-jibalu bassan').",
+  "keyDerivations": [
+    {
+      "lemma": "بَسَّ / يَبُسُّ",
+      "form": "Form I Verb (passive: bussat)",
+      "meaning": "To crumble, crush to dust, grind, break down, or disperse"
+    },
+    {
+      "lemma": "بَسٌّ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Crumbling, crushing, grinding, or pulverizing mass"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَبُسَّتِ الْجِبَالُ بَسًّا ﴿٥﴾ فَكَانَتْ هَبَاءً مُنْبَثًّا (56:5-6): And the mountains are crumbled/crushed completely, becoming scattered dust (apocalyptic land leveling)."
+  ],
+  "discardedNoise": [
+    "Whispering sheep calls (Bess) in pastoral fields.",
+    "Mixing flour paste (Basseesah)."
+  ],
+  "summaryEn": "The root represents pulverizing into dust (Bass), detailing the terrifying physical disintegration of solid mountains into flying dust on Judgment Day.",
+  "summaryAr": "يمثل هذا الجذر تفتيت الطحين الجاف ودق وتفتيت الصخور الصلبة (بسّ)، مصوراً تطحن وانهيار الجبال الصخرية لتصير غباراً منبثاً (وبست الجبال بساً).",
+  "rawText": "بَسِيسَةٌ <i>Wheat, &c., broken,</i> or <i>crumbled,</i> or <i>bruised:</i> (Msb:) or سَوِيق [or <i>meal of parched barley or wheat</i>], and <i>flour, &c., mixed with clarified butter,</i> or <i>with olive-oil:</i> (M:) or <i>what is stirred about with olive-oil,</i> or <i>with clarified butter, and not wetted [with water</i>]: (Lh, M:) or سويق, or <i>flour,</i> or <i>ground</i> أَقِط, <i>stirred about,</i> or <i>moistened, with clarified butter,</i> or <i>with oliveoil;</i> (S, K;) <i>after which it is eaten, without being cooked:</i> (S:) or سويق, and <i>flour, moistened with a little water,</i> (ISk, Msb,) <i>but more moist than such as is prepared in the manner termed</i> لَتٌّ; (Yaakoob, cited in the S; and ISk, in the Msb;) <i>and used as travelling-provision:</i> (TA:) and <i>bread dried and pounded, and</i> [<i>mixed with water so that it is</i>] <i>drunk like as</i> سويق <i>is drunk:</i> (M, K: *) IDrd thinks it to be <i>what is termed</i> فَتُوث: also <i>barley mixed with date-stones, for camels:</i> (M, TA:) or, accord. to As, <i>anything that one mixes with another thing: such as</i> سويق <i>with</i> اقط, <i>which one then moistens with fresh butter:</i> and <i>such as barley with date-stones, which one then moistens, for camels:</i> (Msb, * TA:) pl. بُسُسٌ, (IAar, TA,) which is explained in the K as signifying <i>messes of</i> سويق <i>moistened,</i> or <i>stirred about with water, &c.</i> (أَسْوِقَةٌ مَلْتُوتَةٌ). (TA.)\nبَسٌّ 1 signifies The <i>act of breaking:</i> or <i>breaking in pieces:</i> syn. حَطْمٌ. (TA.) === [And The <i>act of mixing:</i> see بَسِيسَةٌ. This, or the former, is probably the primary signification.] === [And hence, app.,] بَسَّهُ, aor. ﹹ, inf. n. بَسٌّ, (M, Msb,) <i>He broke it, crumbled it,</i> or <i>bruised</i> or <i>brayed it;</i> said of wheat, &c.; <i>thus making it what is termed</i> بَسِيسَة: (Msb:) or <i>he mixed it,</i> namely, سَويق [or meal of parched barley or wheat], and flour, &c., <i>with clarified butter,</i> or <i>with olive-oil; thus making it what is termed</i> بسِيسَة: (M:) or <i>he moistened it,</i> namely, سَوِيق, and flour, <i>with a little water;</i> (ISk, Msb;) <i>but making it more moist than one does in the action termed</i> لَتٌّ: (Yaakoob, cited in the S; and ISk, in the Msb:) or بَسٌّ signifies the <i>making,</i> or <i>preparing,</i> بسِيسَة, <i>by stirring about,</i> or <i>moistening,</i> سَوِيق, or <i>flour,</i> or <i>ground</i> أَقِط, <i>with clarified butter,</i> or <i>with olive-oil;</i> (S, K;) after which it is eaten, without being cooked. (S.) === [And hence the saying in the Kur lvi. 5,] وَبُسَّتِ الجِبَالُ بَسًّا <i>And the mountains shall be crumbled with a</i> vehement <i>crumbling,</i> (Lh, M, A, K,) <i>like flour, and</i> سَوِيق, (A,) <i>and become earth:</i> (Fr, K:) or <i>become dust cleaving to the earth:</i> (AO, M, TA:) or <i>be levelled:</i> (M, TA:) or <i>mixed with the dust:</i> (Zj, M, TA:) or <i>reduced to powder and scattered in the wind.</i> (TA.)"
+}

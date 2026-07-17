@@ -1,0 +1,37 @@
+{
+  "rootId": "r1878",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:05:27.741Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Trust, reliance, deputy, or guardianship",
+  "primaryMeaning": "To entrust or rely",
+  "quranicRelevance": "Relying on God (Tawakkul), trustee/guardian (Wakeel), and entrusting affairs.",
+  "keyDerivations": [
+    {
+      "lemma": "وَكِيلٌ",
+      "form": "Noun",
+      "meaning": "Trustee, guardian, protector, or deputy (attribute of God)"
+    },
+    {
+      "lemma": "تَوَكَّلَ",
+      "form": "Form V Verb",
+      "meaning": "To rely, trust, or place one's confidence"
+    },
+    {
+      "lemma": "وَكَّلَ",
+      "form": "Form II Verb",
+      "meaning": "To entrust, or appoint as a guardian"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "حَسْبُنَا اللَّهُ وَنِعْمَ الوَكِيلُ: God is sufficient for us, and how excellent a Trustee/Guardian He is.",
+    "تَوَكَّلْ عَلَى اللَّهِ: Place your reliance and trust in God."
+  ],
+  "discardedNoise": [
+    "Specific details of agency contracts in post-classical commercial law.",
+    "Obscure details on camels relying on their drivers."
+  ],
+  "summaryEn": "The root denotes trust and guardianship, undergirding the spiritual duty of reliance on God (Tawakkul) and His role as the ultimate Trustee (Wakeel).",
+  "summaryAr": "يدل هذا الجذر على الأمانة والتوكيل، مؤصلاً للواجب الإيماني بالاعتماد على الله (التوكل) وصفته سبحانه كوكيل حافظ خبير.",
+  "rawText": "إِوْتَكَلَ 8 see 5. === مُتَّكَلٌ is used as an inf. n. of اِتَّكَلَ.\nتَوَاكَلَهُ 6 <i>He deserted him,</i> or <i>it: i. q.</i> تركته: see two exs. voce سَدِرٌ.\nتَوَكَّلَ عَلَيْهِ 5 , and 🡻اِتَّكَلَعليه, <i>He relied upon him;</i> (S, Msb;) <i>and confided in him:</i> (Msb:) <i>he submitted himself to him.</i> (K.) === تَوَكَّلَ بِالأَمْرِ <i>He became responsible to him for the management of the affair.</i> (TA.) === تَوَكَّلَ لَهُ بِهِ <i>He became responsible to him for it.</i> (TA.) === تَوَكَّلَ فِى أَمْرٍ <i>He became</i> وَكِيل <i>in an affair.</i> === توكّل بِمَالِ أَحَدٍ <i>He became administrator of one's property.</i>\nتُكَلَةٌ : see وَكَلٌ\nوَكَالَةٌ , for دَارُ الوَكَالَةِ, <i>A factory:</i> pl. وَكَائِلُ.\nوَكَلٌ and 🡻وُكَلَةٌ and 🡻تُكَلَةٌ An <i>impotent man,</i> (S, K,) <i>who commits his affair to another.</i> (S.)\nوَكَلَهُ إِلَى رَأْيِهِ 1 , inf. n. وَكْلٌ and وُكُولٌ, <i>He left him to his opinion,</i> or <i>judgment.</i> (TA.) And وَكَلْتُهُ إِلَى نَفْسِهِ, aor. يَكِلُ, inf. n. وُكُولٌ, [<i>I left him to himself;</i>] <i>I did not manage his affair, nor aid him.</i> (Msb.) And كِلْنِى إِلَى كَذَا <i>Leave thou me to manage such a thing.</i> (TA.) === وَكَلْتُهُ إِلَى دِينِهِ [<i>I left him to his religion, not interfering with him therein</i>]. (S, Msb, K, voce دَيَّنْتُهُ.)\nوَكِيلٌ <i>A witness;</i> syn. شَهِيدٌ. (Jel, ii. 66; and iv. 169.) === <i>A commissioned agent; a factor; a deputy.</i>\nوَكَّلَهُ بِشَىْءٍ 2 <i>He appointed him,</i> or <i>intrusted him, as his commissioned agent, factor, or deputy, with the management, or disposal, of a thing.</i> === وَكَّلْتُ بِفُلَانٍ <i>I associated a</i> وَكِيل [or <i>factor,</i> &c.] <i>with such a one.</i> (T in art. بِ.)\nوُكَلَةٌ : see وَكَلٌ"
+}

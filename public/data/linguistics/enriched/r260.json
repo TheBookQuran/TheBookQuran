@@ -1,0 +1,26 @@
+{
+  "rootId": "r260",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:25:04.476Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Gushing water, serpent, flow, channel, pouring, or snake",
+  "primaryMeaning": "Serpent/snake (flowing motion) or gushing",
+  "quranicRelevance": "Moses' staff turning to serpent (Thu'ban - 'thu'banun mubeenun').",
+  "keyDerivations": [
+    {
+      "lemma": "ثُعْبَانٌ",
+      "form": "Noun",
+      "meaning": "Serpent, large snake, dragon, or fast-flowing reptile"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فَأَلْقَىٰ عَصَاهُ فَإِذَا هيَ ثُعْبَانٌ مُبِينٌ (7:107): Then he threw his staff, and suddenly it was a manifest/real serpent (Moses' physical sign to Pharaoh)."
+  ],
+  "discardedNoise": [
+    "Flowing water channels (Mi'thab) - irrigation logs.",
+    "Snake charmer shows."
+  ],
+  "summaryEn": "The root refers to serpents (Thu'ban), describing the miracle of Moses' wooden staff turning into a real, manifest serpent to confront Pharaoh's court.",
+  "summaryAr": "يشير هذا الجذر إلى انسياب الماء الجاري والحية الكبيرة الضخمة (ثعبان)، واصفاً تحول عصى موسى لثعبان حقيقي مبين أذهل سحرة فرعون.",
+  "rawText": "أُثْعُبَانٌ : see ثَعْبٌ.\nأُثْعُوب : see ثَعْبٌ, in three places.\nانثعب 7 <i>It</i> (water) <i>had vent;</i> or <i>it flowed forth, ran,</i> or <i>streamed;</i> (S, A, K;) in, or through, a مَثْعَب: (S TA:) and in like manner, rain: (TA:) and blood from the nose. (S, TA.) === [Hence,] صَاحَ بِهِ فَٱنْثَعَبَ إِلَيْهِ ‡ <i>He called out to him and he sprang up and ran to him.</i> (A, TA.)\nثَعَبٌ , (so in the S, expressly said to be بِالتَّحْرِيكِ,) or 🡻ثَعْبٌ, (so in the K,) in some copies of the K, erroneously, مَثْعَب, (TA,) <i>A water-course of a valley; a channel in which water flows in a valley:</i> (S, K:) accord. to Lth, the <i>rubbish and scum that collect in the channel in which the rainwater flows;</i> but Az disapproves of this explanation of the word, and says that it signifies, in his opinion, the channel itself: (TA:) the pl. is ثْعْبَانٌ. (S, K.) One says, سَالَتِ الثُّعْبَانُ كَمَا سَالَ الثُّعْبَانُ, i. e. <i>The torrent</i> [or rather <i>the torrents ran like the serpent called</i> ثعبان]. (A, TA.) === See also ثَعْبٌ.\nثَعَبَهُ 1 , (S, A, K,) aor. ﹷ, (K,) inf. n. ثَعْبٌ, (S,) <i>He gave vent to it;</i> or <i>made it to flow forth, run,</i> or <i>stream;</i> namely, water, (S, A, K,) and blood, and the like. (K.) ثعب دَمًا, [thought by MF to be ثَعَبَ, but I see no reason why it should not be ثَعَبَ,] said of a wound, means <i>It flowed,</i> or <i>ran, with blood.</i> (TA.)\nثَعْبٌ , applied to water, (K,) and to blood, (TA,) <i>Flowing, running,</i> or <i>streaming;</i> as also 🡻ثَعَبٌ and 🡻أُثْعُوبٌ and 🡻أُثْعُبَانٌ. (K, TA.) You say سَيْلٌ 🡻أُثْعُوبٌ [<i>A flowing torrent</i>]. (A.) === And [hence,] شَرٌّ 🡻أُثْعُوبٌ ‡ [<i>Evil that takes its course like a stream</i>]. (A.) === See also what next follows.\nثُعْبَانٌ <i>A kind of long serpent:</i> (S:) <i>a great serpent;</i> applied to the <i>male</i> and the <i>female:</i> (Msb:) <i>a bulky and long serpent,</i> (Sh, K, TA,) <i>that hunts the rat</i> or <i>mouse, to which latter animal the name is sometimes metaphorically applied, and that is more useful in the house than are cats:</i> (Sh, TA:) or particularly the <i>male</i> [<i>serpent</i>], (Ktr, K,) <i>that is yellow,</i> and <i>ruddy:</i> (Ktr:) or the <i>serpent in general,</i> (ISh, K,) <i>male</i> and <i>female, great</i> and <i>small:</i> (ISh:) [also applied to <i>an enormous fabulous serpent;</i> described by Kzw and others:] pl. ثَعَابِينُ. (S, Msb.) === [رَئيِسُ الثَّعَابِينِ <i>The basilisk.</i> (Golius, from a Glossary.)] === دَمُ الثُّعْبَانِ: see دَمٌ.\nفُوهُ يَجْرِى ثَعَابِيبَ , (As, S, K,) or فَمُهُ, (TA,) and سَعَابِيبَ, (S,) <i>His mouth runs with clear water, having an extended</i> [or <i>a ropy</i>] <i>flow.</i> (As, S, K.)\nمَثْعَبٌ [The <i>outlet,</i> or <i>place of outpouring, of the water</i> of a watering-trough &c.;] the <i>place of passage for the water, in the side of a wateringtrough</i> or <i>tank:</i> and <i>a channel,</i> or <i>conduit, for water:</i> (KL:) pl. مَثَاعِبُ. (S, A.) You say مَثْعَبُ الحَوةَ [<i>The outlet for the water of the watering-trough</i> or <i>tank</i>]: (S, A:) and مَثْعَبُ السَّطْحِ [<i>the outlet for the water of the house-top</i>]: (A:) and مَثْعَبُ المَطَرِ [<i>the outlet,</i> or <i>channel, for the rain-water</i>]: (TA:) from ثَعَبَ المَآءَ “he gave vent to the water,” or, “made it to flow forth,” &c. (A, TA.) And مَثَاعِبُ المَدِينَةِ, meaning <i>The channels,</i> or <i>places of flowing, of the water of the city:</i> (K, TA:) whence it appears that MF has erred in saying that مَثْعَبٌ signifies [only] <i>a</i> مِزْرَاب [or <i>spout for conveying away water from a housetop</i> &c.]: not a channel, or place of flowing. (TA.) [See also صُنْبُورٌ, and لَوْلَبْ.]"
+}

@@ -1,0 +1,26 @@
+{
+  "rootId": "r1525",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:21:37.831Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Panting (like a dog), gasping for air, tongue out, fatigue, or thirst",
+  "primaryMeaning": "Panting (with tongue out)",
+  "quranicRelevance": "Denier panting like a dog (Yalhas - 'yalhath aw tatrukhu yalhath').",
+  "keyDerivations": [
+    {
+      "lemma": "لَهَثَ / يَلْهَثُ",
+      "form": "Form I Verb",
+      "meaning": "To pant, gasp for air, protrude the tongue in exhaustion/heat, or breathe heavily"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فَمَثَلُهُ كَمَثَلِ الْكَلْبِ إِنْ تَحْمِلْ عَلَيْهِ يَلْهَثْ أَوْ تَتْرُكْهُ يَلْهَثْ (7:176): So his parable is like that of the dog: if you chase him, he pants/gasp, or if you leave him alone, he pants (chronic spiritual restlessness)."
+  ],
+  "discardedNoise": [
+    "Modern gasping for breath during asthma attacks.",
+    "Panting runners."
+  ],
+  "summaryEn": "The root represents panting (Lahth), using the restless dog's panting tongue to illustrate the persistent misery of those who throw away divine verses.",
+  "summaryAr": "يمثل هذا الجذر تنفس الكلب الحار الخارج من فمه مع إخراج اللسان تعباً أو عطشاً (لهث)، مشبهاً الشقي المعرض عن الهداية بالكلب يلهث بكل حال.",
+  "rawText": "إِلْتَهَثَ 8 see 1.\nفِى سَكْرَةٍ مَلْهَثَةٌ <i>In intoxication is a cause,</i> or <i>an occasion, of</i> لهث [i. e., <i>thirst;</i> or <i>putting forth the tongue by reason of thirst</i>]. (TA, from a trad.)\nلَهِثَ 1 , aor. ﹷ, inf. n. لَهَثٌ and لَهَاثٌ and لَهَثَانٌ, <i>He thirsted; was thirsty:</i> (S, K:) or <i>thirst heated his belly,</i> or <i>inside.</i> (L.) === لَهَثَ, aor. ﹷ, inf. n. لَهْثٌ and لُهَاثٌ; (S, K;) and لَهِثَ, aor. ﹷ; (TA;) and 🡻التهث; (K;) <i>He</i> (a dog, S, and a man, and, in the case of the second verb, a bird also, TA) <i>put forth his tongue, by reason of thirst,</i> or <i>fatigue,</i> or <i>weariness:</i> (S, K:) or لَهَثَ signifies <i>his breath</i> (نفس) <i>rose, by reason of fatigue,</i> or <i>weariness:</i> or <i>he</i> (a dog) <i>put forth his tongue, by reason of thirst:</i> and <i>he</i> (a man) <i>was fatigued,</i> or <i>weary.</i> (TA.)\nلَهْثَانُ <i>Thirsty:</i> (S, K:) fem. لَهْثَى. (S.)\nلُهَاثٌ The <i>heat,</i> or <i>burning, of thirst;</i> (S, K;) <i>vehemence of thirst.</i> (TA.) === ‡ The <i>severity,</i> or <i>vehemence,</i> of death. (K, TA.) ___ See لُهْثَةٌ.\nلُهَاثِىٌّ † A man (TA) <i>having many red moles</i> (خِيلَان) <i>on his face:</i> (Fr, K:) from لُهَاثٌ, signifying the “ specks in palm-leaves. ” (Fr.)\nلُهَّاثٌ [pl. of لَاهِثٌ?] <i>Manufacturers, with palm-leaves, of the kind of baskets called</i> دَوَاخِلُّ, (K,) pl. of دَوْخَلَّهٌ, <i>in which dates are put.</i> (AA.)\nلُهْثَةٌ <i>Thirst.</i> (K.) === <i>Fatigue.</i> (AA, K.) === The <i>red speck in a palm-leaf,</i> (K,) <i>which you see when you split it.</i> (TA.) === لُهَاثٌ [for لِهَاثٌ, pl. of لُهْثَةٌ,] The <i>specks in palmleaves:</i> (Fr, K:) the <i>red specks in palm-leaves, when they are split:</i> (Fr, TA:) accord. to rule, it should be لِهَاثٌ, like نِقَاطٌ. (K.)"
+}

@@ -1,0 +1,36 @@
+{
+  "rootId": "r1501",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:12:08.450Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Expulsion, banishment, curse, or deprivation of mercy",
+  "primaryMeaning": "To curse or banish",
+  "quranicRelevance": "God's curse/banishment of Satan and wrongdoers (La'nah), and mutual cursing (Lian).",
+  "keyDerivations": [
+    {
+      "lemma": "لَعَنَ",
+      "form": "Form I Verb",
+      "meaning": "To curse, banish, or expel from mercy"
+    },
+    {
+      "lemma": "لَعْنَةٌ",
+      "form": "Noun",
+      "meaning": "Curse, banishment, or exclusion from grace"
+    },
+    {
+      "lemma": "مَلْعُونٌ",
+      "form": "Adjective / Passive part.",
+      "meaning": "Cursed, banished, or expelled"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "الشَّجَرَةَ المَلْعُونَةَ (17:60): The cursed/banished tree (Zaqqum in Hell)."
+  ],
+  "discardedNoise": [
+    "Pre-Islamic social banishment rules for murderers.",
+    "Grammatical disputes on the passive participle form."
+  ],
+  "summaryEn": "The root signifies banishment from divine grace, describing the spiritual expulsion of Satan and unrepentant wrongdoers.",
+  "summaryAr": "يشير هذا الجذر إلى الطرد والإبعاد من رحمة الله، واصفاً الطرد الروحي للشيطان والظالمين المصرين على الذنوب.",
+  "rawText": "لَعِينٌ The <i>base,</i> or <i>lower part, of a raceme of a palm-tree.</i> (TA in art. عهن.)\nلُعْنَةٌ A man <i>who is much cursed.</i> (TA in art. خدع.)"
+}

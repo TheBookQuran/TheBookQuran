@@ -1,0 +1,37 @@
+{
+  "rootId": "r1527",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:29:55.134Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Distraction, play, amusement, diversion, or neglect",
+  "primaryMeaning": "To distract or amuse oneself",
+  "quranicRelevance": "Distraction from truth/remembrance (Lahw - 'alhakumu at-takathur'), amusement/vanity ('lahwon wa la'ibon'), and distracted hearts (Lahiyah).",
+  "keyDerivations": [
+    {
+      "lemma": "لَهْوٌ",
+      "form": "Noun",
+      "meaning": "Amusement, diversion, vanity, distraction, or play"
+    },
+    {
+      "lemma": "أَلْهَى",
+      "form": "Form IV Verb",
+      "meaning": "To distract, divert, keep busy, or make heedless"
+    },
+    {
+      "lemma": "لَاهِيَةٌ",
+      "form": "Adjective fem. / Active part.",
+      "meaning": "Distracted, heedless, or play-filled (hearts)"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "لَوْ أَرَدْنَا أَنْ نَتَّخِذَ لَهْوًا (21:17): If We had willed to take a play/pastime (refuting divine vanity).",
+    "لَاهِيَةً قُلُوبُهُمْ: Distracted/heedless are their hearts."
+  ],
+  "discardedNoise": [
+    "Musical instruments (ملاهي) in modern Arabic.",
+    "Obscure details of throwing meat to dogs."
+  ],
+  "summaryEn": "The root represents distraction and amusement (Lahw), depicting the heedless diversion from eternal goals by social competition and material toys.",
+  "summaryAr": "يمثل هذا الجذر التلهي والتشاغل، واصفاً اللهو الصارف عن الغايات الكبرى (لهو) والتكاثر الملهي للقلوب الغافلة (ألهاكم).",
+  "rawText": "أَلْهَانِى الشَّىْءُ 4 <i>The thing diverted me;</i> syn. شَغَلَنِى. (Msb.) === أَلْهَاهُ بَالغِنَآءِ [<i>He diverted him by singing</i>]. (S, art. سمد.)\nتَلَهَّى بَالشَّىْءِ 5 <i>i. q.</i> تَعَلَّلَ: (TA:) and أُولِعَ بِهِ. (Msb.) === And تَلِّهَى <i>He diverted himself.</i> (TA.)\nلَهَاةٌ [The <i>uvula;</i>] the <i>red piece of flesh that hangs down from the upper</i> حَنَكِ. (Zj, in his Khalk el-Insán.) See also الأَسَالِقُ, and شِقْشِقةٌ. === اللَهُاة [generally expl. as meaning <i>The uvula:</i> or] <i>what is between the end of the root of the tongue and the end of the</i> قَلْب [thus in all the copies of the K that I have seen, an evident mistranscription for قَلْت, i. e. <i>hollow</i>] <i>of the upper part of the mouth</i> (K: [app. meaning <i>the arches,</i> or <i>pillars, of the soft palate;</i> agreeably with the next explanation here following:]) or <i>the furthest part of the mouth:</i> [see غُنّةٌ:] and, of the he-camel, <i>the</i> شِقْشِقَة [i. e. <i>bursa faucium</i>]. (JK.) See also a usage of the pl., لَهَواتٌ, in the last explanation of قَلْتٌ.\nلَهِىَ عَنْهُ 1 , (S, Msb, K) and لَهَا عنه (Msb, K,) <i>He became diverted from it, so as to forget it.</i> (S, Msb, K.) === See an ex. voce استأثر: and see عَنْ. === لَهَتْ إِلَى حَدِيثِهِ, inf. n. لَهْوٌ and لُهُوٌّ, <i>She</i> (a woman) <i>was,</i> or <i>became, cheered,</i> or <i>delighted,</i> and <i>pleased, with his discourse.</i> (M, K.) And so لَهَوْتُ بِحَدِيثِهِ. (T in art. رنو.)\nلَهْوٌ <i>Diversion; pastime; sport; play:</i> or especially, <i>such as is vain,</i> or <i>frivolous; idle sport:</i> (from various explanations:) <i>what occupies a man so as to divert him from that which would render him sad</i> or <i>solicitous, &c.:</i> (TA:) or <i>relief of the mind by means which wisdom does not require:</i> this [it is said] is the original signification: (Et-Tarasoosee, Msb:) <i>a thing in which a man delights himself, and which occupies him so as to divert him, and then ceases.</i> (KT.) It has a more general application than لَعِبٌ: for ex., the hearing of musical instruments or the like is لَهْوٌ, but not لَعْبٌ. (TA.) === آلَةُ لَهْوٍ [<i>An instrument of diversion,</i> meaning, <i>of music</i>]. (K voce رَبَابٌ.)\nلُهْوَةٌ <i>What is thrown,</i> [i. e. the <i>quantity of corn that is thrown,</i>] (S, K,) <i>by the grinder, with his hand,</i> (S,) <i>into the mouth of the mill</i> or <i>millstone.</i> (S, K.) And The <i>mouth</i> [<i>itself</i>] of the mill or mill-stone. (IKtt, TA; and S voce اخُرٌّ.)"
+}

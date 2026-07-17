@@ -1,0 +1,37 @@
+{
+  "rootId": "r1659",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:23:40.664Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Stripping away, extracting, disputing, or tearing out",
+  "primaryMeaning": "To pull out or strip away",
+  "quranicRelevance": "Extracting souls violently (Naz' - 'wan-nazi'ati gharqan'), stripping away power or clothes, and dispute/dissension (Niza' - 'wa la tanaza'oo').",
+  "keyDerivations": [
+    {
+      "lemma": "نَزَعَ",
+      "form": "Form I Verb",
+      "meaning": "To strip away, remove, pull out, extract, or take away"
+    },
+    {
+      "lemma": "تَنَازَعَ",
+      "form": "Form VI Verb",
+      "meaning": "To dispute, argue, contend mutually, or pass around"
+    },
+    {
+      "lemma": "نَازِعَاتٌ",
+      "form": "Noun / Active part. pl. fem.",
+      "meaning": "Those who extract/pull out violently (angels of death)"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "يَتَنَازَعُونَ فِيهَا كَأْسًا (52:23): They will pass around/exchange among themselves a cup (friendly passing of cups in Paradise, from naza' meaning to pull/exchange).",
+    "وَنَزَعْنَا مَا فِي صُدُورِهِمْ: And We will strip/remove whatever was in their chests of resentment."
+  ],
+  "discardedNoise": [
+    "Pulling a bow string in archery.",
+    "Obscure details of camel migration paths (نزيع)."
+  ],
+  "summaryEn": "The root spans extraction and dispute, portraying the violent extraction of souls, the stripping of power, and the friendly passing of cups in Paradise.",
+  "summaryAr": "يدل هذا الجذر على النزع والنزاع، واصفاً نزع الأرواح المذل، وسلب الملك والنعمة، والتنازع المتبادل اللطيف لكؤوس الجنة.",
+  "rawText": "أَنْزَعُ : see أَجْلَحُ.\nإِنْتَزَعَ 8 See 1. === اِنْتَزَعَ مِنْهُ حَقَّهُ <i>He wrested from him his right,</i> or <i>due.</i> === اِنْتَزَعَ حَدِيثَهُ: see اِقتضب.\nبِئْرٌ نَزُوعٌ [<i>A deep well</i>] <i>i. q.</i> جَرْورٌ. (A, voce جَرْورٌ.)\nتَنَازَعْنَا الحَدِيثَ 6 <i>We discoursed together; one with another.</i> (TA, art. هصر.) === تَنَازَعُوا الَّجَزَ بَيْنَهُمْ (K, art. رجز,) <i>They recited verses,</i> or <i>poetry, of the metre termed</i> رَجَز <i>one with another;</i> as also تَعَاطَوْهُ. (TK, art. رجز.) === تَنَازَعٌ <i>The contending in altercation, disputing,</i> or <i>litigating, one with another:</i> (K:) or تَنَازَعُوا <i>they disagreed, one with another; held different ways</i> or <i>opinions.</i> (Msb.)\nمَنْزَعُ بِئْرٍ [<i>The bottom of a well; the place from which the water is drawn</i>]. (TA, art. متح.)\nنَازَعَهُ الحَبْلَ 3 <i>He contended with him in pulling the rope;</i> syn. جَاذَبَهُ إِيَّاهُ. Hence, نازعه فى كَذَا ‡ <i>He contended, disputed,</i> or <i>litigated, with him, respecting such a thing.</i> (Mgh.) === نَازَعَهُ الكَلَامَ ‡ <i>He disputed with him in, or respecting, words.</i> (TA.) === نَازَعَتْنِى نَفْسِى إِلَى هَواهَا, inf. n. نِزَاعْ, <i>My soul strove with me to incline me to love her.</i> (TA.) See 1.\nنَزَعٌ <i>Baldness on each side of the forehead:</i> see جَلَحٌ; and غَمَمٌ.\nنَزَعَ إِلَى أَهْلِهِ 1 , (S, K,) aor. ﹻ, (S,) inf. n. نِزَاعٌ (S, K) and نُزُوعٌ and نَزَاعةٌ; (K:) and 🡻نَازَعَ; (K;) <i>He yearned towards</i> or <i>for, longed for,</i> or <i>desired, his family.</i> (S, * K, * TA, PS). === نَزَعْتُ إِلَيْهِ inf. n. نِزَاعٌ, <i>I yearned towards, longed for,</i> or <i>desired, him</i> or <i>it;</i> syn. خَنَفْتُ . (Ham, p. 429.) See an ex. voce خَفْضٌ. === Hence. نَزَعَ بِى إِلَيْهِ <i>It</i> (desire) <i>invited me to it.</i> (Har, p. 606.) === نَزَعَ إِلَيْهِ <i>He inclined to it.</i> (Har, p. 234.) === نَزَعَ إِلَى عِرْقٍ كَرِيمٍ [<i>He inclined to a noble radical,</i> or <i>ancestral,</i> or <i>hereditary quality:</i> and in like manner, لَئِيمٍ]: and نَزَعَ إِلَى أَعْرَاقِهِ and نَزَعَهَا [<i>he inclined to his radical,</i> or <i>ancestral,</i> or <i>hereditary, qualities</i>]: and أَعْرَاقُهُ نَزَعْتْ بِهِ [<i>his radical,</i> or <i>ancestral,</i> or <i>hereditary, qualities inclined him</i>]. (L, in TA.) === نَزَع <i>It inclined by likeness.</i> (Msb.) === نَزَعَ إِلَى أَبِيهِ (S, Msb, K,) فى الشَّبَهَ (S,) and نَزَعَ أَيَاهُ, (K,) <i>He resembled his father:</i> (Msb, K:) or <i>inclined to his father in likeness;</i> syn. ذَهَبَ (S:) or <i>he took after his father; had a natural likeness to him.</i> === نُزُوعٌ signifies <i>Yearning;</i> and <i>natural inclining.</i> ___ نَزَعَ and 🡻اِنْتَزَعَ <i>He pulled, plucked,</i> or <i>drew, out, or up, or off; removed from his or its place; displaced.</i> (S, Msb, K.) === نَزَعَ ثَوْبَهُ, (Mgh, in art. خلع,) and نَعْلَهُ, (Mgh and Msb in that art.,) <i>He pulled off his garment,</i> and <i>his sandal.</i> See, however, خَلَعَ. === نَزَعَ (Msb, TA,) aor. ﹻ, (TA,) inf. n. نَزْعٌ (Msb, TA,) <i>He was at the point</i> [or <i>in the agony</i>] <i>of death;</i> meaning, <i>of having his soul drawn forth:</i> (Msb:) <i>he gave up his spirit;</i> as also 🡻نَازَعَ, inf. n. نِزَاعٌ. (TA.) === نَزَعَ فِى القُوْسِ <i>He drew the bow;</i> (S, Msb, K;) i. e., <i>its string;</i> or <i>he drew,</i> or <i>pulled, the string of the bow with the arrow.</i> (TA.) ___ تَنْزِعُهُ شَعَرَةٌ بَيْضَآءُ, relating to a horse: see أَسْفَى.\nنَزَّاعٌ <i>Dragging much,</i> or <i>forcibly:</i> see Kur, lxx. 16. === العرْقُ نَزَّاعٌ (see Freytag's Arab. Prov., ii. 168) is probably similar to العِرْقُ دسَّاسٌ, and means <i>The radical,</i> or <i>ancestral,</i> or <i>hereditary, quality is wont to return to its usual possessor:</i> or it may mean, <i>is wont to draw.</i>\nنَزْعَةٌ <i>A baldness in the side of the forehead.</i> See صَدْمَةٌ.\nنُزَّعٌ is pl. of نَازِعٌ; as is also نُزُعٌ. (TA.) See an ex. in a verse cited بابٌ."
+}

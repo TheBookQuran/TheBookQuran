@@ -1,0 +1,31 @@
+{
+  "rootId": "r1486",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:00:21.796Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Joining, overtaking, catching up, annexing, or following",
+  "primaryMeaning": "To join/overtake",
+  "quranicRelevance": "Joining the righteous (Alhiqnee - 'alhiqnee bis-saliheen'), and catching up with predecessors ('lam yalhaqoo bihim').",
+  "keyDerivations": [
+    {
+      "lemma": "لَحِقَ / يَلْحَقُ",
+      "form": "Form I Verb",
+      "meaning": "To join, catch up, overtake, or follow close behind"
+    },
+    {
+      "lemma": "أَلْحَقَ / يُلْحِقُ",
+      "form": "Form IV Verb",
+      "meaning": "To join, annex, unite, or make follow"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَالَّذِينَ آمَنُوا وَاتَّبَعَتْهُمْ ذُرِّيَّتُهُمْ بِإِيمَانٍ أَلْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ (52:21): And those who believed and whose offspring followed them in faith - We will join/unite with them their offspring ( Paradise family reunion)."
+  ],
+  "discardedNoise": [
+    "Modern attachment attachments in emails.",
+    "Post-classical legal annexes."
+  ],
+  "summaryEn": "The root represents joining (Lahaq), highlighting Joseph/Solomon's prayer to join the righteous, and the promise of Paradise family reunion (Alhaqna).",
+  "summaryAr": "يمثل هذا الجذر اللحاق والانضمام، واصفاً أدعية الأنبياء باللحاق بالصالحين، ومعجزة جمع شمل العائلات المؤمنة في الجنة بلا إنقاص أجر (ألحقنا).",
+  "rawText": "أَلْحَقَهُ بِهِ 4 <i>He made him to reach, overtake,</i> or <i>come up with, him;</i> (S, Msb, * K; *) or <i>to follow him.</i> (Msb.) <i>He made it</i> (a punishment) <i>to</i> [<i>overtake him,</i> or] <i>befall him.</i> (Msb.) <i>He removed him to it;</i> namely, a place; lit., <i>caused him to reach it:</i> see an ex. voce خَافِقٌ. === <i>He affiliated him to him; announced him to be his son,</i> because of a mutual likeness. (Msb.) === أَلْحَقَهُ بِهِ <i>He classed him, as an adjunct, with him; put him on a par with him;</i> or <i>made him to be as though on a par with him;</i> See two exs. voce لَاطَ, in art. ليط. === See 1.\nإِلْحَاقٌ The <i>rendering a word quasi-coördinate to another word of which the radical letters are more in number than those of the former word.</i> A letter <i>which is added to a word for the purpose above mentioned.</i> See أَلِفُ الإِلْحَاقِ and أَلِفُ التَّكْثِيرِ in art. ا. === حَرْفُ إِلْحَاقٍ <i>A letter of adjunction,</i> or <i>quasi-coördination.</i>\nبِرَوْذَوْنٌ مُتَلَاحِكٌ <i>i. q.</i> مُتَعَاوِنٌ. (TA in art. عون.)\nتَلَا حَقَتِ المَطَايَا 6 <i>The saddle-camels overtook one another.</i> (S, K.) تَلَا حَقُوا <i>The last of them overtook,</i> or <i>came up with, the first of them.</i> (S, TA in art. درك.)\nلَاحِقُ الآطَالِ <i>Lean,</i> or <i>lank, in the sides.</i> (Ham. p. 496.) لَاحِقُ البَطْنِ <i>Lank in the belly.</i> (TA in art. رهف.)\nلَاْحَقَ 3 see 1.\nلَحِقَهُ 1 and and 🡻أَلْحَقَهُ <i>He reached him; overtook him;</i> or <i>came up with him.</i> (S, Msb, K.) === لَحِقَهُ <i>It</i> (grief, &c.) <i>overtook him;</i> or <i>ensued to him.</i> === Also, and لَحِقَ بِهِ <i>He overtook him; came up with him.</i> === لَحِقَ بِهِ <i>He became,</i> or <i>made himself, on a par,</i> or <i>as though on a par, with him.</i> See an ex. voce تَوَحَّشَ. === <i>It became adjoined,</i> or <i>annexed, to it.</i> === 🡻لُوحكَ <i>It was firmly,</i> or <i>strongly, compacted</i> or <i>coherent</i> or <i>knit together:</i> and <i>its several parts were inserted one into another.</i> (TA.) === لَحِقَهُ الثَّمَنُ, inf. n. لُحُوقٌ, [<i>i. q.</i> أَدْرَكَهُ, i. e. The payment of] <i>the price was,</i> or <i>became, obligatory on him.</i> (Msb.) === لَحِقَتْ قُوَّتُهُ وَسِنُّهُ: see the last sentence of art. عون. === لَحِقَهُ has for its inf. n. لُحُوقٌ as well as لَحَاقٌ. (TA.)\nلُحُوقٌ <i>i. q.</i> لُزُومٌ and لُصُوقٌ. (TA)\nمُلْحَقٌ , pl. مُلْحَقَاتٌ, A word <i>rendered quasiradically coördinate to another word of which the radical letters are more in number than those of the former word.</i> === مُلْحَقٌ بِالرُّبَاعِىِّ <i>A quasiquadriliteral-radical word.</i> === See إِلْحَاقٌ."
+}

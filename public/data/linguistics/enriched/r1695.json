@@ -1,0 +1,26 @@
+{
+  "rootId": "r1695",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:52:16.826Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Shouting to sheep, crying out, shepherd's call, croaking of crows, or meaningless shouting",
+  "primaryMeaning": "Shouting shepherd call",
+  "quranicRelevance": "Like one who shouts/cries out (Yaniq - 'yanziqu').",
+  "keyDerivations": [
+    {
+      "lemma": "نَعَقَ / يَنْعِقُ",
+      "form": "Form I Verb",
+      "meaning": "To shout to sheep/cattle, cry out aloud, or croak like a crow"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَمَثَلُ الَّذِينَ كَفَرُوا كَمَثَلِ الَّذِي يَنْعِقُ بِمَا لَا يَسْمَعُ إِلَّا دُعَاءً وَنِدَاءً (2:171): And the example of those who disbelieve is like that of one who shouts to that which hears nothing except a call and a cry."
+  ],
+  "discardedNoise": [
+    "Na'eq (crow bird sound) - common zoology.",
+    "General noise in classroom."
+  ],
+  "summaryEn": "The root signifies shouting commands to animals (Naq), comparing disbelievers' blank comprehension of scripture to sheep hearing only the sound of a shepherd's voice without understanding the words.",
+  "summaryAr": "يمثل هذا الجذر صياح الراعي بغنمه وزجرها فترتد صوتاً بلا فهم، وصوت الغراب (نعق)، مشبهاً الكفار في عدم فهمهم للقرآن بالدواب التي تسمع صوت الراعي ولا تفهم معناه.",
+  "rawText": "نَاعِقٌ <i>One who drives away the beasts, and cries out after them.</i> (TA in art. زعق.)\nنَاعِقَآءُ : see عَانِقَآءُ.\nنَعَقَ بِهِمْ إِلَى الفِتْنَةٍ 1 <i>He hallooed them on to fight, etc.:</i> see 10 in art. عو."
+}

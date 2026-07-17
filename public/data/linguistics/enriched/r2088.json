@@ -1,0 +1,31 @@
+{
+  "rootId": "r2088",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T18:01:00.335Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Burying alive, infanticide, female infant burial, heavy pressure, or depressing weight",
+  "primaryMeaning": "Burying alive (female infants)",
+  "quranicRelevance": "The female infant buried alive (Al-maw'oodah - 'al-maw'oodatu').",
+  "keyDerivations": [
+    {
+      "lemma": "وَأَدَ / يَئِدُ",
+      "form": "Form I Verb",
+      "meaning": "To bury alive, commit female infanticide, or crush under heavy earth"
+    },
+    {
+      "lemma": "مَوْءُودَةٌ",
+      "form": "Noun/Passive Participle",
+      "meaning": "A female infant buried alive in the earth"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَإِذَا الْمَوْءُودَةُ سُئِلَتْ ۞ بِأَيِّ ذَنْبٍ قُتِلَتْ (81:8-9): And when the female infant buried alive is asked for what sin she was killed."
+  ],
+  "discardedNoise": [
+    "Wadi (valley river bed) - W-D-Y.",
+    "Mawaddah (love/affection) - W-D-D."
+  ],
+  "summaryEn": "The root denotes burying alive (Wa'd), outlawing and condemning the pre-Islamic Arabian custom of infanticide by asserting that victims will testify in court on Judgment Day.",
+  "summaryAr": "يشير هذا الجذر إلى دفن البنت حية تحت التراب خوف العار أو الفقر (وأد)، مستشهداً بيوم الحساب حيث تسأل الموءودة تنديداً بجناية قاتلها وبراءة ذمتها.",
+  "rawText": "اِتَّأَدَ 8 (originally اِوْتَأَدَ, S,) and 🡻تَوَأَّدَ <i>He acted,</i> or <i>behaved, with moderation, gentleness,</i> or <i>deliberation, moderately, gently, deliberately,</i> or <i>contr. of hastily: with gravity, staidness, sedateness,</i> or <i>calmness:</i> (T, S, M, A, L, Msb, K:) from تُؤَدَةٌ [q. v.]: (S:) or from وَأْدٌ: or, as some say, formed by transposition, and from تَأَوَّدَت فِى قِيَامِهَا, meaning “ she (a woman) bent in her rising, by reason of her heaviness. ” (T, L.) Ex. اتّأد فِى أَمْرِهِ, and 🡻توأّدفِيهِ, <i>He acted with moderation, gentleness, &c., in his affair:</i> (S, * A, L, * Msb:) and فِى مَشْيِهِ <i>in his walk,</i> or <i>pace,</i> or <i>gait.</i> (S, L.)\nتوأّدت عَلَيْهِ الأَرْضُ 5 <i>The earth,</i> or <i>the land, hid,</i> or <i>concealed him, and</i> [<i>as it were</i>] <i>removed him:</i> (T, :) formed by transposition from تودّأت, [q. v. in art. ودأ]. (T.) See 8.\nتَوْءَدٌ : see تُؤَدَةٌ.\nتُؤَدَةٌ (T, S, M, L, Msb, K) and تُؤْدَةٌ (M, L, K) and تودة, without ء, [i. e., تُوَدَةٌ or تُودَةٌ,] (TA,) and 🡻تَوْءَدٌ (M, L, K) and 🡻وَئِيدٌ; (K;) the first originally وُؤَدَةٌ; like as تُكَأَةٌ is originally وُكَأَةٌ; (T, L;) <i>Moderation; gentleness; deliberateness; a leisurely manner of proceeding,</i> or <i>of deportment, &c.; contr. of hastiness:</i> and <i>gravity; staidness; sedateness; calmness:</i> syn. نَأَنٍّ, (T, M, L, K,) and تَمَهُّلٌ, (T, L,) and رَزَانَةٌ, (M, L, K,) and سَكِينَةٌ. (Msb.) Ex. فَعَلَهُ فِى تُؤَدَة <i>He did it in a moderate manner; with gentleness; &c.</i>] (A.) And مَشَى عَلَى تُؤَدَة (S, Msb) [<i>He walked moderately; gently; &c.;</i>] <i>calmly;</i> or <i>quietly.</i> (Msb.) مَشَى مَشْيًا 🡻وَئِيدَا <i>i. q.</i> عَلَى تُؤَدَةٍ [<i>He walked moderately; gently; &c.</i>]; (S;) <i>calmly,</i> or <i>quietly.</i> (Msb.)\nمَوَائِدُ <i>Calamities,:</i> (IAar, T, K:) formed by transposition from مَآوِدُ. (IAar, T.) See art. اود.\nمَوْؤُودَةٌ and مَوْدَةٌ: see وَئِيدٌ and وَأَدَ.\nوأْدٌ and 🡻وَئِيدٌ <i>A sound,</i> or <i>noise;</i> (K;) absolutely: (TA:) or <i>a loud sound</i> or <i>noise;</i> (S, L, K;) as that of a wall falling, and the like. (L.) === The <i>sound occasioned by vehement</i> or <i>heavy treading</i> of the ground: the <i>heavy sound</i> of the feet of camels. (L.) === Also the former, (L,) or both, (K,) The <i>braying</i> (هَدِير) of a camel. (L, K.)\nوَأَدَ 1 , aor. يَئِدُ, (inf. n. وَأْدٌ, S, L, &c.) <i>He buried</i> his daughter <i>alive</i> (S, L, Msb, K) <i>in the grave,</i> (S, L,) <i>and put a load of earth upon</i> her. (A.) It was customary for a man in the time of paganism, when a daughter was born to him, to bury her alive when her mother brought her forth, from fear of reproach and want: but this is forbidden in the Kur. xvii. 33: and some of them used to bury their children alive in times of famine: (L:) the tribe of Kindeh used to bury their daughters alive. (S, L.) === الوَأْدُ الخَفِىُّ a term used in a trad. as meaning <i>Extractio penis tempore concubitus, ne conciperet femina:</i> as also 🡻المَوْؤُودَةُالصُّغْرَى because this act resembles that of burying a child alive, and is done with the same motive. (L.)\nوَئِيدٌ and وَئِيدَةٌ (L, K) and 🡻مَوْؤُودَةٌ, (S, L, K,) and, by abbreviation, مَوْدَةٌ, (Abu-l-'Abbás, T,) A daughter <i>buried alive.</i> (S, L, K.) === 🡻المَوْؤُودَةٌ الصُّغْرَى: see الوَأْدُ الخَفِىُّ, voce وَأَدَ. (L.) === See وَأْدٌ. === See also تُؤَدَةٌ.\nوَائِدٌ A man <i>burying,</i> or <i>who buries, his daughter,</i> or <i>daughters alive.</i> (L.)"
+}

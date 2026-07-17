@@ -1,0 +1,57 @@
+{
+  "rootId": "r413",
+  "source": "lanes",
+  "enrichedAt": "2026-06-29T23:36:19.920Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Truth, necessity, reality, or binding obligation",
+  "primaryMeaning": "To make true, establish, or verify",
+  "quranicRelevance": "Core concept of Truth (al-Haqq), which is one of Allah's Names. Refers to what is true and real, justice/rights, binding obligation, the realization of promises, and the reality of resurrection (al-Haqqah).",
+  "keyDerivations": [
+    {
+      "lemma": "حَقٌّ",
+      "form": "Noun",
+      "meaning": "Truth, right, justice, or reality"
+    },
+    {
+      "lemma": "الحَقِيقَةُ",
+      "form": "Noun",
+      "meaning": "Reality or absolute truth"
+    },
+    {
+      "lemma": "الحَاقَّةُ",
+      "form": "Noun",
+      "meaning": "The reality, or the Day of Judgment"
+    },
+    {
+      "lemma": "حَقَّ",
+      "form": "Form I Verb",
+      "meaning": "To be true, proved, realized, or binding"
+    },
+    {
+      "lemma": "أَحَقُّ",
+      "form": "Adjective comparative",
+      "meaning": "More worthy, deserving, or truer"
+    },
+    {
+      "lemma": "حَقِيقٌ",
+      "form": "Adjective",
+      "meaning": "Worthy, fit, or bounden"
+    },
+    {
+      "lemma": "أَحَقَّ",
+      "form": "Form IV Verb",
+      "meaning": "To establish as true, verify, or vindicate"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "اسْتَحَقَّ (Form X): To deserve, merit, or become guilty of a sin/crime.",
+    "حَقَّقَ (Form II): To make tight, firm, or steady; or to verify a claim."
+  ],
+  "discardedNoise": [
+    "Tightening a knot or saddle-girth.",
+    "Small camels that have reached the age of three years (حِقّ / حِقَّة)."
+  ],
+  "summaryEn": "The root centers on truth, reality, and necessity, defining the absolute nature of God, divine justice (al-Haqq), and the realization of ultimate realities.",
+  "summaryAr": "يتتركز هذا الجذر حول الصدق والواقع والوجوب، محدداً الطبيعة المطلقة لله عز وجل، والعدل الإلهي (الحق)، وتحقق الوقائع الكبرى.",
+  "rawText": "أَحَقُّ [comparative and superlative of حَقِيقٌ]. You say, هُوَ أَحَقُّ بِكَذَا [<i>He is more,</i> and <i>most, adapted, disposed, apt, meet, suited, suitable, fitted, fit, proper,</i> or <i>competent, for such a thing;</i> or <i>more,</i> and <i>most, worthy,</i> or <i>deserving, of it:</i> and <i>he has a better,</i> and <i>the best, right to such a thing;</i> or <i>a more just,</i> and <i>the most just, title</i> or <i>claim</i> <i>to it;</i> or <i>he is more,</i> and <i>most, entitled to it</i>]: this phrase is used in two senses: first, as denoting the possession of an exclusive right or title, i. e., without the participation of another; as when you say, زَيْدٌ أَحَقُّ بِمَالِهِ <i>Zeyd is entitled to his property exclusively of any other person:</i> secondly, as denoting the possession of a right or title in participation with another person, but in a superior degree; as in the saying, الأَيِّمُ أَحَقُّ بِنَفْسِهَا مِنْ وَلِيِّهَا, (Msb,) i. e. <i>The woman that has not a husband and is not a virgin</i> [<i>is more entitled to dispose of herself than is her guardian</i>]; (Mgh in art. ايم;) meaning that they participate [in the right], but that her right is the stronger: (Msb:) a saying of Mohammad, in which the ايّم is opposed to the بِكْر, for it is added that the بكر is to be asked her permission: but one reading substitutes الثَّيِّبُ for الايّم. (Mgh ubi suprà.) In the saying, in the Kur [v. 106], لَشَهَادَتُنَا أَحَقُّ مِنْ شَهَادَتِهِمَا, it may be formed from اِسْتَحَقَّ by rejection of the augmentative letters, so that the meaning is, [<i>Verily our testimony is</i>] <i>more deserving of being accepted</i> [<i>than the testimony of them two</i>]: or it may be from حَقَّ الشَّىْءُ signifying ثَبَتَ, and so mean <i>more true,</i> or <i>valid.</i> (TA.) ___ Applied to a horse, <i>That does not sweat.</i> (S, K.) === And, likewise thus applied, <i>That puts down his hind hoof in the place</i> [<i>that has just before been that</i>] <i>of his fore hoof.</i> (S, * K.) [See حَقَقٌ.]\nإِحْتَقَقَ 8 see 6, throughout. ___ اِحْتَقَّتْ بِهِ الطَّعْنَةُ † <i>The thrust,</i> or <i>piercing, killed him:</i> (AA, K:) or ‡ <i>went right,</i> or <i>directly, into him:</i> (As, TA:) or † <i>penetrated into his belly,</i> or <i>inside:</i> (L, TA:) or <i>hit,</i> or <i>struck, the socket,</i> or <i>turning-place, of his hip, which is termed its</i> حُقّ. (K, * TA.) One says, رَمَى فُلَانٌ الصَّيْدَ فَٱحْتَقَّ بَعْضًا وَ شَرَّمَ بَعْضًا † <i>Such a one shot,</i> or <i>cast, at the objects of the chase, and killed some, and wounded some so that they escaped:</i> (S:) or <i>pierced into the bellies,</i> or <i>insides, of some, and wounded the skin of some without so piercing.</i> (L.) ___ احتقّهُ إِلَى كَذَا <i>He kept him,</i> or <i>held him, back,</i> or <i>retarded him,</i> [<i>until such a time,</i> or <i>such an event,</i>] <i>and straitened him.</i> (TA.) ___ احتقّ الفَرَسُ <i>The horse became lean,</i> or <i>light of flesh;</i> or <i>slender, and lean;</i> or <i>lean, and lank in the belly.</i> (S, K, TA.) === And احتقّ المَالُ <i>The cattle became fat:</i> (K: [see also the last meaning of 1 as an intrans. verb:]) but in the A and O and L, احتقّ القَوْمُ <i>the people's cattle became fat, and their fatness ended,</i> or <i>attained the extreme point.</i> (TA.)\nاحقّ 4 , [inf. n. إِحْقَاقٌ,] <i>He spoke truth; said what was true:</i> [very common in this sense; <i>contr. of</i> أَبْطَلَ:] or <i>he revealed,</i> or <i>manifested,</i> or <i>showed, a truth,</i> or <i>a right</i> or <i>due:</i> or <i>he laid claim to a right,</i> (or <i>to a thing,</i> TA) <i>and it was,</i> or <i>became, due to him.</i> (Msb.) ___ See also حَقَّ, as an intrans. verb, in three places; relating to camels. === احقّ القَوْمُ <i>The people's cattle became fat.</i> (TA.) And احقّ القَوْمُ مِنَ الرَّبِيعِ <i>The people's cattle became fat by means of the</i> [<i>herbage called</i>] ربيع. (AHn, * ISd, TA.) ___ As a trans. verb: see حَقَّهُ, in nine places. You say also, أَحْقَقْتُ الأَمْرَ, inf. n. as above, ‡ <i>I did, performed,</i> or <i>executed, the affair in a firm, solid, sound,</i> or <i>good, manner;</i> or <i>put it into a firm, solid, sound,</i> or <i>good, state.</i> (TA.) === رَمَى فَأَحَقَّ الرَّمِيَّةَ ‡ <i>He cast,</i> or <i>shot, and killed on the spot the animal at which he cast,</i> or <i>shot.</i> (Ibn-'Abbád, Z, K, * TA.) === أَحَقَّتْ إِبِلُنَا رَبِيعًا and 🡻استحقّت ربيعا † <i>Our camels found</i> [<i>herbage such as is termed</i>] ربيع <i>full-grown, and pastured upon it.</i> (TA.)\nاستحقّهُ 10 <i>He demanded it as his right,</i> or <i>due.</i> (TA.) [And hence,] <i>He had a right,</i> or <i>just title</i> or <i>claim, to it; he was,</i> or <i>became, entitled to it; he deserved it,</i> or <i>merited it;</i> syn. اِسْتَوْجَبَهُ: (S, Msb, K:) or these two verbs are nearly the same; (TA;) [the former meaning <i>he was,</i> or <i>became, adapted, disposed, apt, meet, suited, suitable, fitted, fit, competent,</i> or <i>proper, for it;</i> which is the most proper meaning of the phrase صَارَ حَقِيقًا بِهِ, as well as of the verb استحقّ; but this verb has also the former of these two meanings.] When a man purchases a house, and another lays claim to it, and establishes a just evidence of his claim, and the judge decides for him according to his evidence, one says of him, قَدِ ٱسْتَحَقَّهَا عَلَى المُشْتَرِى [<i>He has a right to it in preference to the purchaser</i>]; meaning that he is to possess it in preference to the purchaser. (TA.) And of a camel such as is termed حِقّ one says, استحقّ أَنْ يُرْكَبَ [<i>He was,</i> or <i>has become, fit to be ridden</i>], (K,) and أَنْ يُحْمَلَ عَلَيْهِ [<i>to be laden</i>]: (S, Msb:) and استحقّ الضِّرَابَ [<i>He was,</i> or <i>has become, fit for covering</i>]. (L, K.) === [Hence, <i>It</i> (an action, and anything,) <i>deserved it, merited it,</i> or <i>required it.</i>] And استحقّ إِثْمًا <i>He did what necessitated sin;</i> (Ksh and Bd and Jel in v. 106;) [<i>was guilty of a sin;</i>] and <i>deserved its being said of him that he was a sinner;</i> (Ksh ibid.;) <i>i. q.</i> اِسْتَوْجَبَهُ. (TA.) And استحقّوا <i>They committed sins for which he who should punish them would be excusable, because they deserved punishment;</i> like أَوْجَبُوا, and أَعْذَرُوا, and اِسْتَلَاطُوا. (IAar, TA in art. لوط.) === استحقّت إِبِلُنَا رَبِيعًا: see 4, last sentence. === استحقّت النَّاقَةُ لَقَاحًا <i>The she-camel conceived,</i> or <i>became pregnant;</i> and استحقّ لَقَاحُهَا [signifies the same]. (TA.) === See also 1, as an intrans. verb, last two sentences.\nاِنْحَقَّتِ العُقْدَةُ 7 ‡ <i>The knot became tied,</i> or <i>made fast,</i> or <i>tightened.</i> (Ibn-' Abbád, K, TA.)\nتحقّق 5 [<i>It was,</i> or <i>became,</i> or <i>proved to be, a truth, a reality,</i> or <i>a fact.</i>] [Hence,] تحقّق عِنْدَهُ الخَبَرُ <i>The information was,</i> or <i>proved, true, right, correct,</i> or <i>valid, in his estimation.</i> (S, K. *) ___ تحقّقهُ: see حَقَّهُ.\nتَحَاقٌّ 6 is syn. with تَخَاصُمٌ; and 🡻اِحْتِقَاقٌ, with اِخْتِصَامٌ; [The <i>disputing, litigating,</i> or <i>contending, together;</i>] (S, K;) [for] تَخَاصَمُوا and اِخْتَصَمُوا signify the same; (K in art. خصم;) [or rather] the meaning of [تحاقّ and] 🡻احتقاق is [the <i>disputing,</i> &c., <i>together for a right,</i> or <i>due;</i>] <i>each one's,</i> or <i>every one's, saying,</i> “ The <i>right is mine,</i> ” and “ <i>with me;</i> ” or <i>demanding his right,</i> or <i>due.</i> (TA.) One says, تَحَاقٌّوا [<i>They disputed,</i> &c., <i>together for a right,</i> or <i>due</i>]. (TK.) And 🡻اِحْتَقَّا <i>They two disputed,</i> &c., (K, TA,) <i>each of them demanding his right,</i> or <i>due.</i> (TA.) And 🡻احتقّفُلَانٌ وَ فُلَانٌ [<i>Such a one and such a one disputed,</i> &c., <i>together for a right,</i> or <i>due</i>]. (S.) One does not say of a single person [تحاقّ nor] 🡻احتقّ; like as one does not say of one only [تخاصم nor] اختصم. (S.)\nحاقّهُ 3 , (S, K,) inf. n. حِقَاقٌ an"
+}

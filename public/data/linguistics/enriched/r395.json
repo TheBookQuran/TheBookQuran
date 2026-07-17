@@ -1,0 +1,36 @@
+{
+  "rootId": "r395",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:00:21.796Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Harvest, mowing down, reaping, sickle, rope twist, or crop",
+  "primaryMeaning": "Harvest or mowing down",
+  "quranicRelevance": "Harvesting crops (Hasad - 'yawma hasadihi'), and communities mown down like stubble (Haseed - 'minha qa'imun wa haseed').",
+  "keyDerivations": [
+    {
+      "lemma": "حَصَدَ / يَحْصُدُ",
+      "form": "Form I Verb",
+      "meaning": "To harvest, reap, mow down, cut crop, or clear"
+    },
+    {
+      "lemma": "حَصَادٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Harvest, reaping time, or crop yield"
+    },
+    {
+      "lemma": "حَصِيدٌ",
+      "form": "Noun / Passive part.",
+      "meaning": "Harvested field, mown down stubble, or devastated remains"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "مِنْهَا قَائِمٌ وَحَصِيدٌ (11:100): Some of them are standing (like trees) and some are harvested/mown down stubble (extinct ruins of nations)."
+  ],
+  "discardedNoise": [
+    "Agricultural tractor technical operations.",
+    "Tongue harvest (حصائد الألسنة) in post-canonical Hadiths."
+  ],
+  "summaryEn": "The root denotes harvesting, utilizing the agricultural cut of crops (Hasad) to illustrate the absolute extinction (Haseed) of rebellious historical civilizations.",
+  "summaryAr": "يدل هذا الجذر على الحصاد والقطع، مستعيراً حصد الزرع المادي للانتفاع (يوم حصاده)، لوصف الإبادة التامة للأمم كعصف محصود فاني (حصيد).",
+  "rawText": "أَحْصَدُ ; fem. حَصْدَآءُ: see حَصِدٌ, in three places. === Also شَجَرَةٌ حَصْدَآءُ <i>A tree abounding with leaves</i> [and therefore <i>compact</i>]. (K.)\nأَحْصَدُ <i>a bow-string strongly twisted:</i> (TA:) and دِرْعٌ 🡻حَصْدَآءُ <i>a coat of mail close in its rings, compact and strong.</i> (L, K.)\nإِحْتَصَدَ 8 see 1.\nإِسْتَحْصَدَ 10 see 4: ___ and see also 1. === [Hence,] † <i>It</i> (the affair, or state, of a people) <i>became established,</i> or <i>settled, firmly, soundly, thoroughly,</i> or <i>well.</i> (TA.) === <i>It</i> (a people, or party) <i>collected together,</i> or <i>assembled, and rendered mutual aid.</i> (S, K.) === <i>He was,</i> or <i>became, angry:</i> (K:) or <i>violently angry.</i> (TA.)\nاحصد 4 <i>It</i> (seed-produce) <i>attained to the proper time for its being reaped;</i> as also 🡻استحصد: (S, Mgh, Msb, K:) or the latter, † <i>it. invited the act of reaping.</i> (TA.) ___ <i>He twisted</i> a rope (S, K) <i>firmly.</i> (TA.) === [<i>He made firm,</i> in a general sense. (Golius as from the KL; but not in my copy of that work.)]\nحَاصِدٌ <i>A reaper:</i> pl. حَصَدَةٌ and حُصَّادٌ. (K.)\nحَبْلٌ حَصِدٌ and 🡻مُحْصَدٌ (S, K) and 🡻أَحْصَدُ and 🡻مُسْتَحْصِدٌ (K) <i>A rope strongly twisted, and firmly,</i> or <i>compactly, made:</i> (S, K:) and وَتَرٌ\nحَصَادٌ The <i>time,</i> or <i>season, of reaping;</i> as also 🡻حِصَادٌ. (K, TA. [In the CK, each is erroneously made to be with ة.]) One says, [also, using each as an inf. n.,] هٰذَا زَمَنُ الحَصَادِ, (S, A,) or أَوَانُ الحَصَادِ, (Msb,) and 🡻الحِصَادِ, (S, Msb,) [<i>This is the time,</i> or <i>season, of reaping:</i> for] both are also inf. ns. of حَصَدَ in the first of the senses explained above. (Lh, K.) ___ See also حَصِيدٌ. === Also <i>What remains upon the ground,</i> of seed-produce, <i>among the lower parts of the stalks of that which has been reaped; </i> and so حَصَائِدُ, pl. of 🡻حَصِيدٌ and 🡻حَصِيدَةٌ. (Mgh.) === And <i>What falls off, and becomes scattered,</i> of seeds of wild leguminous plants when they dry up. (L.) === And The <i>fruit,</i> or <i>produce,</i> of any tree. (L.)\nحَصَدٌ : see حَصِيدٌ.\nحَصَدَ 1 , (S, A, Mgh, &c.,) aor. ﹹ and ﹻ, inf. n. حَصْدٌ (S, Mgh, Msb, K) and حَصَادٌ (Lh, Mgh, K) and حِصَادٌ, (Lh, K,) <i>He reaped,</i> or <i>cut</i> (A, Mgh, K) <i>with the</i> مِنْجَل, (K,) seed-produce, (S, A, Mgh, Msb, K,) and plants, or herbage; (S, * K;) originally used in relation to seed-produce; (TA;) as also 🡻احتصد. (K.) === [Hence,] حَصَدَهُمْ بِالسَّيْفِ ‡ [<i>He reaped,</i> or <i>mowed, them down with the sword</i>]: (A:) <i>he slew them:</i> or <i>he exerted his utmost power</i> or <i>ability,</i> or <i>exceeded the ordinary bounds, in slaying them:</i> (TA:) <i>he exterminated them</i> [<i>with the sword</i>]. (Msb, TA.) === And مَنْ زَرَعَ الشَّرَّ حَصَدَ النَّدَامَةَ ‡ [<i>He who sows evil reaps repentance</i>]. (A.) ___ حَصِدَ, (L,) [aor. ﹷ,] inf. n. حَصَدٌ, (L, K,) <i>It</i> (a rope, and a bow-string,) <i>was,</i> or <i>became, strongly twisted, and firmly,</i> or <i>compactly, made;</i> (L, K; *) as also 🡻استحصد: (S, * A, L, K: *) and it (a coat of mail) <i>was,</i> or <i>became,</i> [<i>close in its rings,</i> (see حَصِدَ,) <i>and</i>] <i>firm, and compactly made.</i> (L, K. *)\nحَصِيدٌ <i>Reaped</i> seed-produce; (S, A, Mgh, Msb, K;) as also 🡻حَصِيَدةٌ (S, Mgh, K) and 🡻مَحْصُودٌ and 🡻حَصَدٌ (S, Msb, K) and 🡻حَصَادٌ, which last is originally an inf. n.: (Mgh:) pl. of the first, (A, Mgh,) and of the second, (Mgh,) حَصَائِدُ. (A, Mgh.) And حَبُّ الحَصِيدِ [see Kur l. 9] <i>Grain that is reaped:</i> (L:) <i>grain of wheat</i> and <i>of barley</i> and <i>of anything that is reaped;</i> as though for حَبُّ النَّبْتِ الحَصِيدِ: (Zj:) or <i>grain of reaped wheat.</i> (Lth.) === See also حَصَادٌ. === It is also said to signify Seed-produce <i>torn up and carried away by the wind.</i> (L.) === Also † <i>Slain</i> [or <i>mowed down</i>] <i>with the sword, like seed-produce reaped.</i> (Jel in xxi. 15.) === حَصَائِدُ أَلْسِنَتِهِمْ, occurring in a trad., means ‡ <i>The words that their tongues utter, and</i> [<i>as it were</i>] <i>cut off, against others;</i> (S, A, * L;) being words wherein is no good: the tongue being likened to a reapinghook; and the words that it utters, to reaped seed-produce: حصائد, here, is pl. of 🡻حَصِيدَةٌ. (L.) === See also what next follows.\nحَصِيدَةٌ : see حَصِيدٌ, in two places: === and حَصَادٌ. === Also The <i>lower parts of seed-produce, which the reaping-hook does not reach..</i> (K.) === Also <i>A place of seed-produce:</i> (K:) or 🡻حَصِيدٌ has this signification; such a place being so called because it is reaped: حَصِيدَةٌ, accord. to <i>Az,</i> signifies <i>a field of which all the produce has been reaped:</i> the pl. is حَصَائِدُ. (L.) === <i>A place of reaping.</i> (Msb.)\nحِصَادٌ : see حَصَادٌ, in two places.\nمَحْصُودٌ : see حَصِيدٌ.\nمُحْصَدٌ : see حَصِدٌ. === [Hence,] مُحْصَدُ الرَّأْىِ ‡ A man <i>whose judgment,</i> or <i>opinion, is well,</i> or <i>rightly, directed,</i> (S, K,) <i>and sound,</i> or <i>firm.</i> (TA.) ___ <i>What has dried up while standing</i> [of seed-produce]. (K.)\nمُحْصِدٌ Seed-produce <i>that has attained to the proper time,</i> or <i>season, for its being reaped;</i> as also 🡻مُسْتَحْصِدٌ. (Mgh, Msb.)\nمُسْتَحْصِدٌ : see مُحْصِدُ: ___ and see حَصِدٌ. === [Hence,] رَأْىٌ مُسْتَحْصِدٌ ‡ <i>Sound,</i> or <i>firm, judgment</i> or <i>opinion.</i> (TA.)\nمِحْصَدٌ <i>A reaping-hook,</i> syn. مِنْجَلٌ, (S, K,) <i>with which seed-produce is cut.</i> (TA.)"
+}

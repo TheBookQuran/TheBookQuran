@@ -1,0 +1,26 @@
+{
+  "rootId": "r795",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T18:07:39.528Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Hunger, starvation, famine, fatigue from hunger, or empty stomach",
+  "primaryMeaning": "Severe hunger/famine (Masghabah)",
+  "quranicRelevance": "Severe hunger/famine (Masghabatin - 'fee yawmin zee masghabatin').",
+  "keyDerivations": [
+    {
+      "lemma": "مَسْغَبَةٌ",
+      "form": "Noun/Inf. Noun",
+      "meaning": "Severe hunger, famine, starvation, or empty-bellied distress"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "أَوْ إِطْعَامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ (90:14): Or feeding on a day of severe hunger/famine."
+  ],
+  "discardedNoise": [
+    "Sagheeb (hungry animal).",
+    "Sagheb (sweat odor) - spelling confusion."
+  ],
+  "summaryEn": "The root represents famine or empty stomach hunger (Saghb), encouraging charity and feeding the poor, especially during periods of widespread food shortage and economic hardship.",
+  "summaryAr": "يمثل هذا الجذر الجوع الشديد المقترن بالتعب والجهد وحالة المجاعة العامة (سغب)، مرغباً في إطعام المساكين واليتامى في أوقات الشدة والمسغبة.",
+  "rawText": "اسغب 4 <i>He</i> (a man, TA) <i>entered upon a state of hunger.</i> (K.)\nسَاغِبٌ and 🡻سَغْبَانُ (S, A, Msb, K) and 🡻سَغِبٌ (K) <i>Hungry:</i> (S, A, Msb, K, TA:) or <i>suffering hunger together with fatigue:</i> (A, Msb, K:) or <i>thirsty:</i> (TA:) fem. [of the second] 🡻سَغْبَى, (S, K,) pl. سِغَابٌ. (K.) You say also, هُوَ سَاغِبٌ لَاغِبٌ (A, TA) and 🡻سَغْبَانُلَغْبَانُ (TA) [<i>He is hungry</i> and <i>fatigued,</i> or <i>fatigued in the utmost degree</i>]. And it is said in a trad., 🡻مُسْغِبُونَدَخَلَ خَيْبَرَ وَهُمْ, expl. as meaning [<i>He entered Kheyber</i>] <i>they being hungry.</i> (TA.)\nسَغَبٌ an inf. n. of سَغِبَ [q. v.]. (S, &c.) === It also signifies <i>Thirst:</i> but is unused: (K:) [or] thirst is sometimes thus termed. (Msb.)\nسَغِبٌ : see سَاغِبٌ.\nسَغْبَانُ ; and its fem., سَغْبَى: see the next paragraph, in three places.\nسَغْبَةٌ <i>Hunger:</i> or <i>hunger combined with fatigue.</i> (TA.) [See also 1.]\nمُسْغِبٌ : see its pl. in what next precedes.\nهُوَ مُسَغَّبٌ لَهُ كَذَا and مَسَعَّبٌ [the latter written in the CK مُسْغَبٌ] <i>To him is allowed,</i> or <i>permitted, such a thing.</i> (K, TA.)"
+}

@@ -1,0 +1,26 @@
+{
+  "rootId": "r436",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:06:09.694Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Fish, whale, marine creature, dynamic swim, or container",
+  "primaryMeaning": "Fish/whale",
+  "quranicRelevance": "The whale that swallowed Jonah (Hoot - 'fal-taqamahu al-hootu'), the fish of Moses ('hootahuma'), and fish swarming on Sabbath ('heetanuhum').",
+  "keyDerivations": [
+    {
+      "lemma": "حُوتٌ / حِيتَانٌ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Fish, whale, or marine swimming creature"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "إِذْ تَأْتِيهِمْ حِيتَانُهمْ يَوْمَ سَبْتِهِمْ شُرَّعًا (7:163): When their fish came to them on their Sabbath day visible/swarming (the test of Israel's fish-ban)."
+  ],
+  "discardedNoise": [
+    "Astrological Pisces constellation maps.",
+    "Modern industrial whaling logistics."
+  ],
+  "summaryEn": "The root refers to fish and whales (Hoot), highlighting the whale swallowing Jonah, the escaping Hajj lunch-fish of Moses, and the swarming Sabbath fish test.",
+  "summaryAr": "يشير هذا الجذر إلى الأسماك والحيتان (حوت)، واصفاً حوت يونس، وحوت موسى الهارب للبحر، والامتحان الأسبوعي لأسماك السبت (حيتانهم).",
+  "rawText": "حاوتهُ 3 ‡ <i>He strove,</i> or <i>endeavoured, to turn him,</i> or <i>to entice him to turn,</i> syn. رَاوَغَهُ, (S, L, A, &c.,) in the K رَاغَمَهُ, but the former is the right explanation, (TA,) عَنْ شَىْءٍ <i>from a thing,</i> as, for instance, his family, and his property; (S, TA;) ‡ <i>he strove,</i> or <i>endeavoured, to beguile him.</i> (A.) You say, ظَلَّ يُحَاوِتُنِى بِخُدَعَةٍ ‡ <i>He passed the day striving,</i> or <i>endeavouring, to turn me,</i> or <i>entice me, by guile, like as the fish</i> (حُوت) <i>does in the water.</i> (A.) === † <i>He strove,</i> or <i>contended, with him, to repel him.</i> (K.) === † <i>He consulted him,</i> or <i>consulted with him.</i> (K.) === † <i>He talked with him, consulting,</i> or <i>making promises, in the case of a sale.</i> (K.)\nحَاتَ عَلَى الشَّىْءِ 1 , aor. يَحُوتُ, (S,) inf. n. حَوْتٌ and حَوَتَانٌ, (K,) † <i>He went,</i> or <i>circuited, round about the thing;</i> said of a bird, (S, K, TA,) going, or circuiting, round about water [like a fish (حُوت) in water]; (TA;) and of a wild animal: (K:) as also حات بِهِ. (TA.)\nحَيُّوتٌ The <i>male of the</i> حَيَّة [or <i>serpent</i>]. (A.) [But the proper place of this is art. حيو.]\nحُوتٌ <i>Fish:</i> (M, A, K:) or [rather] <i>a fish:</i> (S, TA:) or <i>a great fish; any great fish:</i> (M, Msb, TA:) of the masc. gender: (Msb:) pl. [of mult.] حِيتَانٌ (S, Msb, K) and حِوَتَةٌ and [of pauc.] أَحْوَاتٌ. (K.) === [Hence,] صَاحِبُ الحُوتِ (in the Kur lxviii. 48) [a surname of <i>The prophet</i>] <i>Jonas.</i> (Bd, Jel.) === [Hence also,] الحُوتُ † [<i>The constellation Pisces;</i>] <i>a certain sign of the Zodiac.</i> (S, K.) And الحُوتُ الجَنُوبِىُّ † <i>The constellation Piscis Australis.</i> (Kzw &c.) And فَمُ الحُوتِ † <i>The bright star</i> [<i>a, called by European astronomers Fomalhaut,</i>] <i>in the mouth of Piscis Australis.</i> (Kzw &c.)\nحُوتِىٌّ [<i>Of,</i> or <i>relating to,</i> or <i>like, a fish,</i> or <i>great fish</i>]. You say, هُوَ حُوتِىُّ الاِلْتِقَامِ [<i>He is like a fish,</i> or <i>great fish, in swallowing</i>]. (A, TA.)"
+}

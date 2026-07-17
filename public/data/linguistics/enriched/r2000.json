@@ -1,0 +1,32 @@
+{
+  "rootId": "r2000",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:01:45.660Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Twisting, bending, distorting, turning away, valley curve, or loop",
+  "primaryMeaning": "Twisting or turning away",
+  "quranicRelevance": "Twisting tongues to distort scriptures (Layyan - 'layyan bi-alsinatihim'), turning heads in pride (Lawwaw - 'lawwaw ru'oosahum'), and valley curve ('tuwa').",
+  "keyDerivations": [
+    {
+      "lemma": "لَوَى / يَلْوِي",
+      "form": "Form I Verb",
+      "meaning": "To twist, bend, distort, turn away, turn aside, or wrap"
+    },
+    {
+      "lemma": "لَوَّى / يُلَوِّي",
+      "form": "Form II Verb",
+      "meaning": "To twist repeatedly, turn away, or shake heads in pride"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "لَيًّا بِأَلْسِنَتِهِمْ وَطَعْنًا فِي الدِّينِ (4:46): Twisting/bending their tongues and slandering the religion (hypocrites' double meanings).",
+    "وَإِنْ تَلْوُوا أَوْ تُعْرِضُوا (4:135): And if you distort/twist (your testimony) or refuse (justice)."
+  ],
+  "discardedNoise": [
+    "Intestinal cramps and stomach twists (Lawa).",
+    "Modern folder names and loop loops."
+  ],
+  "summaryEn": "The root represents twisting and turning, condemning the verbal twisting (Layy) of scriptures by hypocrites and the prideful head-turning (Lawwaw) of the arrogant.",
+  "summaryAr": "يمثل هذا الجذر اللي والفتل والانحراف، ذاماً فتل ألسنة المنافقين لتحريف الكلمات (لياً بألسنتهم)، وليّ الرؤوس تكبراً عن الاستغفار.",
+  "rawText": "أَلْوَى <i>Very contentious.</i> (K.) See an ex. voce مُسْتَمَرّ.\nأَلْوَى بِالكَلَامِ 4 <i>He distorted, wrested,</i> or <i>wrung, the language.</i> (M, K.) [Hence, perhaps, فُلَانٌ يُلْوِى بِخَصْمِهِ, if the verb be correctly thus: see عُقْمِىَ, last sentence.]\nاللَّوَا occurs in poetry for اللَّوَاتِى. (TA in art. شرف.)\nاِلْتَوَى 8 , neuter verb, <i>It twisted: wound: bent.</i> (K, &c.) === اِلْتَوَى عَلَيْهِ <i>It</i> (an affair) <i>became difficult;</i> or <i>difficult and intricate.</i> (TA.) === الْتَوَتْ عَلَىَّ حَاجَتِى <i>My want became difficult of attainment.</i> (TA.) === التوى عَلَيْهِ also <i>He acted,</i> or <i>behaved, perversely towards him.</i>\nتَلَوَّى 5 <i>It twisted,</i> or <i>coiled, itself:</i> (KL:) <i>it became twisted,</i> or <i>coiled:</i> one says, تَلَوَّتِ الحَيَّةُ. (MA.) === تَلَوَّى مِنْ وَجَعِ الضَّرْبِ [<i>He writhed by reason of the pain of beating</i>]. (M, A, K, art. ضور.)\nسَوَّآءٌ لَوَّآءٌ : see art. سوى.\nلَوَى عَلَيْهِ 1 <i>He waited for him.</i> (Msb.) === مَرَّ لَا يَلْوِى عَلَى أَحَدٍ <i>He went along, not pausing nor waiting for any one.</i> (Msb.) See the Kur-án, iii. 147. === لَوَاهُ بِدَيْنِهِ <i>i. q.</i> مَطَلَهُ. (S, Msb, K.) === لَوَى <i>He twisted</i> a thing; <i>turned or wreathed</i> it <i>round or about: contorted</i> it: <i>wound</i> it: <i>curled</i> it: <i>curved</i> it: or <i>bent</i> it. (K, &c.) And <i>He,</i> or <i>it, turned him</i> from his course; <i>made him to deviate,</i> or <i>swerve.</i> === لَوَى عَلَيْهِ <i>He went round it,</i> or <i>round about it.</i> (Bd, in liii. 20.) === لَوَى عَلَيْهِ أَمْرَهُ [<i>He mode his case,</i> or <i>affair, difficult and intricate to him:</i> see إِلْتَوّى عَلَيْهِ]. (S, K, art. عوص.) === لَوَى خَبَرَهُ, † <i>He concealed his information.</i> (T, TA.) And لَوَى أَمْرَهُ عِنِّى ‡ <i>He concealed his affair from me.</i> (K, TA.)\nلِوَآءٌ <i>A banner,</i> or <i>standard,</i> syn. عَلَمٌ, (M, Mgh, K,) <i>of a commander,</i> (T,) or <i>of an army, less than the</i> رَايَة, <i>being a strip of cloth, twisted,</i> or <i>wound, and tied to a spear-shaft.</i> (Mgh.) See رِفَادَةٌ. Respecting the لِوَآء of the Kaabeh, see سَدَنَ and فَادَةٌ.\nيَتَلاَوَيَانِ 6 said of two serpents [<i>They twist together</i>]: see عَقاَمٌ, last sentence."
+}

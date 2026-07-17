@@ -1,0 +1,42 @@
+{
+  "rootId": "r1458",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:39:17.504Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Concealment, chest, shelter, covering, or shield",
+  "primaryMeaning": "To cover/conceal or shelter",
+  "quranicRelevance": "Shelters/homes (Aknaan - 'wa ja'ala lakum min al-jibali aknanan'), covers over hearts (Akinmah - 'wa ja'alna 'ala quloobihim akinnatan an yafqahoohu'), and guarded/preserved (Maknoon - 'lu'lu'on maknoon').",
+  "keyDerivations": [
+    {
+      "lemma": "أَكَنَّ",
+      "form": "Form IV Verb",
+      "meaning": "To conceal, hide, keep secret, or shelter"
+    },
+    {
+      "lemma": "أَكْنَانٌ",
+      "form": "Noun pl. (of kinn)",
+      "meaning": "Shelters, caves, retreats, or homes"
+    },
+    {
+      "lemma": "أَكِنَّةٌ",
+      "form": "Noun pl. (of kinan)",
+      "meaning": "Veils, covers, shields, or barriers over hearts"
+    },
+    {
+      "lemma": "مَكْنُونٌ",
+      "form": "Adjective / Passive part.",
+      "meaning": "Guarded, preserved, hidden, or well-protected"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "أَكِنَّةً أَنْ يَفْقَهُوهُ: Veils/covers over their hearts lest they understand it (spiritual barrier to comprehension).",
+    "كأَمْثَالِ اللُّؤْلُؤِ المَكْنُونِ: Like the likeness of well-protected/preserved pearls (pure and untouched)."
+  ],
+  "discardedNoise": [
+    "Quivers for holding arrows (كِنانة).",
+    "Obscure details of camel shelter construction."
+  ],
+  "summaryEn": "The root represents protection and veiling, depicting physical shelters (Aknaan), preserved assets (pearls), and the spiritual veils (Akinmah) of hearts.",
+  "summaryAr": "يمثل هذا الجذر الوقاية والستر، واصفاً الكهوف والملاذات الجبلية الحامية (أكنان)، واللؤلؤ المصون (مكنون)، والحجاب المعنوي للقلب (أكنة).",
+  "rawText": "فاعل مُسْتَكِنٌّ : see مُسْتَقِنٌ.\nكَانُونٌ <i>A fire-place; a place in which fire is lighted.</i> (S, K.)\nكُنَّةٌ : see طَنَفٌ.\nكِنَانَةٌ : see جَعْبَةٌ.\nكِنٌّ <i>A place of retreat</i> or <i>concealment;</i> such as a cave, and an excavated house or chamber: (Beyd, xvi. 83:) see بَرٌّ. === كِنٌّ The <i>shelter</i> of a wall: see دِفْءٌ. === <i>A thing that serves for veiling, covering,</i> or <i>protecting.</i> (S, * Msb, * K.) See ظِلٌّ, where I have thus rendered it.\nمَكْنُونُ الفَائِلِ : see a verse of El-Aashà in art. فيل."
+}

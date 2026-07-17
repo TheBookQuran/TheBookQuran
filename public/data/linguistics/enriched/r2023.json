@@ -1,0 +1,26 @@
+{
+  "rootId": "r2023",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:56:22.540Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Sheep, ovine livestock, wool-bearing sheep, soft animals, or submissive sheep",
+  "primaryMeaning": "Sheep (wool-bearing)",
+  "quranicRelevance": "Of the sheep, two (Al-da'n - 'wa-mina al-da'ni').",
+  "keyDerivations": [
+    {
+      "lemma": "ضَأْنٌ",
+      "form": "Noun/Collective",
+      "meaning": "Sheep, ovine animals with woolly fleeces as opposed to hairy goats"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "ثَمَانِيَةَ أَزْوَاجٍ ۖ مِنَ الضَّأْنِ اثْنَتَيْنِ وَمِنَ الْمَعْزِ اثْنَتَيْنِ (6:143): Eight pairs: of the sheep two, and of the goats two."
+  ],
+  "discardedNoise": [
+    "Da'een (traveling women in camels).",
+    "Doon (below/less than) - spelling error."
+  ],
+  "summaryEn": "The root refers to sheep (Da'n), mentioned during the refutation of arbitrary pagan Arabian superstitions that declared certain sheep or their offspring forbidden.",
+  "summaryAr": "يشير هذا الجذر إلى الضأن الغنم ذوات الصوف ضد المعز ذوات الشعر (ضان)، مفنداً تشريعات الجاهلية الضالة في تحريم ذكور وإناث الغنم عشوائياً.",
+  "rawText": "اضأن 4 , (S, M, K,) said of a man, (S,) or of a party of men, (M,) <i>His,</i> or <i>their,</i> ضَأْن [or <i>sheep</i>] <i>became numerous.</i> (S, M, K.)\nضَأَنٌ : see the next preceding paragraph.\nضَأَنْتُ الضَّأْنَ 1 <i>I set apart the sheep</i> [<i>from</i> the goats]. (Az, TA, and K in art. معز.) One says, اِضْأَنْ ضَأْنَكَ وَٱمْعَزْ مَعْزَكَ <i>Set apart thy sheep from the goats, and set apart thy goats from the sheep.</i> (Az, TA.)\nضَأْنٌ (S, M, Msb, K) and 🡻ضَأَنٌ (S, M, K) and 🡻ضَئِينٌ, (S, M, Msb, K,) which is also pronounced 🡻ضِئِينٌ, with kesr to the first letter because of the kesr following, agreeably with a general rule applying to a word [of the measure فَعِيلٌ] having any faucial letter [for its second radical], and 🡻ضِينٌ and 🡻ضَيْنٌ, which are mentioned by IAar, without ء, and therefore extr., (M,) [<i>Sheep;</i>] <i>such as have wool, of what are termed</i> غَنَم; one of which is called 🡻ضَائِنٌ; (Msb;) [i. e.] they are pls., (S, K,) or [rather] quasi-pl. ns., (M,) of 🡻ضَائِنٌ, (S, M, K,) which signifies <i>one that has wool,</i> (M,) or the <i>opposite of</i> مَاعِزٌ, (S, K,) <i>of what are termed</i> غَنَم: (M, K:) ضَأْنٌ is of the fem. gender; (IAmb, Msb;) and has for its pl. أَضْؤُنٌ [properly a pl. of pauc.] (IAmb, M, Msb) and آضُنٌ, which occurs in poetry, and is formed by transposition from أَضْؤُنٌ: (M:) the fem. of 🡻ضَائِنٌ is ضَائِنَةٌ; (S, M, Msb, K;) the pl. of which is ضَوَائِنُ. (S, M, K.) === ضَأْنٌ also signifies <i>A certain species of</i> [<i>the lizards called</i>] ضِبَاب [pl. of ضَبٌّ]; opposed to the مَاعِز. (TA.) And <i>A certain species of jerboas, also called</i> شُفَارِىٌّ; (T voce تَدْمُرِىٌّ, q. v.; and TA in art. شفر;) <i>differing from the</i> مَاعِز thereof. (T and TA in art. دمر.)\nضَأْنَةٌ <i>A</i> [<i>ring for the nose of a camel, such as is termed</i>] خِزَامَة, <i>when made of sinew.</i> (Sh, K.) [But see ضَانَةٌ, in art. ضون.]\nضَئِينٌ and ضِئِينٌ: see ضَأْنٌ.\nضَائِنٌ : see ضَأْنٌ, in three places. === It is also used as an epithet: one says كَبْشٌ ضَائِنٌ [app. meaning <i>A ram:</i> كَبْشٌ alone having several meanings]. (M.) === And it signifies also ‡ <i>Weak:</i> (K, TA:) [opposed to مَاعِزٌ:] or a <i>soft</i> man, as though he were a ewe: (M, TA:) or one <i>who ceases not to be goodly in body while a scanty eater:</i> (M, K: *) or <i>soft and flaccid in the belly.</i> (M, K. *) === And † <i>Such as is white and broad,</i> of sands. (K, TA.)\nضَيْنٌ and ضِينٌ: see ضَأْنٌ.\nضِئْنِىٌّ is an extr., distorted, rel. n. [from ضَأْنٌ]. (M.) You say مِعْزًى ضِئْنِيَّةٌ <i>Goats that keep to the</i> ضَأْن [or <i>sheep</i>]. (M.) And سِقَآءٌ ضِئْنِىٌّ <i>A wide,</i> (M,) or <i>large,</i> (K,) <i>skin, of the hide of a sheep,</i> (M, K,) <i>in which</i> [<i>milk such as is termed</i>] رَائِب <i>is churned.</i> (K.)"
+}

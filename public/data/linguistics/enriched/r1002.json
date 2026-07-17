@@ -1,0 +1,57 @@
+{
+  "rootId": "r1002",
+  "source": "lanes",
+  "enrichedAt": "2026-06-29T23:13:56.121Z",
+  "modelId": "claude-3-5-sonnet-human-curated",
+  "semanticCore": "Narrowness; straitness; harm/adversity",
+  "primaryMeaning": "To harm, injure, or cause adversity; narrowness or straitness.",
+  "quranicRelevance": "Used extensively in the Quran to denote: 1) Harm or injury (ضَرَّ) opposed to benefit (نَفَعَ) (e.g. 10:49). 2) Adversity, affliction, or illness (ضُرٌّ) (e.g. 21:84 'affliction has touched me'). 3) Compulsion or dire necessity (اضْطُرَّ) (e.g. 2:173 'he who is driven by necessity'). 4) Mutual harm or detriment (مُضَارَّة) (e.g. 2:233 'no mother shall be harmed').",
+  "keyDerivations": [
+    {
+      "lemma": "ضَرَّ",
+      "form": "Form I",
+      "meaning": "To harm, injure, or cause detriment."
+    },
+    {
+      "lemma": "ضَارَّ",
+      "form": "Form III",
+      "meaning": "To cause mutual harm; to disagree or oppose."
+    },
+    {
+      "lemma": "أَضَرَّ",
+      "form": "Form IV",
+      "meaning": "To approach closely so as to straiten or harm; to take a co-wife."
+    },
+    {
+      "lemma": "اضْطُرَّ",
+      "form": "Form VIII (Passive)",
+      "meaning": "To be necessitated, compelled, or driven by dire necessity."
+    },
+    {
+      "lemma": "ضُرٌّ",
+      "form": "Noun",
+      "meaning": "Harm; affliction; adversity; illness; poverty."
+    },
+    {
+      "lemma": "ضَرَرٌ",
+      "form": "Noun",
+      "meaning": "Narrowness; straitness; detriment or defect."
+    },
+    {
+      "lemma": "ضَرَّاءُ",
+      "form": "Noun",
+      "meaning": "Adversity; distress; hardship (contrasted with سَرَّاء)."
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "Horse champing the bit (اضر الفرس).",
+    "Sale of a person in distress (بيع المضطر)."
+  ],
+  "discardedNoise": [
+    "A husband taking a second wife (أضرّ/ضارّ).",
+    "The brink or edge of a cave."
+  ],
+  "summaryEn": "The root ضرر revolves around harm, adversity, and compulsion. In the Quran, it represents physical or spiritual harm (ضَرّ), affliction and hardship (ضُرّ / ضَرَّاء), and being driven by absolute necessity (اضْطُرّ).",
+  "summaryAr": "يدل جذر ضرر على الأذى، الضيق، والاضطرار. ويظهر في القرآن الكريم ليعبر عن الضر الذي يقابل النفع، والضر والبأساء (الشدة والفقر والمرض)، وحالة الاضطرار عند وقوع الحاجة الملجئة.",
+  "rawText": "اضرّهُ 4 and : see 1, first sentence. === اضرّهُ عَلَى الأَمْرِ <i>He compelled him against his will to do the thing.</i> (Sgh, K.) [See also 8.] ___ اضرّ, intrans., ‡ <i>It</i> (anything) <i>approached so near as to harm, injure,</i> or <i>hurt;</i> (TA;) or <i>so near as to straighten,</i> or <i>incommode.</i> (L.) You say, اضرّ بِهِ, meaning ‡ <i>It approached very near to him, so as to annoy him:</i> (TA, from a trad.:) or ‡ <i>he drew very near to him:</i> (S, A:) or ‡ <i>he clave,</i> or <i>stuck, to him.</i> (A.) And اضرّ بِالطَّرِيق ‡ <i>He approached the road, but was not upon it.</i> (TA.) And بَنُو فُلَانٍ يُضِرُّ الطَّرِيقُ ‡ <i>The sons of such a one are one the travelled track.</i> (A.) And اضرّ السَّيْلُ مِنَ الحَائِطِ † <i>The torrent drew near to the wall:</i> and السَّحَابُ إِلَى الأَرْضِ <i>the clouds to the earth.</i> (K.) === اضرّ عَلَيْهِ ‡ <i>He importuned him; plied him; plied him hard; pressed him; pressed him hard; was urgent with him; persecuted him,</i> or <i>harassed him.</i> (A.) === اضرّ الفَرَسُ عَلَى فَأْسِ اللِّجَامِ ‡ <i>The horse champed the</i> فأس [q. v.] <i>of the bit;</i> (A 'Obeyd, S, A;) and so اضزّ. (S.) === اضرّ فُلَانٌ عَلَى السَّيْرِ الشَّدِيدِ † <i>Such a one bore patiently hard journeying.</i> (TA.) ___ Also, (Msb,) inf. n. إِضْرَارٌ, (S,) <i>He took to himself a wife while having another wife:</i> (As, S, Msb, TA:) [and so, app., 🡻ضارّ: (see ضِرٌّ:)] or <i>he gave</i> [a woman] <i>in marriage to a man having at the time another wife.</i> (TA.) ___ اضرّ يَعْدُو (S, K, * TA) signifies <i>He hastened</i> (S, K, TA) <i>somewhat in running,</i> accord. to A 'Obeyd; (S, TA;) but Et-Toosee says that this is a mistake, and that it is correctly اصرّ. (TA.)\nاضطرّهُ إِلَى كَذَا 8 <i>It,</i> (a thing, or an affair, TA,) or <i>he,</i> [a man, or God,] <i>necessitated, constrained, compelled, forced,</i> or <i>drove, him to have recourse to,</i> or <i>to do, such a thing;</i> or <i>impelled,</i> or <i>drove, him, against his will, to it,</i> or <i>to do it;</i> (Msb, K;) <i>so that he had no means of avoiding it;</i> as also 🡻ضَرَّهُإِلَيْهِ: (Msb:) <i>it made him to want,</i> or <i>be in need of, such a thing:</i> (K, TA:) from ضَرَرٌ signifying “ narrowness, ” or “ straitness. ” (TA.) [See also 4. Hence the phrase, لَأَضْطَرَّنَّكَ إِلَى أَصْلِكَ, expl. in art. اصل. See also the Kur ii. 120, and xxxi. 23.] === اُضْطُرَّ إِلَى كَذَا <i>He was,</i> or <i>became, necessitated, constrained, compelled, forced,</i> or <i>driven, to have recourse to,</i> or <i>to do, such a thing;</i> or <i>was impelled,</i> or <i>driven, against his will, to it,</i> or <i>to do it:</i> (S, K:) <i>he wanted,</i> or <i>was</i> or <i>became in need of, such a thing.</i> (K.)\nبَيْعُ المُضْطَرِّ , which is forbidden in a trad., is of two kinds: one is <i>The sale that one is compelled to contract against his will;</i> and this is null: the other is <i>the sale to which one is necessitated to consent in consequence of a debt that he has incurred or of a burden that has come upon him, so that he sells at a loss that which is in his possession;</i> and this kind of sale is valid, though disapproved by the people of knowledge. (IAth, TA.)\nتضرّر 5 <i>He was</i> [<i>harmed, injured,</i> or <i>hurt;</i> or] <i>afflicted, grieved,</i> or <i>sick:</i> and <i>he experienced straitness, pressure,</i> or <i>inconvenience.</i> (KL.)\nتَضِرَّةٌ and تَضُرَّةٌ: see ضُرٌّ: and for the former see also ضَرَرٌ.\nصِفَةٌ ٱضْطِرَارِيَّةٌ <i>i. q.</i> صِفَةٌ خِلْقِيَّةٌ i. e. <i>A natural quality;</i> opposed to ٱخْتِيَارِيَّةٌ.]\nضارّهُ 3 , inf. n. مُضَارَّةٌ and ضَرَارٌ, <i>He harmed him, injured him,</i> or <i>hurt him, in return,</i> or <i>in requital:</i> whence the saying in a trad., لا ضَرَرَ وَلَا ضِرَارَ فِى الإِسْلَامِ <i>There shall be no harming, injuring,</i> or <i>hurting,</i> of one man by another, <i>in the first instance, nor in return,</i> or <i>requital, in El-Islám:</i> (Mgh, TA: *) ضِرَارٌ is <i>syn. with</i> مُضَارَّةٌ: (S:) or, accord. to some, it is <i>syn. with</i> ضَرَرٌ; and in the phrase in a trad. mentioned above, is added as a corroborative. (TA.) See also 1. مُضَارَّةٌ in the case of a testament is the not executing it; or the violating it in part; or the bequeathing to any unfit person or persons; and the like; contrary to the سُنَّة. (TA.) === <i>He disagreed with,</i> or <i>differed from, him; dissented from him; was contrary, opposed,</i> or <i>repugnant, to him;</i> or <i>he acted contrarily, contrariously, adversely,</i> or <i>in opposition, to him;</i> syn. خالَفَهُ. (K.) And hence, accord. to some, the saying in a trad., (O, K,) relating to the seeing God on the day of resurrection, (O,) لَا تُضَارُّونَ فِى رُؤْيَتِهِ, (O, K,) i. e. <i>Ye will not differ, one from another, nor dispute together, respecting</i> the truth of <i>the seeing Him;</i> (Zj, O, * TA;) because of his manifest appearance: (Zj, TA:) or the meaning is, لَا تُضَامُّونَ, (S, K,) and thus some relate it, (TA,) meaning <i>ye will not draw yourselves together,</i> (K, TA,) and <i>straiten one another;</i> one saying to another “ Show me Him, ” like as people do in looking at the new moon, but each will by himself have the sight of Him: (TA:) or, as some say, it is لَا 🡻تَضَارُّونَ [originally تَتَضَارُّونَ], meaning لَا تَضَامُّونَ, [which is the same in signification as لَا تُضَامُّونَ], i. e. with fet-h to the ت: (TA, and so in one of my copies of the S:) and some say, لا تُضَارُونَ, from الضَّيْرُ; (Mgh, TA;) [i. e. <i>ye will not be hurt;</i>] meaning <i>ye will not hurt one another:</i> (M in art. ضير:) and some, لَا تُضَامُون, from الضَّيْمُ. (Mgh, TA.) === See also 4; and the phrase تَزَوَّجَ عَلَى مُضَارَّةٍ, voce ضِرٌّ.\nضَارُورٌ : see ضَرُورَةٌ.\nضَارُورَآءُ <i>Drought:</i> and <i>hardship, distress,</i> or <i>adversity.</i> (K.) See also ضَرُورَةٌ. [And see ضُرٌّ, and ضَرَّآءُ.]\nضَارُورَةٌ : see ضَرَرٌ; and ضَرُورَةٌ, in two places.\nضَارٌّ [act. part. n. of 1; <i>Harming, injuring, hurting,</i> &c.; or <i>that harms,</i> &c.; <i>noxious, injurious,</i> &c.]. النَّافِعُ الضَّارُّ, an appellation of God, means <i>He who benefiteth and who harmeth</i> whomsoever He will, of his creatures. (TA.)\nضَرَائِرُ Persons <i>in want, needy,</i> or <i>poor.</i> (S.) === Also pl. of ضَرَّةٌ, [q. v.,] (Msb, K, TA,) in various senses. (TA.)\nضَرَارَةٌ : see ضَرَرٌ: and ضَرَّآءُ, in two places. === Also † <i>Blindness.</i> (S, K, TA.) [See 1, last sentence, where it is mentioned as an inf. n.]\nضَرَرٌ : see ضُرٌّ, in two places. === Also <i>Defect, deficiency, detriment,</i> or <i>loss,</i> (Msb, K,) and so 🡻ضَرَّةٌ and 🡻ضَرَارَةٌ, (TA,) <i>that happens to a thing,</i> (K,) or <i>to articles of property.</i> (Msb.) You say, دَخَلَ عَلَيْهِ ضَرَرٌ فِى مَالِهِ [<i>Defect, deficiency, detriment,</i> or <i>loss, came upon him in his property,</i> or <i>cattle</i>]. (TA.) And هُوَ فِى ضَرَرِ خَيْرٍ [<i>He is in a state of defective,</i> or <i>little, prosperity</i>]. (TA.) See also ضَرَّآءُ. === Also <i>Narrowness,</i> or <i>straitness.</i> (A 'Obeyd, S, K.) You say مَكَانٌ ذُو ضَرَرٍ <i>A narrow place.</i> (A 'Obeyd, S.) And لَا ضَرَرَ عَلَيْكَ and لا 🡻ضَارُورَةَ and لا 🡻تَضِرَّةَ [app. <i>No straitness shall befall thee:</i> or <i>no evil:</i> or <i>no adversity:</i> or <i>no want</i>]. (S.) === And <i>Narrow.</i> (K.) You say مَكَانٌ ضَرَرٌ <i>A narrow place.</i> (TA.) And مَآءٌ ضَرَرٌ <i>Water in a narrow place.</i> (IAar.) === And The <i>brink,</i> or <i>edge, of a cave,</i> or <i>cavern.</i> (AA, O, K.) One says, لَا تَمْشِ عَلَى هٰذَا الضَّرَرِ [<i>Walk not thou on this brink,</i> or <i>edge, of a cave</i>]. (AA, O.)\nضَرُورَةٌ <i>Necessity, necessitude, need,</i> or <i>want;</i> (Lth, S, Msb, K;) as also 🡻ضَارُورَةٌ (S, K) and 🡻ضَارُورٌ and 🡻ضَارُورَآءُ and 🡻ضَرَّةٌ: (K, TA:) pl. ضَرُورَاتٌ. (TA.) You say, حَمَلَنِى الضَّرُورَةُ عَلَى كَذَا وَكَذَا [<i>Necessity urged me to do such and such things</i>]. (Lth.) And رَجُلٌ ذُو 🡻ضَارُورَةِ and ضَرُورَةٍ <i"
+}

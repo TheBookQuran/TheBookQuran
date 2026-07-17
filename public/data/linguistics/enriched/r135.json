@@ -1,0 +1,26 @@
+{
+  "rootId": "r135",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:56:55.064Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Cutting off, slitting, severing animal ears, or ripping fibers",
+  "primaryMeaning": "Slitting/cutting off",
+  "quranicRelevance": "So they will slit ears (Yubattikunna - 'falayubattikunna').",
+  "keyDerivations": [
+    {
+      "lemma": "بَتَّكَ / يُبَتِّكُ",
+      "form": "Form II Verb",
+      "meaning": "To slit, cut off repeatedly, sever ears, or rip asunder"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَلَآمُرَنَّهُمْ فَلَيُبَتِّكُنَّ آذَانَ الْأَنْعَامِ (4:119): 'And I will command them so they will slit the ears of cattle' (pagan sacrificial alterations)."
+  ],
+  "discardedNoise": [
+    "Bataqat (cards/tickets) - modern administrative term.",
+    "Batak (duck) - modern colloquial bird term."
+  ],
+  "summaryEn": "The root refers to slitting or severing (Batk), describing pagan superstitions inspired by Satan where cattle ears were slit to mark them as forbidden for general use.",
+  "summaryAr": "يشير هذا الجذر إلى القطع الكلي والشق بقوة كتقطيع آذان الحيوانات (بتك)، واصفاً وساوس الشيطان ومحاولته تغيير الفطرة ودفع الجاهليين لشق آذان الأنعام تحريماً لها.",
+  "rawText": "انبتك 7 <i>It became cut;</i> or <i>became severed, or cut off,</i> (S, * K,) <i>entirely,</i> or <i>from its root;</i> (TA;) and in like manner, 🡻تبتّك. (K.) === Also <i>It became plucked out.</i> (Lth, TA.)\nبَاتِكٌ (applied to a sword, S) <i>Sharp,</i> or <i>cutting;</i> (S, K;) as also 🡻بَتُوكٌ: (K:) [but the latter is an intensive epithet, signifying <i>very sharp;</i> or <i>cutting much,</i> or <i>keenly</i>]: the pl. [of the former] is بَوَاتِكُ. (TA.)\nبَتَكَهُ 1 , aor. ﹻ and ﹹ, (S, K,) inf. n. بَتْكٌ, (S,) <i>He cut it;</i> or <i>severed it,</i> or <i>cut it off,</i> (S, K,) <i>entirely,</i> or <i>from its root;</i> (TA;) and in like manner, 🡻بتّكهُ, (K,) inf. n. تَبْتِيكٌ; (TA;) but بتَك is with teshdeed to denote muchness, or frequency, of the action, or its application to many objects. (S, TA.) آذَانَ الأَنْعَامِ, in the Kur [iv. 118], accord. to Abu-l-'Abbás, (TA,) means <i>And they shall assuredly cut,</i> or <i>cut off, the ears of the cattle:</i> (S, * TA:) or, as Az thinks, <i>slit the ears of the cattle,</i> as they did in the time of ignorance. (TA.) === Also <i>He plucked it out; he laid hold upon it and pulled it towards him so that it became severed from its root and plucked out;</i> (Lth, S, * TA;) namely, a hair, or feather, or the like. (Lth, TA.)\nبَتُوكٌ : see what next follows.\nبَتَّكَ 2 see 1, in two places.\nبِتْكَةٌ (S, K) and بَتْكَةٌ (K) <i>A piece,</i> or <i>portion,</i> of a thing, <i>cut off,</i> or <i>severed:</i> pl. بِتَكٌ. (S, K.) Hence the saying of the poet, (S,) namely, Zuheyr, (TA,) <center> <h3> حَتَّى إِذَا مَا هَوَتع كَفُّ الغُلَامِ لَهَا </h3> <h3> طَارَتْ وَفِي كَفِّهِ مِنْ رِيشِهَا بِتَكُ </h3> </center> [<i>Until, when the hand of the boy descends to her, she flies, while portions of her feathers, plucked out, are in his hand</i>]. (S, TA.) === And [hence,] <i>i. q.</i> جُهْمَةٌ مِنَ اللَّيْلِ [i. e. <i>A portion at the commencement of the latter parts of the night,</i> accord. to the S and K in art. جهم; or <i>a remaining portion of darkness in the latter part of the night,</i> accord. to the K in that art.]: (S, K:) as though it were a division [or portion cut off] of the night. (TA.)\nتَبَتَّكَ 5 see 7."
+}

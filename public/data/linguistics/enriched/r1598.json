@@ -1,0 +1,31 @@
+{
+  "rootId": "r1598",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:58:55.910Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Staying, remaining, pausing, delay, wait, or slow reading",
+  "primaryMeaning": "To stay/remain or pause",
+  "quranicRelevance": "Staying/waiting for family (Makathtu - 'innee anastu naran... umkuthoo'), reading the Quran with pauses/intervals (Mukth - 'ala mukthin'), and staying forever.",
+  "keyDerivations": [
+    {
+      "lemma": "مَكَثَ / يَمْكُثُ",
+      "form": "Form I Verb",
+      "meaning": "To stay, remain, abide, wait, pause, or tarry"
+    },
+    {
+      "lemma": "مُكْثٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Pause, delay, slow reading, or interval"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "لِتَقْرَأَهُ عَلَى النَّاسِ عَلَىٰ مُكْثٍ (17:106): That you may read it to the people at slow intervals/pauses (deep reflection style)."
+  ],
+  "discardedNoise": [
+    "Modern residency cards or visa stay permits.",
+    "Obscure details of static water pools (مكاث)."
+  ],
+  "summaryEn": "The root represents waiting and staying (Mukth), capturing Moses' instruction to his family to wait, and advising slow, paused recitation of the Quran.",
+  "summaryAr": "يمثل هذا الجذر المكث والانتظار والتمهل، واصفاً أمر موسى لأهله بالانتظار (امكثوا)، وتوجيه ترتيل القرآن على تمهل وتؤدة (على مكث).",
+  "rawText": "تَمَكَّثَ 5 see 1.\nسَارَ الرَّجُلُ مُتَمَكِّثًا <i>The man journeyed,</i> or <i>proceeded, loitering;</i> syn. مُتَلَوِّمًا. (S.)\nمَكَثَ 1 , aor. ﹹ; and مَكُثَ, aor. ﹹ; inf. n. مَكْثٌ [with which مُكْثٌ and مِكثٌ (see below) are syn.] and مِكِّيثَى (S, K) [like خِصِّيصَى, q. v.,] and مِكِّيثَآءُ [like خِصِّيصَآءُ] and مَكَثٌ and مُكُوثٌ and مُكْثَانٌ (K) and مَكَاثٌ and مَكَاثَةٌ [which last is the inf. n. of مَكُثَ]; (TA;) <i>He tarried; tarried and waited,</i> or <i>expected;</i> (S, K;) <i>was patient, and tarried, and waited,</i> or <i>expected:</i> or <i>he tarried, stayed,</i> or <i>stopped, expecting: loitered; tarried; stayed; waited; paused in expectation;</i> فِى مَكَانٍ <i>in a place.</i> (TA.) [In like manner,] 🡻تمكّث <i>He loitered; tarried; stayed; waited; paused in expectation.</i> (S, K.)\nمَكِيثٌ <i>Grave:</i> (S, K:) <i>who does not hasten in his affair:</i> pl. مُكَثَآءُ and مَكِيثُونَ. (TA.) === مَكِيثُ الكَلَامِ ‡ <i>Slow of speech.</i> (Ibn-Abi-l- Hadeed.) === Also مَكِيثٌ A man <i>remaining; staying; abiding; remaining fixed,</i> or <i>stationary.</i> (TA.)\nمُكْثٌ and 🡻مِكْثٌ, substs., from مَكَثَ or مَكُثَ, <i>A tarrying; tarrying and waiting,</i> or <i>expecting; &c.</i> (S, A.)\nمِكْثٌ : see مُكْثٌ."
+}

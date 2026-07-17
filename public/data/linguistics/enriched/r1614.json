@@ -1,0 +1,37 @@
+{
+  "rootId": "r1614",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:29:55.134Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Cradle, flat bed, preparation, ease, or spread",
+  "primaryMeaning": "Cradle or to spread/pave",
+  "quranicRelevance": "Cradle of a baby (Mahd - 'yukallimu an-nasa fee al-mahd'), spreading/paving the earth (Mihad - 'alam naj'ali al-ardha mihadan'), and preparing/facilitating ('mahhaddtu').",
+  "keyDerivations": [
+    {
+      "lemma": "مَهْدٌ",
+      "form": "Noun",
+      "meaning": "Cradle, or baby bed"
+    },
+    {
+      "lemma": "مِهَادٌ",
+      "form": "Noun",
+      "meaning": "Cradle, resting place, couch, or level expanse"
+    },
+    {
+      "lemma": "مَهَّدَ",
+      "form": "Form II Verb",
+      "meaning": "To spread out, pave, prepare, or facilitate"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَمَهَّدْتُ لَهُ تَمْهِيدًا (74:14): And prepared/smoothed (life/power) for him a detailed preparation (easing resources).",
+    "فَلِأَنْفُسِهِمْ يَمْهَدُونَ (30:44): Then for themselves they are preparing/paving (good beds/abodes)."
+  ],
+  "discardedNoise": [
+    "The physical design of modern baby cribs.",
+    "Obscure details of sweeping sand hills."
+  ],
+  "summaryEn": "The root denotes preparation and cradling, bridging the infant cradle (Mahd) of Jesus' speech with the global expanse of the earth (Mihad) as a cradle for life.",
+  "summaryAr": "يدل هذا الجذر على التمهيد والمهد، جامعاً بين مهد الصبي المتكلم (عيسى عليه السلام) وتمهيد وبسط الأرض كمهد للحياة (مهاد).",
+  "rawText": "أَمْهَدَتْ بِوَلَدِهَا 4 <i>She</i> (a woman) <i>brought forth, or cast forth, her child with a single impulse.</i> (IAar, in L, art. خفد.) === أَمْهَدَتْ بِالوَلَدِ is <i>syn. with</i> أَسْهَدَتْ بِهِ; (IAar, O, TA in art. سهد;) and زَكَبْت بِهِ, &c. (IAar, L, in art. خفد.)\nاستمهد فِرَاشًا 10 [<i>He asked,</i> or <i>desired, that a bed should be spread for him, and made plain, even,</i> or <i>smooth</i>]. (A.)\nامتهد 8 <i>It</i> (a camel's hump) <i>became spreading and high.</i> (S, L, K.) See 1 in three places.\nتمهّد 5 and 🡻امتهد <i>It</i> (a bed) <i>became spread, and made plain, even,</i> or <i>smooth.</i> (A.) === تمهّد لَهُ الأَمْرُ ‡ <i>The affair became adjusted,</i> or <i>arranged, and made plain, and easy, for,</i> or <i>to, him.</i> (Msb.) === تمهّد فِرَاشًا [<i>He spread for himself a bed, and made it plain, even,</i> or <i>smooth</i>]. (A.) === تَمَهَّدَتْ لَهُ عِنْدِى حَالٌ لَطِيفَةٌ ‡ [<i>A genteel situation was prepared for him with me,</i> or <i>at my abode</i>]. (A.) === تمهّد † <i>He</i> (a man, TA) <i>became possessed of authority and power;</i> syn. تَمَكَّنَ. (S, L, K.) === تمهّدت نَفْسُهُ † <i>His mind,</i> or <i>he, became disposed and subjected</i> [لِفِعْلِ الأَمْرِ <i>to do the thing;</i> see 2]; syn. تَوَطَّنَتْ. (K, art. وطن.)\nمهّد 2 , inf. n. تَمْهِيدٌ, ‡ <i>He adjusted,</i> or <i>arranged,</i> an affair, (S, A, L, Msb, K,) <i>and made</i> it <i>plain,</i> (A, Msb,) <i>and easy.</i> (Msb.) See 1. === مهّد نَفْسَهُ لِفِعْلِ الأَمْرِ † <i>He disposed and subjected his mind,</i> or <i>himself, to do the thing.</i> (S, * K, * Msb, art. وطن.) === مهّد, inf. n. تَمْهِيدٌ, ‡ <i>He accepted,</i> or <i>admitted,</i> an excuse. (S, L, Msb, K.) You say, مَهَّدْتُ لَهُ العُذْرَ ‡ <i>I accepted,</i> or <i>admitted, his excuse.</i> (Msb.)\nمَهَدَ 1 , (S, L, K,) aor. ﹷ, (L, K,) inf. n. مَهْدٌ [q. v. infra]; (S, L;) and 🡻مهّد, (L, K,) inf. n. تَمْهِيدٌ; (TA;) <i>He made plain, even,</i> or <i>smooth,</i> this is the original signification: <i>he made a place plain, even,</i> or <i>smooth,</i> [مَكَانًا being understood,] لِنَفْسِهِ <i>for himself:</i> (L:) <i>he spread</i> a bed, (S, L, K,) <i>and made</i> it <i>plain, even,</i> or <i>smooth.</i> (S, L.) === مَهَدَ لَهُ † <i>He did well,</i> or <i>kindly, in his affair in his absence;</i> like فَهَدَ and فَأَدَ. (L, art. فهد.) === مَهَدَ, aor. ﹷ, (inf. n. مَهْدٌ, L,) <i>He gained,</i> or <i>earned,</i> or <i>sought to gain sustenance, and worked,</i> (L, K,) لِنَفْسِهِ <i>for himself.</i> (L.) === مَهَدَ لِنَفْسِهِ خَيْرًا, and 🡻امتهدهُ, ‡ <i>He prepared for himself good, good things,</i> or <i>the like.</i> (L.) === 🡻مهّدلَهُ مَنْزِلَةً سَنِيَّةً ‡ [<i>He prepared,</i> or <i>established, for him a high station</i>]. (A.) ===مَا 🡻ٱمْتَهَدَفُلَانٌ عِنْدِى يَدًا ‡ [<i>Such a one has not prepared for himself, with me, a benefit, for me to owe it him</i>]: you say this when one has not conferred upon you a favour or kindness. (AZ, L.) And مَا 🡻ٱمْتَهَدَفُلَانٌ عِنْدِى مَهْدَ ذَاكَ ‡ [<i>Such a one has not prepared for himself, with me, that thing, that I should owe it him</i>]; is said on one's asking a kindness without having previously conferred a benefit; (AZ, JK, L;) and with reference to one who acts in an evil manner, when asking a kindness, or when a kindness is asked for him. (AZ, L.)\nمَهِيدٌ <i>Pure butter:</i> (L, K:) or the <i>purest of butter when melted, and that which has the least milk.</i> (L.)\nمَهْدٌ [<i>A child's cradle,</i> or <i>bed;</i>] <i>a place prepared for a child, and made plain, even,</i> or <i>smooth,</i> (S, * L, K,) <i>that he may sleep in it:</i> (L:) <i>a bed; a thing spread to lie, recline,</i> or <i>sit, upon;</i> (A, Msb;) as also 🡻مِهَادٌ; (S, A, L, Msb, K;) so called because of its plainness, evenness, or smoothness: (L:) Az says, that the latter word is more comprehensive than the former: (L:) it is applied to the <i>ground,</i> or <i>earth;</i> [meaning <i>a plain, an even,</i> or <i>a smooth expanse;</i> see a verse of Lebeed cited voce خَوَالِقُ:] (Az, L, K:) and so is مَهْدٌ: (K:) some say, that مَهْدٌ and 🡻مِهَادٌ are [originally] two inf. ns., of the same meaning: or that the former is an inf. n., and the latter a simple subst.: or that the former is sing., and the latter pl.: (MF:) the pl. of the former [in common use] is مُهُودٌ, (L, Msb, K,) and مِهَادٌ; and of the latter, [pl. of pauc.,] أَمْهِدَةٌ (L, K) and [of mult.,] مُهُدٌ. (L, Msb, K.) === أَلَمْ نَجْعَلِ ٱلْأَرْضَ 🡻مِهَادًا [Kur, lxxviii. 6,] <i>Have we not made the earth an expanse</i> (بِسَاط) <i>adapted to be travelled over.</i> (K, TA.) === لَبِئْسَ 🡻المِهَادُ [Kur. ii. 202,] ‡ <i>Evil is that which he hath prepared for himself in his final place.</i> (K.) Such is said to be the meaning. (TA.) === سَهْدٌ مَهْدٌ <i>Good; goodly:</i> the latter word is an imitative sequent. (L.)\nمُمَهَّدٌ ‡ <i>Lukewarm</i> water; <i>neither hot nor cold.</i> (A, K.)\nمُهْدٌ <i>Elevated ground</i> or <i>land:</i> (IAar, L, K:) or <i>depressed and smooth and even ground</i> or <i>land;</i> (K;) as also 🡻مُهْدَةٌ: (En-Nadr, K:) pl. مِهَدَةٌ and أَمْهَادٌ: (K:) but the former of these pls. is doubtful. (TA.)\nمُهْدَةٌ : see مُهْدٌ.\nمِهَادٌ : see مَهْدٌ."
+}

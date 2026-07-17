@@ -1,0 +1,26 @@
+{
+  "rootId": "r787",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:44:39.226Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Eternal, continuous night/day, unending duration, or cycle",
+  "primaryMeaning": "Continuous/eternal state",
+  "quranicRelevance": "Continuous night/day (Sarmad - 'laylan sarmadan', 'naharan sarmadan').",
+  "keyDerivations": [
+    {
+      "lemma": "سَرْمَدٌ / سَرْمَدًا",
+      "form": "Noun / Adjective (acting as adverb)",
+      "meaning": "Continuous, eternal, unending, permanent, or persistent duration"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "قُلْ أَرَأَيْتُمْ إِنْ جَعَلَ اللَّهُ عَلَيْكُمُ اللَّيْلَ سَرْمَدًا إِلَىٰ يَوْمِ الْقِيَامَةِ (28:71): Say: 'Have you considered: if God should make for you the night continuous/eternal until the Day of Resurrection...'"
+  ],
+  "discardedNoise": [
+    "The name of a company.",
+    "Modern physics space-time perpetuity terms."
+  ],
+  "summaryEn": "The root represents uninterrupted continuity (Sarmad), challenging humans to think about their survival if God made dark night or bright day permanent/continuous.",
+  "summaryAr": "يمثل هذا الجذر الدوام المطلق والاتصال الزمني بلا انقطاع (سرمد)، واصفاً إمكانية فرض الليل أو النهار دائماً مستمراً درساً في النعمة.",
+  "rawText": "سرمد\nسَرْمَدٌ [signifies, or implies,] <i>Continuance,</i> or <i>incessant continuance,</i> (دَوَام, Kh, M, L, and اِتِّصَال, Kh, L,) of time, (Kh, M, L,) either of night or of day. (Kh, L.) [I have said “ or implies ” because I have not found it used otherwise than as an epithet, in the following senses.] === <i>Continuing;</i> or <i>continuing incessantly,</i> or <i>endlessly;</i> syn. دَائِمٌ; (Zj, S, L, K;) or دَائِمٌ لَا يَنْقَطِعُ. (Nh, L.) It is applied in this sense to night (Nh, L) [and also to day: to each in the Kur xxviii. 71 and 72]: and to night as meaning <i>Long.</i> (L, K.) === Accord. to El-Fakhr Er-Rázee, it is derived from السَّرْدُ, which denotes consecutiveness and uninterruptedness, and the م is added to give intensiveness to the signification: if so, its proper place is in art. سرد; its measure being فَعْمَلٌ: (MF:) [thus] its م is augmentative like the م in دُلَامِصٌ. (Bd in xxviii. 71.) === One says also, هُوَ لَكَ سَرْمَدًا <i>He,</i> or <i>it, is thine ever,</i> or <i>for ever.</i> (Mgh in art. سمد.)\nسَرْمَدِىٌّ <i>Having neither beginning nor end.</i> (KT.)"
+}

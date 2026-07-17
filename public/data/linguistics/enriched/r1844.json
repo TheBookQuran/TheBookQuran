@@ -1,0 +1,32 @@
+{
+  "rootId": "r1844",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:21:37.831Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Branding, marking, signs, traits, beauty, or season",
+  "primaryMeaning": "Branding/marking",
+  "quranicRelevance": "Branding on the snout (Nasimuhu - 'sanasimuhu 'ala'), and sign-readers (Mutawassimeen - 'lil-mutawassimeena').",
+  "keyDerivations": [
+    {
+      "lemma": "وَسَمَ / يَسِمُ",
+      "form": "Form I Verb",
+      "meaning": "To brand, mark with fire, stamp, label, or designate"
+    },
+    {
+      "lemma": "مُتَوَسِّمٌ / مُتَوَسِّمِينَ",
+      "form": "Noun / Active part. pl.",
+      "meaning": "Sign-readers, observers, those who spot marks, or insightful lookers"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "إِنَّ فِي ذَٰلِكَ لَآياتٍ لِلْمُتَوَسِّمِينَ (24:75): Indeed, in that are signs for the sign-readers/observers (those who read clues of history).",
+    "سَنَسِمُهُ عَلَى الْخُرْطُومِ (68:16): We will brand him on the snout/nose (the ultimate public disgrace of the arrogant)."
+  ],
+  "discardedNoise": [
+    "Facial beauty qualities (Wasamah).",
+    "Autumn rain seasons (Wasm)."
+  ],
+  "summaryEn": "The root connects marking clues with physical branding (Wasm), warning of a public branding on the snout for the proud, and praising observers (Mutawassimeen) who read historical clues.",
+  "summaryAr": "يربط هذا الجذر بين وسم الماشية بالكي بالنار للتثبيت، والتفرس بالملامح (وسم)، متوعداً الكفار بكي أنوفهم خذلاناً، ومادحاً للمتفرسين المتوسمين.",
+  "rawText": "الوَسْمِىُّ : on the rain thus called, see نَوْءٌ.\nتَوَسَّمْتُ فِيهِ الخَبْرَ 5 <i>i. q.</i> تَفَرَّسْتُهُ; (S;) [<i>I discovered,</i> or <i>perceived, in him good,</i> or <i>goodness, by right opinion formed from its outward signs;</i>] originally, <i>I knew its real existence in him by its outward sign.</i> (MF.) See also Har, pp. 30, 46, 76. === تَوَسَّمَ <i>He examined deliberately in order to know the real state or character of a thing by the external sign thereof.</i> (Bd, xv. 75.) === <i>He perceived</i> a thing <i>by forming a correct opinion from its outward signs.</i> (TK.)\nسِمَةٌ <i>A brand,</i> or <i>mark</i> or <i>figure made with a hot iron, upon an animal.</i> (K.) And <i>i. q.</i> عَلَامَةٌ [<i>A mark, sign, badge, token, symptom,</i> &c.]. (Msb.) And The عُلْوَان [or <i>title</i>] of a book or writing. (TA in art. علو.) See also سِيمَةٌ and سِيمَى in art. سوم.\nمَوْسِمٌ [<i>A periodical festival: a fair:</i>] <i>i. q.</i> عِيدٌ. (Msb, art. عود.) === مَوْسِمُ الحَاجِّ <i>The fair, and place of meeting, of the pilgrims.</i> (Mgh.)\nمِيسَمٌ <i>A brand,</i> or <i>mark made with a hot iron.</i> (TA, voce خِدَادٌ.) === [Originally] <i>A branding,</i> or <i>cauterizing, instrument</i> [or <i>iron</i>]; (S, K;) <i>a marking instrument.</i> (Msb.) === <i>An impress,</i> or <i>a character, of beauty.</i> (S, K.) See an ex. in a verse cited voce أَثِمَ.\nوَسَمَ الثَّوْبَ 1 [<i>He marked, or put a mark on, the garment,</i> &c.]; said of a trader, or dealer. (JK in art. رقم.) === وَسَمَهُ بِالهِجَآءِ [<i>He branded him,</i> or <i>stigmatized him, with satire</i>]. (TA.) See a hemistich cited voce شَكِىٌّ. === وَسَمَهُ <i>He marked it</i> [in any manner]. (Msb.) === وَسَمَهُ بِالقَوْلِ ‡ <i>He stigmatized him,</i> or <i>set a mark upon him whereby he should be known, by something said.</i> (TA in art. علظ.) === وَسَمْتُ الكِتَابَ [<i>I put a superscription,</i> or <i>title, to the book,</i> or <i>writing.</i>] (TA in art. عنو.) === وَسُمَ, inf. n. وَسَامَةٌ (S, Msb, K) and وَسَامٌ, (S, K,) <i>He</i> (a man, S) <i>was beautiful in face:</i> (S, Msb:) or <i>bore the impress,</i> or <i>stamp, of beauty.</i> (K.)\nوَسِْمَةٌ [now applied to <i>Woad</i>]: <i>i. q.</i> عِظْلِمٌ, <i>with which one tinges</i> or <i>dyes</i> [<i>the hands, &c.</i>]: (S:) <i>a certain plant, with the leaves of which</i> <i>one tinges</i> or <i>dyes</i> [<i>the hands, &c.</i>]; and said to be the عِظْلِم: (Msb:) the <i>leaves of the</i> نِيل [or <i>indigo-plant</i>]: or <i>a plant</i> [<i>of another species</i> (TA)] <i>with the leaves of which one tinges</i> or <i>dyes</i> [<i>the hands, &c.</i>] (K.)"
+}

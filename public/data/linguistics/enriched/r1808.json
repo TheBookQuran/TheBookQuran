@@ -1,0 +1,32 @@
+{
+  "rootId": "r1808",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:21:37.831Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Wandering aimlessly, extreme thirst, camel disease, love-struck, or sand",
+  "primaryMeaning": "Wandering aimlessly or thirsty camels",
+  "quranicRelevance": "Poets wandering aimlessly (Yaheemoon - 'fee kulli wadin yaheemoon'), and thirsty camels ('al-heem').",
+  "keyDerivations": [
+    {
+      "lemma": "هَامَ / يَهِيمُ",
+      "form": "Form I Verb",
+      "meaning": "To wander aimlessly, lose path, rove without target, or be distracted"
+    },
+    {
+      "lemma": "هِيمٌ",
+      "form": "Noun (collective pl. of ahaim)",
+      "meaning": "Thirsty camels, dry sand absorbing water, or extremely dehydrated beasts"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فَشَارِبُونَ شُرْبَ الْهِيمِ (56:55): 'And drinking like the drinking of thirsty camels' (the agonizing thirst of Hell dwellers).",
+    "أَلَمْ تَرَ أَنَّهُمْ فِي كُلِّ وَادٍ يَهِيمُونَ (26:225): Do you not see that they (poets) wander aimlessly in every valley? (erratic speech patterns)."
+  ],
+  "discardedNoise": [
+    "Deep love obsession (Huyam) in romance stories.",
+    "Wandering sheep."
+  ],
+  "summaryEn": "The root represents aimless wandering and burning thirst (Hyam), describing erratic poetic speech (wandering valleys) and the painful drinking of the damned like thirsty camels (Heem).",
+  "summaryAr": "يمثل هذا الجذر هيمان العطش الشديد للإبل وهائم الكلام بلا مقصد (هيم)، واصفاً ارتكاس الشعراء في الخيال الكاذب، وشرب الكفار لماء الحميم كالإبل الظامئة.",
+  "rawText": "مَهْيُومٌ : see voce قَتَّ.\nهَيَامٌ : see an ex. in a verse of Lebeed, voce أَصْلٌ.\nهَيَّمَهُ 2 : see هُيُومٌ.\nهَيْمَانُ A man <i>loving intensely,</i> or <i>very passionately</i> or <i>fondly:</i> (TA:) and so applied to a heart: see شَنِقٌ. === هَيْمَانُ <i>A thirsty</i> camel: fem. هَيْمَى: pl. هِيمٌ. (Jel, lvi. 55.)\nهُيَامٌ : see هُبٌّ.\nهُيُومٌ [The <i>being bewildered,</i> or <i>distracted, by amorous desire;</i>] the <i>pursuing a heedless,</i> or <i>an inconsiderate course,</i> or <i>going at random, heedlessly,</i> or <i>without consideration,</i> or <i>certain aim, by reason of amorous desire:</i> and تَهْيَامٌ the [<i>being so,</i> or] <i>doing so, much.</i> (TA.) You say, of love [or amorous desire], 🡻هَيَّمَهُ, inf. n. تَهْيِيمٌ. (TA.) === <i>An affection like insanity arising from amorous desire:</i> (JK:) <i>bewilderment,</i> or <i>distraction, by amorous desire.</i> (KL.)"
+}

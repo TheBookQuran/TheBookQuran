@@ -1,0 +1,31 @@
+{
+  "rootId": "r1655",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:58:55.910Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Regret, remorse, penitence, companionship, or sorrow",
+  "primaryMeaning": "Regret/remorse",
+  "quranicRelevance": "Becoming regretful for hasty/bad actions (Nadimeen - 'fa-asbaha mina an-nadimeen', 'fatusbihoo 'ala ma fa'altum nadimeen').",
+  "keyDerivations": [
+    {
+      "lemma": "نَدِمَ / يَنْدَمُ",
+      "form": "Form I Verb",
+      "meaning": "To regret, feel remorse, repent, or be sorry"
+    },
+    {
+      "lemma": "نَدَامَةٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Regret, remorse, or sorrow of conscience"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فَأَصْبَحَ مِنَ النَّادِمِينَ (5:31): So he became of the regretful (Cain after murdering Abel and realizing his inability to cover the corpse)."
+  ],
+  "discardedNoise": [
+    "Close companions and friends (Nadeem) in royal courts.",
+    "Modern psychological therapies for guilt complexes."
+  ],
+  "summaryEn": "The root represents regret (Nadamah), capturing Cain's historical remorse, warning believers against hasty actions, and detailing the regret of the damned.",
+  "summaryAr": "يمثل هذا الجذر الندم وحسرة الضمير، مخلداً حسرة قابيل بعد قتل أخيه وعجزه عن مواراته (النادمين)، ومحذراً من التسرع بالفسوق.",
+  "rawText": "مَنْدَمٌ <i>Repentance:</i> an inf. n. of نَدِمَ; see an ex. in a verse of El-Kattál El-Kilábee, cited voce أَىٌّ.\nنَدِمَ عَلَى مَا فَعَلَ 1 <i>He grieved for what he had done; regretted it; repented of it:</i> or <i>he disliked it.</i> (Msb.)\nنَدِيمٌ <i>A companion in drinking; a cup-companion.</i> (S, Msb, K.) And hence, <i>Any convivial companion; a boon-companion.</i>"
+}

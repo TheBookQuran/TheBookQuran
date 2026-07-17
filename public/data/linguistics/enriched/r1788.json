@@ -1,0 +1,26 @@
+{
+  "rootId": "r1788",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:52:16.826Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Pouring out, flowing copiously, shedding tears, rushing water, or talkativeness",
+  "primaryMeaning": "Pouring out/flowing copiously",
+  "quranicRelevance": "With pouring water (Munhamir - 'bi-ma'in munhamirin').",
+  "keyDerivations": [
+    {
+      "lemma": "مُنْهَمِرٌ",
+      "form": "Participle (Passive/Form VII)",
+      "meaning": "Pouring, flowing copiously, rushing water, or torrential rain"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فَفَتَحْنَا أَبْوَابَ السَّمَاءِ بِمَاءٍ مُنْهَمِرٍ (54:11): So We opened the gates of heaven with pouring/torrential water (Noah's flood)."
+  ],
+  "discardedNoise": [
+    "Hamer (donkey/ass) - confused spelling H-M-R (different letter H vs. H').",
+    "Red color (Ahmar) - H'-M-R."
+  ],
+  "summaryEn": "The root represents water pouring down with immense force (Hamr), describing the torrential rainfall that initiated Noah's flood.",
+  "summaryAr": "يمثل هذا الجذر انسكاب الماء بقوة وتدفقه الغزير المنهمر من السماء والدموع (همر)، واصفاً شدة فتح أبواب السماء بمياه طوفان نوح الجارفة.",
+  "rawText": "انهمر 7 <i>It poured; poured out</i> or <i>forth;</i> (K;) said of rain, and of tears; (TA;) as also 🡻هَمَرَ, (K,) aor. ﹻ, inf. n. هُمُورٌ; (TA;) [and so, app., 🡻اهتمر, q. v.:] <i>it flowed;</i> said of water, (S, K,) of rain, and of tears; like انهمل: (TA:) and in like manner, 🡻هَمَرَتْعَيْنُهُ بِالدَّمْعِ <i>His eye flowed with tears;</i> as also هَمَلَتْ. (A.) === انهمر بالكلام: see 1.\nاهتمر 8 : see 7. === ‡ <i>He</i> (a horse) <i>ran</i> (S, K, TA) <i>like a torrent.</i> (TA.)\nمُنْهَمِرٌ : see هَامِرٌ.\nمِهْمَارٌ : see هَمَّارٌ; the former, in two places.\nمِهْمَرٌ : see هَمَّارٌ; the former, in two places.\nهَامِرٌ <i>Pouring</i> rain, and tears; as also 🡻مُنْهَمِرٌ. (TA.) See also هَمَّارٌ.\nهَمَرَهُ 1 , (S, A, K,) aor. ﹹ (S, K) and ﹻ, (K,) inf. n. هَمْرٌ, (S,) <i>He,</i> or <i>it, poured it; out</i> or <i>forth;</i> (S, A, K;) namely, water, (S, TA,) and tears, and rain, and the like. (TA.) === هَمَرَ مَا فِى الضَّرْعِ <i>He drew forth all the milk that was in the udder.</i> (S, K.) === هَمَرَ لَهُ مِنْ مَالِهِ † <i>He gave to him of his property.</i> (S, K.) === هَمَرَ الكَلَامَ, (K,) or فى كَلَامِهِ, (A,) aor. ﹹ, inf. n. هَمْرٌ: (TA;) and 🡻إِنْهَمَرَبِالكَلَامِ; (S;) ‡ <i>He talked much.</i> (K.) ___ هَمَرَ, intrans.: see 7. in two places.\nهَمَرَى : see هَمَّارٌ.\nهَمِرٌ <i>Much sand;</i> as also 🡻يَهْمُورٌ. (K.)\nهَمَّارٌ A cloud <i>pouring forth much rain;</i> as also 🡻هَامِرٌ. (K.) === Applied to a man, (S,) ‡ <i>Loquacious, garrulous; babbling; a great talker; a babbler;</i> or <i>nonsensical, irrational, foolish,</i> or <i>delirious, in his talk;</i> as also 🡻مِهْمَرٌ and 🡻مِهْمَارٌ (S, K) and 🡻يَهْمُورٌ. (Sgh, K.) And 🡻خَطِيبٌمِهْمَرٌ ‡ <i>An orator copious in speech.</i> (A, TA) And 🡻هَمَرَى, applied to a woman, ‡ <i>Clamorous;</i> (K, TA:) <i>abounding in talk</i> or <i>speech, like a pouring torrent.</i> (TA.)\nهَمْرَةٌ <i>A fall of rain.</i> (K.) === ‡ <i>Angry speech.</i> (Sgh, L, K.)\nيَهْمُورٌ : see هَمِرٌ: ___ and see also هَمَّارٌ."
+}

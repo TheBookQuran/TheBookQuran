@@ -1,0 +1,31 @@
+{
+  "rootId": "r1873",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:07:33.756Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Stopping, standing, halting, endowment, arrest, or pause",
+  "primaryMeaning": "Halting/stopping",
+  "quranicRelevance": "Halted/stopped for questioning (Waqafoo - 'waqifoohum innahum mas'ooloon', 'itha waqifoo').",
+  "keyDerivations": [
+    {
+      "lemma": "وَقَفَ / يَقِفُ",
+      "form": "Form I Verb",
+      "meaning": "To stop, halt, stand, pause, or freeze in place"
+    },
+    {
+      "lemma": "أَوْقَفَ / يُوقِفُ",
+      "form": "Form IV Verb (passive: waqifoo)",
+      "meaning": "To cause to stand, arrest, halt, or present"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَقِفُوهُمْ ۖ إِنَّهُمْ مَسْئُولُونَ (27:24): And halt/stop them; indeed, they are to be questioned (judgment arrest checkpoint)."
+  ],
+  "discardedNoise": [
+    "Charitable public endowments (Waqf) in Islamic trusts.",
+    "Grammatical pauses (Waqf) in Quranic recitation signs."
+  ],
+  "summaryEn": "The root represents halting (Waqf), applied to the dramatic scene of wrongdoers arrested before the fire and stopped (Waqifoo) for cosmic questioning.",
+  "summaryAr": "يمثل هذا الجذر الحبس والوقوف والمنع من الحركة، واصفاً مشهد حصر الكفار عند جهنم للسؤال الحسابي (وقفوهم)، وإيقافهم على شفا جهنم.",
+  "rawText": "أَنَا مُتَوَقّفٌ فى هٰذَا [<i>I am pausing,</i> or <i>hesitating, respecting this;</i>] <i>I do not form,</i> or <i>give, a decided opinion</i> (لَا أُمْضِى رَأْيًا) <i>respecting this.</i> (TA.)\nأَوْقَفَ 4 see 1. === أَوْقَفَهُ عَلَى شَىْءٍ <i>He acquainted him with a thing.</i> === اوقفته عَلَى ذَنْبِهِ: see وَقَفْتُهُ, which is the expression commonly known.\nتَوَقَّفَ عَلَى الشَّىْءِ 5 ‡ <i>He paused,</i> or <i>waited, at the thing;</i> syn. تَلَبَّثَ. (IDrd, K, TA.) (Accord. to some copies of the K, تَثَبَّتَ.] You say, تَوَقَّفْتُ عَلَى هٰذَا الأَمْرِ ‡ <i>I paused,</i> or <i>waited, at this thing,</i> or <i>affair.</i> (TA.) And تَوَقَّفَ عَلَى جَوَابِ كَلَامِهِ ‡ [<i>He paused,</i> or <i>waited, at the reply to his speech</i>]. (TA.) And hence, تَوَقَّفَ عَلَى السَّمَاعِ <i>He limited,</i> or <i>restricted, himself to what had been heard</i> [from the Arabs, with respect to a construction, &c.]; <i>did not transgress it,</i> or <i>overstep it.</i> See مُتَوَقَّفٌ. === تَوَقَّفَ فِيهِ † <i>He paused upon it; he hesitated,</i> or <i>deliberated, respecting it.</i> Of very frequent occurrence. === تَوَقَّفَ عَنِ الأَمْرِ † <i>He held, refrained,</i> or <i>abstained, from the thing,</i> or <i>affair.</i> (Msb.) === تَوَقَّفَ عَلَى كَذَا <i>It</i> (for instance, an opinion or a judgment, and the truth of an evidence or a demonstration, and the result of an inquiry or investigation) <i>rested, was founded</i> or <i>grounded, depended,</i> or <i>was dependent, upon such a thing.</i> You say, of knowledge, يَتَوَقَّفُ حُصُولُهُ عَلَى كَذَا <i>Its origination rests upon such a thing;</i> as, for instance, speculation.\nحَبِطَ مَوْقِفُ الفَرَسِ <i>The horse's belly was inflated:</i> see حَبِطَ.\nمَوْقُوفُ عَلَى حَدِّ كُفْرٍ <i>Brought to the verge of infidelity:</i> see حَدٌّ.\nوَاقَفَ 3 <i>He stood</i> with another <i>in a competition; was a partner</i> in a match, &c.: see رَسِيلٌ.\nوَقَفَ 1 <i>He was,</i> or <i>became, still,</i> or <i>stationary;</i> (Msb;) [<i>he stood still;</i>] <i>he continued standing:</i> (K:) and [simply] <i>he stood;</i> contr. of جَلَسَ. (TA.) === وَقَفَ الدَّابَّةَ, inf. n. وَقْفٌ, <i>He made the beast to be,</i> or <i>become, still,</i> or <i>motionless.</i> (Msb.) === وَقَفَ عَلَيْهِ <i>He stopped,</i> or <i>paused, upon coming to him,</i> or <i>it; he stopped,</i> or <i>paused, at it;</i> or <i>where he,</i> or <i>it, was.</i> === وَقَفَ عَلَى شَىْءٍ <i>He paused at, and paid attention to, a thing.</i> === وَقَفَ عَلَيْهِ <i>He comprehended it,</i> namely, a meaning: <i>he understood it.</i> (TA. [Or, correctly, وُقِفَ, for it is there altered.]) === <i>He met with it;</i> namely, a word or the like, in reading: often occurring in this sense. === وُقِفَ عَلَيْهِ <i>He saw it:</i> and <i>he was introduced into it, and knew what was in it.</i> (TA.) <i>He was made to know it surely.</i> See Bd, vi. 27 and 30. === وَقَفْتُهُ على ذَنْبِهِ <i>I made him acquainted with,</i> or <i>made him to know, his crime, sin, fault, or the like;</i> (S, K:) and so 🡻أَوْقَفَهُعَلَيْهِ, q. v. (Mgh.) === وَقَفَ, aor. ﹻ, inf. n. وُقُوفٌ, <i>He withstood, resisted:</i> governing by عَنْ. === وَقَفَهُ and 🡻أَوْقَفَهُ and 🡻وَقَّفَهُ [<i>He bequeathed it,</i> or <i>gave it, unalienably:</i>] the first of these is the most chaste: the last is disapproved and rare. (TA, art. حبس.) See مُؤَبَّدٌ.\nوَقَّفَهُ عَلَى الأَمْرِ 2 [<i>He made him to pause,</i> or <i>wait, at the thing,</i> or <i>affair</i>]. (K, TA, in art. ثبط.) See the quasi-pass. تَوَقَّفَ: and see ثَبَّطَهُ. === وَقَّفَهُ, inf. n. تَوْقِيفٌ <i>He taught him the places of pausing, in reading.</i> (Mgh.) And hence, <i>He made him to know</i> a thing. (Mgh.) === وَقَّفَهُ عَلَى الشَّىْءِ, meaning عَرَّفَهُ إِيَّاهُ, <i>He made him acquainted with the thing; informed him of it; gave him notice of it;</i> though often occurring, for وَقَفَهُ عَلَيْهِ, seems to be post-classical. It is used in this sense, or as meaning <i>He</i> (God) <i>revealed to him the thing,</i> in many places in the Mz, 1st نوع: as, for ex, in the following instance, cited from IF, وَقَّفَ ٱللّٰهُ آدَمَ عَلَى مَا شَآءَ أَنْ يُعَلِّمَهُ إِيَّاهُ [<i>God taught,</i> or <i>revealed to, Adam what He pleased to teach him</i>]. === وَقَّفَ الحَدِيثَ, (JK,) inf. n. تَوْقِيفٌ, (K,) <i>He explained the tradition;</i> syn. بَيَّنَهُ. (JK, K. *) === تَوْقِيفٌ, as a legal term: see نَصَّ عَلَى شَىْءٍ مَّا. === See 1\nوَقْفٌ <i>An entailed,</i> or <i>unalienable, legacy</i> or <i>gift; a mortmain.</i> See أَرْقَبَ. === الوُقُوفُ بِعَرَفَات <i>The halting</i> of the pilgrims <i>at</i> Mount <i>'Arafát.</i>"
+}

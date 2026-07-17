@@ -1,0 +1,36 @@
+{
+  "rootId": "r1838",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:01:45.660Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Restraining, marshalling, grouping, keeping back, or inspiration",
+  "primaryMeaning": "Marshalling/grouping or inspiring restraint",
+  "quranicRelevance": "Soldiers marshalled/kept in ranks (Yooza'oon - 'fahum yooza'oon'), and inspiring hearts to gratitude (Awzi'nee - 'rabbi awzi'nee').",
+  "keyDerivations": [
+    {
+      "lemma": "وَزَعَ / يَوزَعُ",
+      "form": "Form I Verb",
+      "meaning": "To restrain, check, marshal, hold back, or keep in ranks"
+    },
+    {
+      "lemma": "أَوْزَعَ / يُوزِعُ",
+      "form": "Form IV Verb",
+      "meaning": "To inspire, prompt, grant self-control, make adhere, or direct"
+    },
+    {
+      "lemma": "يُوزَعُونَ",
+      "form": "Verb (passive pl.)",
+      "meaning": "They are kept in check, marshalled in ranks, or held back"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ (27:19): My Lord, inspire/prompt me (grant me the self-control/restraint) to be grateful for Your favor (Solomon's prayer)."
+  ],
+  "discardedNoise": [
+    "Distribution of inheritance shares (Tawzee') in estate law.",
+    "Obscure details of camel ranks in long caravans."
+  ],
+  "summaryEn": "The root represents marshalling and inspired restraint, detailing Solomon's army kept in check (Yooza'oon) and his prayer for self-restraint (Awzi'nee) to remain grateful.",
+  "summaryAr": "يمثل هذا الجذر الكف والمنع والترتيب، واصفاً ترتيب وحشد جيش سليمان لئلا يتفرق (يوزعون)، ودعائه لربط قلبه بضبط النفس وشكر النعمة (أوزعني).",
+  "rawText": "الوَزَعَةُ <i>i. q.</i> أَعْوَانُ الرَّجُلِ. (TA in art. امل.) وازِعٌ: see فَارِعٌ."
+}

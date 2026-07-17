@@ -1,0 +1,26 @@
+{
+  "rootId": "r1007",
+  "source": "lanes",
+  "enrichedAt": "2026-06-29T23:14:14.099Z",
+  "modelId": "claude-3-5-sonnet-human-curated",
+  "semanticCore": "a frog; croaking marsh animal",
+  "primaryMeaning": "A frog (pl. ضَفَادِع).",
+  "quranicRelevance": "Appears once in the Quran (plural ضَفَادِع) in Surah al-A'raf [7:133] as one of the signs and plagues sent upon Pharaoh and his people (flood, locusts, lice, frogs [الضَّفَادِع], and blood) as clear signs of divine warning.",
+  "keyDerivations": [
+    {
+      "lemma": "ضُفْدَعٌ / ضَفْدَعٌ",
+      "form": "Noun",
+      "meaning": "A frog (pl. ضَفَادِع)."
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "The swelling on the tongue of a horse.",
+    "A bone in the hoof of a horse."
+  ],
+  "discardedNoise": [
+    "Various dialectal pronunciations of the word frog (ضَفْدَع, ضُفْدَع, ضِفْدِع, ضَفْدَعَة)."
+  ],
+  "summaryEn": "The root ضفدع represents frogs. In the Quran, frogs (ضَفَادِع) are mentioned as one of the natural plagues sent to Pharaoh and the Egyptians.",
+  "summaryAr": "يدل جذر ضفدع على الحيوان البرمائي المعروف. ويظهر في القرآن الكريم (بصيغة الجمع الضَّفَادِع) كآية عذاب وابتلاء أرسلها الله على فرعون وقومه مع الجراد والقمل والدم.",
+  "rawText": "ضفدع\nضَفْدَعَ , said of water, <i>It had in it</i> ضَفَادِع [or <i>frogs</i>]. (O, K.) ___ And, said of a man, <i>He shrank,</i> or <i>became contracted;</i> syn. تَقَبَّضَ: or <i>he voided his excrement,</i> or <i>ordure;</i> or <i>thin excrement;</i> syn. سَلَحَ: or <i>he emitted wind from the anus, with a sound.</i> (TA.)\nضِفْدِعٌ (S, O, Msb, K) and ضَفْدَعٌ and ضُفْدَعٌ (K) and ضِفْدَعٌ, (S, O, Msb, K,) this last said by some, (S, O, Msb,) but most rare, or rejected, (K,) disallowed by Kh and a number of others, (Msb,) [for] accord. to Kh [and others] there are only four words of the measure فِعْلَلٌ in the language, which are دِرْهَمٌ and هِجْرَعٌ and هِبْلَعٌ and the proper name قِلْعَمٌ, (S, O,) [The <i>frog;</i> and app. also the <i>water-toad;</i>] <i>a certain reptile</i> (دَابَّة) <i>of the rivers,</i> (K, TA,) <i>generated in the river,</i> (TA,) <i>the flesh of which, cooked with oliveoil, is</i> [<i>said to be</i>] <i>an antidote to the poison of venomous creatures,</i> (K, TA,) <i>when put upon the place of the sting,</i> or <i>bite:</i> (TA:) and [<i>a certain reptile</i>] <i>of the land,</i> (K, TA,) [app. the <i>landtoad,</i>] <i>that lives,</i> or <i>grows, in caverns and caves,</i> (TA,) <i>the fat of which is</i> [<i>said to be</i>] <i>wonderful for the extraction of teeth</i> (K, TA) <i>without fatigue, and of the skin of which, tanned, the skull-cap that renders invisible</i> (طَاقِيَّةُ الإِخْفَآءِ [a vulgar term]) <i>is made, as is said by the performers of legerdemain; and the flesh of this species is said to be poisonous:</i> (TA;) the fem., (S, O, Msb,) or the n. un., (K,) is with ة: and the pl. is ضَفَادِعُ (S, O, Msb, K) [and ضَفَادٍ; in the Msb and K, ضَفَادِى; in the O, correctly, الضَّفَادِى is said to be a var. of الضَّفَادِعُ, like الثَّعَالِى and الأَرَانِى of الثَّعَالِبُ and الأَرَانِبُ]. === نَقَّتْ ضَفَادِعُ بَطْنِهِ [lit. <i>The frogs of his belly croaked</i>] means † <i>he was,</i> or <i>became, hungry;</i> (O, K;) like نَقَّتْ عَصَافِيرُ بَطْنِهِ. (O.) === الضِّفْدِعُ الأَوَّلُ is a name of † <i>The bright star</i> [ α] <i>on the mouth of Piscis Australis;</i> (Kzw, Descr. of Aquarius;) <i>also called</i> فَمُ الحُوتِ: (Idem, Descr. of Piscis Australis:) and الضِّفْدِعُ الثَّانِى is the name of † <i>The star on the southern fork of the tail of Cetus.</i> (Idem.) === And الضِّفْدِعُ, (O, K,) thus only, (TA,) † <i>A certain bone</i> [or <i>horny substance,</i> which we, in like manner, call “ <i>the frog,</i> ”] <i>in the interior of the horse's hoof,</i> (O, K,) <i>in the sole thereof.</i> (O.) [See also نَسْرٌ.]\nمُضَفْدِعَاتٌ Waters <i>abounding with</i> ضَفَادِع [or <i>frogs</i>]. (S, O.)"
+}

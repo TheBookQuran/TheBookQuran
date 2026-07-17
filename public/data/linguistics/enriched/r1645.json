@@ -1,0 +1,47 @@
+{
+  "rootId": "r1645",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:05:27.741Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Escape, safety, salvation, whispering, or elevation",
+  "primaryMeaning": "To escape or speak privately",
+  "quranicRelevance": "Salvation/escape from danger (Najat - 'naja'), private counsel/whispering (Najwa), and elevated ground.",
+  "keyDerivations": [
+    {
+      "lemma": "نَجَا",
+      "form": "Form I Verb",
+      "meaning": "To escape, be saved, or survive"
+    },
+    {
+      "lemma": "أَنْجَى / نَجَّى",
+      "form": "Form IV / Form II Verb",
+      "meaning": "To save, deliver, or rescue"
+    },
+    {
+      "lemma": "نَجْوَى",
+      "form": "Noun",
+      "meaning": "Private conversation, secret talk, or whisper"
+    },
+    {
+      "lemma": "نَجِيًّا",
+      "form": "Noun / Adjective",
+      "meaning": "In private consultation, or speaking secretly"
+    },
+    {
+      "lemma": "نَجَاةٌ",
+      "form": "Noun",
+      "meaning": "Salvation, safety, or escape"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "نَجْوَى: Secret counsel (literally 'elevated talk' or 'cut off conversation').",
+    "نَجِيًّا (19:52): Privately conversing or honored with proximity."
+  ],
+  "discardedNoise": [
+    "The bark of a tree that is peeled.",
+    "Obscure details on skinning animals."
+  ],
+  "summaryEn": "The root encompasses salvation and private communication, linking physical rescue (Najat) with secret counsel/whispering (Najwa).",
+  "summaryAr": "يشمل هذا الجذر النجاة والمحادثة السرية، رابطاً بين الخلاص المادي (النجاة) والمناجاة والحديث السري (نجوى).",
+  "rawText": "أَنْجَاهُ 4 and 🡻نَجَّاهُ <i>He saved, him; rescued him; preserved him.</i> (K.)\nاِسْتَنْجَى 10 <i>He washed,</i> or <i>wiped with a stone</i> or <i>a piece of dry clay, the place</i> [<i>of exit</i>] <i>of his excrement.</i> (Msb.) ___ اِسْتَنْجَوْا: see 8 in art. سعر.\nمَنْجَاةٌ [<i>A cause, or means, of safety:</i> of the measure مَفْعَلَةٌ, originally مَنْجَوَةٌ; similar to مَفْلَحَةٌ, &c.]. (S.)\nنَجَا 1 <i>Alvum dejecit;</i> (Msb, TA;) <i>ventumve per anum emisit:</i> (TA:) <i>he voided his ordure;</i> or <i>broke wind.</i> === نَجَا, inf. n. نَجَآءٌ, <i>He was quick,</i> or <i>swift,</i> and <i>outstripped.</i> (S.) See an ex. of the inf. n., voce غولٌ. === نَجَا <i>He became safe,</i> or <i>secure; he escaped.</i> (Msb, &c.)\nنَجَيْتُ a dial. var. of نَجَوْتُ: see دَوْكَةٌ.\nنَجِىٌّ : see نَجْوَى. === عُرْيَانُ النَّجِىِّ: see art. عرى.\nنَجَّوَ 2 see 4.\nنَجْوٌ and نَجَآءٌ <i>A shower of rain.</i> === See شُوْبُوبٌ and 1. === نجاء <i>A well of which the water is distant</i> [<i>from the mouth</i>]. (O, TA, voce قَرَبٌ.)\nنَجْوَةٌ <i>An elevated piece of land.</i> (Msb.)\nنَجْوَى <i>Secret discourse between two persons or parties.</i> (TA.) === <i>A secret between two persons or parties;</i> as also 🡻نَجِىٌّ. (K, TA.) === <i>A person, or persons, discoursing secretly, or telling secrets one with another.</i> (TA.)"
+}

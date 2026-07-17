@@ -1,0 +1,26 @@
+{
+  "rootId": "r1763",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:52:16.826Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Demolishing, tearing down, pulling down buildings, destruction, or old worn garments",
+  "primaryMeaning": "Demolishing/pulling down buildings",
+  "quranicRelevance": "Monasteries would be demolished (Huddimat - 'lahuddimat').",
+  "keyDerivations": [
+    {
+      "lemma": "هَدَمَ / يَهْدِمُ (Passive: هُدِّمَ)",
+      "form": "Form I Verb (Intensive: هُدِّمَ)",
+      "meaning": "To demolish, pull down, tear down structures, or level buildings"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَلَوْلَا دَفْعُ اللَّهِ النَّاسَ بَعْضَهُمْ بِبَعْضٍ لَهُدِّمَتْ صَوَامِعُ وَبِيَعٌ (22:40): And if it were not for God repelling people, some by means of others, monasteries and churches would have been demolished."
+  ],
+  "discardedNoise": [
+    "Hadm (digesting food) - confused spelling H-D-M vs. H-D'-M.",
+    "Old rugs."
+  ],
+  "summaryEn": "The root means tearing down or demolishing structures (Hadm), stating that religious sanctuaries of various faiths would be systematically leveled without defensive resistance.",
+  "summaryAr": "يشير هذا الجذر إلى إسقاط البناء ونقضه وتخريب الجدران والبيوت (هدم)، مبدياً أن غياب قوة الدفاع كان سيؤدي لتخريب وهدم أديرة العبادة ومساجد الصلوات.",
+  "rawText": "الدَّمُ الدَّمُ وَالهَدَْمُ الهَدَْمُ : see دَمْ.\nاِنْهَدَمَ 7 <i>It became thrown down, pulled down, pulled to pieces, demolished,</i> or <i>destroyed:</i> and <i>it fell in ruins,</i> or <i>to pieces;</i> or <i>became a ruin.</i> === اِنْهَدَمَ الحَائِطُ مِنْ مَكَانِهِ مِنْ غَيْرِ هَدْمٌ [<i>The wall fell in ruins,</i> or <i>to pieces, from its place, without being pulled to pieces</i>]. (Lth, in TA, art. قيض.)\nتَهَادَمَتِ الحِيطَانُ 6 [<i>The walls fell to ruin by degrees</i>]. (S, in art. دعو.)\nهَدَمٌ <i>Earth that is dug from a pit</i> or <i>well:</i> see حَفَرٌ.\nهَدَمَ 1 <i>He threw down,</i> or <i>pulled down,</i> a building; (Msb;) <i>pulled</i> it <i>to pieces; demolished</i> it; <i>destroyed</i> it: (K:) [the last two explanations are the most correct, as is shown by the phrase] نَقَضَ البِنَآءَ مِنْ عَيْرِ هَدْمِ [<i>He took to pieces the building without demolishing,</i> or <i>destroying</i>]: (S, A, Msb, K, * in art. قوض:) <i>he ruined</i> [a building, &c.]; <i>reduced</i> [it] <i>to ruin.</i> (Ham, p. 31.)"
+}

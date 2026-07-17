@@ -1,0 +1,62 @@
+{
+  "generatedAt": "2026-07-01T00:21:04.307Z",
+  "schemaVersion": "1",
+  "files": {
+    "word_to_root.json": {
+      "providerId": "qac-v0.4",
+      "recordCount": 49967,
+      "checksum": "484eef29ff367c0db0a1bccf0fccc462ef5f95aa7457f4196c68f9a061725995"
+    },
+    "roots.json": {
+      "baseProviderId": "qac-v0.4",
+      "recordCount": 1642,
+      "fields": {
+        "arabic_text": {
+          "provider": "qac-v0.4",
+          "coverage": 1
+        },
+        "occurrences_count": {
+          "provider": "qac-v0.4",
+          "coverage": 1
+        },
+        "lanes_meaning": {
+          "provider": "lanes-gibreel",
+          "coverage": 0.971
+        },
+        "maqayis_meaning": {
+          "provider": "maqayis-ibn-faris",
+          "coverage": 0.859
+        }
+      },
+      "checksum": "75de4f268e4057ccd79c357dee4f229f4e94b01eeb318fe4d77bb8d10e7ef7dc"
+    },
+    "occurrences.json": {
+      "providerId": "qac-v0.4",
+      "recordCount": 1642,
+      "checksum": "7d7c1230de6d8a1ca529179acfa797ee22c40f23eb41535ffa620c76b3a4dbdd"
+    }
+  },
+  "providers": [
+    {
+      "id": "qac-v0.4",
+      "label": "Quranic Arabic Corpus v0.4",
+      "license": "GPL-3.0",
+      "url": "https://github.com/cltk/arabic_morphology_quranic-corpus",
+      "retrievedAt": "2026-06-26T00:00:00.000Z"
+    },
+    {
+      "id": "lanes-gibreel",
+      "label": "Lane's Lexicon (GibreelAbdullah/LaneLexicon)",
+      "license": "GPL-3.0 (app) / Public Domain (text)",
+      "url": "https://github.com/GibreelAbdullah/LaneLexicon",
+      "retrievedAt": "2026-06-26T00:00:00.000Z"
+    },
+    {
+      "id": "maqayis-ibn-faris",
+      "label": "معجم مقاييس اللغة لابن فارس",
+      "license": "Public Domain",
+      "url": "https://github.com/wizsk/arabic_lexicons",
+      "retrievedAt": "2026-07-01T00:21:04.304Z"
+    }
+  ]
+}

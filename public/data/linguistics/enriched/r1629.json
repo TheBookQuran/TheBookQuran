@@ -1,0 +1,32 @@
+{
+  "rootId": "r1629",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:00:21.796Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Inclination, bias, swerving, deviation, cavalry charge, or attack",
+  "primaryMeaning": "To incline or deviate/attack",
+  "quranicRelevance": "Inclining away from justice (Meeleh - 'wa yameeloona maylatan wahidatan'), and inclining towards one wife over others ('fala tameeloo kulla al-mayli').",
+  "keyDerivations": [
+    {
+      "lemma": "مَالَ / يَمِيلُ",
+      "form": "Form I Verb",
+      "meaning": "To incline, lean, swerve, deviate, tilt, or turn aside"
+    },
+    {
+      "lemma": "مَيْلٌ / مَيْلَةٌ",
+      "form": "Noun / Noun unit",
+      "meaning": "Inclination, bias, swerve, single sweep, or sudden charge/assault"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فَيَمِيلُونَ عَلَيْكُمْ مَيْلَةً وَاحِدَةً (4:102): So they might assault/charge you in a single sweep/charge (tactical strike during prayer).",
+    "فَلَا تَمِيلُوا كُلَّ الْمَيْلِ فَتَذَرُوهَا كَالْمُعَلَّقَةِ: So do not incline with complete bias (leaving one wife suspended)."
+  ],
+  "discardedNoise": [
+    "The spatial unit of a mile (ميل) in distance calculation.",
+    "Modern inclinometer tools."
+  ],
+  "summaryEn": "The root represents leaning and bias, warning against marital unfairness (complete Mayl) and describing the sudden tactical charge (Meylah) of battlefield enemies.",
+  "summaryAr": "يمثل هذا الجذر الانحراف والميل، محذراً من الميل والجور الزوجي (فلا تميلوا كل الميل)، ومصوّراً انقضاض العدو العسكري المباغت (ميلة واحدة).",
+  "rawText": "أَمْيَلُ <i>Swaying</i> on horseback: see an ex. of its pl. مِيلٌ in a verse cited voce أَشْعَلَ. === عِمَّةٌ مَيْلَآءُ: see قَفْدَآءُ.\nاستمالهُ 10 , and استمال بِقَلْبِهِ, (S, K,) <i>He inclined him,</i> and <i>his heart.</i> (K.) === اِسْتَمَالَهُ <i>He attracted him to himself;</i> or <i>sought to make him incline.</i> (MA.) === استمال is a quasi-pass. of 🡻مَيَّلَهُ. (K, * TA.)\nامالةُ الأَلِفِ <i>The inclining of the sound of</i> ا <i>when quiescent, after fet-hah, towards the sound of</i> ى; <i>so that the fet-hah, with that</i> ا, <i>composes a sound the same as that of the long</i> “ e ” <i>in the English word</i> “ <i>there.</i> ” This is accordant with present usage; and I have not found any learned Arab who asserts otherwise. See also نَابٌ, and حَجَّاجٌ, and مَشُوبٌ.\nتَمَايَلَ فِى مِشْيَتِهِ 6 [<i>He affected an inclining of his body,</i> or <i>a bending,</i> or <i>he inclined his body,</i> or <i>bent, from side to side, in his gait;</i> a meaning well known, and still common]; (S;) syn. تَثَنَّى. (Har, p. 269.) === See تَزَايُغٌ. === تَمَايَلَتْ فِى مِشْيَتِهَا and 🡻تَمَيَّلَتْ signify the same. (TA.) === تَمَايَلَ إِلَى الشَّىْءِ; and عَنْ طَرِيقِهِ: <i>i. q.</i> تَجَانَفَ [<i>He affected a deviation,</i> or <i>purposely deviated from his course,</i> &c.] (TA in art. جنف.)\nتَمَيَّلَ 5 See 6. === تَمَيَّلَ بِالقَوْلِ <i>He vacillated in the saying:</i> see تَرَجَّحَ.\nمَالَ 1 [<i>He</i>, or <i>it, inclined, leant, bent, propended, tended, declined, deviated,</i> or <i>deflected.</i>] === مَالَ مَعَهُ and 🡻مَايَلَهُ <i>He conformed with,</i> and <i>assisted,</i> or <i>aided, him.</i> (TA.) === مَالَ إِلَيْهِ <i>He loved him.</i> (TA.) === <i>He wronged him.</i> (TA.) <i>He was,</i> or <i>became, inimical to him.</i> === مَالَتِ الدَّابَّةُ مِنْ رِجْلِهَا (K, art. غمز,) <i>i. q.</i> ظَلَعَتْ [It <i>limped</i>]. (TA.)\nمَايَلَهُ 3 <i>He inclined towards him reciprocally:</i> and مَايَلَا <i>they two inclined each towards the other.</i> (TK, art. هود.) See also مَالَ مَعَهُ in 1.\nمَيَلٌ <i>A natural wryness.</i> (S.)\nمَيَّالٌ [<i>i. q.</i> مُتَمَايِلٌ, <i>Inclining much</i>]. (A, art. فيد.) See سَيَّالٌ.\nمَيَّلَ بَيْنَ شَيْئَيْنِ 2 <i>He wavered,</i> or <i>vacillated, between two things.</i> (S, MA.) See 10.\nمَيْلٌ <i>Inclination; leaning; bent; propensity; tendency.</i>\nمِيلٌ as used by the Arabs, [<i>A mile:</i>] The <i>distance to which the eye reaches along land:</i> accord. to the ancient astronomers, <i>three thousand cubits:</i> accord to the moderns, <i>four thousand cubits:</i> but the difference is merely verbal; for they agree that its extent is ninety-six thousand digits; [about 5166 English feet;] each digit being the measure of six barley-corns, each placed with its belly next to another; but the ancients say that the cubit is thirty-two digits; which makes the mile three thousand cubits. (Msb, which see for more.) See also مُطْلِبٌ === ميِلٌ <i>i. q.</i> مُلْمُولٌ, [<i>A style</i>]. (K.)\nمِيلَانِ (?) of a مَحَالَة of a well: see ثِنَايَةٌ."
+}

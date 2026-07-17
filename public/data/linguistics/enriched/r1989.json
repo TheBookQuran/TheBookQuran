@@ -1,0 +1,41 @@
+{
+  "rootId": "r1989",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:23:40.664Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Deviation, error, delusion, or collapse",
+  "primaryMeaning": "To deviate from the right course (go astray)",
+  "quranicRelevance": "Straying/going astray from guidance (Ghayy - 'qad tabayyana ar-rushdu min al-ghayy'), and those who stray/deviate (Ghawoon - 'wash-shu'ara'u yattabi'uhumu al-ghawoon').",
+  "keyDerivations": [
+    {
+      "lemma": "غَوَى",
+      "form": "Form I Verb",
+      "meaning": "To deviate, go astray, err, or collapse"
+    },
+    {
+      "lemma": "غَيٌّ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Deviation, error, or misguidance"
+    },
+    {
+      "lemma": "غَاوُونَ",
+      "form": "Noun / Active part. pl.",
+      "meaning": "Deviant ones, or those who go astray"
+    },
+    {
+      "lemma": "أَغْوَى",
+      "form": "Form IV Verb",
+      "meaning": "To lead astray, delude, or deceive"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَى (53:2): Your companion has not strayed, nor has he erred/deviated."
+  ],
+  "discardedNoise": [
+    "Obscure terms on sheep disease (ghawa).",
+    "Sectarian definitions of deviant movements in later history."
+  ],
+  "summaryEn": "The root refers to deviation from guidance, depicting the path of error (Ghayy), leading astray (Ighwa'), and those who follow poets in vanity (Ghawoon).",
+  "summaryAr": "يشير هذا الجذر إلى الانحراف عن الهدى، واصفاً مسالك الغي والضلال (غي)، والإغواء الشيطاني، والغاويين التابعين للشعراء في لغوهم.",
+  "rawText": "غوى 1 : see 4. ___ [And see also غَوِيثٌ.]\nغوى 1 see what next follows."
+}

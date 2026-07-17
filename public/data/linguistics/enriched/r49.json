@@ -1,0 +1,36 @@
+{
+  "rootId": "r49",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:06:09.694Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Grief, sorrow, anger, regret, regretful sigh, or pity",
+  "primaryMeaning": "Grief/sorrow or anger",
+  "quranicRelevance": "Grieving for Joseph (Asafa - 'ya asafa 'ala yusufa'), returning angry and grieved (Asif - 'ghadhbana asifan'), and angering God ('asafona').",
+  "keyDerivations": [
+    {
+      "lemma": "أَسَفٌ",
+      "form": "Noun",
+      "meaning": "Grief, sorrow, regret, or mourning sigh"
+    },
+    {
+      "lemma": "أَسِفٌ",
+      "form": "Adjective",
+      "meaning": "Grieved, sorrowful, or angry/vexed"
+    },
+    {
+      "lemma": "آسَفَ",
+      "form": "Form IV Verb",
+      "meaning": "To anger, provoke, vex, or cause grief"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فَلَمَّا آسَفُونَا انْتَقَمْنَا مِنْهُمْ (43:55): So when they angered/provoked Us, We took retribution from them (Pharaoh's final transgression threshold)."
+  ],
+  "discardedNoise": [
+    "Saying sorry (Asif) in modern polite social Arabic.",
+    "Apology letters in administration."
+  ],
+  "summaryEn": "The root connects deep grief with severe provocation/anger, detailing Jacob's sigh for Joseph (Asafa) and Pharaoh's team provoking (Aasafona) divine wrath.",
+  "summaryAr": "يربط هذا الجذر بين الحزن الشديد والغضب المثير، واصفاً زفرة يعقوب حزناً على غياب يوسف (يا أسفى)، وإغضاب فرعون وجنوده للرب (آسفونا).",
+  "rawText": "أَسَافَةٌ : see أَسِيفٌ, in two places.\nأَسَافَةٌ [<i>Grief, lamentation,</i> or <i>regret:</i> and <i>anger:</i> (see 1:) or] <i>excessive grief:</i> and <i>excessive anger:</i> (M:) or <i>most intense grief:</i> (K:) a subst. from أَسِفَ. (M, K.) === The <i>state,</i> or <i>condition, of a slave:</i> (M, K:) and, <i>of a hired man.</i> (M.) === ‡ The <i>state,</i> or <i>condition, of land which scarcely,</i> or <i>never, produces vegetation.</i> (K, TA.) ___ See أَسِيفٌ, in three places.\nأَسَفٌ inf. n. of 1, which see throughout. [Used as a subst., <i>i. q.</i> أَسَافةٌ.]\nأَسُوفٌ : see أَسِيفٌ, in two places: and see أَسِفٌ.\nأَسِفٌ (M, Mgh, Msb) and 🡻اسِفٌ and 🡻أَسْفَانُ and 🡻أَسِيفٌ (M, TA) and 🡻أَسُوفٌ (M) <i>Angry:</i> (Mgh, Msb, TA:) or <i>exceedingly angry.</i> (M.) For an ex. of the first, see 1. See also أَسِيفٌ, in two places.\nأَسِفَ 1 , aor. ﹷ, inf. n. أَسَفٌ, (M, Msb, K,) <i>He grieved, lamented,</i> or <i>regretted:</i> and <i>he was angry:</i> (Msb:) or <i>he grieved exceedingly:</i> and <i>he was exceedingly angry:</i> (M:) or <i>he grieved most intensely:</i> (K:) some say that أَسَفٌ signifies the <i>grieving</i> for a thing that has escaped; not in an absolute sense: (MF:) or it properly signifies the <i>rising,</i> or <i>swelling,</i> or <i>mantling, of the blood of the heart,</i> from desire of vengeance; and when this is against an inferior, it is <i>anger;</i> but when against a superior, it is <i>grief.</i> (Er-Rághib.) Mo- hammad, being asked respecting sudden death, answered, saying, رَاحَةٌ لِلْمُؤْمِنِ وَأَخْذَةُ أَسَفٍ لِلْكَافِرِ, or accord. to one recital, 🡻أَسِفٍ, i. e. [<i>Rest,</i> or <i>ease, to the believer, and an act of punishment</i>] <i>of anger</i> [<i>to the unbeliever</i>], or <i>of one who is angry.</i> (K.) You say, أَسِفَ عَلَى مَا فَاتَهُ, inf. n. as above; (S;) and 🡻تأسّف; (S, M, * K; *) <i>He grieved,</i> or <i>lamented, for,</i> or <i>at,</i> or <i>regretted, most intensely, what had escaped him:</i> (S, M, * K:) and أَسِفَ عَلَيْهِ, (S, K,) inf. n. as above, (S,) <i>he was angry with him,</i> or <i>at it:</i> (S, K:) or أَسِفَ فُلَانٌ عَلَى كَذَا وَكَذَا and 🡻تأسّف, signify, accord. to some, <i>such a one grieved,</i> or <i>lamented, for,</i> or <i>at, such and such things</i> which had escaped him: or, accord. to others, <i>grieved,</i> or <i>lamented, most intensely.</i> (IAmb.) أَسَفًا in the Kur xviii. 5 means, accord. to Ed-Dahhák, جَزَعًا [i.e. <i>In grief,</i> or <i>in most violent grief,</i> &c.]: or, accord. to Katádeh, <i>in anger.</i> (TA.) And يَا أَسَفَا عَلَى يُوسُفِ, in the Kur [xii. 84], means يَا جَزَعَاهُ [<i>O my grief for Joseph:</i> or <i>O my most violent grief</i>]. (TA.)\nأَسِيفٌ <i>Grieving, lamenting,</i> or <i>regretting,</i> (K, * TA,) <i>most intensely, on account of a thing that has escaped:</i> (M, TA:) and <i>quickly affected with grief,</i> (S, Mgh, K,) <i>and tender-hearted;</i> as also 🡻أَسُوفٌ: (S, K:) or, as also 🡻أَسُوفٌ (M) and 🡻أَسْفَانُ and 🡻آسِفٌ (M, TA) and 🡻أَسِفٌ , (M,) <i>grieving exceedingly:</i> (M:) or <i>grieved:</i> (TA:) and sometimes the first signifies <i>angry, and at the same time grieving,</i> or <i>lamenting:</i> (S:) pl. أُسَفَآءُ. (M.) See also أَسِفٌ. === <i>A slave:</i> (ISk, S, M, K:) and <i>a hired man:</i> (ISk, M, K:) because of their state of abasement and subjection: fem. with ة: (M:) and pl. as above. (S, M.) === <i>A captive.</i> (TA.) === <i>A very old man:</i> (K:) pl. as above: so in a trad., in which the slaying of such is forbidden. (TA.) === One <i>who scarcely,</i> or <i>never, becomes fat.</i> (K.) === † <i>A region,</i> or <i>country, that does not give growth to anything,</i> or <i>produce any vegetation;</i> as also أَسِيفَةٌ and 🡻أُسَافَةٌ and 🡻أَسَافَةٌ: (M:) and 🡻أَسَافَةٌ also signifies † <i>thin,</i> or <i>shallow, earth:</i> (AHn, M:) and أَرْضٌ أَسِيفَةٌ, ‡ <i>thin,</i> or <i>shallow, earth, which scarcely,</i> or <i>never, gives growth to anything,</i> or <i>produces any vegetation:</i> (S:) or <i>which is not commended for its vegetation:</i> (A, TA:) or, as also 🡻أُسَافَةٌ and 🡻أَسَافَةٌ, † <i>thin,</i> or <i>shallow, earth:</i> or <i>such as does</i> <i>not produce vegetation:</i> and ↓ † أَرْضٌ أَسِفَةٌ <i>land which scarcely,</i> or <i>never, produces vegetation.</i> (K.)\nأَسْفَانُ : see أَسِفٌ: and أَسِيفٌ.\nإِسَافٌ (S, M, Sgh, &c.) and أَسَافٌ (IAth, K) <i>A certain idol,</i> (S, M, K,) <i>belonging to Kureysh,</i> (S, M,) <i>as was also</i> نَائِلَةُ; (S;) <i>the former of which was placed, by 'Amr Ibn-Loheí, upon Es-Safà, and the latter upon El-Marweh; and he used to sacrifice to them, in front of the Kaabeh:</i> (S, K:) or, (S, M, K,) as some assert, (S,) <i>these two were two persons of Jurhum,</i> (S, K,) <i>a man and a woman,</i> (M,) اساف <i>the son of 'Amr, and</i> نائلة <i>the daughter of Sahl,</i> (S, K,) <i>who committed fornication in the Kaabeh, and were therefore changed into two stones,</i> (S, M, K,) <i>which Kureysh afterwards worshipped.</i> (S, K.) [Other accounts of them are also given, slightly differing from the latter above.]\nآسفهُ 4 (in [some of] the copies of the K, erroneously, أَسَفَهُ, TA) <i>He angered him; made</i> <i>him angry:</i> (S, M, * O, L, Msb, K:) and <i>he grieved him; made him to grieve,</i> or <i>lament.</i> (M,* TA.)\nآسِفٌ : see أَسِيفٌ: and أَسِفٌ.\nتَاَسَّفَ 5 see 1, in two places. === تَأَسَّفَتْ يَدَهُ ‡ <i>i. q.</i> تَشَعَّثَتْ [app. meaning <i>His hand became bruised,</i> or <i>mangled;</i> or <i>became cracked,</i> or <i>chapped</i>]. (M, TA.)"
+}

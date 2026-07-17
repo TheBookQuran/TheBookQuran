@@ -1,0 +1,31 @@
+{
+  "rootId": "r2015",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:11:50.470Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Floating, skimming, edge, brim, rising up, or overflow",
+  "primaryMeaning": "Overflowing/brim or shortchanging (giving less than brim)",
+  "quranicRelevance": "Shortchangers who cheat in weights (Mutaffifeen - 'waylon lil-mutaffifeen').",
+  "keyDerivations": [
+    {
+      "lemma": "طَفَّفَ / يُطَفِّفُ",
+      "form": "Form II Verb",
+      "meaning": "To shortchange, give deficient measure, cheat in weights, or trim margins"
+    },
+    {
+      "lemma": "مُطَفِّفٌ / مُطَفِّفُونَ",
+      "form": "Noun / Active part. pl.",
+      "meaning": "Shortchangers, weight cheaters, or measure trimmers"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَيْلٌ لِلْمُطَفِّفِينَ ﴿١﴾ الَّذِينَ إِذَا اكْتَالُوا عَلَى النَّاسِ يَسْتَوْفُونَ ﴿٢﴾ وَإِذَا كَالُوهُمْ أَوْ وَزَنُوهُمْ يُخْسِرُونَ (83:1-3): Woe to the shortchangers/cheaters! Who, when they take a measure from people, demand it in full; but when they measure or weigh for them, they cause loss."
+  ],
+  "discardedNoise": [
+    "Floating boats (Tafiyah) - spelling shift.",
+    "Modern inflation pricing index adjustments."
+  ],
+  "summaryEn": "The root represents weight shortchanging (Tatfeef), condemning merchant fraud where cheats demand full brims for themselves but give deficient measures to others.",
+  "summaryAr": "يمثل هذا الجذر البخس في المكاييل وتطفيف الحدود (تطفيف)، متوعداً التجار المطففين بالويل لطلبهم الكيل وافياً وبخسهم إياه للزبائن (المطففين).",
+  "rawText": "إِنْطَفَاَ 7 see the first paragraph.\nاطفأ النَّارَ 4 <i>He extinguished,</i> or <i>quenched, the fire.</i> (S, * Msb, K, * TA.) Hence, اطفأ الحَرْبَ ‡ <i>He extinguished the fire of the war.</i> (TA.) And أَطْفَأْتُ الفِتْنَةَ ‡ <i>I allayed the sedition,</i> or <i>conflict and faction,</i> or <i>the like.</i> (Msb.)\nطَفِئَتِ النَّارُ 1 , aor. ﹷ, inf. n. طُفُوْءٌ (S, Msb, K) and طَفَأٌ; (TA;) and 🡻انطفأت; (S, K;) <i>The fire became extinguished,</i> or <i>quenched:</i> (Msb:) or <i>ceased to flame:</i> (K, TA:) [or rather, <i>ceased to flame and its live coals became cool;</i> for] when the flame of the fire has become allayed but its coals still burn, it is said to be خَامِدَة; and when its flame is extinct and its coals have become cool, it is said to be هَامِدَة and 🡻طَافِئَة. (TA.)\nمُطَفِّئَةُ الرَّضْفِ : see the next preceding paragraph.\nمُطْفِئُ الجَمْرِ [<i>The extinguisher of the live coals;</i>] <i>one of the</i> [<i>seven</i>] <i>days called</i> أَيَّامُ العَجُوزِ; (S, O;) <i>the fifth of those days;</i> (K;) so in the M &c.: (TA:) or <i>the fourth thereof:</i> (O, K:) or <i>the last thereof.</i> (Har p. 295.) [Accord. to modern Egyptian almanacs, it is the fourth of those days on which the last of the three جَمَرَات becomes extinct: see جَمْرَةٌ: and see also عَجُوزٌ] === مُطْفِئَةُ الرَّضْفِ (so in the M and O and L and in some copies of the K, in other copies of the K مُطْفِئُ, TA) <i>A piece of fat which, when it falls upon the</i> رَضْف [or <i>heated stones</i>], <i>melts, and quenches them.</i> (Lth, O, K.) And in the M and L, it is said to signify <i>A lean sheep</i> or <i>goat:</i> the Arabs, as is related by Lh, used to say, حَدَسَ لَهُمْ بِمُطْفِئَةِ الرَّضْفِ (TA) i. e. <i>He slaughtered for them a lean sheep</i> or <i>goat, which extinguished the fire and did not become thoroughly cooked:</i> (M and L and K in art. حدس:) or <i>a fat sheep</i> or <i>goat,</i> (AO and T, TA in that art.,) <i>which quenched the</i> رَضْف <i>by its fat.</i> (T, TA ibid. [See also دَمَغَ.]) === Also <i>A serpent, the poison of which, as it passes by the</i> رَضْف, <i>extinguishes their fire:</i> (O, K:) in a verse of El-Kumeyt, [for the sake of the metre,] the former word is [altered to] 🡻مُطَفِّئَة. (O.) === And ‡ <i>A calamity,</i> or <i>misfortune:</i> (O, K, TA:) said by AO to mean originally <i>such as has made one to forget that which was before it, and extinguished its heat.</i> (O, TA.)\nنَارٌ طَافِئَةٌ [<i>Fire becoming,</i> or <i>become, extinguished</i>]: see 1."
+}

@@ -1,0 +1,26 @@
+{
+  "rootId": "r511",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:06:09.694Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Pig, swine, fat neck, narrow eye, or dirty",
+  "primaryMeaning": "Swine/pig",
+  "quranicRelevance": "Forbidden pork (Khinzeer - 'lahmu al-khinzeeri'), and transformation into apes and pigs ('al-qiradata wal-khanazeera').",
+  "keyDerivations": [
+    {
+      "lemma": "خِنْزِيرٌ / خَنَازِيرُ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Pig, swine, or pork"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ وَالدَّمُ وَلَحْمُ الْخِنْزِيرِ (5:3): Forbidden to you are dead animals, blood, and the flesh of swine (dietary purity laws)."
+  ],
+  "discardedNoise": [
+    "Swine flu (انفلونزا الخنازير) medical pamphlets.",
+    "Pig iron industrial casting molds."
+  ],
+  "summaryEn": "The root refers to pigs (Khinzeer), outlining dietary bans on pork and the historical transformation punishment of Sabbath-breakers.",
+  "summaryAr": "يشير هذا الجذر إلى الخنازير، مسطراً حظر أكل لحم الخنزير لخبثه، والعقوبة التاريخية بمسخ العصاة قردة وخنازير.",
+  "rawText": "خنزر\nخَنْزَرَ : and خِنْزِيرٌ: see art. خزر."
+}

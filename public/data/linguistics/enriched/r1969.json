@@ -1,0 +1,37 @@
+{
+  "rootId": "r1969",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:16:02.189Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Concealment, behind, striking fire, or fatness",
+  "primaryMeaning": "Behind or to hide",
+  "quranicRelevance": "Hiding/concealing (Muwaraat - 'yuwari'), behind/beyond (Wara' - 'min wara'ihi'), and striking fire (Wary - 'fal-mooriyati qadhan').",
+  "keyDerivations": [
+    {
+      "lemma": "وَارَى",
+      "form": "Form III Verb",
+      "meaning": "To hide, conceal, cover, or shroud"
+    },
+    {
+      "lemma": "وَرَاءَ",
+      "form": "Noun / Preposition",
+      "meaning": "Behind, beyond, or ahead (contronym)"
+    },
+    {
+      "lemma": "مُورِيَاتٌ",
+      "form": "Noun / Active part. pl. fem.",
+      "meaning": "Those that strike fire (horses hoofs)"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "يُوَارِي سَوْآةَ أَخِيهِ (5:31): To hide/shroud the corpse of his brother.",
+    "فَالمُورِيَاتِ قَدْحًا (100:2): And those that strike fire (sparks of hooves)."
+  ],
+  "discardedNoise": [
+    "Diseases of the liver (ورى) - distinct.",
+    "Obscure details on fat camels (وارية)."
+  ],
+  "summaryEn": "The root denotes concealment and friction, representing spatial behind (Wara'), the burial/concealing of dead bodies, and striking sparks.",
+  "summaryAr": "يدل هذا الجذر على المواراة والاحتكاك، ممثلاً الجهة الخلفية (وراء)، ومواراة الموتى، وقدح الشرر بالحوافر.",
+  "rawText": "أَوْرَى 4 and 🡻وَرَّى and 🡻اِسْتَوْرَى <i>He made</i> his زند <i>to produce fire.</i> (S, K.) === See 1.\nإِسْتَوْرَىَ 10 see 4.\nالنَّوْرَاةُ <i>The Book of the Law revealed to Moses.</i> (Bd, iii. 2; &c.)\nرِيَةٌ : see رِئَةٌ, in art. رأى.\nوَارَاهُ 3 <i>He hid it, concealed it,</i> or <i>covered it.</i> (S, Msb, K, &c.)\nوَرَائِى كَذَا <i>Behind me is such a thing,</i> as though it were a burden upon my back. === مِنْ وَرَآءَ وَرَآءَ <i>From behind a thing covering,</i> or <i>concealing.</i> (TA.) === فُلَانٌ مِنْ وَرَآءِ فُلَانٍ <i>Such a one is an aider of such a one:</i> or <i>a follower.</i> (Ham, p. 206.) === اَللّٰهُ مِنْ وَرَائِكَ <i>God is seeking after thee,</i> and <i>watching,</i> or <i>lying in wait, for thee.</i> (Ham, p. 206.) See also an ex. in the first paragraph of art. فتل.\nوَرَى 1 , aor. يَرِى, inf. n. وَرْىٌ [and وُرِىٌّ and رِيَةٌ, K]; and وَرِىَ, aor. يَرِى; and 🡻أَوْرَى; <i>It</i> (a زَنْد) <i>produced its fire.</i> (Msb.) === وَرِيَتْ بِكَ زِنَادِى, or وَرَتْ: see art. زند, and see وَقَدَ and زَهَرَ, and راى. === قَدْحٌ لَا يُورِى: see خَيَّابٌ.\nوَرَّى بِشَىْءٍ عَنْ شَىْءٍ 2 [<i>He pretended,</i> or <i>made believe, a thing, instead of a thing</i> which he meant: as is shown by the explanation of a trad. in the TA]. (S, art. عرض; save that the inf. n. is there mentioned instead of the pret.) === وَرَّى عَنْ كَذَا, inf. n. تَوْرِيَةٌ, <i>He alluded to such a thing equivocally,</i> or <i>ambiguously: equivocated respecting it: he meant such a thing and pretended another.</i> (M, K.) التورية is also called الإِيهَامُ and التَّوْجِيهُ and التَّخْيِيلُ: (Kull, p. 113:) and signifies The <i>using a word, an expression,</i> or <i>a phrase, which has an obvious meaning, and intending thereby another meaning, to which it applies, but which is contrary to the obvious one.</i> (Msb.) See مِعْرَاضٌ. === See 4.\nوَرْىٌ <i>Purulent matter in the interior of the body:</i> or [<i>an abscess;</i> or] <i>a severe ulcer that discharges purulent matter and blood.</i> (M, K, TA.) وَرْيًا وَقُحَابًا: see قُحَابٌ."
+}

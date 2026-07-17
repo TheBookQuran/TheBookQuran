@@ -1,0 +1,31 @@
+{
+  "rootId": "r1799",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:21:37.831Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Crumbling, collapsing, falling down, precipice, slide, or ruin",
+  "primaryMeaning": "Crumbling/collapsing cliff",
+  "quranicRelevance": "Mosque founded on a crumbling cliff (Haar - 'shafa jurufin harin').",
+  "keyDerivations": [
+    {
+      "lemma": "هَارٌ",
+      "form": "Adjective (originally: ha-ir)",
+      "meaning": "Crumbling, collapsing, sliding, unstable, on the verge of fall, or hollow"
+    },
+    {
+      "lemma": "اِنْهَارَ / يَنْهَارُ",
+      "form": "Form VII Verb",
+      "meaning": "To collapse, crumble down, fall apart, slide down, or crash"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "أَفَمَنْ أَسَّسَ بُنْيَانَهُ عَلَىٰ تَقْوَىٰ مِنَ اللَّهِ وَرِضْوَانٍ خَيْرٌ أَمْ مَنْ أَسَّسَ بُنْيَانَهُ عَلَىٰ شَفَا جُرُفٍ هَارٍ فَانْهَارَ بِهِ فِي نَارِ جَهَنَّمَ (9:109): ... Or he who founded his building on the brink of a crumbling/collapsing cliff, so it collapsed with him into the fire of Hell?"
+  ],
+  "discardedNoise": [
+    "Wild beasts (Hoor) in ancient fables.",
+    "Modern landslide monitoring systems."
+  ],
+  "summaryEn": "The root represents structural collapse (Hawr), using the metaphor of a building collapsing (Inhara) from a crumbling cliff (Haar) to detail the fate of hypocritical mosques.",
+  "summaryAr": "يمثل هذا الجذر تساقط الجدران الطينية وانهيار حواف الأودية الرملية (هور)، واصفاً سقوط مسجد الضرار المنشأ على حافة جرف هار منهار ببانية في نار جهنم.",
+  "rawText": "إِنْهَوَرَ 7 see هَارَ, in two places.\nاِهْتَوَرَ 8 : see هَارَ, last signification. === <i>It</i> (a thing, S) <i>perished.</i> (S, K.)\nتهوّر 5 : see هَارَ, in two places; in the former of which, تهيّر is also mentioned as syn. with تَهوّر. === ‡ <i>He plunged,</i> or <i>fell, into an affair with little care</i> [<i>for the consequence thereof</i>]: (S, K:) or تهوّر فِى الأُمُورِ <i>he plunged,</i> or <i>fell, into affairs without thought,</i> or <i>reflection,</i> or <i>consideration:</i> (A:) or تَهَوُّرٌ is <i>a state,</i> or <i>condition, adventitious to the irascible faculty, by reason of which one ventures upon affairs not fit,</i> or <i>meet, to be ventured upon; as the fighting with unbelievers</i> <i>when they are more than double the number of the Muslims.</i> (KT.) ___ تهوّرهُ: see هَارَهُ.\nمُتَهَوِّرٌ A man <i>plunging,</i> or <i>falling,</i> or <i>who plunges,</i> or <i>falls, into an affair with little care</i> [<i>for the consequences thereof</i>]. (S.) See 5.\nهوّرهُ 2 : see هَارَهُ, in two places.\nهَائِرٌ and هَارٍ, (S, A, Msb, K,) the latter formed by transposition from the former, [first into هَارِىٌ, and then into هَارٍ,] (S, TA,) like as شَائِكُ السِّلاحِ is changed into شَاكِى السِّلاحِ, (S,) applied to a building, (K,) and to a جُرْف, [explained above, (see هَارَهُ,)] (S, A, Msb,) <i>Becoming thrown down, pulled down, pulled to pieces,</i> or <i>demolished:</i> (S, A, K:) or <i>falling; falling,</i> or <i>tumbling, down:</i> (IAar:) or <i>cracking, without falling:</i> (Msb:) or <i>cracking in its hinder part, remaining yet in its place.</i> (TA.) See an ex. of the latter voce جَفْرٌ: and another in the Kur, ix. 110.]\nهَارَه 1 , (K,) [aor. يَهُورُهُ,] inf. n. هَوْرٌ, (TA,) <i>He threw it down; pulled it down; pulled it to pieces;</i> or <i>demolished it;</i> namely, a building; (K;) and in like manner, a جُرْف [i. e. an abrupt, water-worn, bank, rising by the bed of a torrent or stream]; (TA [in which هُؤُورٌ is given as an inf. n. of this verb; but it is more probably an inf. n. of the intrans. verb only, agreeably with analogy;]) as also 🡻هوّرهُ, (S, A,) the pronoun relating to a building, (A,) and to a جُرْف; (S;) and هيّرهُ [in illustration of which see what is said of تهيّر, below]; (S, art. هير;) and 🡻تهوّرهُ, in which the pronoun relates to the upper part of a جُرْف, or to the brink of a well. (TA.) === هَارَ القَوْمَ, (K,) aor. يَهُورُهُمْ, inf. n. هَوْرٌ, (TA,) ‡ <i>He slew the people, and threw them down prostrate, one upon another,</i> (K,) <i>like as when a</i> جُرْف <i>falls down.</i> (TA.) And [in like manner you say,] ضَرَبَ فُلَانًا فَهَارَهُ † <i>He smote such a one and prostrated him;</i> as also 🡻هوّرهُ. (K, * TA.) === هَارَ, (S, A, Msb, K,) aor. يَهُورُ, inf. n. هَوْرٌ (S, Msb) and هُؤُورٌ, (S,) <i>It became thrown down, pulled down, pulled to pieces,</i> or <i>demolished;</i> or <i>it fell in ruins,</i> or <i>to pieces;</i> (S, A, K;) said of a building, (K,) and of a جُرْف [explained above]; (S, A;) as also 🡻انهار and 🡻تهوّر (S, A, K) and تهيّر, (K,) which last has ى as being interchangeable with و, or it may be of the measure تَفَيْعَلَ [originally تَهَيْوَرَ]: (TA:) or <i>it fell; it fell,</i> or <i>tumbled, down; it collapsed; broke down;</i> said of a building; (TA;) as also 🡻انهار and 🡻تهوّر; (Msb, TA;) said of a building, (TA,) and of a جُرْف, (Msb,) or of the upper part of the latter, and of the brink of a well; (TA;) [and 🡻اِهْتَوَرَ, q. v., probably signifies the same:] or <i>it cracked, without falling;</i> said of a جُرْف: (Msb:) or <i>it cracked in its hinder part, remaining yet in its place;</i> said of a building. (TA.)"
+}

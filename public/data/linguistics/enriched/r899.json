@@ -1,0 +1,36 @@
+{
+  "rootId": "r899",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:51:40.463Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Misery, distress, hard labor, unhappiness, or wretchedness",
+  "primaryMeaning": "Unhappy or misery",
+  "quranicRelevance": "Wretchedness/misery of Hellbound souls (Shaqiyy - 'faminhum shaqiyyun wa sa'eed'), and fatigue/misery ('litashqa').",
+  "keyDerivations": [
+    {
+      "lemma": "شَقِيَ / يَشْقَى",
+      "form": "Form I Verb",
+      "meaning": "To suffer misery, be wretched, unhappy, or distressed"
+    },
+    {
+      "lemma": "شَقِيٌّ",
+      "form": "Adjective",
+      "meaning": "Wretched, unhappy, miserable, or distressed"
+    },
+    {
+      "lemma": "شِقْوَةٌ",
+      "form": "Noun",
+      "meaning": "Wretchedness, bad fortune, or misery"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "غَلَبَتْ عَلَيْنَا شِقْوَتُنَا (23:106): Our wretchedness/bad fortune overcame us (the damned acknowledging their moral ruin)."
+  ],
+  "discardedNoise": [
+    "Obscure details of rocky mountain splits.",
+    "Clinical treatments for distress."
+  ],
+  "summaryEn": "The root denotes wretchedness and misery (Shaqawah), representing the fate of the damned in the Hereafter (Shaqiyy) and the general spiritual distress of rejecting guidance.",
+  "summaryAr": "يدل هذا الجذر على الشقاء والضيق الأخروي والدنيوي، مصوراً حال الأشقياء يوم الحساب (شقي) وضنك الغفلة عن الوحي.",
+  "rawText": "أَشْقَى [<i>More,</i> and <i>most, unprosperous,</i> &c. === And] ‡ <i>More</i> [and <i>most</i>] <i>fatigued.</i> (TA.)\nاشقاهُ ٱللّٰهُ 4 <i>God caused him to be unprosperous, unfortunate, unhappy,</i> or <i>miserable; contr. of</i> أَسْعَدَهُ: (S, * Msb, TA:) or <i>God caused him to be in a state of straitness, distress, adversity,</i> or <i>difficulty:</i> and so 🡻شَقَاهُ. (K.) ___ And اشقى <i>He combed.</i> (AZ, K. [See مِشْقًى.])\nشاقاهُ 3 , (K, TA,) inf. n. مُشَاقَاةٌ (S, TA) and شِقَآءٌ, (TA,) <i>He laboured, strove,</i> or <i>struggled, with him, to prevail,</i> or <i>overcome,</i> (S, K, TA,) in war, or battle, and the like; (K, TA;) so in the T; (TA;) <i>he struggled,</i> or <i>contended, with,</i> or <i>against, the difficulty,</i> or <i>trouble,</i> or <i>inconvenience, that he experienced from him;</i> (S, * TA;) syn. عَالَجَهُ; (K, TA;) or مَارَسَهُ; and عَانَاهُ. (S, * TA.) === And شاقاهُ 🡻فَشَقَاهُ, aor. of the latter verb ﹹ, <i>He endeavoured to surpass him in mutual labouring,</i> or <i>striving,</i> or <i>struggling, to prevail,</i> or <i>overcome,</i> &c., (غَالَبَهُ فِى الشِّقَآءِ, [in the CK, فى الشَّقاءِ, but the former seems to be the right reading, and may be best rendered <i>in the mutual striving against difficulty,</i>]) <i>and he surpassed him</i> [<i>therein</i>]. (K. [In the S, شَاقَانِى فُلَانٌ فَشَقَوْتُهُ, aor. أَشْقُوهُ; and only the latter verb as thus used is there explained.]) === مُشَاقَاةٌ signifies also † The <i>treating</i> [one] <i>with hardness, harshness,</i> or <i>illnature.</i> (TA.) === And ‡ The <i>vying, one with another, in patience,</i> or <i>endurance:</i> a rájiz says, <center> <h3> إِذَا يُشَاقِى الصَّابِرَانِ لَمْ يَرِثْ </h3> <h3> يَكَادُ مِنْ ضَعْفِ القُوَى لَا يَنْبَعِثْ </h3> </center> [<i>When the two patient ones vie in endurance, he does not lag behind, almost, by reason of the weakness of powers, failing to hasten in pace</i>]: he means a camel vying with the attendant thereof in endurance of going. (TA.)\nشَقَاوَةٌ an inf. n. of شَقِىَ; (S, * K;) or a simple subst.; (Msb;) signifying <i>Unprosperousness,</i> &c.; [see its verb;] <i>contr. of</i> سَعَادَةٌ: (S, Er-Rághib, TA:) it is of two kinds; أُخْرَاوِيَّةٌ [<i>relating to the world to come</i>] and دُنْيَاوِيَّةٌ [<i>relating to the present world</i>]: and the latter is of three kinds; نَفْسِيَّةٌ [<i>relating to the soul</i>] and بَدَنِيَّةٌ [<i>relating to the body</i>] and خَارِجِيَّةٌ [<i>relating to external circumstances</i>]. (Er-Rághib, TA.) === Also † <i>Fatigue;</i> syn. تَعَبٌ; but the latter has a more general signification; every شقاوة being تعب, but every تعب is not شقاوة. (TA.)\nشَقِىَ 1 , (S, Msb, K,) originally شَقِوَ, (S, TA,) aor. ﹷ, (S, Msb,) dual thereof يَشْقَيَانِ, (S,) inf. n. شَقَاوَةٌ and شِقَاوَةٌ, (S, * K,) the latter accord. to a reading of the Kur xxiii. 108, (S,) and شَقَآءٌ and شِقْوَةٌ and شَقْوَةٌ (S, * K) and شَقًا, (K.) or the last of these is the inf. n., and شَقَاوَةٌ and شِقْوَةٌ [and the rest, none of which is expressly specified as an inf. n. in the S,] are simple substs., (Msb,) <i>He</i> <i>was,</i> or <i>became, unprosperous, unfortunate, unhappy,</i> or <i>miserable;</i> (S, Msb, TA;) شَقِىَ being <i>contr. of</i> سَعِدَ; (Msb;) and شَقَاوَةٌ &c. <i>contr. of</i> سَعَادَةٌ: (S, TA:) or <i>he was,</i> or <i>became, in a state of straitness, distress, adversity,</i> or <i>difficulty.</i> (Az, K, TA.) [See also شَقَاوَةٌ below.] === Also † <i>He suffered,</i> or <i>experienced, fatigue,</i> (TA, and Ksh and Bd and Jel in xx. 1,) فِى كَذَا [<i>in such a thing</i>]. (TA.) ___ شَقَاهُ: see 3: === and 4.\nشَقِىٌّ <i>Unprosperous, unfortunate, unhappy,</i> or <i>miserable:</i> (S, Msb, TA:) [or <i>in a state of straitness, distress, adversity,</i> or <i>difficulty:</i> (see its verb:)] pl. أَشْقِيَآءُ. (TA.) وَلَمٌ أَكُنْ بِدُعَائِكَ رَبِّ شَقِيًّا, in the Kur [xix. 4, <i>And I have not been, in supplicating Thee, my Lord, unprosperous</i>], means I have been one whose prayer has been answered. (TA.)\nشِقْوَةٌ an inf. n. of شَقِىَ, as also شَقْوَةٌ: (S, * K:) or a simple subst. (Msb.)\nمِشْقًى <i>A comb:</i> a dial. var. of مِشْقَأٌ. (AZ, K.)"
+}

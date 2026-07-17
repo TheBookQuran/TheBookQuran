@@ -1,0 +1,57 @@
+{
+  "rootId": "r1321",
+  "source": "lanes",
+  "enrichedAt": "2026-06-29T23:36:19.920Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Front, facing, accepting, or time prior",
+  "primaryMeaning": "To accept or face towards something",
+  "quranicRelevance": "Extremely rich. It covers: facing towards a direction (Qiblah), accepting prayers or deeds (Qabul), the temporal direction of before (Qabl), approaching or coming forward (Aqbala), and physical capacity or power (Qubul).",
+  "keyDerivations": [
+    {
+      "lemma": "قَبْلُ / قَبْلَ",
+      "form": "Preposition / Adverb",
+      "meaning": "Before, or prior to"
+    },
+    {
+      "lemma": "قِبْلَةٌ",
+      "form": "Noun",
+      "meaning": "Direction faced in prayer, Qiblah"
+    },
+    {
+      "lemma": "قَبِلَ",
+      "form": "Form I Verb",
+      "meaning": "To accept, receive, or approve"
+    },
+    {
+      "lemma": "تَقَبَّلَ",
+      "form": "Form V Verb",
+      "meaning": "To accept graciously, or receive with approval"
+    },
+    {
+      "lemma": "أَقْبَلَ",
+      "form": "Form IV Verb",
+      "meaning": "To approach, turn towards, or come forward"
+    },
+    {
+      "lemma": "قَابِلٌ",
+      "form": "Noun / Active part.",
+      "meaning": "Acceptor, receiver, or taking charge"
+    },
+    {
+      "lemma": "قَبِيلٌ",
+      "form": "Noun",
+      "meaning": "Tribe, category, host, or counterpart"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "قُبُلٌ: The front part of a garment or body; or capacity/power (as in 'la qibala lahum' meaning 'no power have they').",
+    "قَابَلَ (Form III Verb): To confront, oppose, or face each other."
+  ],
+  "discardedNoise": [
+    "Camel squinting or looking towards its nose (قَبَلَ البَعِيرُ).",
+    "Girth of a saddle (قَبَل)."
+  ],
+  "summaryEn": "The root spans concepts of facing, acceptance, and priority in time, representing both spatial direction (Qiblah) and temporal precedence (Qabl) in the Quran.",
+  "summaryAr": "يمتد هذا الجذر ليشمل مفاهيم التوجه، والقبول، والأسبقية في الزمن، ممثلاً التوجه المكاني (القبلة) والسبق الزماني (قبل) في القرآن الكريم.",
+  "rawText": "أَقْبَلُ لِلْمَوْعِظَةِ [<i>More,</i> or <i>most, inclined to accept admonition</i>]. (TA, art. رق.]\nأَقْبَلْتُهُ الشَّىْءَ 4 <i>I made it to face the thing:</i> (S, K:) and 🡻قَابَلْتُهُالشَّىْءَ app. signifies the same: see a verse of El-Aashà voce اِرْتِسَامٌ. === أَقْبَلَ بِهِ [<i>He turned it forward; contr. of</i> أَدْبَرَ بِهِ]. (S, K, art. دبر.) === أَقْبَلَ <i>He came, facing;</i> (JK, S, * K; *) <i>came forward; came on; advanced; contr. of</i> أَدْبَرَ. (S, K.) === أَقْبَلْتُ قِبَلَكَ [not قُبْلَكَ] <i>I advanced,</i> or <i>came, toward thee.</i> Like قَصَدْتُ قَصْدَكَ. (L, art. حرد.) See also Kur, ii. 172. === أَقْبَلَ عَلَيْهِ <i>He advanced,</i> or <i>approached, towards him,</i> or <i>it.</i> === أَقْبَلَ عَلَى إِنْسَانٍ, as though he desired no other person. (JK.) === اقْبَالٌ The <i>advancing of fortune; contr. of</i> إِدْبَارٌ. === الإِقْبَالُ فِى الدُّنْيَا [<i>Advance in the world,</i> or <i>in worldly circumstances</i>]. (Mgh in art. جد.) إِقْبَالٌ signifies The <i>being fortunate.</i> (KL.) === إِقْبَالٌ <i>i. q.</i> دَوْلَةٌ [<i>Good fortune;</i> &c.; see تامِكُ]: and عِزَّةٌ [<i>might;</i> &c.]. (Kull, p. 64.) === أَقْبَلَ عَلَيْهِ <i>He showed favour to him:</i> or, more properly, <i>he presented a favourable aspect to him;</i> or, accord. to general usage, <i>he met him kindly;</i> see بَشَّ لَهُ. === أَقْبَلَتْ عَلَيْهِ الدُّنْيَا, (A, art. فتح,) <i>The world favoured him.</i> === أَقْبَلَ عَلَى شَىْءٍ <i>He set about,</i> or <i>commenced, doing a thing.</i> (K, &c.) === See تَصَدَّدَ. === أَقْبَلَ عَلَيْهِ <i>He clave to it:</i> and <i>he took to, set about, began,</i> or <i>commenced it;</i> as also 🡻قَبَلَعليه. (K.) === [أَقْبَلَ عَلَيْهِ بِالسَّيْفِ, and بِالعَصَا, and بِالسَّوْطِ <i>He advanced against him,</i> or <i>set upon him, with the sword,</i> and <i>with the staff</i> or <i>stick,</i> and <i>with the whip.</i>] === You say, أَقْبَلَ عَلَيْه بِالسَّوْطِ يَضْرِبُهُ [<i>He advanced against him,</i> or <i>set upon him, with the whip, striking him</i>]. (S in art. حول.) === See قَبَلٌ. === يُقْبِلُ بِالدَّلْوِ إِلَى البِئْرِ and أَمْرُ فُلَانٍ الَى إِقْبَالٍ: see أَدْبَرَ. === أَقْبَل عَلَيْهِ بِالتَّعْنِيفِ: see Har, p.  === أَقْبِلْ عَلَى نَفْسِكَ [<i>Betake,</i> or <i>apply, thyself to thine own affairs</i>]. (T, voce إِلَى.) === دَبَرَتْ لَهُ الرِّيحُ بَعْدَ مَا أَقْبَلَتْ: see دبر. === أَقْبَلَ [<i>He recovered,</i> or <i>regained, health;</i>] occurring in the K, as the explanation of ثَابَ جِسْمُهُ. (K, art. ثوب.) أَقْبَلَ بَعْدَ هُزَالٍ. (K, voce حَشَمَ.) === أَقْبَلَ, with reference to the slit ear of a she-camel: see أَدْبَرَ. === أَقْبِلْنَا بِذِمَّةٍ, app. a mistranscription for أَقْلِبْنَا: see ذِمَّةٌ.\nإِقْبَالَةٌ and its syn. إِقْبَالٌ: see 4; and see إِدْبَارَةٌ.\nالمُقَابَلُ مِنَ المَنَازِلِ <i>contr. of</i> المُدَابَرُ, (M, art. دبر, q. v.) === مُقَابَلٌ <i>Noble, by the father's and mother's side:</i> (S, K, TA:) see an ex. voce طَابٌ; and see إِزْدَوَجَا. === مُقَابَلَةٌ applied to a ewe: see مُدَبَرَةٌ. === نَاقَةٌ مُقَابَلَةٌ مُدَابَرَةٌ: see دبر. === الجَبْرُ والمُقَابَلَةُ: see جبر. === فِى مُقَابَلَةِ كَذَا <i>In comparison with such a thing:</i> see an ex. in art. غين in the Msb.\nاِسْتَقْبَلَهُ 10 : see اِسْتَدْبَرَهُ. <i>He faced him,</i> or <i>it.</i> (TA) <i>He turned his face towards him,</i> or <i>it.</i> === <i>He came before his face.</i> === <i>He went to meet him; he met him,</i> or <i>encountered him. He saw it before him: he looked forward to it: he saw it,</i> or <i>knew it, beforehand. He saw,</i> or <i>knew, at the beginning of it what he did not see,</i> or <i>know, at the end thereof.</i> === استقبلهُ بِأَمْرٍ (T, S, K, &c., in art. بده) <i>He met him,</i> or <i>encountered him, with a thing.</i> or <i>an affair,</i> or <i>an action.</i> (TK in art. بده.) === استقبلهُ بِمَا يَكْرَهُ (A, K, in art. بكت, &c.) <i>He encountered him with,</i> or, as it often means, <i>he accused him, to his face, of a thing that he disliked,</i> or <i>hated:</i> see بَكَّتَهُ; and the phrases اَلبْهتُ ٱسْتِقْبَالُكَ أَخَاكَ بِمَا لَيْسَ فِيهِ and 🡻قَابَلَهُبِالكَذبِ, voce بَهَتَهُ; and استقبلهُ بِالحَقِّ, voce قَرَحَهُ; in both senses like لَقِيَهُ بِمَكْرُوهٍ. === اِسْتَقْبَلْتُهُ بِكَلَامٍ فِيهِ غِلْظَةٌ [<i>I encountered him,</i> or <i>confronted him, with speech in which was roughness</i>]. (JK, M, TA, art. جبه.) === اِسْتَقْبَلَهُ <i>He anticipated it;</i> namely, Ramadán, by fasting before its commencement. (TA.) === See 8.\nاِقْتَبَلَهُ 8 <i>He began it,</i> or <i>commenced it;</i> namely, an affair; (S, * Mgh, K; *) as also 🡻إِسْتَقْبَلَهُ. (Mgh.)\nتَقَابَلُوا 6 <i>They faced,</i> or <i>confronted, one another:</i> see S in art. فقح.\nثَغْرٌ بَارِدُ المُقَبَّلٌ [<i>A mouth,</i> or <i>front teeth, cold,</i> or <i>cool, in the part that is kissed</i>]. (A, art. خصر, &c.)\nجَآءَ قُبَيْلَ <i>He came a little while ago;</i> syn. آنِفًا. (M in art. انف.)\nسَقَىإِبِلَهُ قَبَلًا [and بِالقَبَلِ] <i>He poured the water into the trough while his camels were drinking, so that it came upon them:</i> (T, TA:) or قَبَلٌ signifies a man's <i>bringing his camels to water, and drawing the water over their mouths, not having prepared for them aught</i> [<i>thereof</i>] <i>before that:</i> (As, TA:) and سَقَى عَلَى إِبِلِهِ قَبَلًا <i>he poured the water over the mouths of his camels:</i> (M, TA:) and 🡻أَقَبْلَعَلَى إِبِلِهِ <i>he drew the water over the heads of his camels while they drank,</i> <i>when they had drunk what was in the trough,</i> (Lh, M, TA,) <i>not having prepared it before that:</i> and this is the most severe mode of watering. (Lh, TA.) ee an ex. voce جَبًا, art. جبو and جبى. === نَبَلٌ is opposed to دَبَرٌ: see the latter. === نَّ الحَقَّ بِقَبَلٍ <i>Verily the truth is manifest; where one sees it.</i> (TA, art. عجز.) === مِنْ ذِى قَبَلٍ: see مِنْ ذِى عَوْضٍ; and see قِبَلٌ; and أُنُفٌ. === إِذَا رَأَيْتَ الشِّعْرَى بِقَبَلٍ الخ: see M, art. دبر.\nعَامٌ قَابِلٌ , and 🡻مُقْبِلٌ, signify the same, [<i>A nextcoming year</i>]. (S.) القَابِلَةُ <i>i. q.</i> اللَّيْلَةُ المُقْبِلَةُ [<i>The next night</i>]. (S, K.) See القُبَاقِبُ. === قَابِلٌ لِكَذَا <i>Susceptible of such a thing.</i> === قَابِلٌ An arrow <i>that wins</i> [in the game of المَيْسِر]; (TA, art دبر;) <i>contr. of</i> دَابِرٌ, q. v. (S and TA, art. دبر.) === قَبَائِل of the head: see شَأْنٌ. === And 🡻قَبِيلَة of a helmet: see طِرَاقٌ. === قَابِلَةٌ <i>A wife.</i> (TA in art. عزب.)\nقَابَلَهُ 3 <i>He faced,</i> or <i>fronted,</i> or <i>was opposite to</i> or <i>over against, him,</i> or <i>it.</i> (S, * K.) See also 🡻اِسْتَقْبَلَهُ <i>He,</i> or <i>it, corresponded to him,</i> or <i>it.</i> === قَابَلَهُ بِنَفْسِهِ [<i>He opposed himself to him</i>]. (TA, art. عرض.) See عَرَضَ لَهُ; and see 4. === قَابَلَ كَذَا بِكَذَا <i>He requited such a thing with such a thing;</i> or <i>did,</i> or <i>gave, such a thing in return for such a thing;</i> as good for good, evil for evil, good for evil, or evil for good. (The Lexicons passim.) === <i>He counteracted such a thing with such a thing.</i> === <i>He compared such a thing</i> &c. === قُوبِلَ بِكَذَا <i>It was compensated,</i> or <i>requited, by,</i> or <i>with, such a thing:</i> see an ex. of the part. n. voce غُنْمٌ. === قَابَلَ الشَّاة: see دَابَرَ الشاة. === فَرَسٌ قُوبِلَ مِنْ آفِقٍ وَآفِقَةٍ <i>A horse that is generous with respect to both parents.</i> (S in art. افق.)\nقَابِلِيَّةٌ [<i>The quality of admitting</i> or <i>receiving; susceptibility</i>].\nقَبَلَ 1 as syn. with 🡻أَقْبَلَ, q. v.: see أَدْبَرَ, in two places. === قَبَحَ اللّٰهُ مَا قَبَلَ مِنْهُ وَمَا دَبَرَ: see دَبَر. === قَبِلَ <i>He took, received,</i> or <i>admitted, willingly,</i> or <i>with approbation; he accepted.</i> See قَبُولٌ. === قَبِلَتِ النَّعْلُ <i>The sandal had its</i> قِبَال <i>broken.</i> (TA in art. شسع.)\nقَبَلِىٌّ : see دَبَرِىٌّ.\nقَبُولٌ <i>Favourable reception; acceptance; approbation:</i> (KL PS:) <i>love,</i> and <i>approbation,</i> and <i>inclination of the mind.</i> (TA.) عَلَى فُلَانٍ"
+}

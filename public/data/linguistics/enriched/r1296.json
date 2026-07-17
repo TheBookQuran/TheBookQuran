@@ -1,0 +1,26 @@
+{
+  "rootId": "r1296",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:52:53.400Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "So-and-so, indicating an unnamed or unspecified individual, or metonymy for a person",
+  "primaryMeaning": "So-and-so/such a one",
+  "quranicRelevance": "O so-and-so (Ya fulana - 'ya-fulana').",
+  "keyDerivations": [
+    {
+      "lemma": "فُلَانٌ",
+      "form": "Pronoun/Noun",
+      "meaning": "So-and-so, such a person, indicating an anonymous individual"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "يَا وَيْلَتَىٰ لَيْتَنِي لَمْ أَتَّخِذْ فُلَانًا خَلِيلًا (25:28): 'Ah, woe to me! I wish I had not taken so-and-so as a friend!'"
+  ],
+  "discardedNoise": [
+    "Fell (jasmine flower) - modern botany.",
+    "Falana (to filter/sift)."
+  ],
+  "summaryEn": "The root functions as an indefinite placeholder representing a specific person (Fulan), expressing the late regret of a wrongdoer who followed a bad companion.",
+  "summaryAr": "يمثل هذا الجذر كناية عن العلم المعين الآدمي المبهم غير المسمى (فلان)، واصفاً ندامة الظالم يوم القيامة على اتخاذ صاحب السوء (فلاناً) خليلاً أضله عن الذكر.",
+  "rawText": "فُلَانٌ is a substitute for the proper name of a human being, (S, Msb, * K, TA,) i. e. of a male; (S, TA;) and in like manner 🡻فُلَانَةُ, (Msb, K, TA,) for that of a female; (TA,) each without ال; (Msb:) [the former may be rendered <i>Such a one,</i> or <i>Such a man;</i> and the latter, <i>Such a woman:</i>] and الفُلَانُ and 🡻الفُلَانَةُ for other than a human being, (S, K, TA,) i. e. for a [particular] camel, (Lth, TA,) or for a [particular] beast, as in the saying, رَكِبْتُ الفُلَانَ [<i>I rode such a beast,</i> i. e. <i>such a male beast</i>], and حَلَبْتُ 🡻الفُلَانَةَ [<i>I milked such a beast</i>]: (Msb, TA:) فُلَانٌ has no dual nor pl.: (IB, TA:) [but] sometimes one says to a single person, mase., يَا فُلُ; and to two, يَا فُلَانِ; and to a pl. number, يَافُلُونَ: and in the fem., يَا فُلَةُ; &c.; (K: [see more in art. فل:]) accord. to Kh, فُلَانٌ is of the measure فُعَالٌ; and its dim. is 🡻فُلَيْنٌ: (TA:) or, as some say, it is of the measure فُلَانٌ, [originally فُلْوَانٌ,] with و rejected, therefore its dim. is 🡻فُلَيَّانٌ [originally فُلَيْوَانٌ]; (T, L, TA;) like as إنْسَانٌ is [said by some to be] إنْسِيَانٌ, of which the ى is rejected. and therefore its dim. is أُنيْسِيَانٌ. (T, L.)\nفُلَانَةُ , and الفُلَانَةُ: see فُلَانٌ, in three places.\nفُلَانِىٌّ the rel. n. of فُلَانٌ: it is rendered indeterminate by the affix ى; and by means of the article اَلْ, it becomes determinate; therefore you say فُلَانٌ الفُلَانِىُّ [meaning <i>Such a one, the person named in relation to such a one</i>], (TA,)\nفُلَيَّانٌ : see فُلَانٌ, near the end.\nفُلِيْنٌ : see the preceding paragraph."
+}

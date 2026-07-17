@@ -1,0 +1,37 @@
+{
+  "rootId": "r2072",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:56:22.540Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Perishing, falling down, falling into a pit/destruction, dying, or putting on a cloak",
+  "primaryMeaning": "Perishing/falling down (Taradda)",
+  "quranicRelevance": "When he falls/perishes (Taradda - 'iza taradda').",
+  "keyDerivations": [
+    {
+      "lemma": "رَدِيَ / يَرْدَى",
+      "form": "Form I Verb",
+      "meaning": "To perish, die, or fall into destruction"
+    },
+    {
+      "lemma": "تَرَدَّى / يَتَرَدَّى",
+      "form": "Form V Verb",
+      "meaning": "To fall down, tumble into a pit, perish, or throw oneself down"
+    },
+    {
+      "lemma": "مُتَرَدِّيَةٌ",
+      "form": "Noun/Participle",
+      "meaning": "An animal that dies by falling from a cliff or into a well"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَمَا يُغْنِي عَنْهُ مَالُهُ إِذَا تَرَدَّىٰ (92:11): And what will his wealth avail him when he falls/perishes (into the grave/Hell)?",
+    "وَالْمُتَرَدِّيَةُ وَالنَّطِيحَةُ (5:3): And that killed by a fall, and that killed by goring."
+  ],
+  "discardedNoise": [
+    "Rida' (cloak/garment wrapper) - though classically from the same root (covering body), secondary here.",
+    "Rada' (bad/poor quality) - R-D-A."
+  ],
+  "summaryEn": "The root represents perishing through falling down (Rady), applied both to animals that die by falling from heights (Mutaraddiyah) and sinners falling into the abyss of Hell.",
+  "summaryAr": "يشير هذا الجذر إلى الهلاك والسقوط من مكان مرتفع كالجبل أو البئر والموت تدردياً (ردا)، محذراً من سقوط الكافر في جهنم (تردى)، ومحرماً أكل الشاة المتردية.",
+  "rawText": "أَرْدَأُ <i>Worse,</i> and <i>worst; more,</i> and <i>most, corrupt</i> &c.]\nاردأهُ 4 : see 1, in five places. === Also <i>He settled, established,</i> or <i>confirmed, him,</i> or <i>it,</i> (K, TA,) <i>in his,</i> or <i>its, state.</i> (TA.) === <i>He stilled,</i> or <i>quieted, him,</i> or <i>it.</i> (K.) === And <i>He let it down;</i> namely, a veil, or curtain. (K.) ___ Also <i>He rendered it bad, corrupt, vitious, depraved,</i> or <i>the like;</i> (S, K;) namely, a thing; said of a man; (S;) [and 🡻ردّآهُ is used in the same sense: (see 1 in art. جشب:)] <i>he made,</i> or <i>asserted,</i> or <i>held,</i> <i>it</i> (a thing) <i>to be</i> رَدِىء [or <i>bad,</i> &c.]. (TA.) === And اردأ signifies <i>He did a thing,</i> or <i>a deed, that was</i> رَدِىْء [or <i>bad,</i> &c.]: or <i>he met with,</i> or <i>experienced,</i> (أَصَابَ,) <i>a thing that was</i> رَدِىْء. (M, K.) ___ اردأ عَلَى غَيْرِهِ <i>It exceeded another thing;</i> as also أَرْدَى: (M:) [or the latter only:] accord. to IAar, one says اردأ عَلَى السِّتِّينَ, with ء, (M,) and, accord. to Lth, على الخَمْسِينَ, (TA,) and, [accord. to F,] على مِائَةٍ, (K,) meaning <i>He exceeded</i> [<i>the</i> age of <i>sixty,</i> and <i>fifty,</i> and <i>a hundred</i>]: (M, K, TA:) but Az says that اردأ, with ء, [in these phrases,] though authorized by Lth, is wrong; (TA;) and accord. to A' Obeyed, one says أَرْدَيْتُ. (M. [It is added, however, in the M, that اردأ may perhaps be also used in poetry in the same sense without the prep. على.])\nتَرَدَّؤُوا 5 <i>They helped, aided, or assisted, one another.</i> (Lth, M, TA.)\nرَدَأَ الحَائِطَ 1 , [aor. ﹷ, inf. n. رَدْءٌ,] <i>He supported, propped,</i> or <i>stayed, the wall,</i> (ISh, T, K,) <i>by means of a piece of timber</i> or <i>wood,</i> or <i>a buttress</i> or <i>the like, to prevent its falling;</i> (ISh, T;) as also 🡻ارادأهُ: (Yoo, T, K:) or رَدَأَ الحَائِطَ بِبِنَآءٍ [<i>he supported the wall by a structure;</i>] <i>he attached a structure to the wall.</i> (M.) === Hence, (T,) رَدَأَهُ بِهِ <i>He strengthened and supported him,</i> or <i>it, by means of it,</i> (Lth, T, M, * K,) namely, a person by a thing, (Lth, T,) or a thing by a thing, (M,) <i>like as one strengthens and supports a wall by means of a structure which he attaches thereto;</i> (T;) as also 🡻ارادأهُ. (T, * K.) And رَدَأَهُ, (Mgh, TA,) inf. n. رَدْءٌ, (Mgh,) <i>He helped, aided,</i> or <i>assisted, him;</i> (Mgh, TA;) as also 🡻اردأهُ: (T, S, M, Msb, K:) and رَدَأْتُهُ and 🡻أَرْدَأْتُهُ, (T,) or 🡻أَرْدَأْتُهُبِنَفْسِى, (S,) <i>I was,</i> or <i>became, a helper, an aider,</i> or <i>an assistant, to him.</i> (T, S.) === Hence also, (i. e., from ردأ الحَائط,) رَدَأَ الإِبِلَ ‡ <i>He took good care of the camels,</i> (A, K, TA,) <i>in tending and pasturing them.</i> (A, TA.) === And رَدَأَهُ بِحَجَرٍ <i>He cast a stone at him;</i> (M, K;) like [رَدَاهُ, mentioned in art. ردى, and] دَرَأَهُ. (M.) ___ رَدُؤَ, aor. ﹹ, inf. n. رَدَآءَةٌ, (T, S, M, K, &c.,) for which one should not say رَدَاوَةٌ; (T;) and Th mentions also رَدَأَ and رَدِىءَ as syn. with رَدُؤَ, but these are strange; and more strange is what is said in the Msb, namely, رَدَا aor. يَرْدُو, part. n. رَدِىٌّ, [as a dial. var.,] asserted by IDrst, in the Expos. of the Fs, to be erroneous, and peculiar to the vulgar; (MF, TA;) <i>It</i> (a thing, T, S, M, Msb,) [and <i>he,</i> see رَدِىْءٌ, its part. n.,] <i>was, or became, bad, corrupt, vitious, depraved,</i> or <i>the like;</i> (S, M, Msb, * K;) or <i>of no rank,</i> or <i>estimation; low, ignoble, vile,</i> or <i>mean;</i> (Msb;) [<i>disapproved, disliked, hated,</i> or <i>abominable:</i> (see رَدِىْءٌ:)] and <i>he was,</i> or <i>became, weak, and impotent, so as to be in want</i> or <i>need.</i> (TA from the Expositions of the Fs.)\nرَدِىْءٌ , applied to a thing, (T, S, M, Msb,) and to a man, (M, TA,) <i>Bad, corrupt, vitious, depraved,</i> or <i>the like;</i> (S, M, Msb, * K;) <i>of no rank,</i> or <i>estimation; low, ignoble, vile,</i> or <i>mean;</i> (Msb;) <i>disapproved, disliked, hated,</i> or <i>abominable:</i> and <i>weak, and impotent, so as to be in want</i> or <i>need:</i> and accord to the Msb, one says also رَدِىٌّ; [there said to be a dial. var.;] but this is asserted by IDrst, in the Expos. of the Fs, to be erroneous, and peculiar to the vulgar: (TA:) pl. أَرْدِئَآءُ, with two hemzehs, (M, K,) applied to a people, or company of men. (M.)\nرَدَّاَ 2 see the next paragraph.\nرِدَآءٌ : see art. ردى.\nرِدْءٌ <i>A buttress,</i> or <i>the like, by means of which a wall is strengthened and supported.</i> (T.) [This is the primary signification. See also رِدٌّ, in art. رد.] === [Or] the primary meaning is <i>A thing by means of which one is helped, aided,</i> or <i>assisted;</i> such as the دِفْء [or thing by which one is rendered warm, or protected from the cold wind]. (Bd in xxviii. 34; where it has the meaning next following, as is said in the T and S.) === <i>A helper, an aider,</i> or <i>an assistant.</i> (T, S, M, Mgh, Msb, K.) You say, فُلَانٌ رِدْءٌ لِفُلَانٍ <i>Such a one is an aider and a strengthener to such a one.</i> (T.) === And <i>i. q.</i> مَادَّةٌ [app. as meaning <i>An accession;</i> or <i>a thing that is added, whatever it be, to another thing</i>]. (M, K.) === And ‡ <i>i. q.</i> عِدْلٌ [i. e. <i>A burden that balances another burden on the other side of a beast</i>]; (T, TA;) so called because one such ردء supports another: (TA:) and <i>a heavy</i> عِدْل: (T, K, TA:) pl. أَرْدَآءٌ. (T, TA.)\nمِرْدَأَةٌ <i>A stone which a strong man can hardly lift with both his hands;</i> (TA;) as also مِرْدَاةٌ. (ISh, TA in art. ردى.)"
+}

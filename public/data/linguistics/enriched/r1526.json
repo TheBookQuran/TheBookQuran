@@ -1,0 +1,26 @@
+{
+  "rootId": "r1526",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:56:55.064Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Inspiration, instilling, causing to swallow instinctively, or divine suggestion",
+  "primaryMeaning": "Inspiration/instilling instinctively",
+  "quranicRelevance": "Inspired it with its wickedness (Alhamaha - 'alhamaha').",
+  "keyDerivations": [
+    {
+      "lemma": "أَلْهَمَ / يُلْهِمُ",
+      "form": "Form IV Verb",
+      "meaning": "To inspire, instil instinctively, suggest divinely, or cause to receive knowledge"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَنَفْسٍ وَمَا سَوَّاهَا ۞ فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا (91:7-8): And by the soul and He who proportioned it, and inspired it with its wickedness and its righteousness."
+  ],
+  "discardedNoise": [
+    "Ilham (female proper name) - modern social.",
+    "Lahoom (greedy swallower)."
+  ],
+  "summaryEn": "The root signifies instilling thoughts or instinctive inspiration (Lahm), describing how God equipped the human soul with the inherent capability to distinguish good from evil.",
+  "summaryAr": "يمثل هذا الجذر إلقاء الشيء في النفس وإلهامها سلوكاً معيناً بطريق الفطرة أو الغريزة (لهم)، مبيناً تعريف الله للنفس البشرية طريق التقوى والفجور غريزياً.",
+  "rawText": "أَلْهَمَهُ ٱللّٰهُ لِلْخَيْرِ 4 [<i>God directed him by inspiration to that which was good,</i> or <i>to prosperity</i>] (TA, art. وفق) === أَلْهَمَهُ إِيَّاهُ <i>He suggested it to him;</i> (in the order of the words, <i>he suggested to him it;</i>) <i>he put it into his mind.</i>\nاِلْتَهَمَ 8 <i>He gulped.</i>\nلَاهُمَّ and اللّٰهُمَّ: see اللّٰهُ."
+}

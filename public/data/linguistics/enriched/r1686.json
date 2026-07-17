@@ -1,0 +1,26 @@
+{
+  "rootId": "r1686",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:52:16.826Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Gushing, splashing, pouring out copiously, bubbling up, or spraying water",
+  "primaryMeaning": "Gushing/pouring springs",
+  "quranicRelevance": "Two gushing springs (Naddakhatan - 'aynanin naddakhataani').",
+  "keyDerivations": [
+    {
+      "lemma": "نَضَّاخٌ",
+      "form": "Adjective (Intensive)",
+      "meaning": "Gushing out water, bubbling up copiously, splashing, or spraying moisture"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ (55:66): In both (gardens of Paradise) are two gushing springs."
+  ],
+  "discardedNoise": [
+    "Nadakh (light spray/perfume trace).",
+    "Nadh (leaking water pipes)."
+  ],
+  "summaryEn": "The root represents water actively bubbling and gushing forth (Nadkh), highlighting the endless, flowing water features of the gardens of Paradise.",
+  "summaryAr": "يشير هذا الجذر إلى شدة فوران الماء وانبثاقه بقوة وتطاير رذاذه بكثرة (نضخ)، مصوراً عيون الجنة الفوارة بالماء الغزير المتدفق بلا انقطاع.",
+  "rawText": "إِنْضَاْحَّ 11 see 9.\nانتضخ 8 <i>It</i> (water) <i>became sprinkled.</i> (S, K.)\nانضخّ 9 and 🡻انضاخّ <i>It</i> (water) <i>poured out,</i> or <i>forth.</i> (TA.)\nغَيْثٌ نَضَّاخٌ <i>A copious rain.</i> S, Msb, K.) === عَيْنٌ نَضَّاخَةٌ <i>A copious spring of water:</i> (S:) or <i>a spring that boils forth,</i> or <i>gushes forth</i> (S, Msb) <i>copiously.</i> (Msb.) === نَضَّاخَةُ الذِّفْرَى A she-camel <i>that sweats copiously in the part called</i> ذفرى, <i>behind the ear.</i> (L.)\nمِنْضَخَةٌ , [in the TA منضخ,] vulgo نَضَّاخَةٌ, <i>i. q.</i> زُرَّاقَةٌ: (K, TA:) [in the CK, زَرَاقَة, which is a mistake: see مِنْضَحَةٌ].\nناضخا 3 , inf. n. مُنَاضَخَةٌ and نِضَاخٌ, <i>They sprinkled each other.</i> (S, K.)\nنَضَخَهُ 1 , aor. ﹷ, [and ﹻ, see below], inf. n. نَضْخٌ, <i>He sprinkled him,</i> or <i>it,</i> [with water &c.]: or <i>i. q.</i> نَضَحَهُ: (K:) AZ says, نَضْخٌ signifies the <i>act of sprinkling,</i> like نَضْحٌ; these two words being syn.: you say نَضَخْتُ, aor. أَنْضَخُ: (S:) or the former signifies less than the latter: (K:) so most say: (L:) or the former signifies what is unintentional; and the latter, what is intentional: (IAar, L:) As says, that the latter is the act of man: (L:) and the former, he says, signifies more than the latter, and has no pret. nor aor.: and Aboo-'Othmán Et-Towwazee says, that the former signifies the mark, or effect, that remains upon a garment or other thing, and that the act is termed نَضْحٌ, with ح unpointed: (S:) As says, that نَضْخٌ has no verb nor act. part. n.; and A'Obeyd says, that it has no pret. nor aor. ascribed to any authority: or you say نَضَخْتُ الثَّوْبَ, aor. ﹷ and ﹻ, inf. n. نَضْخٌ, <i>I wetted the garment;</i> and it signifies more than نَضَحْتُ. (Msb.) نُضِخَتْ مَغَابِنُهَا, inf. n. نَضَخَانٌ, <i>Her</i> (a she-camel's) <i>armpits were sprinkled</i> with pitch. (S, L, from a verse of El-Katámee.) أَصَابَهُ نَضْخٌ مِنْ كَذَا <i>A sprinkling, more</i> [or <i>less</i>] <i>than what is termed</i> نَضْحٌ, <i>came upon him.</i> (As, S.) === نَضَخْنَاهُمْ بِالنَّبْل, (Yz, S,) and نضحنا النَّبْلَ فِيهِمْ, (K,) <i>i. q.</i> نضحناهم, (Yz, S,) <i>We</i> [<i>shot at them and</i>] <i>sprinkled them with arrows;</i> or <i>scattered arrows among them;</i> (Yz, S, K;) meaning, our enemies. (K.) === نَضَخَ, (inf. n. نَضْخٌ, L,) <i>It</i> (water) <i>boiled forth vehemently</i> (<i>in gushing,</i> L,) from its source, (L, K,) or <i>boiled up vehemently.</i> (Aboo- 'Alee, L, K.)\nنَضْخٌ <i>A mark,</i> or <i>effect, that remains upon a garment</i> or <i>other thing,</i> (Aboo-'Othmán EtTowwazee, S, K,) <i>as the body,</i> (TA,) <i>from perfume,</i> (K,) or <i>mire,</i> or <i>a soil</i> or <i>pollution:</i> (TA:) or <i>from blood, and saffron, and mud, and the like:</i> نَضْحٌ being with water, and with anything thin, such as vinegar and the like. (AA.) [See also نَضْحٌ.]\nنَضْخَةٌ <i>A rain; a shower of rain.</i> (S, K.)"
+}

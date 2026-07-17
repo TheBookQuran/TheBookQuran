@@ -1,0 +1,57 @@
+{
+  "rootId": "r391",
+  "source": "lanes",
+  "enrichedAt": "2026-06-29T23:49:55.978Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Beauty, goodness, benevolence, or excellent state",
+  "primaryMeaning": "To be beautiful or good",
+  "quranicRelevance": "Very frequent. Covers: beauty/excellence (Husn), doing good or benevolence (Ihsan), righteous deeds/reward (Hasanah), and the Names of Allah (al-Asma' al-Husna).",
+  "keyDerivations": [
+    {
+      "lemma": "حَسَنٌ",
+      "form": "Adjective",
+      "meaning": "Good, beautiful, or pleasant"
+    },
+    {
+      "lemma": "حَسَنَةٌ / حَسَنَاتٌ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Good deed, blessing, or reward"
+    },
+    {
+      "lemma": "إِحْسَانٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Doing good, benevolence, or perfection in worship"
+    },
+    {
+      "lemma": "أَحْسَنَ",
+      "form": "Form IV Verb",
+      "meaning": "To do good, act beautifully, or perfect"
+    },
+    {
+      "lemma": "الحُسْنَى",
+      "form": "Noun / Adjective fem.",
+      "meaning": "The best, or the ultimate good/Paradise"
+    },
+    {
+      "lemma": "حَسُنَ",
+      "form": "Form I Verb",
+      "meaning": "To be good, beautiful, or excellent"
+    },
+    {
+      "lemma": "حَسَّنَ",
+      "form": "Form II Verb",
+      "meaning": "To beautify, adorn, or make good"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "حُسْنٌ: Beauty, excellence, or goodness.",
+    "اسْتَحْسَنَ (Form X Verb): To deem good, approve, or admire."
+  ],
+  "discardedNoise": [
+    "Scurvy or skin disease (حُسَاف).",
+    "Descriptions of specific beautiful dunes or geographical locations."
+  ],
+  "summaryEn": "The root signifies beauty and goodness, representing moral excellence, beautiful actions (Ihsan), and divine grace (al-Husna) in the Quran.",
+  "summaryAr": "يدل هذا الجذر على الجمال والخير، ممثلاً التميز الأخلاقي، والأفعال الجميلة (الإحسان)، والفضل الإلهي والجزاء الأوفى (الحسنى).",
+  "rawText": "أَحْسَنُ , fem. حَسْنَآءُ, pl. أَحَاسِنُ: see حَسَنٌ. === الأَحْسَنُ denotes the comparative and superlative degrees [of حُسْنٌ]; as in the phrase هُوَ الأَحْسَنُ [<i>He,</i> or <i>it, is the better,</i> and <i>best;</i> or <i>the more,</i> and <i>most, goodly</i> or <i>beautiful</i> or <i>comely</i> &c.]: (K:) 🡻الحُسْنَى is the fem.; as in the phrase الأَسْمَآءُ الحُسْنَى <i>The best names;</i> those of God; which are ninety and nine: (Jel in vii. 179:) it signifies <i>the contr. of</i> السُّوْءَى: (S, K:) the pl. of الأَحْسَنُ is الأَحَاسِنُ. (K.) In the saying, in the Kur [vi. 153 and xvii. 36], وَ لَا تَقْرَبُوا مَالَ اليَتِيمِ إِلَّا بِالَّتِى هِىَ أَحْسَنُ [<i>And approach ye not the property of the orphan,</i> to make use of it,] <i>except by that</i> act <i>which is best</i> to be done with it, the meaning is, such an act as the taking care of it, and increasing it: (Bd:) or, as some say, the meaning is, the taking, of his property, what will [suffice to] conceal those parts of one's person that should not be exposed, and stay one's hunger. (TA.) [The fem.] 🡻الحُسْنَى is applied to accidents only: not to substances. (Er-Rághib, TA.) It means also, [as an epithet in which the quality of a subst. predominates, <i>That which is better,</i> and <i>that which is best.</i> And hence,] <i>The good final</i> or <i>ultimate state</i> or <i>condition</i> [appointed for the faithful]: (K:) so, it is said, in the Kur xli. 50. (TA.) And <i>The view,</i> or <i>vision, of God;</i> (K;) accord. to some: but it is said that in the Kur x. 27, it means <i>Paradise;</i> and زِيَادَةٌ, which there follows it, means the view, or vision, of the face of God. (TA.) And <i>Victory:</i> and <i>martyrdom:</i> (Th, K:) whence, [in the Kur ix. 52,] إِحْدَى الحُسْنَيَيْنِ [<i>one of the two best things</i>]; (K;) <i>victory or martyrdom.</i> (Ksh, Bd, Jel.) And <i>The saying</i> لَا إِلَاهَ إِلَّا ٱللّٰهُ. (Jel in xcii. 6 and 9.) The pl. of 🡻الحُسْنَى is الحُسْنَيَاتُ and 🡻الحُسَنُ, (K, [the latter like رُجَعٌ pl. of رُجْعَى, but misunderstood by Freytag as syn. with المَحَاسِنُ, which next follows it in the K,]) neither of which is used without the article ال. (TA.)\nإنِّى أُحَاسِنُ بِكَ النَّاسَ 3 (S, TA) <i>Verily I contend with men for thy superiority in</i> حُسْن [i. e. <i>goodness,</i> or <i>goodliness,</i> &c.]. (TA.) [حَاسَنَ followed by an accus. is rendered by Golius, as on the authority of J, who gives no explanation of it, “ Bene tractavit et egit. ”]\nاحسن 4 as an intrans. v.: see 1. === Also <i>He did that which was</i> حَسَن [meaning <i>good, comely,</i> or <i>pleasing; he acted well</i>]; (Msb;) <i>he did a good deed:</i> (Er-Rághib, TA:) [for] إِحْسَانٌ is the <i>contr. of</i> إِسَآءَةٌ: (K:) it differs from إِنْعَامٌ in being to oneself and to another; whereas the latter is only to another: (TA:) and it surpasses عَدْلٌ, inasmuch as it means the <i>giving more than one owes,</i> and <i>taking less than is owed to one;</i> whereas the latter means the giving what one owes, and taking what is owed to one. (Er-Rághib, TA.) You say, أَحْسَنْتُ إِلَيْهِ and بِهِ [<i>I acted,</i> or <i>behaved, with goodness, well,</i> or <i>in a good</i> or <i>comely</i> or <i>pleasing manner, towards him; did good to him; benefited him; conferred a benefit,</i> or <i>benefits, upon him</i>]: both signify the same: (S, TA:) and hence, in the Kur [xii. 101], قَدْ أَحْسَنَ بِى إِذَ أَخْرَجَنِى مِنَ السِّجْنِ meaning إِلَىَّ [i. e. <i>He hath acted well towards me, when he brought me forth from the prison</i>]: (AHeyth, Az:) or, accord. to some, the verb in this case is made to import the meaning of لَطَفَ [which is trans. by means of بِ, i. e. <i>He hath acted graciously with me</i>]. (Mughnee in art. بِ.) === الإِحْسَانُ is also explained as meaning الإِخْلَاصُ [i. e. <i>The being sincere,</i> or <i>without hypocrisy;</i> or <i>the asserting oneself to be clear of believing in any beside God</i>]; which is a condition of the soundness, or validity, of الإِيمَان and الإِسْلَام together: and as denoting <i>watchfulness, and good obedience:</i> and as meaning <i>the continuing in the right way, and following the way which those [of the righteous] who have gone before have trodden;</i> this last being said to be the meaning in the Kur ix. 101. (TA.) ___ As a trans. v.: see 2, in three places. === احسنهُ also signifies ‡ <i>He knew it:</i> (S, K, TA:) [or] <i>he knew it well;</i> (Er-Rághib, Msb;) and so احسن بِهِ, as in the saying, هُوَ يُحْسِنُ بِالعَرَبِيَّةِ † <i>He knows well the Arabic language.</i> (MA.) Hence the saying of 'Alee, قِيمَةُ المَرْءِ مَا يُحْسِنُهُ ‡ [<i>The value of the man is what he knows,</i> or <i>knows well</i>]. (TA.) النَّاسُ أَبْنَآءُ مَا يُحْسِنُونَ is another saying of 'Alee, meaning ‡ <i>Men are named,</i> or <i>reputed, in relation to what they know, and to the good deeds that they do.</i> (TA.) === أَحْسِنْ بِهِ and مَا أَحْسَنَهُ: see 1, last sentence. You say also, مَا 🡻أُحَيْسِنَهُ [i. e. <i>How very good,</i> or <i>goodly,</i> &c., <i>is he!</i>]; using the dim. form; like مَا أُمَيْلِحَهُ [q. v.]. (S and K in art. ملح.) ___ Also <i>He</i> (a man, IAar) <i>sat upon a high hill,</i> or <i>heap, of sand, such as is termed</i> حَسَنٌ. (IAar, K.)\nاستحسنهُ 10 <i>He counted, accounted, reckoned,</i> or <i>esteemed, him,</i> or <i>it,</i> حَسَن [i. e. <i>good, goodly, beautiful, comely, pleasing,</i> &c.; <i>he approved, thought well of,</i> or <i>liked, him,</i> or <i>it</i>]; (S, K;) as also 🡻حسّنهُ, inf. n. تَحْسِينٌ. (Har p. 594.) Hence the saying, صَرْفُ هٰذَا ٱسْتِحْسَانٌ وَ المَنْعُ قِيَاسٌ [<i>The making this</i> word <i>perfectly declinable is approvable, but the making it imperfectly declinable is agreeable with analogy</i>]. (TA.)\nالحُسَنُ : see أَحْسَنُ.\nتحاسن 6 [<i>He affected to be</i> حَسَن (i. e. <i>good, goodly, beautiful, comely,</i> &c.), <i>not being really so</i>]. (A in art. صبح. [See 6 in that art.])\nتحسّن 5 : see 1. === Also <i>i. q.</i> تَجَمَّلَ [i. e. <i>He beautified, embellished,</i> or <i>adorned, himself:</i> and <i>he affected what is beautiful, goodly,</i> or <i>comely, in person,</i> or <i>in action</i> or <i>actions</i> or <i>behaviour,</i> or <i>in moral character,</i> &c.]. (TA.) [تَحَسَّنَتْ, said of a woman, occurs, in the former sense, in the S and K in art. رعد, and in the TA in art. نقط, &c.] === دَخَلَ الحَمَّامَ فَتَحَسَّنَ <i>He entered the hot bath and was shaven.</i> (TA.)\nتَحْسِينٌ a subst. of the measure تَفْعِيلٌ; (K;) or rather an inf. n. used as a subst.; (TA;) pl. تَحَاسِينُ: whence كِتَابُ التَّحَاسِينِ (K) [<i>Caligraphy;</i> or] <i>deliberate, orderly, and regular writing;</i> (TK;) [or <i>close and compact writing, without spaces,</i> or <i>gaps, and without elongation of the letters;</i>] <i>contr. of</i> المَشْقُ. (K. [See كِتَابُ مَشْقٍ.])\nحسّنهُ 2 , (S, K,) inf. n. تَحْسِينٌ, (S,) <i>He made it,</i> or <i>rendered it,</i> حَسَن [i. e. <i>good,</i> or <i>goodly,</i> (generally the latter,) <i>beautiful, comely,</i> or <i>pleasing,</i> &c.]; (K;) <i>he beautified, embellished,</i> or <i>adorned, it;</i> (S, TA;) as also 🡻احسنهُ. (TA.) You say, 🡻أَحْسَنَالحَلَّاقُ رَأْسَهُ <i>The shaver beautified,</i> or <i>trimmed, his head.</i> (TA.) And الَّذِى 🡻أَحْسَنَ كُلَّ شَىْءٍ خَلَقَهُ [<i>Who hath made good,</i> or <i>goodly, everything that He hath created</i>], in the Kur [xxxii. 6], means حَسَّنَ خَلْقَ كُلِّ شَىْءٍ [<i>hath made good,</i> or <i>goodly, the creation of everything</i>]. (TA.) === [See also تَحْسِينٌ.] === And see 10.\nحَاسِنٌ : see حَسَنٌ. === [Hence,] الحَاسِنُ <i>The moon.</i> (AA, S.)\nحَسَنٌ <i>Having,</i> or <i>possessing, the quality termed</i> حُسْنٌ [which see above; <i>good,</i> or <i>goodly,</i> (generally the latter,) <i>beautiful, comely, pleasing</i> or <i>pleasant,</i> &c.]; (Msb, K, TA;) either <i>intrinsically,</i> as when applied to belief in God and in his attributes; or <i>extrinsically,</i> as when applied to war against unbelievers, for this is not "
+}

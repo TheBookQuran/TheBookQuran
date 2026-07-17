@@ -1,0 +1,37 @@
+{
+  "rootId": "r1084",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:51:40.463Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Rebellion, age exhaustion, insolence, or stubbornness",
+  "primaryMeaning": "Rebellion or age exhaustion",
+  "quranicRelevance": "Insolence/rebellion against God's limits (Ataw - 'عتواً كبيراً'), and extreme physical old age exhaustion (Itiyy - 'wa qad balaghtu mina al-kibari 'itiyyan').",
+  "keyDerivations": [
+    {
+      "lemma": "عَتَا / يَعْتُو",
+      "form": "Form I Verb",
+      "meaning": "To rebel, act insolently, be stubborn, or exceed limits"
+    },
+    {
+      "lemma": "عُتُوٌّ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Insolence, arrogance, rebellion, or stubbornness"
+    },
+    {
+      "lemma": "عِتِيٌّ",
+      "form": "Noun / Adjective",
+      "meaning": "Exhaustion of old age, or extreme dryness/decay"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَقَدْ بَلَغْتُ مِنَ الْكِبَرِ عِتِيًّا (19:8): And I have reached advanced old age/exhaustion (Zechariah describing bone decay/dryness).",
+    "عَتَوْا عَنْ أَمْرِ رَبِّهِمْ: They insolently rebelled against the command of their Lord."
+  ],
+  "discardedNoise": [
+    "Political uprisings in the medieval era.",
+    "Obscure details of dry wood decay styles."
+  ],
+  "summaryEn": "The root links prideful rebellion (Utuww) with physical decay (Itiyy), depicting both insolent political arrogance and the dried-out state of old age bones.",
+  "summaryAr": "يربط هذا الجذر بين العتو الاستكباري والذبول البدني، مصوراً عتو الطغيان والتمرد، والجفاف والهرم للعظام (عتياً).",
+  "rawText": "أَعْتَآءٌ [a pl., app. of عَاتٍ, like as أَصْحَابٌ is of صَاحِبٌ,] applied to men as meaning دُعَّارٌ [i. e. <i>Who act corruptly,</i> or <i>vitiously; who transgress the command of God;</i> or <i>who commit adultery</i> or <i>fornication;</i> &c.]. (ISd, K, TA.)\nأَعْتَى <i>Most</i> [and <i>more</i>] <i>excessive, immoderate,</i> or <i>inordinate, in pride</i> [&c.: see عَاتٍ]. (Mgh.)\nتَعَتَّوَ 5 see the preceding paragraph.\nعَاتٍ part. n. of 1; (S, Msb, K;) <i>Proud,</i> (Msb, K,) <i>and immoderate, inordinate,</i> or <i>exorbitant:</i> (K:) <i>excessively, immoderately,</i> or <i>inordinately, proud</i> (Mgh) [or <i>corrupt</i> or <i>unbelieving:</i> or <i>revolting, recoiling,</i> or <i>averse, from obedience:</i> (see 1:)] <i>i. q.</i> جَبَّارٌ: (Mgh, TA:) and 🡻عَتِىٌّ signifies the same: (K:) pl. عُتِىٌّ, (S, Msb, K,) originally [عُتُوٌّ,] of the measure فُعُولٌ, (Msb,) the [former] و being changed into ى, agreeably with a rule which, Mohammad Ibn-Es-Seree says, should be observed in a word of this [class and] measure when it is a pl., though not [generally] when it is an inf. n., (S, TA,) or this is pl. of عَتِىٌّ, and the pl. of عَاتٍ is عُتَاةٌ. (TA.) [See also أَعْتَآءٌ, below.] === Also <i>Advanced</i> [<i>and declining</i>] <i>in age:</i> [or <i>dried up:</i> (see 1, last sentence but one:)] pl. عُتِىٌّ. (Msb.) === And لَيْلٌ عاتى [a mistranscription, the latter word being correctly عَاتٍ,] <i>A night intensely dark.</i> (TA.)\nعَتَا 1 , aor. يَعْتُو, inf. n. عُتُوٌّ (S, Msb, K) and عُتِىٌّ and عِتِىٌّ, (S, K,) of which عُتُوٌّ is the original form, one [i. e. the second] of the two dammehs being changed into a kesreh and therefore the و into ى and then the other dammeh being assimilated to the kesreh, (S, TA,) <i>He behaved proudly,</i> (Msb, K,) <i>and was immoderate, inordinate,</i> or <i>exorbitant:</i> (K:) <i>he was excessively, immoderately,</i> or <i>inordinately, proud</i> or <i>corrupt</i> or <i>unbelieving:</i> (AO, TA; and so in a copy of the S as on the authority of A'Obeyd:) or <i>he revolted, recoiled,</i> or <i>was averse, from obedience:</i> (Er-Rághib, TA:) and 🡻تَعَتَّيْتُ signifies the same as عَتَوْتُ; (S, K;) or <i>I</i> [<i>disobeyed,</i> or] <i>did not obey;</i> (TA;) and so does عَتَيْتُ; (K, accord. to some copies; but in some, عَتِيتُ;) or, accord. to J and others, one should not say عَتَيْتُ. (TA.) It is said in the Kur [li. 44], فَعَتَوْا عَنْ أَمْرِ رَبِّهِمْ (TA) i. e. <i>But they turned with disdain from</i> obeying <i>the command of their Lord.</i> (Bd, Jel.) === [Hence,] عَتَتِ الرِّيحُ † <i>The wind blew immoderately.</i> (IKtt, TA.) === And عَتَا said of and old man, (S, Msb, K, [but in my copy of the Msb الشى is put for الشيخ,]) aor. يَعْتُو, (S, Msb,) inf. n. عُتُوٌّ (S, Msb) and عِتِىٌّ, (S,) or عُتِىٌّ and عَتِىٌّ, with damm and also with fet-h, (K,) <i>He became advanced in age,</i> and <i>in a declining state:</i> (S, Msb, * K:) [or <i>he became dried up;</i> as is shown by what here follows.] It is said in the Kur [xix. 9], accord. to one reading, وَقَدْ بَلَغْتُ مِنَ ٱلْكِبَرِ عُتِيًّا, (TA,) from عَتَا <i>It became dried up;</i> (Ksh, * Jel;) said of wood, or a branch; as also عَسَا: (Ksh:) the meaning here being, [<i>And I have reached</i>] <i>the extreme degree of old age:</i> (Jel:) or <i>dryness, and hardness,</i> or <i>rigidness, in the joints and the bones; like the dry wood</i> or <i>branch.</i> (Ksh.)\nعَتِىٌّ : see عَاتٍ.\nعَتَّى a dial. var. of حَتَّى, (S, K,) of the dial. of Hudheyl and Thakeef. (S.)"
+}

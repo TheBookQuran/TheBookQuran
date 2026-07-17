@@ -1,0 +1,26 @@
+{
+  "rootId": "r348",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:13:34.921Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Pocket, bosom, opening of a shirt, collar, valley, or search",
+  "primaryMeaning": "Opening of a shirt/collar or bosom",
+  "quranicRelevance": "Placing hands in shirt opening (Jayb - 'fee jaybika'), and covering bosoms with veils ('ala juyoobihinna').",
+  "keyDerivations": [
+    {
+      "lemma": "جَيْبٌ / جُيُوبٌ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Opening of a garment, collar opening, shirt pocket, bosom, or chest cavity"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَأَدْخِلْ يَدَكَ فِي جَيْبِكَ تَخْرُجْ بَيْضَاءَ مِنْ غَيْرِ سُوءٍ (27:12): And put your hand into the opening of your garment; it will come out white without disease (Moses' white-hand sign)."
+  ],
+  "discardedNoise": [
+    "Modern trouser pockets (Juyub) containing wallets.",
+    "Geological valleys and pockets of resources."
+  ],
+  "summaryEn": "The root represents shirt-collar openings (Jayb), detailing the miracle of Moses' hand turning white when placed in his collar, and modesty laws for covering bosoms.",
+  "summaryAr": "يمثل هذا الجذر فتحة طوق القميص والجيوب الساترة (جيب)، واصفاً معجزة إدخال موسى يده في طوق قميصه لتخرج بيضاء ساطعة، وضوابط ستر جيوب صدور النساء.",
+  "rawText": "جيّب 2 , inf. n. تَجْيِيبٌ: see 1 in art. جوب.\nجَابَ 1 , aor. يَجِيبُ: see 1 in art. جوب, in two places.\nجَيْبٌ The طَوْق [or <i>opening at the neck and bosom</i>] (K) of a shirt (S, K) and the like; (K;) as, for instance, of a coat of mail: (TA:) or the <i>opening</i> of a shirt <i>at the uppermost part of the breast:</i> (Msb, MF:) or the <i>opening</i> in a garment <i>for the head to be put through:</i> or <i>such an opening as a sleeve and a</i> طَوْق: (MF:) pl. [of mult.] جُيُوبٌ, (Msb, K,) also pronounced جِيُوبٌ, (TA,) [like بِيُوتٌ for بُيُوتٌ,] and [of pauc.] أَجْيَابٌ: (Msb:) this is said to be its proper art., (K, TA,) not جوب, because its pl. is جُيُوبٌ. (TA.) [The Arabs often carry things within the bosom of the shirt &c.; and hence the word is now applied by them to <i>A pocket.</i>] === † The <i>heart;</i> the <i>bosom.</i> (K.) So in the saying, هُوَ نَاصِحُ الجَيْبِ † [<i>He is pure,</i> or <i>sincere, of heart</i> or <i>bosom</i>]: (K:) or <i>trusty, trustworthy,</i> or <i>faithful.</i> (S. [See also art. نصح.]) A poet says, <center> <h3> وَخَشَّنْتَ صَدْرًا جَيْبُهُ لَكَ نَاصِحُ </h3> </center> † [<i>And thou hast exasperated a bosom the heart of which was faithful to thee</i>]. (TA.) You say also, هُوَ دَنِسُ الجَيْبِ † [<i>He is a person of foul heart</i>]. (A in art. دنس.) And رَدَعَ جَيْبَهُ عَنْهُ † <i>He cleared his heart,</i> or <i>bosom, of it.</i> (K in art. ردع q. v.) === جَيْبُ الأَرْضِ † <i>The place of entrance of the land,</i> or <i>country:</i> (K:) pl. جُيُوبٌ. (TA.)\nجِيبَةٌ : see art. جوب.\nيَاقُوتٌ مُجَيَّبٌ <i>Hollowed</i> [<i>sapphires</i>]: occurring in a trad. describing the banks of the river of Paradise: but accord. to one reading, it is لُؤْلُؤٌ مُجَوَّبٌ; accord. to another, مُجَيَّبٌ or مَجَوَّفٌ; and accord. to another, مُجَيَّبٌ or مُجَوَّبٌ. (TA.)"
+}

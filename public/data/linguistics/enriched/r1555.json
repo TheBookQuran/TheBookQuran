@@ -1,0 +1,26 @@
+{
+  "rootId": "r1555",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:21:37.831Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Wiping out, destroying, depriving of blessing, erasing, or moon decline",
+  "primaryMeaning": "Depriving of blessing/wiping out",
+  "quranicRelevance": "Depriving interest of blessing (Yamhaq - 'yamhaqu Allahu ar-riba'), and wiping out disbelievers ('yamhaqa').",
+  "keyDerivations": [
+    {
+      "lemma": "مَحَقَ / يَمْحَقُ",
+      "form": "Form I Verb",
+      "meaning": "To wipe out, destroy, deprive of blessings, erase, diminish, or render void"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "يَمْحَقُ اللَّهُ الرِّبَا وَيُرْبِي الصَّدَقَاتِ (2:276): God deprives interest/usury of all blessing (erasing its real economic growth) and increases charity."
+  ],
+  "discardedNoise": [
+    "The crescent moon entering eclipse/invisible stage (Mahaq).",
+    "Erasing ink sketches."
+  ],
+  "summaryEn": "The root represents destruction and depletion of blessing (Mahq), stating that interest-based wealth is deprived of true growth, and promising the wiping out of deniers.",
+  "summaryAr": "يمثل هذا الجذر الاستئصال الكلي والذهاب بالبركة والبرء (محق)، مقرراً إبطال وإتلاف أرباح الربا وعقابه المالي، ودحر قوى الكفر.",
+  "rawText": "لَيَالِى المُحَاقِ : see دَأْدَآءٌ and الدَّعْجَآءُ.\nمَحَقَ 1 , aor. ﹷ, inf. n. مَحْقٌ, <i>He rendered</i> a thing <i>deficient, and deprived</i> it <i>of its blessing, or increase:</i> or [<i>he annihilated, annulled,</i> or <i>obliterated,</i> it;] <i>he did away with</i> it <i>wholly, so that no trace thereof remained.</i> (Msb.) === أَعْمَدُ مِنْ كَيْلٍ 🡻مُحِّقَ, or مُحِقَ: see عَمَدَ.\nمَحَّقَ 2 see 1."
+}

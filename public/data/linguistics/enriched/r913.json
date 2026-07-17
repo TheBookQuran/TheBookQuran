@@ -1,0 +1,52 @@
+{
+  "rootId": "r913",
+  "source": "lanes",
+  "enrichedAt": "2026-06-29T23:54:48.044Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Witnessing, testifying, presence, or public declaration",
+  "primaryMeaning": "To witness or testify",
+  "quranicRelevance": "Mapped into: witnessing or observing events (Shuhud), testifying to truth (Shahadah), the testimony of faith (Shahadah), martyr or witness to faith (Shaheed), and God as the Omnipresent Witness (ash-Shaheed).",
+  "keyDerivations": [
+    {
+      "lemma": "شَهِدَ",
+      "form": "Form I Verb",
+      "meaning": "To witness, testify, or be present"
+    },
+    {
+      "lemma": "شَهَادَةٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Testimony, witness, or the visible realm"
+    },
+    {
+      "lemma": "شَهِيدٌ / شُهَدَاءُ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Witness / witnesses, or martyrs"
+    },
+    {
+      "lemma": "الشَّاهِدُ / الشَّهِيدُ",
+      "form": "Noun",
+      "meaning": "The Witness (attribute of God)"
+    },
+    {
+      "lemma": "أَشْهَدَ",
+      "form": "Form IV Verb",
+      "meaning": "To make someone witness, or call to witness"
+    },
+    {
+      "lemma": "مَشْهَدٌ",
+      "form": "Noun",
+      "meaning": "Place of witnessing, or assembly"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "عَالِمُ الغَيْبِ وَالشَّهَادَةِ: Knower of the unseen and the visible/witnessed realm.",
+    "اسْتَشْهَدَ (Form X Verb): To call to witness, or to be martyred."
+  ],
+  "discardedNoise": [
+    "Honey in its comb (شُهْد).",
+    "Fine white garments or cloth."
+  ],
+  "summaryEn": "The root signifies presence and testifying, bridging the witnessed physical realm (Shahadah) with moral testimony and ultimate martyrdom (Shahadah).",
+  "summaryAr": "يدل هذا الجذر على الحضور والشهادة، واصلاً بين العالم المشهود (الشهادة) وبين الإدراك والشهادة الأخلاقية وبلوغ مقام الشهادة.",
+  "rawText": "أَشْهَدْتُهُ عَلَى كَذَا 4 <i>I made him to be a witness</i> (شَاهِد) <i>of,</i> or <i>to such a thing:</i> (S, Mgh, L:) [and in like manner,] أَشْهَدْتُهُ الشَّىْءَ <i>I made him to have knowledge of the thing, and to witness it,</i> or <i>see it</i> or <i>behold it with his eye.</i> (Msb.) See also 10. إِشْهَادٌ in relation to criminal matters means [The <i>causing</i> one <i>to take notice of a thing that threatens to occasion some injury, with a view to the prevention of such injury; as, for instance,</i>] the <i>saying to the owner of a house,</i> “ <i>This thy wall is leaning, therefore demolish it,</i> ” or “ feared, therefore repair it. ” (Mgh.) === اشهدهُ also signifies <i>He caused him to be present.</i> (K.) You say, أَشْهَدَنِى إِمْلَاكَهُ <i>He caused me to be present</i> [<i>at,</i> or <i>on the occasion of, his being put in possession</i>]. (S.) === أُشْهِدَ: see 10. ___ اشهد [as intrans.] † <i>Humorem tenuem e pene emisit</i> vir <i>propter lusum amatorium</i> vel <i>osculum;</i> (S, K;) as also 🡻شهّد, (K,) inf. n. تَشْهِيدٌ: (TA:) [from شَهْدٌ signifying “ honey; ” for] عُسَيْلَةٌ is a term for مَذْىٌ. (S.) † <i>He rendered his</i> مِئْزَر [or <i>waist-wrapper</i>] <i>of a reddish hue and of a dark dust-colour</i> (أَخْضَر) [<i>by the act above-mentioned</i>]. (L.) † <i>He</i> (a boy) <i>attained to puberty.</i> (Th, TA.) And اشهدت <i>She</i> (a girl) <i>menstruated:</i> and <i>attained to puberty.</i> (K.)\nاستشهدهُ 10 <i>He asked him,</i> or <i>required him, to tell what he had witnessed,</i> or <i>seen</i> or <i>beheld with his eye; to declare what he knew; to give testimony,</i> or <i>evidence; to bear witness;</i> or <i>to give decisive information.</i> (S, Mgh, L, Msb, K.) You say, اِسْتَشْهَدْتُ فُلَانًا عَلَى فُلَانٍ <i>I asked,</i> or <i>required,</i> [or <i>cited,</i> or <i>summoned,</i>] <i>such a one to give his testimony,</i> or <i>evidence,</i> or <i>to bear witness, against such a one.</i> (L.) And اِسْتَشْهَدْتُ الرَّجُلَ عَلَى إِقْرَارِ الغَرِيمِ and 🡻أَشْهَدْتُهُ <i>I asked,</i> or <i>required,</i> [&c., and <i>made,</i>] <i>the man to bear witness to,</i> or <i>to be witness of</i> or <i>to, the confession,</i> or <i>acknowledgment, of the debtor.</i> (L.) === [Hence,] استشهد بِبَيْتٍ عَلَى مَعْنَى كَلِمَةٍ [<i>He adduced,</i> or <i>urged,</i> or <i>cited, a verse as an evidential example of the meaning of a word</i>]. (A phrase of frequent occurrence in the larger lexicons.) === اُسْتُشْهِدَ (S, K) and 🡻أُشْهِدَ (K) <i>He was slain a martyr in the cause of God's religion.</i> (S, K. [See شَهِيدٌ.])\nالتَّشَهُّدُ 5 in prayer is well known; (S, K;) <i>The reciting of the form of words commencing with</i> التَّحِيَّاتُ لِلّٰهِ: [see art. حى:] from the occurrence therein of the words أَشْهَدُ أَنْ لَا إِلَاهَ إِلَّا ٱللّٰهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ. (Mgh, * TA. [See also Har p. 611.]) === And تَشَهَّدَ also signifies <i>He sought,</i> or <i>desired to obtain, martyrdom.</i> (L.)\nالشَّاهِدَةُ <i>The earth,</i> or <i>ground.</i> (K.) See شَهِيدٌ, last sentence.\nاِمْرَأَةٌ مُشْهِدٌ , (S, A, K,) without ة, (S,) and مُشْهِدَةٌ, (A,) <i>A woman whose husband is present with her:</i> (S, A, K:) opposed to اِمْرَأَةٌ مُغِيبَةٌ; (S, A;) this last with ة. (S.)\nشَاهِدٌ (S, Mgh, L, K) and 🡻شَهِيدٌ (S, * Mgh, L) <i>One who tells,</i> or <i>gives information of, what he has witnessed,</i> or <i>seen</i> or <i>beheld with his eye:</i> (Mgh, L:) <i>one who declares what he knows:</i> (L:) one <i>who knows, and declares what he knows:</i> (ISd, TA:) <i>a witness,</i> as meaning <i>one who gives testimony,</i> or <i>evidence; who bears witness:</i> (S, * L, K: *) [<i>one who gives decisive information:</i> (see 1, first sentence:)] pl. of the former 🡻شَهْدٌ, (Akh, S, K,) or [rather] this is a quasi-pl. n., (Sb, TA,) like as صَحْبٌ is of صَاحِبٌ, and سَفْرٌ of سَافِرٌ, (S,) but some disallow this; (TA;) and 🡻شُهُودٌ [but see what is said of this in the latter half of the paragraph] and أَشْهَادٌ are also pls. of شَاهِدٌ, (Mgh, L,) or of شَهْدٌ: (S, K:) the pl. of 🡻شَهِيدٌ is شُهَدَآءُ. (S, Mgh.) [Hence,] مَعَهَا سَائِقٌ 🡻وَشَهِيدٌ, in the Kur 1. 20: see art. سوق. === [Hence also] الشَّاهِدُ a name of the Prophet; (K;) meaning <i>The witness</i> against those to whom he has been sent. (Jel in xxxiii. 44.) === And شَاهِدٌ <i>An angel:</i> (S, L, K:) or <i>a guardian angel:</i> (Mujáhid:) pl. أَشْهَادٌ: or this means the <i>prophets.</i> (TA.) === And The <i>tongue:</i> (S, L, K:) from the saying, لِفُلَانٍ شَاهِدٌ حَسَنٌ <i>Such a one has an elegant diction.</i> (L.) One says also, مَا لِفُلَانٍ رُوَآءٌ وَلَا شَاهِدٌ <i>Such a one has neither goodliness of aspect nor tongue.</i> (Aboo-Bekr, L.) === [As a conventional term used in lexicology &c.,] <i>An evidential example,</i> generally poetical, of the form or meaning of a word or phrase: pl. شَوَاهِدُ: the sciences that require شَوَاهِد being those of اللُّغَة and الصَّرْف and النَّحْو and المَعَانِى and البَيَان and البَدِيع and العَرُوض and القَوَافِى. (MF on the خُطْبَة of the K.) [One says, هٰذَا شَاهِدٌ لِكَذَا and عَلَى كَذَا <i>This is an evidential example of such a thing.</i>] With respect to the classical language, absolutely, شواهد are taken, by universal consent, from the Kur-án, and from the language [both verse and prose (Kull p. 348)] of those Arabs who lived before the period of the corruption [in any considerable degree] of the Arabic tongue: [see مُوَلَّدٌ:] also, accord. to the general decision of the learned, from the Traditions of Mohammad; [which last source is excluded by some because traditions may be corrupted in language by their transmitters, and interpolated, and even forged;] and electively from the language of those Arabs who lived after the first corruption of the Arabic tongue, but before the corruption had become extensive. (Mz, 1st نوع; and MF ubi suprà. [See, again, مُوَلَّدٌ.]) The classes of the poets from whose poetry شواهد are taken are the Pagan Arabs, the Mukhadrams, the Islámees, and the Muwelleds: [see جَاهِلِىٌّ and مُخَضْرَمٌ and إِسْلَامِىٌّ and مُوَلَّدٌ:] with respect to all the sciences above mentioned, they are taken from the poetry of the first, second, and third, classes; from that of the first and second by universal consent, and from that of the third electively: (MF ubi suprá:) but they are taken from the poetry of the fourth class with respect only to the sciences of المَعَانِى and البَيَان and البَدِيع. (Idem, and Kull p. 348.) [The age of the earliest existing classical poems (though some older fragments and couplets and single verses have been preserved) is only about a century before the birth of Mohammad: that of the latest, about a century after his death. (See the Preface to this work.)] === <i>Knowing,</i> (Msb,) <i>and witnessing,</i> or <i>seeing</i> or <i>beholding with his eye; a witness,</i> as meaning <i>an eyewitness;</i> (L, Msb;) as also 🡻شَهِيدٌ: pl. of the former [or, as is said in the L in art. مجد, of the former or of the latter,] أَشْهَادٌ and شُهُودٌ; [but see what is said of these pls. in the first sentence of this paragraph;] and of the latter شُهَدَآءُ. (Msb.) [See an ex. of 🡻شَهِيدٌ in this sense in a verse cited voce رَبٌّ.] === [Hence, in the present day, applied to <i>A notary, who hears and writes and attests cases to be submitted for judgment in the court of a kádee.</i>] === <i>Present; a witness</i> as meaning <i>one personally present;</i> (S, L, Msb, K;) as also 🡻شَهِيدٌ: (Msb:) pl. of the former شُهَّدٌ (S, L, K) [and أَشْهَادٌ, as above,] and 🡻شُهُودٌ, (K,) or this last is used as a pl. but is originally an inf. n. (S, L.) One says, الشَّاهِدُ يَرَى مَا لَا يَرَى الغَائِبُ, meaning <i>The present knows what the absent knows not.</i> (Msb.) And قَوْمٌ شُهُودٌ <i>People,</i> or <i>persons, present.</i> (S, A.) And كَلَّمْتُهُ عَلَى رُؤُوسِ الأَشْهَادِ [<i>I spoke to him before witnesses,</i> or <i>persons present</i>]. (A.) === [Hence, app., being opposed to "
+}

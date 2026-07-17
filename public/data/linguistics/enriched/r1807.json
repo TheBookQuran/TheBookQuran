@@ -1,0 +1,26 @@
+{
+  "rootId": "r1807",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:52:16.826Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Pouring out sand/grain, sand sliding down, falling heap, or terrifying sight",
+  "primaryMeaning": "Pouring out sand/sliding sand",
+  "quranicRelevance": "A sand dune poured out (Maheelan - 'katheeban maheelan').",
+  "keyDerivations": [
+    {
+      "lemma": "مَهِيلٌ",
+      "form": "Participle (Passive)",
+      "meaning": "Poured out, sliding sand/grain, flowing dune, or unstable sand pile"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَكَانَتِ الْجِبَالُ كَثِيبًا مَهِيلًا (73:14): And the mountains become a flowing, sliding sand heap."
+  ],
+  "discardedNoise": [
+    "Heal (cardamom herb spice) - modern botany.",
+    "Hool (terror/dread) - H-W-L."
+  ],
+  "summaryEn": "The root refers to sand sliding and pouring down under its own weight (Hayl), detailing the apocalyptic degradation of solid mountains into unstable, flowing sand dunes.",
+  "summaryAr": "يشير هذا الجذر إلى صب الرمل والتراب حتى يتساقط وينحدر متدفقاً بغير تماسك (هيل)، واصفاً تفكك الجبال الراسية وتحولها لرمال سائلة مهيلة.",
+  "rawText": "اِنْهَالَ 7 <i>It</i> (sand, &c.) <i>poured down.</i> (S, K.) === اِنْهَدَمَ الجِدَارُ وَآنْهَالَ [<i>The wall fell in ruins,</i> or <i>to pieces,</i> or <i>became a ruin, and broke,</i> or <i>crumbled down</i>]. (K in art. قيض.) So rendered voce اِنْقَاضَ, art. فيض.\nمَهِيلٌ : see كَثِيبٌ.\nهَيُولُى and هَيُّولَى: wrongly mentioned in art. هول. See مَادَّةٌ.\nهَيْلٌ inf. n. of هَالَ: see حَثَا. === هَيْلٌ and 🡻هَائِلٌ Sand <i>that will not remain steady in its place, but falls down.</i> (JK.)"
+}

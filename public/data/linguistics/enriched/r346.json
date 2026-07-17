@@ -1,0 +1,26 @@
+{
+  "rootId": "r346",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T18:01:00.335Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Atmosphere, air, empty space between heaven and earth, open field, or inner heart",
+  "primaryMeaning": "Atmosphere/midst of sky",
+  "quranicRelevance": "In the midst/air of the sky (Jawwi - 'fee jawwi al-sama'i').",
+  "keyDerivations": [
+    {
+      "lemma": "جَوٌّ",
+      "form": "Noun",
+      "meaning": "Atmosphere, air, spacious sky, or space between heaven and earth"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "أَلَمْ يَرَوْا إِلَى الطَّيْرِ مُسَخَّرَاتٍ فِي جَوِّ السَّمَاءِ (16:79): Do they not see the birds controlled in the midst/air of the sky?"
+  ],
+  "discardedNoise": [
+    "Jawa (grief/sorrow of love) - emotional state.",
+    "Jaww (slang for vibe/atmosphere of party)."
+  ],
+  "summaryEn": "The root represents the open atmosphere or sky (Jaww), inviting reflection on how birds are sustained in flight within the open air by natural laws of divine creation.",
+  "summaryAr": "يمثل هذا الجذر الفضاء والهواء الواقع بين السماء والأرض والجو الواسع (جوو)، موجهاً النظر لتسخير الطيور الطائرة في الهواء الطلق بقدرة الله.",
+  "rawText": "جَوٌّ The <i>air:</i> (K:) or [the <i>atmosphere;</i> i. e.] <i>what is between the heaven,</i> or <i>sky, and the earth;</i> (S, Mgh;) the <i>air</i> [or the <i>region</i>] <i>between the heaven,</i> or <i>sky, and the earth:</i> pl. أَجْوَآءٌ. (TA.) فِى جَوِّ السَّمَآءِ, in the Kur [xvi. 81], means <i>In the air between the heaven,</i> or <i>sky, and the earth:</i> (Jel:) or <i>in the middle of the sky:</i> (Katádeh, TA:) or <i>in the air that is remote from the earth.</i> (Bd.) === <i>A low,</i> or <i>depressed, part of the ground;</i> (M, K;) as also 🡻جَوَّةٌ: (K:) or <i>a wide part of a valley:</i> (S, Msb:) pl. (in the latter sense, Msb, or in the former, K, TA) جِوَآءٌ (Msb, K) and [of pauc.] أَجْوِيَةٌ. (TA.) It has the latter meaning in the saying of Tarafeh, [addressing a lark,] <center> <h3> خَلَا لَكِ الجَوُّ فَبِيضِى وَٱصْفِرِى </h3> </center> [<i>The wide part of the valley has become vacant for thee; so lay thine eggs, and whistle</i>]. (AA, S.) Az says, I entered, with an Arab of the desert, a [hollow place in which water collected, termed a] دَحْل, in El-Khalsà, and when we came to the water, he said, هٰذَا جَوٌّ مِنَ المَاءِ لَا يُوقَفُ عَلَى أَقْصَاهُ [<i>This is an abyss of water: one knows not the utmost extent of it</i>]. (TA.) === <i>A vacant, void,</i> or <i>desolate, place, in which is no one to cheer by his company.</i> (Ham p. 293.) === The <i>inside,</i> or <i>interior,</i> of a house or tent; (K;) and of anything; of the dial. of Syria; also termed 🡻جَوَّةٌ, (TA,) and 🡻جَوَّانِىٌّ; (K; [in the CK ا is erroneously put for ن;]) in which last, the ا and أُرِيدُ جَوًّا وَيُرِيدُ بَرًّا are augmentatives for the purpose of corroboration. (TA.) === [Hence,] جَوَّةٌ <i>I desire concealment,</i> or <i>secrecy, and he desires publicity.</i> (A in art. بر.)\nجَوَّانِىٌّ : see جَوٌّ. Hence the saying of Selmán, مَنْ أَصْلَحَ جَوَّانِيَّهُ أَصْلَحَ ٱللّٰهُ بَرَّانِيَّهُ [explained in art. بر]. (TA.) [It generally signifies <i>Inner, inward,</i> or <i>interior;</i> and <i>secret,</i> or <i>private;</i> opposed to بَرَّانِىٌّ; and is now vulgarly pronounced جُوَّانِىْ.] It is a rel. n. [irregularly formed] from جَوٌّ signifying “ any low, or depressed, part of the ground. ” (T in art. بر.)\nجَوَّةٌ : see جَوٌّ, in two places."
+}

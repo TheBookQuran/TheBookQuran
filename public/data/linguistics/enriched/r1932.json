@@ -1,0 +1,36 @@
+{
+  "rootId": "r1932",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:20:57.876Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Walking, moving on foot, path, or slander",
+  "primaryMeaning": "To walk",
+  "quranicRelevance": "Walking/moving on foot ('masha'), and slander/tale-bearing (Mash-y - 'mash-sha'in binameem').",
+  "keyDerivations": [
+    {
+      "lemma": "مَشَى",
+      "form": "Form I Verb",
+      "meaning": "To walk, go on foot, march, or proceed"
+    },
+    {
+      "lemma": "مَشْيٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Walking, or gait/march"
+    },
+    {
+      "lemma": "مَشَّاءٌ",
+      "form": "Noun / Active part.",
+      "meaning": "Constant walker, or slanderer/tale-bearer"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "مَشَّاءٍ بِنَمِيمٍ (68:11): A constant walker/spreader of slander (using walking to represent spreading gossip)."
+  ],
+  "discardedNoise": [
+    "Specific details of animal walking styles.",
+    "Obscure medical conditions of diarrhea (مشي)."
+  ],
+  "summaryEn": "The root refers to walking and moving, depicting literal physical movement and the malicious 'walking' to spread gossip (Mash-sha').",
+  "summaryAr": "يشير هذا الجذر إلى المشي والحركة، واصفاً المشي المادي، والمشي المعنوي الخبيث لنقل النمائم وإفساد العلاقات (مشّاء).",
+  "rawText": "أَمْشَىَ الدَّوَآءُ بَطْنَهُ 4 (A, K, art. حدر,) [<i>The medicine moved,</i> or <i>purged, his bowels; made his belly to discharge itself:</i>] and 🡻مَشَّى البَطْنَ. (TA, art. طوس, &c.)\nاِسْتَمْشَى بِالدَّوَآءِ 10 [<i>He used the medicine as a laxative or purgative.</i> (IbrD.)] (Az in L, art. عقر.) === اِسْتَمْشَى بِهِ, referring to a plant, (K in art. صع,) <i>He drank its water</i> (i. e. <i>infusion</i> or <i>the like</i>) <i>for moving the bowels.</i> (TA ibid.)\nتَمَاشَوْا 6 <i>They walked,</i> or <i>went on foot, one towards,</i> or <i>to, another.</i> (TA.)\nتَمَشَّى 5 <i>i. q.</i> مَشَى: (TA:) [or, properly, and accord. to general usage, <i>he walked with slow steps:</i> so I have rendered it voce دَلَفَ, &c.:] <i>he walked heavily, with an effort.</i> (TK voce تَزَحَّفَ.) [One says in the present day, خَرَجْتُ أَتَمَشَى <i>I went forth taking a walk;</i> and تَمَشَّى <i>He walked; walked about.</i>] === [Hence the saying,] تَمَشَّتْ فِيهِ حُمَيَّا الكَأْسِ [<i>The intoxicating influence of the cup of wine pervaded him,</i> or] <i>crept in him.</i> (TA.) See also تَفَشَّى.\nدَوَآءُ المَشِىِّ <i>Medicine that moves,</i> or <i>purges, the bowels.</i> (TA in art. طوس.)\nمَاشَاهُ 3 <i>He walked,</i> or <i>went on foot, with him: he kept pace with him.</i> See an ex. voce الأَحْصَّانِ.\nمَاشِيَةٌ A she-camel <i>having numerous offspring.</i> (S, Mgh.) === Hence, and مَوَاشٍ, as ominous of good, <i>Camels,</i> and <i>cows,</i> and <i>sheep</i> or <i>goats that are for breeding and gain.</i> (Mgh.)\nمَشَى 1 <i>He walked, went,</i> or <i>went along;</i> (MA, KL;) [in its primary sense] <i>He went any pace upon his feet, afoot,</i> or <i>on foot; he footed;</i> whether <i>quickly</i> or <i>slowly:</i> (Mgh, Msb:) <i>he removed from place to place at pleasure:</i> (Er-Rághib:) <i>walked; went along, marched; travelled; trod; paced; stepped.</i> See 5. === مَشَى also signifies <i>He went on,</i> or <i>continued, in his course of action,</i> &c. (Mughnee voce أَنْ, in explanation of this verb as used in Kur xxxviii. 5.) === [مَشَى † <i>It</i> (money) <i>passed; was,</i> <i>or became, current.</i> === † <i>It</i> (a calumny) <i>was, or became, current.</i> See مِئْبَرٌ.] === مَشَى بَنْطُهُ [<i>His belly became moved,</i> or <i>in motion; it discharged itself.</i>] (S, K, art. طلق; &c.)\nمَشَّآءٌ [<i>That goes with energy; a good</i> or <i>strong goer;</i>] <i>strong to walk,</i> or <i>go,</i> or <i>go on foot.</i> (TA voce رِجِيلٌ.)\nمَشَّىَ 2 see 4.\nمَمْشَى <i>A passage,</i> or <i>way, by a place;</i> (TA;) [<i>a walking-place:</i> the gangway of a ship?]"
+}

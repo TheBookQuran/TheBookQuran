@@ -1,0 +1,31 @@
+{
+  "rootId": "r1699",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:52:16.826Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Spitting lightly, blowing with saliva, puffing into knots, or magical spell blowing",
+  "primaryMeaning": "Spitting lightly/blowing with saliva",
+  "quranicRelevance": "Blowers in knots (Naffathati - 'al-naffathati').",
+  "keyDerivations": [
+    {
+      "lemma": "نَفَثَ / يَنْفُثُ",
+      "form": "Form I Verb",
+      "meaning": "To blow with a little saliva, spit lightly, puff, or recite magical spells into knots"
+    },
+    {
+      "lemma": "نَفَّاثٌ / نَفَّاثَةٌ",
+      "form": "Participle (Intensive)",
+      "meaning": "One who blows with spit, witch/magician blowing spells into knots"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ (113:4): And from the evil of the blowers/spitters in knots (magical witchcraft)."
+  ],
+  "discardedNoise": [
+    "Nafath (poetic expiration).",
+    "Nafth (coughing blood) - medical condition."
+  ],
+  "summaryEn": "The root means blowing with minimal saliva (Nafth), warning believers to seek divine protection against the evil of sorcerers who blow spells into knotted strings.",
+  "summaryAr": "يشير هذا الجذر إلى النفخ الخفيف بالشفاه المصحوب بقليل من الريق كنفخ السحرة (نفث)، مستعيذاً بالله من شر الساحرات اللاتي ينفثن في عقد السحر.",
+  "rawText": "دَمٌ نَفِيثٌ <i>Blood emitted by a wound</i> (S, K) or <i>vein.</i> (TA.)\nمَنْفُوتٌ A man <i>enchanted.</i> (A.)\nمِئْنَاثٌ كَأَنَّهَا نُفَاثٌ [<i>A plain land that produces many plants,</i> or <i>herbs,</i> or <i>much herbage,</i>] <i>as though blowing forth,</i> or <i>spitting forth, the pleats,</i> or <i>herbs.</i> (L, from a trad.) [The correctness of نُفَاثٌ is questioned by El-Khattábee. May it not be a mistake for نَفَّاثٌ?]\nنَافِثٌ <i>Enchanting.</i> (Msb.)\nنَفَثَ 1 , aor. ﹻ and ﹹ, inf. n. نَفْثٌ (S, K) and نَفَثَانٌ, (TA,) [<i>He puffed;</i> or <i>blew, without spitting:</i> or <i>he sputtered,</i> or <i>blew forth a little spittle in minute scattered particles:</i> or] <i>he spat:</i> or <i>he</i> [<i>did as though he</i>] <i>spat without ejecting spittle:</i> and نَفَثَ فى العُقْدَةِ signifies <i>he spat, ejecting a little spittle, upon the knot,</i> in enchantment: (Msb:) or النَّفْثُ is <i>like</i> النَّفْخُ, or <i>blowing, and less than</i> التَّفْلُ, or <i>spitting,</i> or <i>ejecting spittle from the mouth:</i> (S, K:) or <i>like blowing, with</i> [<i>the emission of</i>] <i>spittle:</i> (Keshsháf;) or <i>like blowing,</i> as done in enchantment, <i>without spittle:</i> the action, if accompanied by spittle, being termed التفل: this is the most correct explanation: ('Ináyeh:) or <i>gentle blowing without spittle:</i> (الاذكار:) or <i>more than blowing;</i> or <i>like blowing; but less than spitting: sometimes without spittle,</i> thus differing from التفل; <i>and sometimes with a little spittle,</i> thus differing from النفخ: or <i>the emitting wind from the mouth, together with a little spittle.</i> (MF.) === لَا بُدَّ لِلْمَصْدُورِ أَنْ يَنْفِثَ [<i>He who has a disease in his chest must spit</i>]. A proverb. (S.) === نَفَثَهُ مِنْ فِيهِ, aor. ﹻ, inf. n. نَفْثٌ, <i>He ejected it from his mouth.</i> (Msb.) === [Hence,] نَفَثَ اللّٰهُ الشَّىْءِ فِى القَلْبِ ‡ <i>God cast,</i> or <i>put, the thing into the heart.</i> (Msb) === نَفِثَ فِى رُوعِى كَذَا ‡ <i>Such a thing was inspired,</i> or <i>put, into my mind.</i> (A.) === نَفَثَ فِى رُوعِى ‡ <i>He</i> (the Holy Spirit [Gabriel]) <i>inspired,</i> or <i>cast,</i> or <i>put, into my mind,</i> or <i>heart.</i> (Nh, from a trad.) === [You say,] لَوْ نَفَثَ عَلَيْكَ فُلَانٌ قَطَّرَكَ [<i>If such a one blew,</i> or <i>spat, upon thee, he would throw thee down upon thy side.</i>]. Said to one who tries his strength with one superior to him. (A.) === نَفَثَ عَلَىَّ غَضَبًا as though meaning <i>He blew at me by reason of the violence of his anger.</i> (L.) [See also نَفَتَ.] === الحَيَّةُ تَنْفِثُ السَّمَّ إِذَا نَكَزَتْ [<i>The serpent ejects venom from its mouth when it inflicts a wound with its nose</i>]. (S.) === نَفَثَ <i>It</i> (a wound) <i>emitted</i> blood. (TA.) === [From the blowing or spitting upon the knots:] نَفَثَهُ, inf. n. نَفْثٌ, <i>He enchanted him.</i> (Msb.) === نَفَثَتِ القِدْرُ, aor. ﹻ, inf. n. نَفِيثٌ and نَفْثٌ, <i>The cooking-pot boiled:</i> or, <i>boiled, and threw forth what resembled arrows, by reason of the vehemence of its boiling.</i> (Msb.) [See also نَفَتَت.] It is when it begins to boil. (TA.)\nنَفِيثَةٌ <i>A certain kind of food.</i> (See نَفِيتَة and وَطِيْئَة.)\nنَفَّاثٌ <i>An enchanter; one who is in the habit of enchanting:</i> fem. with ة. (Msb.) === النَّفَّاثَاتُ فِى العُقَدِ [Kur, cxiii. 4,] <i>The women who blow, without spitting,</i> saying something at the same time, <i>upon the knots</i> which they tie in a thread, or string: (Jel:) meaning <i>the enchantresses.</i> (S, K, Jel.) [See a verse cited voce عَاضِهٌ.]\nنَفْثُ الشَّيْطَانِ <i>Poetry:</i> (K, from a trad.:) called نفث because it is like a thing which a man spits, or blows, (يَنْفِثُ,) from his mouth, like incantation. (A 'Obeyd.) === ذَا مِنْ نَفَثَاتِ فُلَانٍ <i>This is of the poetry of such a one.</i> (TA.)\nنُفَاثَةٌ <i>What one blows,</i> or <i>spits,</i> (يَنْفِثُ,) <i>from his mouth.</i> (S.) === <i>What a person having a disease in his chest blows forth</i> or <i>spits out,</i> يَنْفِثُ. (K.) === <i>What remains in one's mouth, of a</i> سِوَاك, or <i>tooth-stick, and is spit out:</i> (S:) <i>a particle broken off</i> (شَظِيَّةٌ: so in the L &c.: in the K, شَطِيبَةٌ:) <i>from a</i> سواك, or <i>tooth-stick, remaining in the mouth, and spit out.</i> (L, K.) One says, لَوْ سَأَلَنِى نُفَاثَةَ سِوَاكٍ مَا أَعْطَيْتُهُ <i>If he asked me for a particle of a tooth-stick, remaining in my mouth, I would not give him</i> (<i>it</i>). (S.)"
+}

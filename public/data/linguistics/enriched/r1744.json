@@ -1,0 +1,26 @@
+{
+  "rootId": "r1744",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:39:17.504Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Obtaining, reaching, affecting, getting, or benefit",
+  "primaryMeaning": "To obtain or reach",
+  "quranicRelevance": "Reaching/affecting someone ('lan yanala Allaha luhoomoha'), and obtaining/getting rewards.",
+  "keyDerivations": [
+    {
+      "lemma": "نَالَ / يَنَالُ",
+      "form": "Form I Verb",
+      "meaning": "To obtain, reach, affect, touch, secure, or acquire"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "لَنْ يَنَالَ اللَّهَ لُحُومُهَا وَلَا دِمَاؤُهَا وَلَكِنْ يَنَالُهُ التَّقْوَى (22:37): Neither their flesh nor their blood reaches/affects God, but it is devotion from you that reaches Him."
+  ],
+  "discardedNoise": [
+    "The Nile River (النيل) - distinct etymology/geography.",
+    "Obscure details of gift distribution."
+  ],
+  "summaryEn": "The root refers to obtaining and reaching, focusing on how devotion reaches the divine (rather than physical sacrifices) and the attainment of reward.",
+  "summaryAr": "يشير هذا الجذر إلى نيل الشيء وإدراكه، واصفاً بلوغ التقوى والنية الصادقة لله عوض اللحوم والدماء الجسدية (يناله التقوى).",
+  "rawText": "أَنْيَلَ 4 see 1.\nإِنَانَةٌ The act of <i>giving:</i> (PS in art. نيل;) the <i>giving a gift.</i> (KL.) It seems properly to belong to art. نول.\nنَالَ مِنْهُ 1 <i>He defamed him.</i> (L, art. قبح.) === نَالَ مِنْ عِرْضِهِ <i>He defamed him.</i> (T, K, TA.) === نَال مِنْهُ <i>He harmed, hurt,</i> or <i>injured him,</i> namely, an enemy. (Mgh.) === نَالَهُ بِلِسَانِهِ is coupled in the Msb, art. قرص, with أَذَاهُ; and seems plainly to signify أَصاَبَهُ, which, in this case, is the same as أَذَاهُ. And 🡻تَنَاوَلَهُ has a similar meaning. === نَالَ <i>He obtained,</i> or <i>attained.</i> (S, K.) نَالَ مِنْ عَدُوِّهِ <i>He attained</i> [or <i>obtained</i>] <i>the object of his aim,</i> or <i>desire, from his enemy.</i> (Msb.) === نَالَهُ, aor. يَنَالُ, <i>It reached him; came to him;</i> syn. وَصَلَ إِلَيْهِ. (M, art. نيل.) See also Bd, xxii. 38. === نَالَ لَكَ أَنْ نَفْعَلَ, aor. يَنِيلُ; and 🡻أَنَالَلَكَ: see أَنَى. === نَالَهُ, first. pers. نِلْتَهُ, inf. n. نَيْلٌ, <i>He obtained it; he attained it;</i> namely, the object of his wish, &c. (S, K, Msb, &c.)\nنَيْلٌ (T, M, K) and 🡻نَائِلٌ (M, K) <i>What one obtains,</i> or <i>acquires,</i> (T, M, K,) <i>of the bounty of another;</i> like نَوَالَ. (T.)\nنَيْلٌ <i>Obtainment;</i> &c.: see 1.\nهُمَا يَتَنَايَلَانِ 6 and signify the same. (TA.)"
+}

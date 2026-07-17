@@ -1,0 +1,57 @@
+{
+  "rootId": "r1551",
+  "source": "lanes",
+  "enrichedAt": "2026-06-29T23:52:37.690Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Likeness, resemblance, exemplar (parable), or standing erect",
+  "primaryMeaning": "To resemble, or represent as a likeness",
+  "quranicRelevance": "Crucial for: parables or similitudes (Mathal / Amthal) used in the Quran to convey spiritual truths, the best exemplar or paradigm (al-Mathal al-A'la), and the state of being similar (Mithl). It also refers to standing erect or presenting a likeness.",
+  "keyDerivations": [
+    {
+      "lemma": "مَثَلٌ",
+      "form": "Noun",
+      "meaning": "Parable, similitude, example, or lesson"
+    },
+    {
+      "lemma": "مِثْلٌ",
+      "form": "Noun / Adjective",
+      "meaning": "Similar, equal, or likeness"
+    },
+    {
+      "lemma": "أَمْثَالٌ",
+      "form": "Noun pl.",
+      "meaning": "Parables, examples, or peers"
+    },
+    {
+      "lemma": "مَثَّلَ",
+      "form": "Form II Verb",
+      "meaning": "To represent, exemplify, or make a likeness"
+    },
+    {
+      "lemma": "مَثُلَ",
+      "form": "Form I Verb",
+      "meaning": "To stand erect, or be prominent"
+    },
+    {
+      "lemma": "مُثْلَةٌ",
+      "form": "Noun",
+      "meaning": "Exemplary punishment, or mutilation"
+    },
+    {
+      "lemma": "تَمَثَّلَ",
+      "form": "Form V Verb",
+      "meaning": "To assume a likeness, or appear in the shape of ('fatamaththala laha basharan sawiyya')"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "الطَّرِيقَةُ المُثْلَى (20:104): The most exemplary or best path/state.",
+    "مُثَّلَ (Form II): To mutilate a body (though in Quran it is mostly about parables and representation)."
+  ],
+  "discardedNoise": [
+    "Lexical descriptions of physical mutilation (Muthlah) or physical standing.",
+    "Grammatical categories of similitude."
+  ],
+  "summaryEn": "The root relates to likeness and representation, playing a vital role in the Quranic method of teaching through parables (Amthal) and comparisons (Mithl).",
+  "summaryAr": "يتعلق هذا الجذر بالمماثلة والتمثيل، ويلعب دوراً حيوياً في الأسلوب القرآني في التعليم عبر ضرب الأمثال (أمثال) والمقايسات (مثل).",
+  "rawText": "أَمْثَلَهُ 4 <i>He set it up:</i> from مَثَلَ “ he stood erect. ” === <i>He set up</i> a butt or mark: see an ex. voce غَرَضٌ.\nاِمْتَثَلَ أَمْرَهُ 8 <i>He followed his command, order, bidding,</i> or <i>injunction; did like as he commanded, ordered, &c.;</i> (Mgh;) <i>he obeyed his command, order, &c.</i> (Msb.)\nتَمَاثَلَ 6 <i>He became nearly in a sound,</i> or <i>healthy, state;</i> or <i>near to convalescence:</i> (K:) or <i>he became more like the sound,</i> or <i>healthy, than the unsound,</i> or <i>unhealthy, who is suffering from a chronic and pervading disease;</i> (TA;) or so تماثل لِلْبُرْءِ. (M.) Said also of a wound: (T, S in art. دمل:) and of a disease; like أَشْكَلَ. (TA, art. شكل.) === تَمَاثَلَا <i>i. q.</i> تَشَابَهَا. (M, K in art. سوى.)\nتَمَاثِيلُ , in the following hemistich of Ibn-Ahmar, <center> <h3> تَمَاثِيلُ قِرْطَاسٍ عَلَى هَبْهَبِيَّةٍ </h3> </center> signifies كُتُبٌ يَكْتُبُونَهَا. (L, in TA, voce هَبْهَبِىٌّ, as signifying a “ light, or active, ” camel.)\nتَمَثَّلَ بِكَذَا 5 [<i>He affected to be like, or imitated, such a thing;</i>] <i>i. q.</i> تَشَبَّهَ بِهِ. (TA, art. شبه.) === تَمَثَّلَ البَيْتَ and [more commonly] بِالبَيْتِ <i>He used,</i> or <i>applied, the verse as a proverb,</i> or <i>proverbially.</i> (MA.) === See تَشَبَّهَ.\nجَوْزُ مَاثِلٍ : see جَوْزٌ.\nمَاثَلَهُ 3 <i>i. q.</i> شَابَهَهُ. (TA.)\nمَثَلٌ <i>i. q.</i> صِفَةٌ [as meaning <i>A description, condition, state, case,</i> &c.]; (S, K, &c.;) or وَصْفٌ [meaning the same]: (Msb:) or this is a mistake: (Mbr, AAF, TA:) or it may be a tropical signification: (MF, TA:) for in the language of the Arabs it means <i>a description by way of comparison:</i> (AAF, TA:) you say مثل زيد مثل فلان [<i>The description of Zeyd, by way of comparison,</i> or <i>the condition, &c., is that of such a one</i>]: it is from المِثاَلُ and الحَذْوُ: (Mbr, TA:) it is metaphorically applied to <i>a condition, state,</i> or <i>case,</i> that is important, strange, or wonderful. (Ksh, Bd in ii. 16.) The phrase here given is more literally, and better, rendered, <i>The similitude of Zeyd is the similitude,</i> or <i>is that, of such a one;</i> for a similitude is a description by way of comparison. === You say also, جَعَلَهُ مَثَلًا لِكَذَا [<i>He made it</i> (an expression or the like) <i>to be descriptive, by way of comparison, of such a thing</i>]. (TA passim.) [And مَثَلٌ لِكَذَا means <i>An expression denoting, by way of similitude, such a thing.</i>] === عَلَى المَثَلِ <i>As indicative of resemblance</i> to something. === See بَدَلٌ.\nمَثَلَ 1 aor. ﹹ, inf. n. مُثُولٌ; (S, M, K, &c.;) and مَثُلَ; (M, K;) <i>He stood erect;</i> (S, M, K, &c.;) بَيْنَ يَدَيْهِ <i>before him.</i> (S, &c.) === مَثَلَ بِهِ, inf. n. مُثْلَةٌ, <i>He mutilated him; castrated him;</i> namely, a sheep or goat. (TA in art. دجن, from a trad.)\nمَثَّلَ 2 : see a verse of Kutheiyir in art. رود, conj. 4. === مَثَّلَهُ: see شَبَّهَهُ.\nمِثَالٌ <i>Quality, made, manner, fashion,</i> and <i>form;</i> (Msb;) <i>a model according to which another thing is made or proportioned; a pattern,</i> (مِقْدَارٌ) <i>by which a thing is measured, proportioned, or cut out:</i> (T:) <i>an example</i> of a class of words, of a rule, &c. === مِنْ غَيْرِ سَبْقِ مِثاَلٍ [<i>Without there having been any precedent</i>]. (Msb in art. قرح, &c.) === [<i>A bed:</i>] بَناَتُ المِثَالِ <i>The daughters of the bed;</i> meaning <i>women.</i> (T in art. بنى.)\nمِثْلٌ <i>A like; a similar person</i> or <i>thing; match; fellow; an analogue.</i> (K, &c.) See نِدٌّ and voce بَدَلٌ. === <i>A likeness, resemblance,</i> or <i>semblance;</i> see شَبَهٌ. === <i>An equivalent; a requital.</i> === مِثْلَ, used as a denotative of state, means <i>Like.</i> Ex. مَرَّ مِثْلَ البَرْقِ <i>He passed like the lightning.</i> See an ex. in the Kur li. 23; and another, from Sakhr-el-Gheí, voce فَرْضٌ."
+}

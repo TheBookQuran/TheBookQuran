@@ -1,0 +1,26 @@
+{
+  "rootId": "r1462",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:07:33.756Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Cup, goblet, mug, narrow neck container, or heavy load",
+  "primaryMeaning": "Cup/goblet",
+  "quranicRelevance": "Goblets of Paradise (Akwab - 'bi-akwabin wa abareeqa', 'wa akwabon mawdhoo'atun').",
+  "keyDerivations": [
+    {
+      "lemma": "كُوبٌ / أَكْوَابٌ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Cup, goblet, round mug without handles, or drinking vessel"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "يُطَافُ عَلَيْهِمْ بِصِحَافٍ مِنْ ذَهَبٍ وَأَكْوَابٍ (43:71): Circulated among them will be plates of gold and cups/goblets (luxury catering of Paradise)."
+  ],
+  "discardedNoise": [
+    "Narrow mountain passes.",
+    "Modern coffee shop paper cups."
+  ],
+  "summaryEn": "The root refers to goblets (Akwab), using them to picture the premium, handle-less drinking vessels filled with pure nectar for the saved in Paradise.",
+  "summaryAr": "يشير هذا الجذر إلى الأكواب المستديرة بلا عروة، واصفاً أدوات الشراب الفاخرة المجهزة لأهل الجنة ممتلئة بأشربة النعيم (وأكواب موضوعة).",
+  "rawText": "إِكْتَوَبَ 8 see 1.\nكوّب 2 , inf. n. يَكْوِيبٌ, <i>He pounded,</i> or <i>brayed,</i> a thing <i>with a</i> فِهْر [or كُوبَة, q. v.] (K.)\nكَابَ 1 , aor. يَكُوبُ; and 🡻اكتاب; <i>He drank with a</i> كُوب, the kind of mug or cup so called. (IAar, K.)\nكَوَبٌ <i>Slenderness of the neck with bigness of the head.</i> (L, K.)\nكَوْبَةٌ <i>A sighing,</i> or <i>grief,</i> or <i>regret, for something that has past,</i> or <i>escaped one.</i> (K.) Probably formed from the mahmooz word [كَأْبَةٌ]. (TA.) [Perhaps an inf. n.]\nكُوبٌ <i>A mug,</i> or <i>drinking-cup,</i> (كُوزٌ,) <i>without a handle:</i> (Fr, S, K:) or <i>one</i> (<i>with a round top,</i> TA,) <i>that has no spout:</i> (K:) or <i>a vessel,</i> (Bd in lvi. 18,) or <i>drinking-cup,</i> (Jel. ibid.) <i>having neither handle nor spout:</i> (Bd, Jel. ibid.:) pl. أَكْوَابٌ. (S, K.)\nكُوبَةٌ , occurring in a trad., in which it is forbidden, (TA,) The <i>game called</i> نَرْد; (K;) an appellation given to that game by the people of El-Yemen: (A 'Obeyd, on the authority of Mohammad Ibn-Ketheer; and IAth) or <i>that called</i> شِطْرَنْج: (K:) or <i>a small drum, slender in the middle:</i> (S, K:) accord. to some, (TA,) the <i>musical instrument called</i> بَرْبَط; (K;) as occurring in a trad. of 'Alee, in which a command is given to break the thing thus called. (TA.) === Also, <i>i. q.</i> فِهْرٌ; (K;) i. e., <i>A small stone, such as fills the hand.</i> (TA.)"
+}

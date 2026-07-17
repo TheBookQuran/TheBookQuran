@@ -1,0 +1,26 @@
+{
+  "rootId": "r466",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:25:04.476Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Intimate friend, secret lover, companion, mate, or associate",
+  "primaryMeaning": "Secret lover/paramour (in marital laws)",
+  "quranicRelevance": "Prohibiting taking secret lovers (Akhdan - 'la muttakhithati akhdanin', 'akhdanin').",
+  "keyDerivations": [
+    {
+      "lemma": "خِدْنٌ / أَخْدَانٌ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Secret lover, paramour, mistress, boyfriend, or intimate secret friend"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "مُحْصَنَاتٍ غَيْرَ مُسَافِحَاتٍ وَلَا مُتَّخِذَاتِ أَخْدَانٍ (4:25): Chaste women, not committing adultery nor taking secret lovers/paramours (marital purity guidelines)."
+  ],
+  "discardedNoise": [
+    "Platonic childhood friends.",
+    "Business associates."
+  ],
+  "summaryEn": "The root represents secret companions and lovers (Akhdan), prohibiting illicit pre-marital or extra-marital secret lovers in both male and female marriage laws.",
+  "summaryAr": "يمثل هذا الجذر الصديق الملازم سراً والخليلة والعشيق (خدن)، ناهياً في قوانين الأسرة والزواج عن اتخاذ الأخِلاء والعشاق سراً طهارة للمجتمع.",
+  "rawText": "أَخْدَنُ <i>Having</i> أَخْدَان [or <i>friends,</i> or <i>secret friends,</i> &c.]. (TA.)\nخادنهُ 3 , (S, K,) inf. n. مُخَادَنَةٌ, (Mgh, TA,) <i>He was,</i> or <i>became, his</i> خِدْن [or <i>friend;</i> or his <i>secret,</i> or <i>private, friend;</i> &c.]: (JK, S, K, TA:) <i>he associated,</i> or <i>kept company, with him as a friend:</i> (Mgh:) or [simply] <i>he associated,</i> or <i>kept company, with him.</i> (TA.) === مُخَادَنَةٌ also signifies The <i>contracting of the eyes</i> (Mgh, JM, TA) <i>in holding amatory and enticing talk,</i> or <i>conversation, with another, the latter doing the same.</i> (Mgh, JM.) === The saying of certain of the lawyers, (JM,) لَا يَجُوزُ شَهَادَةَ صَاحِب الغِنَآءِ الَّذِى يُخَادِنُ عَلَيْهِ means <i>The testimony of the singer who has made singing to be his habitual occupation,</i> or <i>means of subsistence, and thereby associates as a</i> خِدْن <i>with people, and collects them to him, is not allowable.</i> (Mgh, JM.)\nخَدِينٌ : see خِدْنٌ, in three places.\nخُدَنَةٌ One <i>who associates with men as their</i> خِدْن [or <i>friend,</i> or <i>secret friend,</i> &c.,] (يُخَادِنُ النَّاسَ) <i>much.</i> (S, K.)\nخِدْنٌ (S, Mgh, Msb, K, &c.) and 🡻خَدِينٌ (S, K) <i>A friend:</i> (S, TA:) or <i>a secret,</i> or <i>private, friend; a friend in secrecy</i> or <i>privacy:</i> (Mgh, Msb, and Ksh and Bd in iv. 29:) or <i>a companion,</i> or <i>an associate, who converses,</i> or <i>talks, with one:</i> (M, TA:) or [simply] <i>a companion,</i> or <i>an associate:</i> (K:) but accord. to Er-Rághib, mostly used as meaning <i>an amorous companion</i> or <i>associate; a companion,</i> or <i>an associate, affected with sensual appetency:</i> (TA:) the former is applied alike to the <i>male</i> and the <i>female:</i> (Ksh and Bd in v. 7:) and ↓ the latter signifies also <i>one who is thy friend,</i> &c., (مَنْ يُخَادِنُكَ, K,) <i>and who is with thee,</i> (TA,) <i>in every affair,</i> or <i>case, open and secret:</i> (K:) pl. (of the former, S, Mgh, Msb) أَخْدَانٌ (S, Mgh, Msb, TA) and [of the latter] خُدَنَآءُ. (TA.) Hence, خِدْنُ الجَارِيَةِ [<i>The friend,</i> &c., <i>of the girl</i>]: (S:) or <i>he who converses,</i> or <i>talks, with the girl.</i> (JK.) It is said in the Kur [iv. 29], وَلَا مُتَّخِذَاتِ أَخْدَانٍ, (S,) meaning [<i>Nor taking to themselves</i>] <i>friends</i> [or <i>associates</i>] <i>to commit fornication with them in secret.</i> (Jel.) 🡻خَدِينُالعُلَى is a metaphorical expression, used by a poet, [meaning ‡ <i>Lover of eminence,</i>] like عَشِيقُ العُلَى. (TA.)"
+}

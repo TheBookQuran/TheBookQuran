@@ -1,0 +1,36 @@
+{
+  "rootId": "r762",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:51:40.463Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Imprisonment, locking up, narrow space, register of wicked, or jail",
+  "primaryMeaning": "Imprisonment or register",
+  "quranicRelevance": "Physical jail/imprisonment (Sijn - Joseph's story, 'rabbi as-sijnu ahabbu ilayya'), and register of the wicked (Sijjeen - 'kitaba al-fujjari lafee sijjeen').",
+  "keyDerivations": [
+    {
+      "lemma": "سِجْنٌ",
+      "form": "Noun",
+      "meaning": "Jail, prison, or place of confinement"
+    },
+    {
+      "lemma": "سَجَنَ",
+      "form": "Form I Verb",
+      "meaning": "To imprison, confine, or lock up"
+    },
+    {
+      "lemma": "سِجِّينٌ",
+      "form": "Noun / Proper name",
+      "meaning": "Sijjeen (a register of the wicked, or a narrow, dark pit in Hell)"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "إِنَّ كِتَابَ الفُجَّارِ لَفِي سِجِّينٍ (83:7): Sijjeen (derived from confinement/narrowness, indicating the restricted registry of the damned)."
+  ],
+  "discardedNoise": [
+    "Prison cell interior design specifications.",
+    "Post-classical warden administrative laws."
+  ],
+  "summaryEn": "The root represents imprisonment and restriction, spanning Joseph's physical incarceration (Sijn) and the metaphysical confinement of the wicked register (Sijjeen).",
+  "summaryAr": "يمثل هذا الجذر السجن والتقييد، مغطياً الحبس الفعلي للنبي يوسف عليه السلام (سجن)، والضيق والتقييد لقائمة الفجار (سجين).",
+  "rawText": "سجّنهُ 2 , inf. n. تَسْجِينٌ, <i>i. q.</i> شَقَّقَهُ [<i>He cut it,</i> or <i>divided it, lengthwise; clave it; split it;</i> &c.]. (K.) === And سجّن النَّخْلَ <i>He made the palmtrees to be such as are termed</i> سِلْتِين [or سِجِّين; i. e. <i>he dug at their feet trenches to conduct the water to them when it did not reach to them</i>]. (K.)\nسَاجُونٌ <i>Iron such as is termed</i> أَنِيث [i. e. <i>female,</i> meaning <i>soft</i>]. (L.)\nسَجَنَهُ 1 , (S, Msb, K,) aor. ﹹ, inf. n. سَجْنٌ, (S, Msb,) <i>He imprisoned him.</i> (S, Msb, K.) === [Hence,] it is said in a trad., مَا شَىْءٌ أَحَقَّ بِطُولِ السَّجْنِ مِنْ لِسَانٍ † [<i>There is not anything more deserving of long restraint than a tongue</i>]. (L.) === And سَجَنَ الهَمَّ ‡ <i>He secreted anxiety; did not reveal it.</i> (L, K.) A poet says, <center> <h3> وَ لَا تَسْجُنَنَّ الهَمَّ إِنَّ لِسَجْنِهِ </h3> <h3> عَنَآءً وَ حَمِّلْهُ المَهَارَى النَّوَاجِيَا </h3> </center> ‡ [<i>And by no means secrete thou anxiety: verily to the secreting thereof pertains embarrassment: but load with it fleet camels of Mahreh</i>]. (L.)\nسَجِينٌ is <i>syn. with</i> 🡻مَسْجُونٌ [<i>Imprisoned</i>]; pl. سُجَنَآءُ and سَجْنَى: and is applied to a female likewise, as also سَجِينَةٌ; pl. سَجْنَى and سَجَائِنُ. (K.)\nسَجَّانٌ The <i>keeper of a prison.</i> (K.)\nسِجِّينٌ : see سِجْنٌ. === [In the Kur lxxxiii. 7,] <i>A certain place in which is the record</i> [<i>of the deeds</i>] <i>of the wicked;</i> (S, L, K;) or, as I 'Ab says, <i>in which are their registers:</i> AO says, it is of the measure فِعِّيلٌ from السِّجْنُ, like الفِسِّيقُ from الفِسْقُ: (S, L:) or <i>a certain valley in Hell:</i> or <i>a certain stone,</i> [or <i>rock,</i>] (L, K,) <i>beneath,</i> (L,) or <i>in,</i> (K,) <i>the seventh earth:</i> (L, K:) [these explanations are given by those who hold that مَا سِجِّينٌ in the next verse is for مَا كِتَابُ سِجِّينٍ:] or it there means <i>a register comprising the deeds of the wicked,</i> (Bd, Jel, *) <i>of the jinn,</i> or <i>genii, and of mankind,</i> (Bd,) or <i>of the devils and the unbelievers:</i> (Jel:) or ما سجّين in the next verse is for ما كتاب سجّين, and the meaning is the <i>place,</i> (Bd, Jel,) <i>which is beneath the seventh earth, the abode of Iblees and his forces:</i> (Jel:) IAth says, it occurs in a trad. with the article ال; and without that article it is a proper name for <i>the fire</i> [<i>of Hell</i>], and hence the mention of it in the Kur lxxxiii. 7. (L.) [See also سِجِّيلٌ.] ___ Also Anything <i>hard:</i> (L:) and <i>hard, vehement,</i> or <i>severe;</i> (S, L, K;) applied to a beating. (S, L.) === And <i>Continuing, lasting,</i> or <i>everlasting;</i> syn. دَائِمٌ; (L, K;) as also سِجِّيلٌ: so accord. to El-Muärrij. (L. [See, again, سِجِّيلٌ.]) ___ And <i>i. q.</i> عَلَانِيَة: (L, K:) so in the saying, عَمِلَ ذٰلِكَ سِجِّينًا [<i>He did that openly,</i> or <i>publicly</i>]. (L.) ___ Also <i>Palm-trees</i> (نَخْل) <i>such as are termed</i> سِلْتِين (As, L, K) in the dial. of the people of El-Bahreyn; (As, L;) [app. meaning that the latter word is of that dial.; for it is said that] the Arabs [app. the Arabs in general] say سِجِّين in the place of سِلْتِين, which is not Arabic: (L:) the palm-trees thus termed are <i>such as have trenches dug at their feet to conduct the water to them when it has not reached to them.</i> (L, and K in art. سلتن.)\nسِجْنٌ <i>A prison;</i> (S, L, Msb, K;) as also 🡻سِجِّينٌ: (L:) pl. of the former سُجُونٌ. (Mgh, Msb.)\nمَسْجَنَةٌ , accord. to Freytag, The <i>act of imprisoning:</i> but it seems rather to be a word of the class of مَبْخَلَةٌ and مَجْبَنَةٌ &c., and to signify <i>a cause of imprisonment.</i>]\nمَسْجُونٌ : see سَجِينٌ."
+}

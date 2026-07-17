@@ -1,0 +1,42 @@
+{
+  "rootId": "r1980",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:09:34.147Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Prohibiting, intellect, stopping, or end",
+  "primaryMeaning": "To forbid or end",
+  "quranicRelevance": "Forbidding evil (Nahy), stopping/refraining, and intellect (Nuha - because it restrains/forbids foolishness).",
+  "keyDerivations": [
+    {
+      "lemma": "نَهَى",
+      "form": "Form I Verb",
+      "meaning": "To forbid, prohibit, prevent, or restrain"
+    },
+    {
+      "lemma": "اِنْتَهَى",
+      "form": "Form VIII Verb",
+      "meaning": "To refrain, stop, cease, or finish"
+    },
+    {
+      "lemma": "مُنْتَهَى",
+      "form": "Noun",
+      "meaning": "End, limit, or final destination"
+    },
+    {
+      "lemma": "نُهَى",
+      "form": "Noun pl.",
+      "meaning": "Intellect, reason, or wisdom"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "لأُولِي النُّهَى: For possessors of intellect/reason (those whose intellect restrains them from sin).",
+    "سِدْرَةِ المُنْتَهَى (53:14): The Lote Tree of the Utmost Boundary."
+  ],
+  "discardedNoise": [
+    "Camels drinking until they are fully satisfied (نهي).",
+    "Water accumulating at the end of a valley."
+  ],
+  "summaryEn": "The root denotes restraint and limits, linking moral prohibition (Nahy) with human intellect (Nuha) and the final eschatological limit (Muntaha).",
+  "summaryAr": "يدل هذا الجذر على المنع والحدود، رابطاً النهي الأخلاقي (نهي) بالعقل البشري (نهى) والمنتهى الأخير والمصير.",
+  "rawText": "اِنْتَهَى عَنْهُ 8 , and 🡻تَنَاهَى, <i>He refrained, abstained,</i> or <i>desisted, from it, as forbidden; left, relinquished, or forsook it.</i> (S, Msb.) See an ex. of the latter voce سَوَادٌ. === اِنْتَهَى إِلَيْهِ <i>It ultimately reached,</i> or <i>extended,</i> and sometimes <i>it so pertained, to him,</i> or <i>it:</i> in the latter sense said of authority and the like: and simply, <i>it reached to him,</i> or <i>it.</i> === اِنْتَهَى إِلَيْهِ الخَبَرُ, and 🡻تَنَاهَى, <i>The information,</i> or <i>news, reached him.</i> (S.) === اِنْتَهَى إِلَى مَوْضِعٍ <i>He came at last,</i> or <i>ultimately, to a place.</i> So I have rendered it in explaining أَفْضَى. === اِنْتَهَى <i>It</i> (a thing, or an affair,) <i>attained the utmost possible point,</i> or <i>degree.</i> (Msb.) <i>It</i> (fruit, and the like) <i>attained its utmost state of growth.</i> === اِنْتَهَى <i>It is ended:</i> a word put to mark the end of a quotation.\nتَنَاْهَىَ 6 see 8.\nرَكِبَ النَّهْىَ <i>He did that which he was forbidden to do.</i> (TA in art. ردع.)\nمُنْتَهًى <i>A place to which a person</i> or <i>thing comes at last; a journey's end; a goal; a destination,</i> or <i>place or state to which a person or thing is appointed to come; an end; an ultimate object:</i> see an ex. in a verse near the end of art. ب. See نِهَايَةٌ. === سِدْرَةُ المُنْتَهَى (Kur liii. 14) <i>The lote-tree of the ultimate point of access, in the Seventh Heaven:</i> see سدر.\nنَاهِيكَ بِأَخِينَا [<i>A person sufficing thee is our brother</i>]: the ب is added to denote emphatic praise. (Fr in TA, art. بِ.) See also Har, p. 28, and, more particularly, p. 91.\nنَهَاهُ عَنْهُ 1 <i>He forbade him it.</i> === لَاتُسْهَى وَلَا تُنْهَى: see art. سهى, in two places.\nنَهُوٌّ is anomalous, (TA,) like بَغُوٌّ.\nنِهَايَةٌ The <i>utmost possible point,</i> or <i>degree:</i> (Msb:) and the <i>ultimate point,</i> or <i>element, to which a thing can be reduced</i> or <i>resolved:</i> its <i>utmost point</i> or <i>particular:</i> as also 🡻مَنْتَهًى. See فَصٌّ. === نِهَايَةٌ فِى السَّخَآءِ [<i>Extreme in bounty,</i> or <i>munificence</i>]. (O and K, voce مَسْحَلٌ.)"
+}

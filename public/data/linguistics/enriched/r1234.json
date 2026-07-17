@@ -1,0 +1,26 @@
+{
+  "rootId": "r1234",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:07:33.756Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Rain of relief, help, rescue, vegetation, or growth",
+  "primaryMeaning": "Rain of relief",
+  "quranicRelevance": "Relieving rain bringing vegetation (Ghayth - 'ka-mathali ghaythin', 'yunazzilu al-ghaytha').",
+  "keyDerivations": [
+    {
+      "lemma": "غَيْثٌ",
+      "form": "Noun",
+      "meaning": "Relieving rain, mercy shower, or downpour of salvation"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "ثُمَّ يَأْتِي مِنْ بَعْدِ ذَٰلِكَ عَامٌ فِيهِ يُغَاثُ النَّاسُ وَفِيهِ يَعْصِرُونَ (12:49): Then will come after that a year in which the people will be given rain/relief and in which they will press (crops)."
+  ],
+  "discardedNoise": [
+    "Emergency rescue calls (Ghawth) - overlapping but distinct root (gh-w-th).",
+    "Modern cloud seeding technology."
+  ],
+  "summaryEn": "The root refers to rain of relief (Ghayth), using it to symbolize the revival of dead soil and the economic salvation of Egypt after the famine years.",
+  "summaryAr": "يشير هذا الجذر إلى مطر الرحمة والإنقاذ (غيث)، مستخدماً إياه كرمز لإحياء الأرض الهامدة بالخضار، والإنقاذ الاقتصادي لمصر بعد سني القحط.",
+  "rawText": "أَرْضٌ مَغِيثَةٌ , and 🡻مَغْيُوثَةٌ, (the latter being the original form, TA,) <i>Land watered with rain.</i> (S, O, Msb, K.)\nأَرْضٌ مَغْيُوثَةٌ : see مَغِيثَةٌ.\nتغيّث 5 <i>He became fat:</i> (K:) said of a camel. (TK.)\nغيّث 2 , said of a blind man, <i>He sought,</i> or <i>searched,</i> [or <i>groped, with the hand,</i>] <i>for a thing:</i> (Kr, TA:) also written [عيّث] with [the unpointed] ع, and thus correctly, though ISd thought this latter to be a mistranscription. (TA.)\nغَاثَ ٱللّٰهُ البِلَادَ 1 , (S, O, Msb, K,) aor. يَغِيثُ, inf. n. غَيْثٌ, (S, O, Msb,) <i>God watered the country,</i> or <i>countries, with rain.</i> (O, Msb, TA.) And غَاثَنَا <i>He</i> (God) <i>sent down rain upon us.</i> (TA.) And غاث الغَيْثُ الأَرْضَ, (aor. and inf. n. as above, Msb,) <i>The rain fell upon the earth.</i> (S, O, Msb, K.) And غِيثَتِ الأَرْضُ, aor. تُغَاثُ, (S, O, Msb, K,) inf. n. as above, (S, O,) <i>The land was watered with rain.</i> (S, O, Msb, K.) غِيثَ القَوْمُ <i>The people were rained upon; rain fell upon the people</i> [or <i>upon their land</i>]. (TA.) And غِثَنْا مَا شِئْنَا [<i>We were rained upon as much as we desired</i>]: (S, O, Msb, TA:) originally غُيِثْنَا. (TA.) === غاث النَّوْرُ ‡ <i>The blossom shone.</i> (O, K, TA.) ___ See also 4 in art. غوث.\nغَيِّثٌ <i>i. q.</i> عَيْلَمُ مَآءٍ [i. e. <i>Water that is beneath a stratum of rock</i>]. (TA.) [Hence] بِئْرٌ ذَاتُ غَيِّثٍ <i>A well having a constant accession of water.</i> (O, K.) === And [hence] فَرَسٌ ذُو غَيِّثٍ ‡ <i>A horse that performs,</i> (O,) or <i>that increases</i> [<i>his running</i>], (K, TA,) <i>run after run.</i> (O, K, TA.)\nغَيْثٌ inf. n. of غَاثَ [q. v.]. (S, O, Msb.) === And [a subst.] signifying <i>Rain:</i> (S, A, O, Msb, K:) or <i>rain that occupies the space of a</i> بَرِيد [i. e. <i>six miles,</i> or <i>twelve miles,</i>] <i>in width:</i> (AA, O, K:) or <i>rain that is productive of much good;</i> [supposed to belong to art. غوث, for it is added,] because mankind are aided thereby; thus expl. in the “ Sharh esh-Shifè: ” pl. أَغْيَاثٌ [a pl. of pauc.] and غُيُوثٌ. (TA.) [Hence a tropical usage in a saying mentioned voce ثَجَّاجٌ.] === And [hence] ذُبَابُ غَيْثٍ [or ذُبَابُ الغَيْثِ (see ذُبَابٌ) lit. <i>The fly of rain</i> or <i>the fly of the rain</i>] signifies † <i>the bee,</i> or <i>bees</i> collectively: so called because the bee seeks after herbage and flowers, which are consequent upon the rain: (IAth, TA:) [for] === غَيْثٌ signifies also ‡ <i>Herbage</i> (Lth, S, A, O, Msb, K) <i>which grows by means of the water of the sky:</i> (Lth, A, O, K:) called thus by the name of its cause. (Msb.) === And ‡ <i>Clouds.</i> (S, O, TA.) [See an ex. voce فَرُوقَةٌ.]\nغَيْثٌ مُغِيثٌ <i>A general rain.</i> (TA.) [But the epithet مُغِيثٌ evidently belongs to art. غوث; and the phrase properly signifies <i>A rain that gives aid,</i> or <i>succour.</i>]\nغِيَاثٌ , originally غِوَاثٌ, see in art. غوث."
+}

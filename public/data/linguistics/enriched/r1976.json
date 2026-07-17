@@ -1,0 +1,31 @@
+{
+  "rootId": "r1976",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:39:17.504Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Compassion, pity, tender mercy, or gentleness",
+  "primaryMeaning": "Tender mercy/compassion",
+  "quranicRelevance": "Divine compassion/tenderness (Ra'fah - attribute 'Ra'oof'), and human pity in punishment ('la ta'khuthkum bihima ra'fatun').",
+  "keyDerivations": [
+    {
+      "lemma": "رَأْفَةٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Compassion, pity, tenderness, or mildness"
+    },
+    {
+      "lemma": "رَؤُوفٌ",
+      "form": "Adjective",
+      "meaning": "Compassionate, Tender, or Kind (attribute of God)"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَلَا تَأْخُذْكُمْ بِهِمَا رَأْفَةٌ فِي دِينِ اللَّهِ (24:2): And let not pity/compassion withhold you in their case regarding the law of God."
+  ],
+  "discardedNoise": [
+    "Medical terms for general mildness or calm states.",
+    "Obscure pre-Islamic poetry lines."
+  ],
+  "summaryEn": "The root denotes extreme tender mercy (Ra'fah), focusing on God's kindness (Ra'oof) and outlining when human pity must not obstruct legal justice.",
+  "summaryAr": "يدل هذا الجذر على الرأفة والرحمة الرقيقة، مركزاً على صفته تعالى (رؤوف) ومحدداً مواضع الحزم العدلي مقابل الرأفة المانعة للقانون.",
+  "rawText": "أَرْأَفِىٌّ : see رَأْفٌ. [This art. is wanting in the copies of the Land TA to which I have had access.]\nرَأْفٌ (M, O, K) and 🡻رَائِفٌ and 🡻رَئِفٌ (K) and 🡻رَؤُوفٌ [which is the most common of all] and 🡻رَؤُفٌ (T, S, M, O, K) are epithets from the verbs above: (T, S, M, K:) [the first from رَؤُفَ, like ضَخْمٌ from ضَخُمٌ; the second from رَأَفَ; and the third from رَئِفَ; signifying <i>Exercising,</i> or <i>having, the affection termed</i> رَأْفَة, i. e. <i>pity,</i> or <i>compassion;</i> &c.; <i>pitying,</i> or <i>compassionating;</i> &c.; or <i>pitiful,</i> or <i>compassionate;</i> &c.: the fourth and fifth having an intensive signification; <i>very pitiful</i> or <i>compassionate,</i> &c.: or] the first and fourth and fifth all signify the same, <i>i. q.</i> رَحيمٌ: (K:) [and 🡻أَرْأَفِىٌّ has a similar (most probably an intensive) signification; as appears from what here follows:] in the saying [of a poet], <center> <h3> وَ كَانَ ذُو العَرْشِ بِنَا أَرَافِى </h3> </center> [app. meaning <i>And the Lord of the empyrean was,</i> or is, <i>to us, very merciful</i>], by the last word is meant أَرْأَفِيًّا, [أَرْأَفِىٌّ being] like أَحْمَرِىٌّ [and أَرْيَحِىٌّ, q. v.]. (M.) ___ رَأْفٌ also signifies <i>Wine;</i> (O, K;) and رَافٌ is a dial. var. thereof. (TA in art. روف.)\nرَؤُفٌ : see the next preceding paragraph.\nرَؤُفَ بِهِ 1 , (AZ, T, S, M, O, K,) aor. ﹹ; (AZ, T, S, O;) and رَأَفَ, (AZ, T, S, M, K,) aor. ﹷ; (AZ, T, S;) and رَئِفَ; (AZ, S, M, O, K;) inf. n. رَأْفَةٌ and رَآفَةٌ (AZ, T, S, M, O, K) and رَأَفٌ (AZ, S, K) and رَأْفٌ, (O,) the first and second being inf. ns. of رَؤُفَ, [or the first is of رَأَفَ,] and the third being inf. n. of رَئِفَ, (AZ, S, O,) and the fourth being of رَأَفَ; (O;) said of God, (K,) and of a man; (AZ, T, S;) [<i>He pitied,</i> or <i>compassionated, him:</i> or <i>he pitied him,</i> or <i>compassionated him, tenderly;</i> or <i>in the utmost degree;</i> or <i>most tenderly:</i> for] رَأَفْةٌ is syn. with رَحْمَةٌ: (Fr, T, M, K: *) or it denotes a more special and more tender affection than رَحْمَةٌ; (T;) or the utmost degree thereof; (S, K;) or the most tender thereof: (K:) and رَافَ [in the CK رَأَفَ, as before, and in Freytag's Lex. رَاءَفَ,] and رَاوَفَ signify the same: (K:) [the right reading here appears to be رَافَ; (for it is said in the K in art. روف that رَافَ, aor. يَرَافُ, is a dial. var. of رَأَفَ, aor. يَرْأَفُ;) and رَاوَفَ is-doubtful; (for it is not there mentioned;)] or رَافَ, inf. n. رَوْفٌ, signifies سَكَنَ [<i>he,</i> or <i>it, was,</i> or <i>became, still,</i> &c.]; and رَأَفَ is a dial. var. thereof [signifying thus]; and is not from رَؤُوفٌ syn. with رَحِيمٌ. (M in art. روف.)\nرَؤُوفٌ : see رَأْفٌ. === الرَّؤُوفٌ is one of the epithets applied to God; meaning الرَّحِيمٌ [<i>The Merciful:</i> or rather it has an intensive signification, i. e. <i>The Very Merciful</i>]. (T.)\nرَئِفٌ : see the next preceding paragraph.\nرَائِفٌ : see رَأْفٌ."
+}

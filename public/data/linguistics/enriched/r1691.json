@@ -1,0 +1,32 @@
+{
+  "rootId": "r1691",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:39:17.504Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Speech, logic, girdle, zone, or articulation",
+  "primaryMeaning": "To speak or articulate",
+  "quranicRelevance": "Verbal speech/articulation (Nutq - 'hatha kitabuna yantiqu 'alaykum'), and speech of birds ('mantiq al-tayr').",
+  "keyDerivations": [
+    {
+      "lemma": "نَطَقَ",
+      "form": "Form I Verb",
+      "meaning": "To speak, articulate, utter, express, or declare"
+    },
+    {
+      "lemma": "مَنْطِقٌ",
+      "form": "Noun",
+      "meaning": "Speech, articulation, language, or logic"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "عُلِّمْنَا مَنْطِقَ الطَّيْرِ (24:16): We have been taught the speech/language of birds (Solomon's understanding of creature calls).",
+    "هَذَا كِتَابُنَا يَنْطِقُ عَلَيْكُمْ بِالحَقِّ: This is Our record speaking/declaring against you in truth."
+  ],
+  "discardedNoise": [
+    "The science of formal logic (Mantiq) in philosophy.",
+    "The girdle or sash (نِطاق) worn around the waist."
+  ],
+  "summaryEn": "The root denotes speech and expression, representing human articulation, Solomon's comprehension of bird calls, and the speaking of the record of deeds.",
+  "summaryAr": "يدل هذا الجذر على النطق والإعراب، واصفاً البيان والنطق البشري، وفهم لغة الطيور السليمانية (منطق)، ونطق كتاب الأعمال.",
+  "rawText": "الحِكْمَةُ المَنْطُوقُ بِهَا : see حِكْمَةٌ.\nاِسْتَنْطَقَهُ 10 <i>He desired him to speak;</i> (TA;) [<i>interrogated him:</i>] <i>he spoke to him until,</i> or <i>so that, he spoke.</i> (Msb.)\nتَنَاطَقَا 6 <i>They two talked,</i> or <i>discoursed, each with the other;</i> like تَقاَوَلَا. (TA.)\nمَنْطِقٌ <i>Speech:</i> (S:) <i>Diction;</i> or <i>expression of ideas,</i> or <i>meanings, by voice and words.</i> (K, TA.)\nمِنْطَقَةٌ <i>I. q.</i> حِيَاصَةٌ; (Msb;) <i>A kind of girdle, zone, or waist-belt, which is fastened round the waist with a buckle or clasp; worn by men and by women; and when worn by wealthy women generally adorned with jewels, &c., and having also two plates of silver or gold, also generally jewelled, which clasp together.</i> See إِبْزِيمٌ.\nمِنْطِيقٌ <i>Eloquent:</i> (S, K:) or <i>able in speech; an able speaker.</i> (TA in art. فوه.)\nنَاطَقَهٌ 3 , inf. n. مُنَاطَقَةٌ, <i>He talked,</i> or <i>discoursed, with him;</i> syn. كَالَمَهُ, (TA,) followed by بِ before the subject of talk, &c. (TA in art. فرغ.)\nنَاطِقٌ === اطيار ناطقة <i>Singing birds.</i> === نَاطِقٌ an epithet applied to <i>A deenár.</i> === جَذْرٌ نَاطِقٌ <i>A rational root, in arithmetic;</i> opposed to جَذْرٌ أَصَمُّ. (Mgh, art. جذر.) === حَيَوَانٌ نَاطِقٌ <i>A rational animal.</i>\nنَاطِقِيَّةٌ <i>Rationality.</i>\nنَطَقَ 1 trans. by means of ب: see Ham, p. 75. === نَطَقَ بِهِ means <i>he pronounced it,</i> or <i>articulated it.</i> === نَطَقَ, said of a bird or any animal: see Bd, xxvii. 16.\nنِطَاقٌ The <i>bar</i> (مترس) of a door. (TA, art. لز.) === نِطاَقُ الجَوْزَآءِ <i>The Belt of Orion:</i> see الجَوْزَآءُ.\nنِطَاقَةٌ <i>A ticket of price,</i> or <i>weight:</i> see بِطَاقَةٌ."
+}

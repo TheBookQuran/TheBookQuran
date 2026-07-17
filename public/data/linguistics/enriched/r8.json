@@ -1,0 +1,26 @@
+{
+  "rootId": "r8",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T18:07:39.528Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Running away, escaping, fleeing master, fugitive state, or runaway slave",
+  "primaryMeaning": "Running away/escaping",
+  "quranicRelevance": "He ran away (Abaqa - 'iz abaqa ila al-fulki').",
+  "keyDerivations": [
+    {
+      "lemma": "أَبَقَ / يَأْبِقُ",
+      "form": "Form I Verb",
+      "meaning": "To run away, escape, flee from a master, or become a fugitive"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "إِذْ أَبَقَ إِلَى الْفُلْكِ الْمَشْحُونِ (37:140): When he (Jonah) ran away/escaped to the laden ship."
+  ],
+  "discardedNoise": [
+    "Abaqa (hemp rope).",
+    "Ibaq (running away of horses)."
+  ],
+  "summaryEn": "The root refers to a slave running away from his master (Ibaq), applied to Jonah fleeing his prophetic duties without divine permission, boarding the ship like a fugitive.",
+  "summaryAr": "يشير هذا الجذر إلى هروب العبد وإيباقه وفراره من مالكه وسيده بلا عذر (ابق)، مطبقاً على خروج يونس من نينوى مغاضباً كفرار العبد الآبق.",
+  "rawText": "أَبَقَ 1 , aor. ﹻ, (S, Mgh, Msb, K, &c.,) which is the most common form, (Msb,) and ﹹ, (S, TS, Mgh, Msb,) and ﹷ, (K,) so in the copies of the K in the place of ﹹ; (TA;) and أَبِقَ, aor. ﹷ; (IDrd, Msb, K;) inf. n. إِبَاقٌ (S, Mgh, Msb) and أَبْقٌ and أَبَقٌ, (K,) or the first of these is a simple subst., and the second and third are the inf. ns.; (Msb;) <i>He</i> (a slave) <i>ran away,</i> or <i>fled,</i> (T, S, Mgh, Msb,) or <i>went away,</i> (K,) <i>from his master,</i> (T, Msb,) <i>without</i> [<i>being induced to do so by</i>] <i>fear, or severity of work:</i> (Msb, K:) thus the signification is restricted in the 'Eyn: (Msb:) and in this case, the law ordains that the slave shall be restored; but if the act arise from severity of work or from fear, he is not to be restored: (Lth, TA:) in the Kur xxxvii. 140, it is said of Jonas, (T, Bd,) because he fled from his people without the permission of his Lord: (Bd:) and it is also, tropically, said of a fish: (Mgh:) or <i>he</i> (a slave) <i>hid himself, and then went away:</i> (M, K:) as also 🡻تأبّق: (M:) or this signifies, simply, <i>he hid,</i> or <i>concealed, himself:</i> or <i>he confined, restricted, limited, restrained,</i> or <i>withheld, himself:</i> (S, K:) or it has both of the last two significations: (Sgh:) and <i>he abstained</i> from a thing, <i>as from a sin,</i> or <i>crime.</i> (IAar, K *.) A poet says, (S,) namely, 'Ámir Ibn—Kaab, (AZ,) or 'Ámán Ibn-Kaab, or, as some say, Ghámán, (AA,) <center> <h3> أَلَا قَالَتْ بَهَانِ وَ لَمْ 🡻تَأَبَّقْ </h3> <h3> كَبِرْتَ وَلَا يَلِيقُ بِكَ النَّعِيمُ </h3> </center> [<i>Now surely Baháni said, and she did not hide herself,</i> or <i>did not restrain herself, Thou hast grown old, and enjoyment doth not befit thee</i>]: (S:) or <i>she did not hide herself</i> [or <i>her mind], but said openly:</i> (TA:) or <i>she did not go far</i> [from the person whom she addressed, or from the truth]; so says AZ, taking it from إِبَاقٌ as relating to a slave: (TA:) or <i>she did not abstain</i> from her speech, as <i>from a sin,</i> or <i>crime:</i> (IAar:) or <i>she did not disdain,</i> or <i>scorn.</i> (TA.) AHát says that he asked As respecting ↓تأبّق, and he answered that he knew it not. (TA.)\nأَبُوقٌ : see آبِقٌ.\nأَبَّاقٌ : see آبِقٌ.\nآبِقٌ A slave <i>running away,</i> or <i>fleeing,</i> &c.; a <i>runaway,</i> or <i>fugitive,</i> slave; part. n. of أَبَقَ; (Mgh, Msb, K;) as also 🡻أَبُوقٌ [but in an intensive, or frequentative, sense, i. e. <i>who runs away,</i> or <i>flees, &c., much,</i> or <i>often;</i> and so 🡻أَبَّاقٌ, occurring in the K, in art. ملخ]: (IF, K:) pl.أُبَّاقٌ (Mgh, Msb, K) and أٌبَّقٌ. (K.)\nتَاَبَّقَ 5 see 1, in three places. === تَأَبَّقَتْ <i>She</i> (a camel) <i>withheld her milk.</i> (TA.) === تأبّق الشَّىْءَ [or مِنَ الشَّىْءِ] <i>He denied,</i> or <i>disacknowledged, the thing.</i> (K.) One says to a man, “ Verily in thee is such a quality; “ and he replies, مَا أَتَأَبَّقُ <i>I do not deny,</i> or <i>disacknowledge:</i> and one says, “ O son of such a woman; ” and the man replies, مَا أَتَأَبَّقُ مِنْهَا <i>I do not deny,</i> or <i>disacknowledge, her.</i> (IF.)"
+}

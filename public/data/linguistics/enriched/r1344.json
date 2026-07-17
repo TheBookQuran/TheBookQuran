@@ -1,0 +1,42 @@
+{
+  "rootId": "r1344",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:12:08.450Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Horn, generation, companion, or matching",
+  "primaryMeaning": "Generation or companion",
+  "quranicRelevance": "Generations/centuries (Qarn/Quroon), companion (Qareen), bound together in chains (Muqarraneen), and Dhul-Qarnayn (Possessor of two horns).",
+  "keyDerivations": [
+    {
+      "lemma": "قَرْنٌ / قُرُونٌ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Generation, century, age, or horn"
+    },
+    {
+      "lemma": "قَرِينٌ / قُرَنَاءُ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Companion, associate, or devil counterpart"
+    },
+    {
+      "lemma": "مُقَرَّنُونَ",
+      "form": "Adjective / Passive part. pl.",
+      "meaning": "Bound together, or chained in pairs"
+    },
+    {
+      "lemma": "قَرَنَ",
+      "form": "Form I Verb",
+      "meaning": "To link, bind, or pair"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "ذُو القَرْنَيْنِ: The two-horned one (historical king mentioned in Surah al-Kahf).",
+    "قَرِينُهُ: His companion (either the angel recording or the devil prompting)."
+  ],
+  "discardedNoise": [
+    "Details of medical cupping glasses (قرن).",
+    "The physical horns of specific cattle breeds."
+  ],
+  "summaryEn": "The root signifies pairing and generations, representing historical nations (Quroon), spiritual companions (Qareen), and chains of captivity.",
+  "summaryAr": "يمثل هذا الجذر الاقتران والقرن، مغطياً الأمم الخالية (قرون)، والقرناء الشياطين أو الحفظة (قرين)، والتقرين بالأصفاد.",
+  "rawText": "أَبَرَمًا قَرُونًا : see بَرَمٌ.\nأَقْرَنَ 4 <i>He gave</i> of a thing <i>two by two.</i> (A 'Obeyd in T, in art. بد, voce أَبَدَّ.) See أَبَدَّ. === أَقْرَنَ الشَّىْءَ, (Msb,) or لِلشَّىْءِ, (K,) [the latter more probably right,] <i>He was able and strong to do,</i> or <i>effect,</i> &c., <i>the thing;</i> (Msb, K;) <i>He had the requisite ability and strength for it.</i>\nأَقْرَنُ [<i>Horned; having horns</i>]. (S, voce كَرَّازٌ [which see]). See an ex. of the fem. قَرْنَآءُ, voce دَانَ in art. دين.\nقَارَنَهُ 3 , (S,) inf. n. قِرَانٌ, (S, K,) and مُقَارَنَةٌ, (K,) <i>He associated with him; became his companion.</i> (S, K.)\nقَرَنٌ and 🡻قِرَانٌ <i>A cord of twisted bark which is bound upon the neck of each of the ploughing bulls</i> (K, * TA) <i>and to the middle of which is then bound the</i> لُؤمَة [or <i>whole apparatus of the plough</i>]. (TA.) See فَدَّانٌ. === [The pl.] أَقْرَانٌ <i>Sons of one mother from different men.</i> (TA, voce عَيْنٌ.) === قَرَنٌ: see جَعْبَةٌ.\nقَرَنَ شَيْئًا بِشَىْءٍ 1 <i>He connected, coupled,</i> or <i>conjoined, a thing with a thing.</i> (S.)\nقَرُونَةٌ : see قرِينٌ.\nقَرِينٌ <i>An associate; a comrade; a companion.</i> (S, K.) قَرِينَةٌ <i>A connexion; relation.</i> === قَرِينَةٌ [<i>A clause of rhyming prose, considered as connected with the similar clause preceding or following;</i> the two together being termed قرينتان]. (Har, pp. 9, 23.) === Also, <i>A context,</i> in an absolute sense. === أَسْمَحَتْ 🡻قَرُونَتُهُ and قَرِينَتُهُ: see 1 in art. سمح.\nقَرْنٌ One's <i>equal in age;</i> syn. لِدَةٌ, (K,) or تِرْبٌ: with fet-h when relating to age, and with kesr when relating to fighting and the like. (Har, pp. 572,64.) === قَرْنٌ, (JK, Msb,) or قَرْنٌ مِنَ النَّاسِ, (S,) [<i>A generation of men;</i>] <i>people of one time</i> (JK, * S, Ez-Zejjájee, Msb,) <i>succeeding another</i> قَرْن, (JK,) <i>among whom is a prophet,</i> or <i>class of learned men, whether its years be many or few.</i> (Ez-Zejjájee, Msb.) === قَرْنٌ The <i>part of the head</i> of a human being <i>which in an animal is the place whence the horn grows:</i> (K:) or the <i>side,</i> (S,) or <i>upper side,</i> (K,) <i>of the head:</i> (S, K:) or [more exactly the <i>temporal ridge</i> (see صُدْغٌ) i. e.] the <i>edge of the</i> هَامَة (which is the <i>middle and main part of the head</i> [i. e. <i>of the cranium</i>]), <i>on the right</i> and <i>on the left.</i> (Zj, in his “ Khalk el-Insán. ”) === قُرُونٌ of the head: see a verse cited voce خَيَّطَ. قُرُونٌ of horses: see أَجَمُّ. === قَرْنٌ of a solid hoof: see جُبَّةٌ. === قَرْنٌ of a desert, the <i>most elevated part.</i> (TA in art. جحف.) === قَرْنُ أَعْفَرَ, as meaning <i>A spear-head,</i> see أَعْفَرُ. === قَرْنٌ <i>A pod, like that of the locust tree:</i> pl. قُرُونٌ. Occurring often in the work of AHn on plants, and in the TA, &c. See غَافٌ. === قَرْنٌ [<i>A thing</i>] <i>in a she-camel, which is like the</i> عَفَل <i>in a woman;</i> and which is cauterized with heated stones. (AA, TA, in art. عفل.) === قَرْنٌ <i>An issue of sweat:</i> pl. قُرُونٌ: see two ex. voce سَنَّ.\nقُرْنَةٌ The “ <i>horn</i> ” <i>of the uterus.</i>\nقِرَانٌ : see قَرَنٌ.\nقِرْنٌ <i>One who opposes, or contends with, another, in science, or in fight, &c.;</i> (Msb;) <i>an opponent; a competitor; an adversary; an antagonist:</i> or one's <i>equal,</i> or <i>match, in courage,</i> (S, K,) or <i>generally,</i> one's <i>equal, match,</i> or <i>fellow.</i> (K.)\nمُقَرَّنٌ : see خَشْخَاشٌ.\nمِقْرَنٌ : see مِخْذَفٌ."
+}

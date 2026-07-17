@@ -1,0 +1,27 @@
+{
+  "rootId": "r1333",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:55:18.217Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Throwing, casting, projection, slander, accusing, or launching",
+  "primaryMeaning": "To cast/throw or accuse/slander",
+  "quranicRelevance": "Casting truth against falsehood (Yaqdhifu - 'bal naqthifu bil-haqqi'), casting terror into enemy hearts ('wa qathafa fee quloobihim'), and accusing chaste women of adultery ('yaqthifoona al-muhsanati').",
+  "keyDerivations": [
+    {
+      "lemma": "قَذَفَ / يَقْذِفُ",
+      "form": "Form I Verb",
+      "meaning": "To cast, throw, launch, pitch, accuse, or slander"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَيَقْذِفُونَ بِالْغَيْبِ مِنْ مَكَانٍ بَعِيدٍ (34:53): And they cast/conjecture from a far place (baseless theories about truth).",
+    "بَلْ نَقْذِفُ بِالْحَقِّ عَلَى الْبَاطِلِ فَيَدْمَغُهُ (21:18): Rather, We cast truth upon falsehood, and it smashes its head."
+  ],
+  "discardedNoise": [
+    "Rocket launchers and artillery projectiles (قاذفات) in modern warfare.",
+    "Legal trials for verbal insults outside of chastity slander."
+  ],
+  "summaryEn": "The root represents casting, depicting the impact of truth shattering falsehood, the casting of terror, and the warning against slandering (Qathf) chaste women.",
+  "summaryAr": "يمثل هذا الجذر القذف والرمي بقوة، واصفاً سحق الحق للباطل (نقذف)، وقذف الرعب، ومقذوفات الغيب الظنية، وعقوبة قذف المحصنات.",
+  "rawText": "قَذَفَ بِٱلْحِجارَةِ وَغَيْرِهَا 1 , aor. ﹻ, inf. n. قَذْفٌ, <i>He threw stones,</i> &c. (Msb.) === قَذَفَ بِهِ <i>He cast it; cast it forth;</i> namely, an arrow, and a pebble, and speech, and anything. (Lth, TA.) It may sometimes be rendered <i>He shed it;</i> as, for instance, light into the heart, said of God. === يَقْذِفُ بِالحَقِّ (Kur, xxxiv. 47,) <i>He</i> (God) <i>uttereth truth.</i> (Zj, TA.) === قَذَفَ بِالسَّهْمِ <i>He shot the arrow.</i> (Lth, TA.) === قَذَفَ <i>He reproached, upbraided, reviled, vilified, defamed,</i> or <i>gave a bad name to,</i> a chaste woman: (MA:) <i>he reproached, upbraided,</i> &c. another; syn. شَتَمَ. (JK.) Used tropically, قَذَفَهُ is most correctly rendered ‡ <i>He cast at him an accusation:</i> but it is commonly used and expl. as syn. with شَتَمَهَ q. v. === قَذَفَ <i>He charged, reproached, or upbraided,</i> (رَمَى,) a chaste, or an honest, or a married, woman, <i>with adultery.</i> (S, Msb, K.) === قَذَفَهَ بِهِ <i>He aspersed him, reviled him;</i> syn. شَتَمَهُ. (JK.) === قَذَفَهَ بِهِ <i>He reproached,</i> or <i>upbraided, him with it; he accused him of it.</i> (TA.) === Also, <i>i. q.</i> أَصَابَهُ بِهِ. (TA.) === وَيَقْذِفُونَ بِالغَيْبِ (Kur, xxxiv. 52,) <i>They uttering conjectures,</i> (Zj, TA,) or <i>uttering conjecture;</i> (Bd;) <i>speaking of that which was hidden</i> [<i>from them</i>], (Ksh,) <i>of that which had not become apparent to them.</i> (Bd.) === قُذِفَتْ بِاللَّحْمِ † <i>She</i> (a camel) <i>became fat and plump.</i> (TA, voce اُسْتُعْرِضَت.) === قَذَفَتْهُ القَوَاذِفُ: see طَوَّحَتْهُ الطَّوَائِحُ.\nقَذَّافٌ <i>i. q.</i> مَنْجَنِيقٌ: (Lth, K:) The <i>kind of instrument with which a thing is thrown so that it goes far;</i> n. un. with ة. (Aboo-Kheyreh, K.) See مَرْجَامٌ and مِرْجَمَةٌ. === قُذَّافَهٌ <i>A sling:</i> pl. قُذَّافَاتٌ. (MA.)\nقَوَاذِفُ : see طَوَائِحُ; and طَوَّحَتْهُ الطَّوَائِحُ.\nقُذُفٌ <i>Land in which is no pasturage wherein cattle may freely range.</i> (L, art. صح.)\nمَقَاذِفُ : see مَطَاوِحُ: <i>Places of perdition;</i> syn. مَهَالِكُ. (TA.)"
+}

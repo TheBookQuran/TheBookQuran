@@ -1,0 +1,26 @@
+{
+  "rootId": "r598",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T18:03:45.341Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Forgetting in terror, being distracted, neglecting, losing awareness, or becoming heedless",
+  "primaryMeaning": "Forgetting/being distracted (in terror)",
+  "quranicRelevance": "Will forget/be distracted (Tazhalu - 'tazhalu kullu murdi'atin').",
+  "keyDerivations": [
+    {
+      "lemma": "ذَهِلَ / يَذْهَلُ",
+      "form": "Form I Verb",
+      "meaning": "To forget, neglect, be distracted from, or become heedless in extreme terror"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "يَوْمَ تَرَوْنَهَا تَذْهَلُ كُلُّ مُرْضِعَةٍ عَمَّا أَرْضَعَتْ (22:2): The Day you see it, every nursing mother will forget/be distracted from what she nursed."
+  ],
+  "discardedNoise": [
+    "Zhool (going away).",
+    "Thuhl (a major pre-Islamic Arab tribe proper name)."
+  ],
+  "summaryEn": "The root represents neglecting or forgetting something dear due to overwhelming shock or terror (Dhal), portraying the horror of Judgment Day when even a nursing mother will abandon her infant.",
+  "summaryAr": "يمثل هذا الجذر الذهول وهو نسيان الشيء العزيز والغفلة والدهشة الطارئة من هول وصدمة مروعة (ذهل)، واصفاً رعب القيامة بذهول المرضع عن طفلها.",
+  "rawText": "أَذْهَلَنِى عَنْهُ 4 , (JK, * S, Msb, TA,) inf. n. إِذْهَالٌ, (TA,) <i>It</i> (a thing, JK, S, TA,) or <i>he,</i> (a man, Msb,) <i>caused me to forget it,</i> or <i>neglect it;</i> (S;) or <i>to be unmindful of it;</i> (S, Msb;) or <i>to neglect it intentionally:</i> (JK:) [like أَذَهَنَنِى عنه:] and sometimes one says 🡻ذَهَلَنِى; (Msb, TA;) [like ذَهَنَنى;] but this is rare; or, rather, unknown. (TA.)\nجَآءَ بَعْدَ ذُهْلٍ مِنَ اللَّيْلِ , (S, K, *) and 🡻ذَهْلٍ, (S, K,) <i>He came after a short portion,</i> or <i>a period,</i> (سَاعَة, K, or هَدْء, S,) <i>of the night:</i> (S, K:) so called because sleep causes men to forget (يُذْهِلُ النَّاسَ) therein: (Ham p. 4:) or <i>a large portion; such as the third,</i> or <i>the half:</i> so says IDrd; but he doubts its correctness; and ISd holds it to be preferably with د. (TA.) ___ ذُهْلٌ also signifies The <i>tree</i> [or <i>plant</i>] بَشَام [q. v.]. (JK, Sgh, K.)\nذَاهِلٌ [act. part. n. of 1. === And] A man <i>who cares not for ornament and the anointing of himself.</i> (JK.)\nذَهَلَ عَنْهُ 1 , (JK, S, Msb, K,) aor. ﹷ, (S, K,) inf. n. ذَهْلٌ, (JK, S,) or ذُهُولٌ, (Msb,) or both; (K;) and ذَهِلَ, (S, Msb,) aor. ﹷ, (Msb,) inf. n. ذُهُولٌ; (S;) <i>He forgot it,</i> or <i>neglected it;</i> (S;) <i>he was,</i> or <i>became, unmindful of it;</i> (S, Msb:) or <i>he neglected it intentionally;</i> (JK, T, M, K, * TA; عَلَى عَهْدٍ in the K being a mistake for على عَمْدٍ, as in the [JK and T and] M; TA;) or <i>in consequence of his being diverted by something:</i> (T, K:) or <i>he forgot it,</i> or <i>dismissed it from his mind, intentionally, and became diverted from it:</i> (Z, Msb:) ذُهُولٌ is the <i>neglecting a thing, dismissing it from the mind:</i> (Ham p. 31:) or the <i>quitting a thing, with confusion,</i> or <i>perplexity,</i> or <i>alienation of mind, such as arises from fear</i> &c.: (Ksh and Bd in xxii. 2:) or the <i>being diverted from one's constant companion,</i> or <i>familiar, so</i> <i>as to forget him;</i> and <i>being content to relinquish him:</i> (K;) or <i>diversion that occasions grief and forgetfulness.</i> (Er-Rághib, TA.) Hence, in the Kur [xxii. 2], يَوْمَ تَرَوْنَهَا تَذْهَلُ كُلُّ مُرْضِعَةٍ عَمَّا أَرْضَعَتٌ [<i>On the when thou shalt see it, every woman giving suck shall forget,</i> or <i>neglect,</i> &c., <i>what she has suckled</i>]. (TA.) ___ See also what next follows.\nذَهْلٌ : see what next follows.\nذُهْلُولٌ A horse <i>fleet,</i> or <i>swift:</i> (K:) or <i>light,</i> or <i>active:</i> and so a man: pl. ذَهَالِيلُ. (JK.)"
+}

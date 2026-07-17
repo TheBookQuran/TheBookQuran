@@ -1,0 +1,26 @@
+{
+  "rootId": "r1488",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:56:55.064Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Tone of voice, suggestive speech, indirect meaning, deviation from grammar, or melody",
+  "primaryMeaning": "Tone/indirect manner of speech",
+  "quranicRelevance": "In the tone/style of speech (Lahni al-qawl - 'lahni al-qawli').",
+  "keyDerivations": [
+    {
+      "lemma": "لَحْنٌ",
+      "form": "Noun",
+      "meaning": "Suggestive tone, indirect style, modulation, grammatical error, or speech manner"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَلَتَعْرِفَنَّهُمْ فِي لَحْنِ الْقَوْلِ ۚ وَاللَّهُ يَعْلَمُ أَعْمَالَكُمْ (47:30): And you will surely know them (hypocrites) by the tone/suggestive manner of their speech."
+  ],
+  "discardedNoise": [
+    "Musical melody/tune (Lahin) - modern artistic shift.",
+    "Grammatical errors in reciting Quran (Lahn)."
+  ],
+  "summaryEn": "The root refers to suggestive speech or modulation of voice (Lahn), stating that hypocrites are easily recognized by the devious style and tone of their statements.",
+  "summaryAr": "يشير هذا الجذر إلى أسلوب الكلام وإمالته وتغييره ليدل على معنى باطن غير الظاهر، واللحن الموسيقي (لحن)، كاشفاً نفاقهم من خلال أسلوب نطقهم الملتوي وسقطات كلامهم.",
+  "rawText": "لَاحَنَهُمْ 3 <i>i. q.</i> فَاطَنَهُمْ. (S, K.) See an ex. voce جَامِعٌ; and see my explanations of مُفَاطَنَةٌ.\nلَحَنَ 1 <i>He erred in speech; spoke incorrectly.</i> (Msb.) === لَحَنَ لَهُ <i>He said to him something which he</i> (<i>the latter</i>) <i>understood, but which was unintelligible to others:</i> (Az, S, Msb, K:) <i>he intimated to him something which he</i> (<i>the latter</i>) <i>alone understood.</i>\nلَحْنٌ The <i>meaning</i> of speech; its <i>intended sense</i> or <i>import:</i> (S, K, TA:) its <i>intent:</i> (TA:) [it is <i>direct:</i> and also <i>indirect:</i>] <i>an indication</i> thereof <i>whereby the person addressed is made to understand one's intent;</i> so says Az (Msb: [and the like is said in the TA on the authority of AHeyth:]) <i>an oblique,</i> or <i>ambiguous, mode</i> of speech: (Msb:) <i>an inclining</i> of speech <i>to obliqueness,</i> or <i>ambiguity, and equivocal allusion.</i> (Bd, in xlvii. 32.) === <i>A barbarism, an incorrect word.</i> === عَرَفْتُهُ فِى لَحْنِ كَلَامِهِ and فى نَحْوِ كلامه. and فى مِعْرَاضِ كلامه signify the same. (Msb in art. عرض.) See the last of these voce عَرُوضٌ. === لَحْنٌ <i>A modulated sound;</i> expl. as being مِنَ الأَصْوَاتِ المَصُوغَةِ المَوْضُوعَةِ: pl. أَلْحَانٌ and لُحُونٌ. (K.) You say, أَلْحَانُ الأَغَانِى [<i>The modulated sounds of songs</i>]. (Mgh.)"
+}

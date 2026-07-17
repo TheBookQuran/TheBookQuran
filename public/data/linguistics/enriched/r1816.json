@@ -1,0 +1,26 @@
+{
+  "rootId": "r1816",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:56:22.540Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Aorta, life-artery, main cardiovascular connection, or never-ending stream of water",
+  "primaryMeaning": "Aorta/life-artery",
+  "quranicRelevance": "His life-artery/aorta (Al-wateen - 'anhu al-wateena').",
+  "keyDerivations": [
+    {
+      "lemma": "وَتِينٌ",
+      "form": "Noun",
+      "meaning": "Aorta, the main artery connected directly to the heart"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "ثُمَّ لَقَطَعْنَا مِنْهُ الْوَتِينَ (69:46): Then We would have cut from him the aorta/life-artery (severing life instantly)."
+  ],
+  "discardedNoise": [
+    "Watan (homeland) - different spelling W-T-N vs. W-T'-N.",
+    "Watr (odd number) - W-T-R."
+  ],
+  "summaryEn": "The root refers to the aorta or life-artery (Wateen), used to describe the absolute physical destruction God would inflict upon the Prophet if he were to fabricate revelations.",
+  "summaryAr": "يشير هذا الجذر إلى الوتين وهو عرق لاصق بالظهر يجري منه الدم للقلب فإذا انقطع مات صاحبه (وتن)، مصوراً العقوبة الإلهية بقطع وتين الكاذب المفترض على الله.",
+  "rawText": "الوَتِينُ [<i>The aorta:</i> or <i>the aorta descendens:</i>] <i>a certain vein</i> [<i>or artery</i>] <i>adhering to the inner</i> <i>side of the backbone all along, which supplies all the</i> [<i>other</i>] <i>veins</i> [<i>or arteries</i>] <i>with blood, and irrigates the flesh, being the river of the body:</i> or <i>a certain thick white vein resembling a cane:</i> [this last is the description given by Zj in his “ Khalk el-Insán: ”] or [<i>the aorta ascendens;</i>] <i>the</i> نِيَاط <i>of the heart:</i> or <i>a certain white vein within the back of the neck: it is said to draw up</i> [<i>its supply</i>] <i>from the heart, and in it is the blood.</i> === Also, <i>the</i> خِلْب, q. v.: pl. أَوْتِنَةٌ and وُتُنٌ: (M:) <i>i. q.</i> نِيَاطُ القَلْبِ. (Bd, and Jel, lxix. 45.) See أَبْهَرُ."
+}

@@ -1,0 +1,26 @@
+{
+  "rootId": "r1383",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:56:55.064Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Frowning, distress, intensity of calamity, severe day, or binding together",
+  "primaryMeaning": "Distressful/frown-inducing day",
+  "quranicRelevance": "A distressful/frowning day (Qamtareeran - 'yawman qamtareeran').",
+  "keyDerivations": [
+    {
+      "lemma": "قَمْطَرِيرٌ",
+      "form": "Adjective (Declineable)",
+      "meaning": "Distressful, calamitous, frown-inducing, intensely severe, or long day"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "إِنَّا نَخَافُ مِنْ رَبِّنَا يَوْمًا عَبُوسًا قَمْطَرِيرًا (76:10): 'Indeed, we fear from our Lord a day frown-inducing and distressful/intense.'"
+  ],
+  "discardedNoise": [
+    "Qamtary (book binder box) - classical library term.",
+    "Qamtarah (archway structures)."
+  ],
+  "summaryEn": "The root refers to an intensely severe, frowning day (Qamtarir), conveying the dread believers have of the Day of Judgment's distressful atmosphere.",
+  "summaryAr": "يشير هذا الجذر إلى العبوس الشديد وتوالي الشرور وضيق النفوس وشدة بلاء اليوم (قمطر)، واصفاً أهوال يوم القيامة باليوم العبوس القمطرير المشحون بالشدة.",
+  "rawText": "إِقْمَطَرَّ <i>It</i> (a day, S) <i>was,</i> or <i>became, distressful,</i> or <i>calamitous.</i> (S, K.)\nقمطر\nقَمْطَرٌ : see قَمْطَرِيرٌ.\nقُمَاطِرٌ : see قَمْطَرِيرٌ, in two places.\nقِمَطْرٌ and قِمَطْرَةٌ (S, Msb, K) and with tesh-deed, [i. e. قِمَّطْرٌ and قِمَّطْرَةٌ,] but this pronunciation is extr., (K,) or, accord. to Yaakoob, (S,) or ISk, (TA,) not allowable, (S, TA,) <i>A repository for books</i> or <i>writings,</i> (S, Msb, K, TA,) <i>resembling a</i> سَفَط, [q. v., (in the TA, سقط, which is evidently a mistake,)] <i>made of reeds woven together:</i> (TA:) the first word is fem., like the second, as well as masc.: (Msb:) pl. قَمَاطِرُ. (S, Msb.)\nمُقْمَطِرٌّ : see قَمْطَرِيرٌ, in two places.\nيَوْمٌ قَمْطَرِيرٌ , and 🡻قُمَاطِرٌ, (S, K,) and 🡻مُقْمَطِرٌّ, (TA,) <i>A distressful,</i> or <i>calamitous, day:</i> (S, K:) or <i>a day that makes one knit the brow,</i> or <i>contract the skin between the eyes:</i> so the first is explained by some as occurring in the Kur lxxvi. 10. (TA.) === شَرٌّ قَمْطَرِيرٌ, (TA,) and 🡻قُمَاطِرٌ, and 🡻قَمْطَرٌ, (Lth, TA,) and 🡻مُقْمَطِرٌّ, (TA,) <i>Intense evil.</i> (Lth, TA.)"
+}

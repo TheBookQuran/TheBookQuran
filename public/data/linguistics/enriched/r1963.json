@@ -1,0 +1,37 @@
+{
+  "rootId": "r1963",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:23:40.664Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Semen, wish, expectation, measure, or death",
+  "primaryMeaning": "Semen or wish",
+  "quranicRelevance": "Drop of semen (Maniyy - 'min nutfatin itha tumna'), wishing/desiring (Tammany - 'tammanna al-mawt'), and false desires (Amaniy - 'amaniy').",
+  "keyDerivations": [
+    {
+      "lemma": "أَمْنِيَّةٌ / أَمَانِيُّ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Wish, desire, projection, or false hopes"
+    },
+    {
+      "lemma": "تَمَنَّى",
+      "form": "Form V Verb",
+      "meaning": "To wish, desire, project, or read (with insertions)"
+    },
+    {
+      "lemma": "مَنِيٌّ",
+      "form": "Noun",
+      "meaning": "Semen, sperm-drop, or emission"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "إِلَّا إِذَا تَمَنَّى أَلْقَى الشَّيْطَانُ فِي أُمْنِيَّتِهِ (22:52): Except that when he recited/wished, Satan threw (doubts) into his recitation/wishes (contemplated double meaning of tammany as recitation/projection).",
+    "أَمَانِيَّ: False hopes/illusions."
+  ],
+  "discardedNoise": [
+    "The location of Mina (منى) near Mecca.",
+    "Obscure details of measuring dry grain with cups."
+  ],
+  "summaryEn": "The root denotes projection and sperm emission, representing biological seeds (Maniyy), human wishes, and the false illusions (Amaniy) of sectarian hope.",
+  "summaryAr": "يدل هذا الجذر على التقدير والتمني، واصفاً المني البيولوجي التكويني (مني)، والأمنيات والأراجيف الباطلة للنفوس (أماني).",
+  "rawText": "أُمْنِيَّةٌ <i>An object of wish,</i> or <i>desire:</i> originally, <i>a thing that a man meditates</i> (يُقَدِّرُهُ) in his mind; from مَنَى signifying قَدَّرَ: and hence applied to a lie; and to what is wished, or desired, and what is read, or desired [pl. أَمَانِىُّ and أَمَانٍ]. (Bd in ii. 73.) See مُنْبَةٌ and حَجْوَى.\nتَمَنَّاهُ 5 <i>He wished,</i> or <i>desired, it.</i> (K, TA.) === التَّمَنِّى relates to that which is possible and to that which is impossible: whereas التَّرَجِّى relates only to what is possible. (I'Ak, p. 90.)\nتُسْمَنْنَى 10 , said of a she-camel: see 8 in art. سمو.\nمَنًى see مَنِيَّةٌ.\nمَنَاهُ 1 <i>He tried him; proved him.</i> (S, K.) You say, مَنَاهُ اللّٰهُ بِحُبِّهَا <i>God tried him by love of her.</i> (T.) And مُنِىَ بِكَذَا <i>He was tried by such a thing.</i> (T.) === مَنَى <i>He meditated</i> [a thing in his mind]; syn. قَدَّرَ. (Bd, ii. 73.) See أَمِنْيَّةٌ.\nمَنِيَّةٌ [<i>A decreed event. Fate; destiny:</i>] The <i>decree of death:</i> (IB:) or the <i>decreed term</i> [<i>of life,</i> or] <i>of a living being:</i> (Er-Rághib:) <i>death;</i> (S, M, K;) because it is decreed; (S, M;) as also 🡻مَنًى: (M, K:) [properly a thing decreed: and hence the pl.] المَنَايَا signifies <i>the fates</i> or <i>decrees</i> [<i>of God</i>]. (T.) === مَنِيَّةٌ also means † <i>A man of courage upon his saddle:</i> (TA in art. حوى:) pl. مَنَايَا: see an ex. voce حَوِيَّةٌ.\nمُنْيَةٌ <i>A thing wished for</i> by a man: pl. مُنًى. (T.) This word and 🡻أُمْنِيَّةٌ signify the same. (M, Mgh, Msb, K.) See an ex. in a verse cited voce أَوْ === المُنْيَةُ in the case of a covered she-camel, <i>The period by the end of which one knows whether she be pregnant or not.</i> (M.) === مُنْيَةٌ of a mare, <i>Twenty days.</i> (M, voce سَفُودٌ.)"
+}

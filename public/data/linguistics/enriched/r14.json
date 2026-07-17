@@ -1,0 +1,26 @@
+{
+  "rootId": "r14",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:14:55.732Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Furniture, household goods, wealth, luxury assets, or dense",
+  "primaryMeaning": "Furniture/household goods",
+  "quranicRelevance": "Household goods and assets (Athath - 'athathan wa ri'yan', 'athathan wa mata'an').",
+  "keyDerivations": [
+    {
+      "lemma": "أَثَاثٌ",
+      "form": "Noun (collective)",
+      "meaning": "Furniture, household goods, luxury assets, carpets, upholstery, or domestic wealth"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَمِنْ أَصْوَافِهَا وَأَوْبَارِهَا وَأَشْعَارِهَا أَثَاثًا وَمَتَاعًا إِلَىٰ حِينٍ (16:80): And from their wool, fur, and hair (We gave you) household goods/furniture and luxury items for a time (livestock utilization)."
+  ],
+  "discardedNoise": [
+    "Dense grass forests (classical physical root reference).",
+    "Modern office furniture catalogs."
+  ],
+  "summaryEn": "The root represents household assets and furniture (Athath), detailing the domestic utility of animal resources (wool/hair) and listing home assets among elements of worldly wealth.",
+  "summaryAr": "يمثل هذا الجذر كثرة المال المتاعي ومتاع البيت من الفرش والوسائد (أثاث)، واصفاً نعم الاستفادة من جلود وأصواف الأنعام لصناعة أثاث البيوت.",
+  "rawText": "أثّثهُ 2 <i>He made it plain, level, smooth, soft,</i> or <i>easy to lie</i> or <i>ride</i> or <i>walk upon.</i> (M, K.)\nأَثَاثٌ <i>Goods;</i> or <i>utensils and furniture of a house or tent; household-goods;</i> syn. مَتَاعٌ; (T, M;) or مَتَاعُ بَيْت; (S, Msb, K;) <i>of whatever kind; consisting of clothes, and stuffing for mattresses or the like, or outer garments</i> [<i>&c.</i>]: (M, TA:) or (so accord. to the M and K, but in the T “also,”) <i>all property,</i> (AZ, T, S, M, K,) [<i>consisting of</i>] <i>camels, and sheep or goats, and slaves, and utensils and furniture or householdgoods:</i> (AZ, T, S:) or <i>abundant property:</i> or <i>abundance of property:</i> (M, TA:) [in which last sense it is an inf. n. used as simple subst.:] or <i>what is made,</i> or <i>taken, for use,</i> and <i>i. q.</i> مَتَاعٌ; <i>not what is for merchandise:</i> or <i>what is new, of the utensils and furniture of a house or tent; not what is old and worn out:</i> (TA:) [it is a coll. gen. n., and] the n. un. is with اثر: (AZ, T, S, M, Msb, K:) or it has no n. un.: (Fr, T, S, Msb, K:) if you form a pl. from اثاث, you say, ثَلَاثَةُ آثَّةٍ, [originally أَأْثِثَة, like أَطْعِمَة, pl. of طَعَام,] and أُثُثٌ كَثِيرَةٌ. (Fr, T.)\nأَثَاثِىُّ <i>i. q.</i> أَثَافِىُّ, (K,) i. e. The [<i>three</i>] <i>stones which are set up and upon which the cooking-pot is placed:</i> the [second] ثis said to be a substitute for ف, and some hold the hemzeh to be augmentative. (TA.)\nأَثِيثٌ <i>Much in quantity, abundant,</i> or <i>numerous:</i> and <i>great,</i> or <i>large:</i> as also 🡻أَثٌّ; (M, K;) which is, in my opinion, [says ISd, originally أَثِثٌ,] of the measure فَعِلٌ: (M:) the fem. is أَثِيثَةٌ: and the pl. is إِثَاثٌand أَثَائِثُ; (M, K; *) both being pls. of the masc. and of the fem.; (K;) or the latter is pl. of the fem. only; (M, * MF;) but the former is [pl. of the masc.,] like كِرَامٌas pl. of كَرِيمٌ, (TA,) and is pl. of the fem. also. (M.) You say, نَبَاتٌ أَثِيثٌ <i>Herbage,</i> or <i>a herb, that is abundant,</i> or <i>plenteous, and tangled,</i> or <i>luxuriant:</i> (T, S:) or <i>abundant and tall.</i> (M.) And شَعَرٌ أَثِيثٌ <i>Hair that is abundant, and tangled,</i> or <i>luxuriant:</i> (S:) or <i>abundant</i> (T, M) <i>and long.</i> (M.) And لِحْيَةٌ أَثِيثَةٌ, and 🡻أَثَّةٌ, <i>A thick beard.</i> (M, TA.) And اِمْرَأَةٌ أَثِيثَةٌ <i>A fleshy woman:</i> (M, TA:) pl. أَثَائِثُ, (M,) signifying <i>fleshy</i> women; (S, M, K;) as also إِثَاثٌ: (M:) or the former of these pls. signifies <i>tall, full-grown,</i> women. (K.)\nأَثٌّ , fem. with ة: see أَثِيثٌ, in two places.\nأَثَّ 1 , aor. ﹻ(T, S, M, L, K) and ﹹand َ, (M, L, K,) inf. n. أَثَاثَةٌ(T, S, M, L, K) and أَثَاثٌ(M, L, K) and أُثُوثَةٌ, (M,) or أُثُوُثٌ, (L, K,) <i>It</i> (anything) <i>was,</i> or <i>became, much in quantity, abundant,</i> or <i>numerous:</i> and <i>great,</i> or <i>large:</i> (M, L:) <i>it</i> (herbage, or a herb,) <i>was,</i> or <i>became, abundant,</i> or <i>plenteous, and tangled,</i> or <i>luxuriant;</i> (T, S, K;) or <i>abundant and tall:</i> (M:) <i>it</i> (hair) <i>was,</i> or <i>became, abundant and long.</i> (M, TA.) === أَثَّتْ, (M, K,) aor. ﹹ, inf. n. أَثٌّ, (M,) said of a woman, <i>She was,</i> or <i>became, large in the hinder parts.</i> (M, K.)\nتأثّث 5 <i>He obtained,</i> or <i>acquired, goods, household-goods,</i> or <i>furniture and utensils and the like;</i> or <i>abundance of the goods, conveniences,</i> or <i>comforts, of life;</i> (S;) or <i>property;</i> (S, M;) or <i>wealth;</i> or <i>what was good.</i> (M.)"
+}

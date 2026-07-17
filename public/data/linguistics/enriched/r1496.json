@@ -1,0 +1,27 @@
+{
+  "rootId": "r1496",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:20:57.876Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Tongue, language, speech, eloquence, or blade",
+  "primaryMeaning": "Tongue or language",
+  "quranicRelevance": "Physical tongue (Lisan), and language/speech ('lisanan 'arabiyyan mubeenan').",
+  "keyDerivations": [
+    {
+      "lemma": "لِسَانٌ / أَلْسِنَةٌ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Tongue, language, speech, or praise/reputation"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "لِسَانَ صِدْقٍ سَلِيمًا (19:50): An honorable mention/reputation of truth (lasting legacy of praise).",
+    "بِأَلْسِنَةٍ حِدَادٍ (33:19): With sharp tongues (abusive, cutting speech)."
+  ],
+  "discardedNoise": [
+    "The physical blade of a knife.",
+    "Morphological rules on pluralization of Lisan."
+  ],
+  "summaryEn": "The root represents the tongue and language, capturing the physical organ, diverse human languages (Alsinah), and honorable legacy of praise (Lisan Sidq).",
+  "summaryAr": "يمثل هذا الجذر اللسان واللغة، واصفاً العضو الناطق، واختلاف الألسن البشرية، والذكر الجميل والثناء الحسن في الغابرين (لسان صدق).",
+  "rawText": "تَلَسُّنٌ : see خَلِيَّةٌ, voce خَلِىٌّ\nلَسَنٌ <i>Chasteness,</i> or <i>perspicuity,</i> or <i>clearness, of speech,</i> (S, Msb, K,) and <i>eloquence;</i> (Msb;) <i>i. q.</i> بَيَانٌ: or, as some say, the <i>quality of speaking well:</i> and <i>chasteness,</i> or <i>perspicuity,</i> or <i>eloquence, of speech, and sharpness of tongue.</i> (TA.)\nلِسَانٌ of a sandal, The <i>thing</i> (هَنَة) <i>projecting in the fore part</i> thereof. (TA.) See مِسْرَدٌ. === لِسَانٌ The <i>tongue</i> [or <i>cock</i>] of a balance: see مِنْجَمٌ in the S and K. === لِسَانٌ <i>In formation, news,</i> or <i>tidings;</i> syn. خَبَرٌ. (S in art. علو.) See a verse cited voce عُلْوٌ.\nمُلَسَّنٌ , (S,) or with ة, (K,) A sandal <i>long and slender, like the form of the tongue:</i> (S, K:) or <i>having the extremity of its fore part like the extremity of the tongue.</i> (TA.)"
+}

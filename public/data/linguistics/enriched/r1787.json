@@ -1,0 +1,26 @@
+{
+  "rootId": "r1787",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:52:16.826Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Lifelessness, dry barren soil, extinct fire/ashes, dust, or silent land",
+  "primaryMeaning": "Lifeless/barren land",
+  "quranicRelevance": "The earth dry/lifeless (Hamidah - 'al-arda hamidatan').",
+  "keyDerivations": [
+    {
+      "lemma": "هَامِدٌ / هَامِدَةٌ",
+      "form": "Adjective",
+      "meaning": "Lifeless, dry, barren, extinct, or devoid of plants/water"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَتَرَى الْأَرْضَ هَامِدَةً فَإِذَا أَنْزَلْنَا عَلَيْهَا الْمَاءَ اهْتَزَّتْ وَرَبَتْ (22:5): And you see the earth dry/lifeless, but when We send down water upon it, it quakes and grows."
+  ],
+  "discardedNoise": [
+    "Hamad (praise) - confused spelling H-M-D (different letter H vs. H').",
+    "Humood (chemical engine deceleration)."
+  ],
+  "summaryEn": "The root denotes barren dryness or lifelessness (Hamd), describing the resuscitation of dry, dead land by rain as a visible proof of God's power to revive the dead.",
+  "summaryAr": "يشير هذا الجذر إلى جفاف الأرض وموتها وخلائها من النبات، وخمود النار والرماد (همد)، واصفاً إحياء الأرض الهامدة بالمطر كبرهان حسي على البعث.",
+  "rawText": "اهمد 4 , inf. n. إِهَمَادٌ, † <i>He stilled,</i> or <i>quieted.</i> (K.) === <i>He</i> (God, and a man,) <i>killed,</i> or <i>destroyed,</i> a man, or men. (A.) === اهمد الأَمْرَ ‡ <i>He put an end to the affair.</i> (A.) === اهمد القَحْطُ الأَرْضَ ‡ <i>Drought rendered the land sterile, so that it contained no herbage but such as was dried up and broken.</i> (L.) === اهمد, (inf. n. إِهْمَادٌ, K.) † <i>He kept silence in an unpleasant case.</i> (L, K.) === اهمد, (S, L,) inf. n. إِهْمَادٌ, (L, K,) <i>He remained, continued, stayed, abode,</i> or <i>dwelt,</i> (S, L, K,) in a place: (S, L:) <i>he was still;</i> (K;) i. e., <i>did not move.</i> (TA.) ___ اهمد, (S, L) inf. n. إِهْمَادٌ, (L, K,) <i>He hastened,</i> or <i>was quick,</i> (S, L, K,) in going along: (S, L:) thus it bears two contr. significations: (S, L, K:) <i>he</i> (a dog) <i>ran;</i> syn. أَحْضَرَ. (L.) ___ اهمدوا فِى الطَّعَامِ, (inf. n. إِهْمَادٌ, K,) <i>They fell to eating of the food.</i> (Ibn-Buzurj, L, K. *)\nهمِيدٌ ‡ <i>Sheep</i> or <i>goats that have died:</i> (L:) or the <i>beasts</i> or <i>the like</i> (مال) <i>that are registered in the government-accounts as due from a man.</i> (ISh, L, K.) You say, آخَذَنَا مالْهَمِيدِ <i>He</i> (the collector) <i>exacted from us taking for the sheep</i> or <i>goats that had died:</i> (L:) or, <i>taking what was registered as due from us in the governmentaccounts.</i> (ISh, L.) === See هَامِدٌ.\nهَامِدٌ and 🡻هَمِدٌ and 🡻هَمِيدٌ ‡ <i>In a state of death,</i> or <i>extinction</i>]. (M, L.) === هَامِدٌ ‡ A garment, or piece of cloth, [<i>dissundered and</i>] <i>wornout by being long folded, so as, when touched, to fall to pieces:</i> (A:) or anything <i>old and wornout:</i> (L, Msb:) pl. هُمَّدٌ. (A.) See 1. === أَرْضٌ هَامِدَةٌ ‡ <i>Land in which is no herbage:</i> (S:) and in the same sense هَامِدٌ is applied to a place: (K:) or <i>sterile land,</i> (A, L,) <i>the herbage of which is dried up and broken,</i> (A,) or <i>containing no herbage except what is dried up and broken:</i> (L:) <i>dry and dusty:</i> pl. هَوَامِدُ. (L.) === هَامِدٌ ‡ <i>Old and worn-out</i> or <i>wasted, blackened, and changed,</i> [<i>for the worse</i>]. (K.) === ‡ A tree <i>black and wasted:</i> (L:) or <i>dried up;</i> (A;) as also herbage. (S, L, K.) === ‡ Fruit <i>black and stinking.</i> (A, L.) === ‡ A date just ripe, <i>thickskinned and yellow.</i> (TA.) رَمَادٌ هَامِدٌ <i>Ashes</i> [<i>in a state of extinction</i> or] <i>wasted,</i> (L,) <i>and compacted together, and changed in appearance.</i> (A, L.)\nهَمَدَتِ النَّارُ 1 , aor. ﹹ, (S, A, L,) inf. n. هُمُودٌ, (S, A, L, K,) <i>The fire became extinguished</i> (As, S, A, L, K) <i>entirely; went out entirely,</i> (As, S, A, L,) <i>none of it remaining:</i> (L:) or <i>lost its heat:</i> (L, K:) when [only] its flame has ceased, you say of it خَمَدَت. (As, L.) === هَمَدَ, (M, A, L,) aor. ﹹ, (M, L,) inf. n. هُمُودٌ, (M, L, K,) ‡ <i>He died;</i> [<i>became extinct;</i>] (M, A, L, K;) <i>perished;</i> (TA;) like as did Thamood; (Lth, A, L;) as also خَمَدَ. (A.) === كَاد يَهَمْدُ مِنَ الجُوعِ ‡ <i>He nearly perished of hunger.</i> (L.) === هَمَدَ, aor. ﹹ, (S, A, L,) inf. n. هُمُودٌ (S, L, K) and هَمْدٌ, (L, K,) ‡ <i>It</i> (a garment, or piece of cloth,) <i>became dissundered</i> (L, K) <i>and worn-out,</i> (S, A, L, Msb,) <i>by being long folded,</i> (A, L, Msb, K,) <i>so that a person looking at it would imagine it sound, but, when he touched it, would find it fall to pieces.</i> (A, * L, Msb. *) === هَمَدَت الرِّيحُ † <i>The wind became still.</i> (Msb.) === هَمَدَتِ الأَرْضُ, inf. n. هُمُودٌ, ‡ <i>The land became lifeless, without herbage, without wood, and without rain.</i> (L, K.) === هَمَدَ شَجَرُ الأَرْضِ ‡ <i>The trees of the land became worn-out,</i> or <i>wasted; and perished.</i> (L.) === هَمَدَتْ أَصْوَاتُهُمْ † <i>Their voices became silent.</i> (L.)\nهَمِدٌ : see هَامِدٌ.\nهَمْدَةٌ <i>A trance:</i> so rendered voce رَقْدَةٌ.\nهَمْدَةٌ † <i>Apoplexy: caros:</i> syn. سَكْتَةٌ. (S, L.) === [<i>A trance.</i> (See رَقْدَةٌ.)]"
+}

@@ -1,0 +1,31 @@
+{
+  "rootId": "r1669",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:07:33.756Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Progeny, descendants, sliding down, rushing, walking fast, or exit",
+  "primaryMeaning": "Progeny/descendants or sliding down/rushing",
+  "quranicRelevance": "Human progeny/offspring (Nasl - 'thumma ja'ala naslahu'), and rushing down from graves (Yansiloon - 'yansiloon').",
+  "keyDerivations": [
+    {
+      "lemma": "نَسْلٌ",
+      "form": "Noun",
+      "meaning": "Progeny, offspring, descendants, lineage, or children"
+    },
+    {
+      "lemma": "نَسَلَ / يَنْسُلُ",
+      "form": "Form I Verb",
+      "meaning": "To slide down, descend rapidly, run fast, or stream out"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "حَتَّىٰ إِذَا فُتِحَتْ يَأْجُوجُ وَمَأْجُوجُ وَهُمْ مِنْ كُلِّ حَدَبٍ يَنْسُلُونَ (21:96): Until when Gog and Magog are let loose, and they are sliding down/rushing from every elevated path."
+  ],
+  "discardedNoise": [
+    "Shedding of camel hair (Nasal).",
+    "Progeny statistics in census databases."
+  ],
+  "summaryEn": "The root connects progeny with rapid movement, describing the biological descent of human lineage (Nasl) and the rapid streaming (Yansiloon) of resurrected souls.",
+  "summaryAr": "يربط هذا الجذر بين النسل والذرية، والانسلال السريع والانحدار، واصفاً خلق سلالة النسل البشري، وانحدار يأجوج ومأجوج من التلال سريعاً.",
+  "rawText": "اِنْتَسَلَ 8 said of camels' fur: see عَصِيمٌ.\nنَسْلٌ <i>Progeny,</i> whether of man or beast. (The Lexicons passim.)\nنَسْلًَا وَأَسْلًا is a form of imprecation against a man, like تَعْسًا وَنَكْسًا. (M, in art. اسل.)"
+}

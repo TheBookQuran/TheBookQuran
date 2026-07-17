@@ -1,0 +1,37 @@
+{
+  "rootId": "r1437",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:51:40.463Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Sponsorship, portion, folder, double, or guarantee",
+  "primaryMeaning": "Sponsorship or portion",
+  "quranicRelevance": "Sponsoring/caring for someone (Kaffala - 'wa kaffalaha zakariyya'), and portion/share (Kifl - 'yu'tikum kiflayni min rahmatihi').",
+  "keyDerivations": [
+    {
+      "lemma": "كَفَّلَ / كَفَلَ",
+      "form": "Form II / I Verb",
+      "meaning": "To make sponsor, sponsor, guard, or care for"
+    },
+    {
+      "lemma": "كِفْلٌ",
+      "form": "Noun",
+      "meaning": "Portion, share, double, or liability/weight"
+    },
+    {
+      "lemma": "كَفِيلٌ",
+      "form": "Noun",
+      "meaning": "Guarantor, sponsor, or witness/surety"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "يُؤْتِكُمْ كِفْلَيْنِ مِنْ رَحْمَتِهِ (57:28): He will give you double portions/shares of His mercy.",
+    "ذَا الْكِفْلِ: Dhul-Kifl (prophetic name, classically meaning 'possessor of double portion/responsibility')."
+  ],
+  "discardedNoise": [
+    "Foster parenting regulations in modern orphanages.",
+    "Obscure details of camel saddle pads (كِفل)."
+  ],
+  "summaryEn": "The root denotes custody and portions, covering Zachariah's sponsorship (Kafala) of Mary, double shares of mercy (Kifl), and legal guarantees.",
+  "summaryAr": "يدل هذا الجذر على الكفالة والتحمل، مغطياً كفالة زكريا لمريم عليها السلام، والنصيب المضاعف من الأجر والرحمة (كِفْلين).",
+  "rawText": "كَفَالَةٌ <i>Responsibility; answerableness; amenability;</i> or <i>suretiship;</i> (S, Mgh, Msb, K;) the <i>conjoining of one responsibility</i> (ذِمَّة) <i>to another,</i> [i. e., the <i>conjoining one's own responsibility to that of another person,</i>] <i>with respect to the right of suit,</i> [<i>so that one person becomes liable to be sued for that which another owes</i>]; (Mgh;) <i>i. q.</i> ضَمَانٌ. (S, &c.)\nكَفَلٌ The عَجُز [or <i>hinder part, posteriors, buttocks,</i> or <i>rump</i>]: (Msb, K:) or the رِدْف [or <i>hindermost part</i>] <i>thereof:</i> or the [<i>part called</i>] قَطَن. (K.)\nكَفَلَ بَالمَالِ 1 <i>He was,</i> or <i>became, responsible, answerable, accountable, amenable, surety,</i> or <i>guarantee, for the property</i> (Msb) <i>owed by another person:</i> (IbrD:) [it may be rendered <i>he guaranteed the property.</i> See مَكْفُولٌ]. === كَفَلَ بَالنَّفْسِ <i>He was,</i> or <i>became, responsible, answerable, amenable,</i> or <i>surety, for another person,</i> (Msb,) i. e., <i>for the latter's appearance,</i> or <i>presence, to answer a suit.</i> (IbrD.)\nكَفِيلٌ One who is <i>responsible, answerable, amenable,</i> or <i>a sponsor</i> or <i>surety.</i> (S, K, &c.)\nمَكْفُولٌ app. signifies <i>Guaranteed,</i> or <i>pledged:</i> for, accord. to IKtt, as is said in the Msb, you say كَفَلْتُ المَالَ as well as كَفَلْتُ بِالمَالِ; meaning <i>I took upon myself the property; became responsible,</i> or <i>answerable, for it;</i> [or <i>I guaranteed it:</i>] or مَكْفُولٌ is better rendered <i>ensured by an acknowledgment of responsibility for it:</i> see an ex. voce مَرْهُونٌ.\nمِكْفَالٌ A woman <i>large in the</i> كَفَل [or <i>hinder part,</i> or <i>posteriors</i>]. (TA in art. ثقل.)"
+}

@@ -1,0 +1,26 @@
+{
+  "rootId": "r2057",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:56:22.540Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Protector, defender, guardian, ruler, refuge, or patron helper",
+  "primaryMeaning": "Protector/defender (Wal)",
+  "quranicRelevance": "No protector/defender (Wal - 'min doonihi min walin').",
+  "keyDerivations": [
+    {
+      "lemma": "وَالٍ",
+      "form": "Noun/Participle",
+      "meaning": "Protector, defender, guardian, refuge, or ruler who takes charge"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَإِذَا أَرَادَ اللَّهُ بِقَوْمٍ سُوءًا فَلَا مَرَدَّ لَهُ ۚ وَمَا لَهُمْ مِنْ دُونِهِ مِنْ وَالٍ (13:11): And when God intends ill for a people, there is no repelling it, and they have besides Him no protector/defender."
+  ],
+  "discardedNoise": [
+    "Wala (loyalty) - W-L-Y.",
+    "Wala'a (to follow up)."
+  ],
+  "summaryEn": "The root denotes a guardian or defender who takes charge of affairs (Wal), declaring that when God decrees destruction for a nation, no patron exists to shield them.",
+  "summaryAr": "يمثل هذا الجذر الحامي والناصر والمدافع والوالي الذي يتولى الدفاع عن المقابل ودفع المكروه عنه (وال)، نافياً وجود أي ناصر يحمي الكفار من عقاب الله.",
+  "rawText": "أَوَّلُ <i>First,</i> and <i>former; preceding all others, and preceding another.</i> See art. أول === أَوَائِلُ السُّوَرِ The <i>first parts,</i> or <i>beginnings, of the chapters of the Kur-án.</i> === جَآءَ فِى أَوَائِلِ القَوْمِ <i>He came among the first comers of the people.</i> (Msb.) === And الأَوَائِلُ <i>The people of former ages;</i> as also الأَوَّلُونَ. === لَقِيتُهُ عَامًا أَوَّلَ means <i>I met him</i> [<i>in a former year.</i>] <i>before this year, though by several years.</i> (Alee El-Kári, in his Expos. of the K, from Seer; cited in the margin of a copy of the K; art. اول.) See عَامٌ.\nوَأَلَ 1 : see آلَ, in art. اول, in two places."
+}

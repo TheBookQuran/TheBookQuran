@@ -1,0 +1,27 @@
+{
+  "rootId": "r229",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:55:18.217Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Commercial trade, buy/sell, business investment, or merchant",
+  "primaryMeaning": "Commercial trade",
+  "quranicRelevance": "Trading/buying and selling (Tijarah - 'tijaratan 'an taradhin', 'hal adullukum 'ala tijaratin tunjeekum').",
+  "keyDerivations": [
+    {
+      "lemma": "تِجَارَةٌ",
+      "form": "Noun",
+      "meaning": "Trade, commerce, transaction, merchandise, or business"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فَمَا رَبِحَتْ تِجَارَتُهُمْ (2:16): So their trade did not profit (buying misguidance at the cost of guidance, causing spiritual bankruptcy).",
+    "تِجَارَةً تُنْجِيكُمْ مِنْ عذابٍ أَلِيمٍ: A trade/investment that will save you from a painful punishment (faith and striving)."
+  ],
+  "discardedNoise": [
+    "Modern retail banking systems.",
+    "Detailed legal files of ancient caravan taxes."
+  ],
+  "summaryEn": "The root represents commerce, framing both physical buying and selling (Tijarah) and using transaction metaphors to describe spiritual choices and profit.",
+  "summaryAr": "يمثل هذا الجذر الاستثمار والتجارة، مصوراً المعاملات التجارية المادية، ومستعيراً الربح والخسارة لوصف الصفقات الإيمانية الكبرى (تجارة تنجيكم).",
+  "rawText": "أَرْضٌ مُتْجَرَةٌ [in the TA, مَتْجِرَةٌ, but this is wrong,] <i>A land in which traffic, merchandise,</i> or <i>commerce, is practised;</i> (S, L, K;) and <i>to which people go for the purpose of practising the same:</i> (K:) pl. مَتَاجِرُ. (TA.)\nالتَّجِرُ : see تَاجِرٌ.\nاِتَّجَرَ 8 : see 1, in two places. ___ See also 8 in art. وجر.\nتاجرهُ 3 , (A,) inf. n. مُتَاجَرَةٌ, (A, KL,) <i>He practised with him</i> [and (as is implied in the A) <i>he vied with him in practising</i>] <i>traffic,</i> or <i>selling and buying.</i> (KL.)\nتَاجِرٌ <i>A merchant; one who practises traffic, merchandise,</i> or <i>commerce; a trafficker; a trader,</i> or <i>tradesman; a dealer; one who sells and buys;</i> (K;) <i>one who sells and buys for gain:</i> (Ksh in ii. 15:) and <i>a vintner,</i> or <i>seller of wine,</i> (S, K,) was also called thus by the Arabs: (S:) accord. to IAth, this latter is said to be the primary signification: and hence the saying in a trad., إِنَّ التَّاجِرَ فَاجِرٌ [<i>Verily the vintner is a transgressor</i>]: (TA:) pl. تُجَّارٌ and تِجَارٌ and 🡻تَجْرٌ, (S, Msb, K,) [or rather this last is a quasi-pl. n.,] like as صَحْبٌ is of صَاحِبٌ, (S, Msb,) and تُجُرٌ, (K,) or this may be a pl. of تِجَارٌ. (ISd, TA.) 🡻التَّجِرُ. occurring in a verse of El-Akhtal, [for التَّاجِرُ,] is thought by ISd to be like طَهِرٌ [for طَاهِرٌ]. (TA.) === [Hence,] ‡ A man <i>skilful in an affair.</i> (K, TA.) The Arabs say, إِنَّهُ لَتَاجِرٌ بِذٰلِكَ الأَمْرِ ‡ <i>Verily he is skilful in that affair.</i> (IAar, TA.) === And ‡ A she-camel <i>that is saleable,</i> or <i>easy of sale,</i> or <i>in much demand, in traffic,</i> and <i>in the market;</i> (A 'Obeyd, S, K;) as also تَاجِرَةٌ: (K:) or the latter, a she-camel <i>that is goodly, and saleable,</i> or <i>in much demand:</i> (A:) or <i>that is easy of sale when offered, by reason of her excellence:</i> (T:) or simply, <i>that is easy of sale,</i> or <i>in much demand:</i> (S:) as though, by reason of her beauty, or goodliness, and fatness, she sold herself: (Ksh in ii. 15:) <i>contr. of</i> كَاسِدَةٌ: (S, * TA:) the pl. of تاجرة is تَوَاجِرُ. (T, A.) You say also, عَلَيْكَ بِالسِّلَعِ التَّوَاجِرِ ‡ [<i>Keep thou to the commodities</i>] <i>that are saleable,</i> or <i>in much demand.</i> (A.) And هُوَ عَلَى أَكْرَمِ تَاجِرَةٍ † <i>He is upon a most noble horse.</i> (K.)\nتَجَرَ 1 , (S, A, Msb, K,) aor. ﹹ, (S, Msb,) inf. n. تَجْرٌ (S, Msb, K) and تِجَارَةٌ, (S, A, K,) or the latter is a simple subst., (Msb,) or quasi-inf. n., (Mgh,) and مَتْجَرٌ; (A;) and 🡻اِتَّجَرَ, (S, A, Msb, K,) of the measure اِفْتَعَلَ; (S;) <i>He practised traffic, merchandise,</i> or <i>commerce; trafficked; traded; dealt; sold and bought;</i> (K;) <i>employed property for the purpose of gain.</i> (A.) You say, تَجَرَ تِجَارَةً رَابِحَةً [<i>He practised a profitable,</i> or <i>lucrative, traffic</i>]. (A.) And فُلَانٌ 🡻يَتَّجِرُفِى البَرِّ وَ البَحْرِ [<i>Such a one traffics on land and sea</i>]. (A.) There can hardly, if at all, be found any other instance of ت immediately followed by ج except نتج and رتج: the ت in تُجَاهَ is originally و. (Msb.)\nتَجْرٌ : see تَاجِرٌ.\nتِجَارَةٌ a subst. from 1; (Msb;) or quasi-inf. n.; (Mgh;) [The <i>practice of traffic, merchandise,</i> or <i>commerce; traffic; trade; selling and buying;</i>] the <i>trade of the</i> تَاجِر, i. e., <i>of him who sells and buys for gain;</i> (Ksh in ii. 15;) the <i>seeking of gain by selling and buying.</i> (Bd ibid.) [See also 1.] === Also <i>Merchandise,</i> meaning <i>what is sold and bought, of goods,</i> or <i>commodities,</i> or <i>householdfurniture,</i> and <i>the like;</i> a quasi-inf. n. used in the sense of a pass. part. n. (Mgh.) [Hence the saying,] عَلَيْكُمْ بِتِجَارَةِ الآخِرَةِ ‡ [<i>Keep ye to the merchandise of the life to come</i>]. (A.)"
+}

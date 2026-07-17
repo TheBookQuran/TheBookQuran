@@ -1,0 +1,37 @@
+{
+  "rootId": "r1972",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:16:02.189Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Striving, running, walking fast, or earning",
+  "primaryMeaning": "To strive or run",
+  "quranicRelevance": "Striving/exerting effort for faith (Sa'y - 'sa'yaha'), running/walking fast, and earning livelihood.",
+  "keyDerivations": [
+    {
+      "lemma": "سَعَى",
+      "form": "Form I Verb",
+      "meaning": "To strive, run, walk quickly, earn, or exert effort"
+    },
+    {
+      "lemma": "سَعْيٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Striving, effort, running, or earning"
+    },
+    {
+      "lemma": "مَسْعَى",
+      "form": "Noun",
+      "meaning": "Course, path, or place of striving"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَأَنْ لَيْسَ لِلإِنْسَانِ إِلَّا مَا سَعَى (39:39): And that there is not for man except what he strived/earned.",
+    "فَلَمَّا بَلَغَ مَعَهُ السَّعْيَ (37:102): Then when he reached (the age of) running/striving with him (maturity)."
+  ],
+  "discardedNoise": [
+    "The physical running of the Safa and Marwa ritual (Sa'y) - treated under spiritual application.",
+    "Collecting taxes by state agents (ساعي)."
+  ],
+  "summaryEn": "The root signifies active striving, outlining both physical running/exertion and the ultimate spiritual accountability of deeds (Sa'y).",
+  "summaryAr": "يدل هذا الجذر على السعي والجد، واصفاً المشي السريع والنشاط المادي، والمسؤولية والمحاسبة الأخروية على الأعمال (سعي).",
+  "rawText": "سعى 1 , aor. ﹷ; (S A, Msb, K;) and سَغَبَ, aor. ﹹ; (A, K;) inf. n. سَغَبٌ, (S, A, * Msb, K,) which is of the former, (Sudot;, Msb, TA,) and سَغْبٌ, (K,) which is of the latter, (TA,) and سُغُوبٌ (K) and سَغَابَةٌ and مَسْغَبَةٌ, (A, * K,) the last syn. with مَجَاعَةٌ; (S, Msb;) <i>He was,</i> or <i>became, hungry:</i> (S, A, Msb, K:) or <i>suffered hunger together with fatigue.</i> (A, Msb, K.) You say, بِهِ سَغَبٌ and مَسْغَبَةٌ and سَغَابَةٌ, [using these ns. as simple substs.,] <i>In him is hunger:</i> or <i>hunger together with fatigue.</i> (A.) And يَتِيمٌ ذُو مَسْغَبَةٍ [<i>An orphan</i>] <i>having hunger.</i> (S.) And فِى يَوْمٍ ذِى مَسْغَبَةٍ, in the Kur [xc. 14], means <i>In a day of hunger.</i> (TA.) [See also سَغْبَةٌ and سَغَبٌ below.]"
+}

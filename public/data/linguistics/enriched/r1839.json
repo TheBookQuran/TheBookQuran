@@ -1,0 +1,37 @@
+{
+  "rootId": "r1839",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:20:57.876Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Weighing, scale, measure, value, or gravity",
+  "primaryMeaning": "To weigh or measure",
+  "quranicRelevance": "Weighing deeds (Wazn), scale/balance (Mizan - 'wa aqeemoo al-wazna bil-qist'), and balanced things (Mawzoon).",
+  "keyDerivations": [
+    {
+      "lemma": "وَزَنَ",
+      "form": "Form I Verb",
+      "meaning": "To weigh, measure out, or value"
+    },
+    {
+      "lemma": "مِيزَانٌ / مَوَازِينُ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Scale, balance, or weight/justice"
+    },
+    {
+      "lemma": "مَوْزُونٌ",
+      "form": "Adjective / Passive part.",
+      "meaning": "Balanced, proportioned, or measured out"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَأَنْبَتْنَا فِيهَا مِنْ كُلِّ شَيْءٍ مَوْزُونٍ (15:19): And We caused to grow therein of everything proportioned/balanced.",
+    "أَقِيمُوا الوَزْنَ بِالقِسْطِ: Maintain the weight/scale with justice."
+  ],
+  "discardedNoise": [
+    "Weight measurement units (ounces/grams).",
+    "Poetic meters in classical literature (wazn)."
+  ],
+  "summaryEn": "The root represents weight and balance, undergirding the scale of justice (Mizan), balanced growth in nature (Mawzoon), and the weighing of deeds.",
+  "summaryAr": "يدل هذا الجذر على الوزن والعدالة، مؤصلاً لمفهوم الميزان القسط، والنمو الطبيعي الموزون في الكون، ووزن الصحف يوم القيامة.",
+  "rawText": "الوَزْنُ <i>A certain star in the left fore leg of Centaurus.</i> (Kzw.) See حَضَارِ.\nاِتَّزَنَهُ 8 <i>He took it,</i> or <i>received it, by weight.</i> (S, * Mgh, Msb, K. *) See an ex. voce سَنْجَةٌ.\nزِنِىٌّ , rel. n. of زِنَةٌ. (S, art. وعد, q. v., voce عِدَةٌ.)\nمِيزَانٌ <i>A weighing-instrument;</i> (TA:) <i>a balance; a pair of scales.</i> === The <i>weight</i> of a thing. (K, &c.) See مِثْقَالٌ.\nهٰذَا يُوَازِنُ هٰذَا 3 <i>This is equiponderant to this.</i> (S.)\nوَازِنٌ : see رَاجِحٌ: <i>heavy:</i> (Msb:) or <i>of full weight:</i> (KL:) pl. وُزَّنٌ: see زَالٌّ. You say, دِرْهَمٌ وَازِنٌ (S) <i>A full,</i> or <i>complete, dirhem:</i> (so in a copy of the S:) [<i>a dirhem of full weight: a heavy dirhem.</i> (PS.)\nوَزَنَ 1 <i>It</i> (a thing) <i>was heavy:</i> (Msb:) or <i>outweighed,</i> or <i>preponderated;</i> syn. وَجَحَ. (TA.)\nوَزَّانٌ <i>A weigher.</i> (TA, in art. قسط.)"
+}

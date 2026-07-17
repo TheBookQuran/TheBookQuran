@@ -1,0 +1,42 @@
+{
+  "rootId": "r1423",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:12:08.450Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Hatred, dislike, compulsion, or hardship",
+  "primaryMeaning": "To dislike or compel",
+  "quranicRelevance": "Disliking a command ('kurhun lakum'), acting under compulsion (Ikrah), and doing things with difficulty/hardship ('kurhan').",
+  "keyDerivations": [
+    {
+      "lemma": "كَرِهَ",
+      "form": "Form I Verb",
+      "meaning": "To dislike, detest, hate, or find objectionable"
+    },
+    {
+      "lemma": "كُرْهٌ / كَرْهٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Hardship, unwillingness, dislike, or constraint"
+    },
+    {
+      "lemma": "أَكْرَهَ",
+      "form": "Form IV Verb",
+      "meaning": "To compel, force, or coerce"
+    },
+    {
+      "lemma": "مَكْرُوهٌ",
+      "form": "Adjective / Passive part.",
+      "meaning": "Hateful, disliked, or objectionable"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "حَمَلَتْهُ أُمُّهُ كُرْهًا (46:15): His mother bore him with hardship/pain.",
+    "كُتِبَ عَلَيْكُمُ القِتَالُ وَهُوَ كُرْهٌ لَكُمْ: Warfare is ordained for you though it is dislikeable/hard."
+  ],
+  "discardedNoise": [
+    "Grammatical discussions on the voweling of (كُره) vs (كَرْه).",
+    "Obscure details of desert heat causing distress."
+  ],
+  "summaryEn": "The root represents dislike and hardship, outlining natural human aversion to difficulty and the legal bounds of coercion (Ikrah).",
+  "summaryAr": "يمثل هذا الجذر الكراهية والمشقة، موضحاً النفور البشري الطبيعي من الصعوبات والحدود الشرعية للإكراه والضغوط.",
+  "rawText": "أَكْرَهْتُهُ عَلَى كَدَا 4 <i>I made him to do such a thing against his will.</i> (S.)\nالكَراَهِيَةُ للشَّىْءِ signifies البُغْضُ لَهُ and عَدَمَ مُلَاءَمَتِهِ. (MF in art. ابى.)\nتَكَاْرَهَ 6 see 5.\nتَكَرَّهَهُ 5 <i>He showed,</i> or <i>expressed, dislike, disapprobation,</i> or <i>hatred, of it;</i> see تَاَجَّمَهُ and تَسَخَّطَهُ: and 🡻تَكَارَهَعَليْهِ signifies the same; see قَنَحَ. === تَكَرَّهَ <i>He expressed dislike, displeasure, disapprobation, discontent, or hatred.</i> (IbrD.) See examples in the K, voce أَخّْ, and voce أَفّْ, &c. The above is the prevailing signification, and often occurs. === تَكَرَّهَهُ <i>i. q.</i> كَرِهَهُ, q. v. (K, * TA.) See also تَأَجَّمَهُ.\nكَارِهٌ <i>Unwilling:</i> see an ex. voce أَسَآءَ.\nكَرِهَهُ 1 [<i>He disliked, was displeased with, disapproved of, hated, him or it.</i>] الكَرَاهَةُ is the contr. of الإِرَادَةُ and الرِّضَى. (Marg. note in TA.) === كَرِهَهُ (Mgh, Msb), inf. n. كَرَاهَةٌ and كَرَاهِيَةٌ, (Mgh,) or كُرْهٌ and كَرْهٌ, (Msb,) <i>He did not desire it; he disapproved it,</i> or <i>was displeased</i> or <i>discontented with it;</i> (Mgh;) <i>he disliked it; disapproved it; hated it; contr. of</i> حَبَّهُ. (Msb.) === كَرِهَ and 🡻تَكَرَّهَ: see سَخِطَ.\nكَرِيهٌ <i>Disliked, disapproved of, blamed,</i> or <i>hated; hateful, blameable, displeasing,</i> or <i>odious;</i> as also 🡻مَكْرُوهٌ.\nكَرَّهْتُ إِلَيْهِ الشَّىْءَ 2 , inf. n. تَكْرِيهُ, <i>I made the thing to be an object of dislike, disapprobation,</i> or <i>hatred, to him.</i> (S, K. *)\nمَكْرَهٌ <i>A thing that one dislikes, disapproves,</i> or <i>hates,</i> or <i>that one dislikes to do:</i> opposed to مَنْشَطٌ: (TA in art. نشط:) [<i>a thing,</i> or <i>an event, that is an object of dislike</i> or <i>hatred</i>].\nمَكْرُوهٌ <i>Foul, abominable,</i> or <i>evil; i. q.</i> سَيِّئٌ; (Beyd, xvii. 40;) and شَرٌّ: (TA:) [<i>held in aversion</i>]. See كَرِيهٌ. === مَكَارِهُ, a pl. of مَكْرُوهٌ. === مَكَارِهُ الدَّهْرِ <i>The afflictions,</i> or <i>calamities, of fortune;</i> syn. نَوَازِلُهُ and شَدَائِدُهُ. (TA.) See also مَكْرَهٌ.\nمُسْتَكْرَهٌ : see an ex. voce عَرَضٌ."
+}

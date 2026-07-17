@@ -1,0 +1,26 @@
+{
+  "rootId": "r450",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T18:03:45.341Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Unjust dealing, unfairness, oppression, deviation from justice, or side slope",
+  "primaryMeaning": "Dealing unjustly/unfairly",
+  "quranicRelevance": "Deal unjustly (Yaheefa - 'an yaheefa allahu').",
+  "keyDerivations": [
+    {
+      "lemma": "حَافَ / يَحِيفُ",
+      "form": "Form I Verb",
+      "meaning": "To deal unjustly, act unfairly, oppress, or show bias"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "أَفِي قُلُوبِهِمْ مَرَضٌ أَمِ ارْتَابُوا أَمْ يَخَافُونَ أَنْ يَحِيفَ اللَّهُ عَلَيْهِمْ وَرَسُولُهُ (24:50): Is there disease in their hearts? Or have they doubted? Or do they fear that God and His Messenger will deal unjustly with them?"
+  ],
+  "discardedNoise": [
+    "Haif (hot summer wind) - dialect spelling.",
+    "Hafah (edge/rim) - H-Y-F."
+  ],
+  "summaryEn": "The root represents injustice or bias (Hayf), refuting the hypocrites' irrational fear that God or His Prophet would ever deliver an unjust judgment or exploit them.",
+  "summaryAr": "يمثل هذا الجذر الجور والظلم والميل عن الحق وبخس الحقوق والتعدي (حيف)، مؤكداً استحالة وبطلان خشية ظلم الله ورسوله في الأحكام القضائية.",
+  "rawText": "بَلَدٌ أَحْيَفُ , and أَرْضٌ حَيْقَآءُ, <i>A district</i> or <i>the like,</i> and <i>a land, upon which rain has not fallen:</i> (Ibn-'Abbád, K:) as though the rain treated it wrongfully. (TA.)\nتَحَيَّفْتُهُ 5 <i>I took by little and little from its sides;</i> (S, K;) as also تحوّفتهُ. (S.)\nتَحْيِيفٌ 2 The <i>taking a thing,</i> or <i>something, from the side:</i> and <i>diminishing</i> [<i>from the side</i>]. (KL.)\nحَائِفٌ <i>Acting wrongfully, unjustly, injuriously,</i> or <i>tyrannically:</i> (Lth, Msb, K: [in some copies of the K, حَائِرٌ is erroneously put for جَائِرٌ:] pl. حَافَةٌ (Msb, K) and حُيَّفٌ (K, Msb *) and حُيُفٌ. (TA.) === An arrow <i>declining from the right direction.</i> (TA.) === And, as being likened thereto, ‡ An <i>impotent</i> man, <i>who does not attain the object of his want.</i> (TA.) ___ The <i>side</i> of a mountain. (K, TA.) [See also حِيفَةٌ.]\nحَافَ 1 , aor. يَحِيفُ, (S, Msb,) inf. n. حَيْفٌ, (S, Msb, K,) <i>He</i> (a judge, or any other person, Msb) <i>acted wrongfully, unjustly, injuriously,</i> or <i>tyrannically,</i> (S, Msb, K,) عَلَيْهِ <i>against him:</i> (S:) or, as some say, <i>he inclined</i> [<i>to that which was wrong</i>], or <i>declined</i> [<i>from that which was right</i>], <i>in his judgment.</i> (TA.) حَيْفُ النَّاحِلِ means <i>A man's giving to certain of his children exclusively of others:</i> he should treat them equally, and not prefer some before others. (T, TA.)\nحِيفَةٌ <i>A side,</i> or <i>lateral part:</i> pl. حِيَفٌ; (K;) which is likewise pl. of حَافَةٌ. (TA.) [See also حَائِفٌ, below.]"
+}

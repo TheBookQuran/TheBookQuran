@@ -1,0 +1,26 @@
+{
+  "rootId": "r1368",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:14:55.732Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Plucking fruit, harvest bunch, low hanging, pace, or gather",
+  "primaryMeaning": "Low-hanging harvest bunch",
+  "quranicRelevance": "Low-hanging fruit clusters of Paradise (Qutoof - 'qutoofuha daniyatun').",
+  "keyDerivations": [
+    {
+      "lemma": "قِطْفٌ / قُطُوفٌ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Harvested fruit bunch, low-hanging cluster of grapes/dates, or plucked branch"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فِي جَنَّةٍ عَالِيَةٍ ﴿٢٢﴾ قُطُوفُهَا دَانِيَةٌ (69:22-23): In a high garden, its harvested clusters/fruits hanging low (effortless abundance)."
+  ],
+  "discardedNoise": [
+    "Slow-paced walk of camels (Qatf).",
+    "Modern fruit-picking machines."
+  ],
+  "summaryEn": "The root represents harvest clusters (Qutoof), detailing the effortless, low-hanging fruits of Paradise that require no climbing or physical labor to reach.",
+  "summaryAr": "يمثل هذا الجذر جني الثمار وقطع العناقيد الدانية (قطف)، واصفاً سهولة نيل طعام الجنة حيث عناقيد فواكهها قريبة متذللة للقطف (قطوفها دانية).",
+  "rawText": "قَطَائِفُ : see my 1001 Nights, note 23 to chap. viii. See also زَلاَبِيَه. In the TA, art. كنف, it is applied to كُنَافَة.\nقَطَافٌ and 🡻قِطَافٌ The <i>time of gathering the crop of grapes:</i> (S, Mgh, K:) or the latter has this meaning; and the former is allowable accord. to Ks: (T, TA:) and the latter is also an inf. n., (Mgh,) or may be so, (Ks, T, TA,) meaning the <i>gathering of the crop of grapes:</i> (Mgh:) [or both have this meaning; for] you say, هٰذَا زَمَانُ القَطَافِ and القِطَافِ. (Msb.) See جَدَادٌ.\nقَطَفٌ : see بَقْلٌ.\nقَطِيفٌ a coll. gen. n. syn. with قَطَائِفُ, mentioned in the TA voce أُبْلُوجٌ, which see. === قَطِيفَةٌ <i>A villous,</i> or <i>nappy,</i> دِثَار [or <i>outer wrapping garment</i>]. (S, Msb, K.) See also راَحُولَاتٌ.\nقِطْفٌ A <i>bunch</i> of grapes, &c.: pl. قُطُوفٌ: see an ex. voce ذَلَّلَ. === قِطْفٌ <i>i. q.</i> مَقْطُوفٌ. (TA in art. بسط.) See بَسِيطٌ.\nمِقْطَفٌ (<i>vulg.</i> مَقْطَفٌ) [pl. مَقَاطِف] A handbasket, made of palm-leaves: <i>so called because originally used in gathering fruit.</i> (See also قُفَّة and زَنْبِيل.)"
+}

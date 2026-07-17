@@ -1,0 +1,31 @@
+{
+  "rootId": "r739",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:00:21.796Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Olive, olive oil, shine, fuel, green fruit, or slick",
+  "primaryMeaning": "Olive or olive oil",
+  "quranicRelevance": "Olive oil yielding light in the parable of light (Zayt - 'yakadu zaytuha yudhee''), and the olive tree (Zaytoon - 'wat-teeni waz-zaytooni').",
+  "keyDerivations": [
+    {
+      "lemma": "زَيْتٌ",
+      "form": "Noun",
+      "meaning": "Olive oil, liquid fat of olives, or luminous fuel"
+    },
+    {
+      "lemma": "زَيْتُونٌ / زَيْتُونَةٌ",
+      "form": "Noun / unit",
+      "meaning": "Olive / olive tree, or olive grove"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "يَكَادُ زَيْتُهَا يُضِيءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ (24:35): Its oil would almost glow even if no fire touched it (hyper-purity of the oil of the blessed tree)."
+  ],
+  "discardedNoise": [
+    "Industrial mineral petroleum (Zayt) refinement.",
+    "Olive branch diplomatic peace emblems in modern geopolitics."
+  ],
+  "summaryEn": "The root refers to olives (Zaytoon), praising the botanical miracle of the olive tree as a source of luminous fuel (Zayt) and nutrition.",
+  "summaryAr": "يشير هذا الجذر إلى الزيتون وزيته المبارك، مشيداً بنضارة شجرة الزيتون، وجعل زيتها الصافي مثلاً للضياء والصفاء العقدي النبوي (زيتها).",
+  "rawText": "أَزَاتُوا 4 (in the CK [erroneously] اَزِْاَتُوا) <i>They had much</i> زَيْت [i. e. <i>olive-oil</i>]; <i>their</i> زَيْت <i>became much;</i> (Lh, K;) agreeably with a general rule relating to verbs similar to this in meaning. (Lh, TA.)\nاستزات 10 <i>He sought,</i> or <i>demanded,</i> زَيْت [i. e. <i>olive-oil</i>]. (K.) You say, جَاؤُوا يَسْتَزِيتُونَ <i>They came asking for</i> زَيْت <i>as a gift;</i> (S, L;) or <i>seeking,</i> or <i>demanding,</i> زيت. (A.)\nاِزْدَاتَ 8 [so in the TA and in my MS copy of the K; in the CK, erroneously, اِزْدَأَتَ;] <i>He anointed himself with</i> زَيْت [i. e. <i>olive-oil</i>]. (K.)\nزَاتَهُ 1 , aor. يَزِيتُهُ, [inf. n. زَيْتٌ,] <i>He anointed him,</i> or <i>it, with</i> زَيْت, i. e. <i>oil of the</i> زَيْتُون [or <i>olive</i>]. (Msb.) You say, زِتٌّ, meaning <i>I anointed</i> my head, and the head of another, <i>with oil of the</i> زيتون. (L.) === And زِتُّهُ, (Lh, S, K,) aor. أَزِيتُهُ, (S, K, TA, in the CK اَزِتُّه, and so in my MS. copy of the K,) inf. n. زَيْتٌ, (K,) <i>I put</i> زَيْت [i. e. <i>olive-oil</i>] <i>into it;</i> namely, the food; (S, K;) or the crumbled bread: or <i>I prepared it therewith:</i> (TA:) or <i>I moistened it,</i> or <i>stirred it about,</i> or <i>moistened and mixed it, with</i> زيت; namely, bread, and crumbled bread. (Lh, TA.) === And زَاتَهُمْ (Lh, S, K, TA, in the CK [erroneously] زَأَتَهُمْ) <i>He fed them with</i> زَيْت: (Lh, K:) or <i>he made</i> زيت <i>to be the seasoning of their food.</i> (S.)\nزَيَّاتٌ <i>One who sells,</i> or <i>expresses,</i> زَيْت [i. e. <i>olive-oil,</i> and, vulgarly, <i>any oil</i>]. (TA.) === [Hence,] جَآءَ فُلَانٌ فِى ثِيَابِ زَيَّاتٍ † <i>Such a one came in dirty clothes.</i> (A.)\nزَيَّتَهُمْ 2 <i>He furnished them with</i> زَيْت [i. e. <i>olive-oil</i>] <i>for travelling-provision;</i> (Lh, S, A;) agreeably with a general rule relating to verbs similar to this in meaning. (Lh, TA.)\nزَيْتٌ The <i>oil,</i> (S, Mgh, Msb, K,) or <i>expressed juice,</i> (M, TA,) or مُخّ [i. e. <i>best,</i> or <i>choicest, of the constituents</i>], (A, TA,) <i>of the</i> زَيْتُون [or <i>olive</i>]. (S, M, A, Mgh, Msb, K.) [In the present day it is applied to <i>Any oil.</i>]\nزَيْتُونٌ [The <i>olive-tree;</i>] <i>a certain kind of tree,</i> (Msb, K, *) <i>well known,</i> (S, Msb,) <i>whence</i> زَيْت <i>is obtained;</i> (S, Msb, K;) [<i>a tree</i>] <i>of the kind called</i> عِضَاه; (AHn, Mgh, TA;) As says, on the authority of 'Abd-El-Melik Ibn-Sálih Ibn-'Alee, that a single tree of this kind lasts thirty thousand years; and that every tree of this kind in Palestine was planted by the ancient Greeks who are called the Yoonánees: (TA:) and the <i>fruit of that tree:</i> (Mgh:) or it has the latter signification, and is tropically applied to the tree: or it properly has both of these significations: (TA:) [it is a coll. gen. n.:] n. un. with ة: (S, TA:) accord. to some, the ن is a radical letter, and the ى is augmentative, because they said ارض زتنة [i. e. أَرْضٌ زَتِنَةٌ, like أَرْضٌ عَضِهَةٌ from العِضَاهُ], meaning “ a land in which are زَيْتُون; ” so that the measure is فَيْعُولٌ; and if so, its proper place is art. زتن. (TA.) Respecting the phrase in the Kur xcv. l, وَالتِّينِ وَالزَّيْتُونِ, see تِينٌ. === [زَيْتُونُ بَنِى إِسْرَائِيلَ <i>Lapis Judaicus:</i> so called because resembling an olive in shape, and found in Judæa.]\nزَيْتُونِىٌّ <i>Of,</i> or <i>relating to, the olive: olivecoloured.</i>]\nمَزِيتٌ and 🡻مَزْيُوتٌ Food <i>into which</i> زَيْت [i. e. <i>olive-oil</i>] <i>has been put:</i> (S, A, K:) or <i>prepared therewith.</i> (TA.)\nمَزْيُوتٌ : see what next precedes.\nمُزَيْتِيتٌ dim. of مُزْدَاتٌ. (TA.)\nمُزْدَاتٌ A man <i>anointing himself,</i> or <i>who anoints himself, with</i> زَيْت [i. e. <i>olive-oil</i>]. (TA.)"
+}

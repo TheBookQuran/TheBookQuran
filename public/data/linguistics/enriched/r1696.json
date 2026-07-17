@@ -1,0 +1,26 @@
+{
+  "rootId": "r1696",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:52:16.826Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Sandals, shoes, protective foot wear, shoeing animals, or flat hard ground",
+  "primaryMeaning": "Sandals/shoes",
+  "quranicRelevance": "Remove your sandals (Na'layka - 'na'layka').",
+  "keyDerivations": [
+    {
+      "lemma": "نَعْلٌ",
+      "form": "Noun (Dual: نَعْلَيْن)",
+      "meaning": "Sandals, shoes, or protective footwear worn on the feet"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "إِنِّي أَنَا رَبُّكَ فَاخْلَعْ نَعْلَيْكَ ۖ إِنَّكَ بِالْوَادِ الْمُقَدَّسِ طُوًى (20:12): 'Indeed, I am your Lord, so remove your sandals/shoes; indeed, you are in the sacred valley of Tuwa.'"
+  ],
+  "discardedNoise": [
+    "Nal (horseshoe) - animal shoeing.",
+    "Nal (obtaining benefits) - confused N-Y-L."
+  ],
+  "summaryEn": "The root represents footwear or sandals (Na'l), ordering Moses to remove his shoes to show respect for the holy ground of the valley of Tuwa.",
+  "summaryAr": "يشير هذا الجذر إلى النعلين الحذاء والمداس الواقي للقدم، والأرض الصلبة (نعل)، آمراً موسى بخلع نعليه احتراماً وتقديساً للوادي المقدس طوى.",
+  "rawText": "أَنْعَلْتُ الخُفَّ 4 and 🡻نَعَّلْتُهُ <i>I affixed a sole to the bottom of the</i> خَفّ [i. e. <i>boot</i>]: and hence, أَنْعَلْتُ الدَّابَّهَ and 🡻نَعَلْتُهَا. (Msb.) See صِرْمٌ.\nاِنْتَعَلَتْ ظِلاَلَهَا 8 : see ظِلٌّ.\nنَاعِلٌ <i>Wearing,</i> or <i>having on the feet, sandals.</i>\nنَعَّلَ 2 see 4.\nنَعْلٌ [<i>A sandal: a sole:</i>] the <i>thing by which the foot is preserved,</i> or <i>protected, from the ground;</i> (K;) syn. حِذَآءٌ: and also applied to <i>a</i> تَاسُومَة [or <i>shoe</i>]. (Msb.) <i>What is now called</i> تَاسُومَة. (IAth, TA.) It often signifies only <i>a sole:</i> so in the S, K, Msb, &c., in art. خصف &c. === The <i>leathern shoe,</i> or <i>sandal,</i> of a camel; <i>which is attached by thongs,</i> or <i>straps, called</i> سَرَائِح (pl. of سَرِيحَةٌ) <i>to the</i> خَدَمَة or <i>plaited thong which surrounds the pastern:</i> see سَرِيحَةٌ and خَدَنَةٌ. === نَعْلٌ of a sword The <i>iron,</i> (Kr, S, K,) or <i>silver,</i> (S,) <i>thing</i> [or <i>shoe</i>] <i>at the lower end of the scabbard.</i> (Kr, S, K.) See غَاشِيَةٌ, and 2 in art. فرص. === نَعْلٌ meaning <i>A</i> حَرَّة, or <i>hard rugged tract of land,</i> &c.: see رَحْلٌ. === نَعْلٌ ‡ <i>A wife.</i> See عَتَبَة.\nنَعڤلَ 1 see 4.\nنِعَالِيٌّ <i>One who takes care of the sandals</i> or <i>shoes</i> [<i>at the door of a bath or mosque</i>]. (TA in art. ثوب.)"
+}

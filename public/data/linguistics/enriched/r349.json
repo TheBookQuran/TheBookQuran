@@ -1,0 +1,26 @@
+{
+  "rootId": "r349",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T18:01:00.335Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Neck, throat area, collar path, long neck beauty, or throat leash",
+  "primaryMeaning": "Neck/throat area",
+  "quranicRelevance": "Around her neck (Jeediha - 'fee jeediha').",
+  "keyDerivations": [
+    {
+      "lemma": "جِيدٌ",
+      "form": "Noun",
+      "meaning": "Neck, throat area, or collar path"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فِي جِيدِهَا حَبْلٌ مِنْ مَسَدٍ (111:5): Around her neck is a rope of palm-fiber."
+  ],
+  "discardedNoise": [
+    "Jayyid (excellent/very good) - J-W-D.",
+    "Jeedah (goodness) - J-W-D."
+  ],
+  "summaryEn": "The root denotes the neck or throat area (Jeed), depicting the eternal punishment of Abu Lahab's wife wearing a coarse fiber rope collar around her neck.",
+  "summaryAr": "يشير هذا الجذر إلى العنق وموضع القلادة ومجرى الحلق (جيد)، واصفاً عقوبة زوجة أبي لهب بحبل خشن يلتف حول عنقها وجيدها إذلالاً.",
+  "rawText": "أَجْيَدُ <i>Having a long neck:</i> (A, Msb, K:) or <i>having a long and beautiful neck:</i> (S, L:) or <i>having a slender and long neck:</i> (L, K:) or it is not applied to a man: (T, TA:) fem. جَيْدَآءُ, (S, L, Msb, K,) with which 🡻جَيْدَانَةٌ is syn.; (K;) or this signifies <i>having a beautiful neck:</i> (L:) pl. جُودٌ [originally جُيْدٌ]. (S, A, K.) And عُنُقٌ أَجْيَدُ <i>A long and beautiful,</i> or <i>slender and long, neck.</i> (L.)\nجَيِدَ 1 , (Lh, L,) or جَادَ, of the same class as تَعِبَ, aor. يَجَادُ, (Msb,) inf. n. جَيَدٌ, (Lh, S, A, L, Msb, K,) <i>He had a long neck:</i> (A, Msb, K:) or <i>a long and beautiful neck:</i> (S, L:) or <i>a slender and long neck.</i> (L, K.)\nجَيِّدٌ : see art. جود.\nجَيْدَانَةٌ : see أَجْيَدُ.\nجِيدٌ , of the measure فِعْلٌ, (Sb, Akh,) or it may be originally of the measure فُعْلٌ, (Sb, TA,) The <i>neck:</i> (S, L, Msb, K:) said by Sh to be used only in praise; and عُنُقٌ, in dispraise; the use of the former in the Kur exi. being ironical; (TA;) but accord. to Esh-Shiháb, the contr. is often the case: (MF:) generally applied to that of a woman: (L:) or the <i>part of the neck upon which the necklace lies:</i> or <i>its fore part:</i> (L, K:) pl. [of pauc.] أَجْيَادٌ (S, L, Msb, K) and [of mult.] جُيُودٌ. (L, K.) لَيِّنَةُ الأَجْيَادِ means A female <i>soft in respect of the neck;</i> as though the term جِيدٌ applied to each distinct part of the neck, and the pl. denoted the whole neck. (L.)"
+}

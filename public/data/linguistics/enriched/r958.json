@@ -1,0 +1,32 @@
+{
+  "rootId": "r958",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:51:40.463Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Sound blast, swooning, thunderbolt, striking down, or crash",
+  "primaryMeaning": "Thunderbolt or swooning/dying",
+  "quranicRelevance": "Striking/destructive thunderbolt (Sa'iqah - 'fa-akhathathum sa'iqatu al-'athabi'), and swooning/dying from terror or shock (Sa'iqa - 'fasaw'iqa man fee as-samawati').",
+  "keyDerivations": [
+    {
+      "lemma": "صَعِقَ",
+      "form": "Form I Verb",
+      "meaning": "To swoon, fall dead, faint, or lose consciousness"
+    },
+    {
+      "lemma": "صَاعِقَةٌ / صَوَاعِقُ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Thunderbolt, blast, lighting strike, or destructive shockwave"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَخَرَّ مُوسَىٰ صَعِقًا (7:143): And Moses fell down swooning/unconscious (shock of divine manifestation on the mountain).",
+    "يَجْعَلُونَ أَصَابِعَهُمْ فِي آذَانِهِمْ مِنَ الصَّوَاعِقِ: They put their fingers in their ears against the thunderbolts."
+  ],
+  "discardedNoise": [
+    "Modern high voltage electrical shocks (electricity).",
+    "Medical terms for epiletic fits."
+  ],
+  "summaryEn": "The root represents acoustic shock and swooning, describing Moses fainting (Sa'iq), the celestial shockwave of judgment, and destructive thunderbolts.",
+  "summaryAr": "يمثل هذا الجذر الصعق والغشيان الصوتي والضوئي، واصفاً غيبوبة موسى عليه السلام هيبة (صعقاً)، وصواعق العذاب المهلكة.",
+  "rawText": "أَصْعَقَتْهُ الصَّاعِقَةُ 4 <i>The</i> صاعقة [or <i>thunderbolt</i>] <i>smote him.</i> (TA.) === And اصعقهُ <i>He,</i> or <i>it, caused him to swoon,</i> or <i>become insensible.</i> (S.) === And <i>He,</i> or <i>it, killed,</i> or <i>slew, him.</i> (TA.)\nصَاعِقٌ A camel <i>meagre in his marrow.</i> (Ibn- 'Abbád, O.)\nصَاعِقَةٌ [<i>A thunderbolt;</i> i. e.] <i>a thing descending from the thunder, that smites not anything but it alters it and burns it:</i> (Msb:) or <i>fire that falls from the sky,</i> (AZ, S, O, K,) <i>in vehement thunder:</i> (AZ, S, O:) or <i>fire that God sends with vehement thunder:</i> (TA:) or the <i>scourge</i> (مِخْرَاق) <i>that is in the hand of</i> [<i>the angel who is</i>] <i>the driver of the clouds, and that comes not upon anything but it burns it:</i> (O, K:) or <i>a vehement sound from a thundering with which falls a piece of fire:</i> or the <i>sound of thunder:</i> (TA:) Wahb Ibn-Munebbih, being asked respecting it, whether it were a tangible thing or fire or what else, answered that he thought no one knew it except God: (O, TA:) accord. to some, (TA,) it signifies also the <i>cry,</i> or <i>vehement cry,</i> or <i>shout,</i> [<i>that is an efficient</i>] <i>of punishment:</i> (S, O, K:) and <i>death;</i> (O, K;) so accord. to Katádeh (O, TA) and Mukátil: (TA:) or <i>a cause of death:</i> (Zj, TA:) and <i>any destructive punishment:</i> (O, K:) and 🡻صَعْقَةٌ and صَاقِعَةٌ are dial. vars. thereof: (TA:) the pl. is صَوَاعِقُ. (O, Msb, TA.)\nصَعَقٌ is an inf. n. of صَعِقَ [q. v.]: (Msb, K:) and primarily signifies <i>A swooning,</i> or <i>becoming insensible, in consequence of a vehement sound that one hears;</i> and sometimes, <i>such that one dies in consequence thereof:</i> === afterwards often used as meaning <i>Death.</i> (TA.) === [Also] <i>Vehemence of sound</i> or <i>voice:</i> (O, K:) and <i>vehemence of braying</i> of an ass; used in this sense by Rubeh; (O, * TA;) and said by Az to be originally 🡻صَعْقٌ. (TA.)\nصَعَقَتْهُمُ السَّمَآءُ 1 , (S, O, K,) aor. ﹷ, (K,) inf. n. صَاعِقَةٌ, (O, K,) <i>The sky smote them with what is termed</i> صَاعِقَة [i. e. <i>a thunderbolt</i>]. (S, O, K.) [And صَقَعَتْهُم signifies the same.] === صَعِقَ is quasi-pass. of the verb in the phrase above; (Z, TA in art. سرف;) signifying <i>He was smitten by a</i> صَاعِقَة; (TA in art. صقع;) as also صَقِعَ; (K and TA in that art.;) and so صُعِقَ and صُقِعَ. (O in that art.) === And صَعِقَ, (S, O, Msb, K,) aor. ﹷ, (Msb, K,) inf. n. صَعَقٌ, (Msb,) or صَعْقَةٌ, (S, O,) or both, and صَعْقٌ, (K,) and تَصْعَاقٌ, (S, O, K,) <i>He</i> (a man, S, O) <i>swooned,</i> or <i>became insensible,</i> (S, O, Msb, K, TA,) and <i>lost his reason,</i> (TA,) <i>in consequence of a sound that he heard,</i> (Msb, TA,) <i>such as the vehement sound of the fall of a wall</i> or <i>the like</i> or <i>of a part of a mountain;</i> (TA;) as also صُعِقَ. (Msb, TA. *) === And صَعِقَ, aor. ﹷ, inf. n. صَعْقٌ and تَصْعَاقٌ, <i>He</i> (a man) <i>died.</i> (TA.) فَصَعِقَ مَنْ فِى السَّمٰوَاتِ وَمَنْ فِى الأَرْضِ, in the Kur [xxxix. 68], means <i>And those in the heavens and those upon the earth shall die:</i> (S, TA:) or <i>shall fall down dead,</i> or <i>in a swoon:</i> (Bd:) or <i>shall lose their reason.</i> (TA.) === And صَعِقَتِ الرَّكِيَّةُ, inf. n. صَعَقٌ, <i>The well fell in ruins,</i> or <i>to pieces;</i> or <i>collapsed.</i> (TA.) === صُعَاقٌ [as an inf. n.] signifies The <i>sounding</i> of thunder: and صَعِقَ, aor. ﹷ, inf. n. صُعَاقٌ, is said of a bull, meaning <i>He bellowed,</i> or <i>lowed:</i> (TA:) and likewise of a man [app. as meaning <i>he bel-lowed,</i> or <i>roared</i>]. (ISk, TA in art. ام.)\nصَعِقٌ <i>Expecting,</i> or <i>looking for, a</i> صَاعِقَة [or <i>thunderbolt</i>]. (Ibn-'Abbád, O, K.) === Also <i>Swooning,</i> or <i>becoming insensible;</i> (K, TA;) and so 🡻مَصْعُوقٌ; or the latter signifies <i>dying suddenly:</i> and the former, <i>swooning,</i> or <i>becoming insensible,</i> and <i>losing his reason, in consequence of a sound that he has heard, such as the vehement sound of the fall of a wall</i> or <i>the like</i> or <i>of a part of a mountain.</i> (TA.) === And <i>Dying,</i> or <i>dead.</i> (TA.) === Also, (K, TA,) or صَعِقُ الصَّوْتِ, (S, O,) <i>Vehement in voice,</i> (S, O, K, TA,) and <i>in braying;</i> (TA;) applied to an ass. (S, O, TA.)\nصَعْقٌ : see the next paragraph.\nصَعْقَةٌ : see صَاعِقَةٌ. === Also The <i>sound proceeding from a</i> صَاعِقَة [or <i>thunderbolt</i>]. (TA.) === الصَّعْقَةُ الأُولَى means <i>The first blast</i> [<i>of the horn on the day of resurrection</i>]. (Msb.) === And صَعْقَةٌ also signifies <i>A death.</i> (TA.)\nمَصْعُوقٌ : see صَعِقٌ."
+}

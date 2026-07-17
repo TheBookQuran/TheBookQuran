@@ -1,0 +1,52 @@
+{
+  "rootId": "r1446",
+  "source": "lanes",
+  "enrichedAt": "2026-06-29T23:32:01.656Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Comprehensive entirety, burden, or surrounding",
+  "primaryMeaning": "All, whole, or to be weak",
+  "quranicRelevance": "Crucial for three main concepts in the Quran: (Kull) denoting absolute totality or every; (Kall) representing a burden or dependent person; and (Kalalah) referring to a specific status in inheritance where the deceased leaves no parent or child.",
+  "keyDerivations": [
+    {
+      "lemma": "كُلٌّ",
+      "form": "Noun",
+      "meaning": "All, every, each, or the whole"
+    },
+    {
+      "lemma": "كَلٌّ",
+      "form": "Noun",
+      "meaning": "A burden, dependent, or fatigue"
+    },
+    {
+      "lemma": "كَلَالَةٌ",
+      "form": "Noun",
+      "meaning": "One who dies leaving no parents or children as heirs"
+    },
+    {
+      "lemma": "كَلَّ",
+      "form": "Form I Verb",
+      "meaning": "To be weary, weak, fatigued, or blunt"
+    },
+    {
+      "lemma": "كَلِيلٌ",
+      "form": "Adjective",
+      "meaning": "Weary, weak, dull, or blunt"
+    },
+    {
+      "lemma": "إِكْلِيلٌ",
+      "form": "Noun",
+      "meaning": "Crown, coronet, or transverse stars"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "كِلَّةٌ: A mosquito-curtain.",
+    "كَلَّتْ أَسْنَانُهُ: For teeth to be set on edge by sour food."
+  ],
+  "discardedNoise": [
+    "Logic terminology such as the Five Predicables (الكليات الخمس).",
+    "Details of the crown of Scorpio (الإكليل) or the border of flesh round the nail."
+  ],
+  "summaryEn": "This root covers concepts of totality and surrounding, as well as weariness and the legal status of having no direct ascendants or descendants.",
+  "summaryAr": "يغطي هذا الجذر مفاهيم الشمول والإحاطة، بالإضافة إلى التعب والكلالة (الحالة القانونية للورثة عند غياب الأصول والفروع).",
+  "rawText": "أَكَلَّ أَسْنَانَهُ 4 [<i>It set his teeth on edge</i>]; said of acid, or sour, food or drink. (Ibn-'Abbád, in TA, art. ضرس.) See 1.\nالإِكْلِيلُ <i>The 17th Mansion of the Moon;</i> (Kzw;) <i>the head of Scorpio.</i> (Aboo-l-Heythem, quoted in the TA, voce رَقِيبٌ.) === الإِكْلِيلُ <i>Three bright stars in</i> [<i>or rather before</i>] <i>the head of Scorpio,</i> [<i>namely g, h, and q,</i>] <i>disposed in a row, transversely.</i> === <i>The border of flesh round the nail:</i> (K:) in the TA, art. شظف, إِكْلِيلُ الظُّفُرِ.\nكَلِيلٌ <i>Weak,</i> or <i>faint, lightning</i> [app. likened to a blunt sword]. (TA in art. عمل.) === كَلِيلُ الظُّفْرِ: see ظُفْرٌ. === لِسَانٌ كَلِيلٌ <i>A dull tongue; lacking sharpness.</i> (S. *)\nكَلٌّ <i>A burden;</i> syn. ثِقْلٌ: (S, Mgh, Msb, K:) <i>a person,</i> or <i>persons, whom one has to support:</i> syn. عَيَّلٌ, (K,) and عِيَالٌ: (S, Mgh, Msb, K:) applied to one and to more. (Msb.) See an ex. voce ذِمَّةٌ (last sentence but two).\nكَلَّ 1 <i>It</i> (the sight) <i>was,</i> or <i>became, dim, dull,</i> or <i>hebetated.</i> (K.) === <i>He</i> (a camel) <i>was,</i> or <i>became, fatigued, tired,</i> or <i>wearied.</i> (MA.) === كَلَّتِ الأَيْدِى <i>The hands,</i> or <i>arms, became weak;</i> syn. ضعفت [i. e. ضَعَُفَتْ]. (Ham, 296.) [كَلَّ عَنْ فِعْلٍ <i>He was fatigued,</i> or <i>weak, and so disabled,</i> or <i>incapacitated, from doing a thing;</i> like أَعْيَا عَنْهُ, and ضَعَُفَ عَنْهُ: see نُخِبَ and عَرِسَ.] === كَلَّتْ أَسْنَانُهُ, (K, art. ضرس,) inf. n. كَلَالٌ, (S, in that art.,) <i>His teeth were set on edge,</i> (TK, in that art.,) by eating, or drinking, what was acid, or sour. (S, K, in that art.) === كَلَّ <i>It</i> (a sword, &c.) <i>was blunt, and would not cut.</i> (K, &c.) === كُلَّتُهُنَّ for كُلُّهُنَّ: see Bd xxxi., last verse.\nكَلَّلَ 2 <i>He adorned</i> a thing with gems or jewels.\nكُلٌّ when preceded by a negative and followed by an exception, means <i>Any one;</i> as in the Kur, xxxviii. 13, إِنْ كُلٌّ إِلَّا كَذَّبَ الرُّسُلَ <i>There was not any one but accused the apostles of lying.</i> See also another ex. voce لَمَّا. === See بَعْض. === هُوَ العَالِمُ كُلُّ العَالِمِ [lit. <i>He is the possessor of knowledge, the entirety of the possessor of knowledge,</i>] means that he is one who has attained to the utmost degree of the quality thus attributed to him. (Sb, K, TA.) === كُلَّمَا <i>Whatever.</i> === كُلَّمَا <i>Whenever; as often as; every time that; in proportion as.</i> === كُلَّمَنْ <i>Whoever.</i>\nكُلِّىٌّ <i>Relating to all</i> or <i>the whole; universal; total:</i> and often meaning <i>relating to the generality; general; contr. of</i> جُزْئِىٌّ. === And, as a subst., <i>A universal; that which comprises all</i> جُزْئِيَّات, or <i>particulars:</i> pl. كُلِّيَّاتٌ. === كُلِّيَّةٌ The <i>quality of relating to all</i> or <i>the whole; relation to all</i> or <i>the whole; universality; totality:</i> and often meaning the <i>quality of relating to the generality; generality.</i> === الكُلِّيَّاتُ الخَمْسُ, in logic, <i>The Five Predicables:</i> namely, الجِنْسُ <i>Genus,</i> النَّوْعُ <i>Species,</i> الفَصْلُ <i>Difference,</i> الخَلصَّةُ <i>Property,</i> and العَرَضُ <i>Accident.</i>\nكِلَّةٌ [<i>musquito-curtain</i>]: see أَبُو دِثَارٍ and بَعَضَ.\nمُكَلَّلٌ <i>Adorned</i> with gems or jewels. (L, art. نجد; a common meaning.)\nوَرِثَ رَجُلًا كَلَالَةً , and عَنْ كَلَالَةٍ, <i>He was heir of a man who left neither parent nor offspring</i> (IbrD.)"
+}

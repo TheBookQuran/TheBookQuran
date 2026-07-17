@@ -1,0 +1,37 @@
+{
+  "rootId": "r1600",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:23:40.664Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Power, establishment, place, authority, or egg",
+  "primaryMeaning": "To establish or place in authority",
+  "quranicRelevance": "Establishing in power/authority (Tamkeen - 'makkanna lahum'), and status/position (Makanah - 'ala makanatikum').",
+  "keyDerivations": [
+    {
+      "lemma": "مَكَّنَ",
+      "form": "Form II Verb",
+      "meaning": "To establish, settle, empower, or give authority to"
+    },
+    {
+      "lemma": "مَكَانٌ / مَكَانَةٌ",
+      "form": "Noun",
+      "meaning": "Place, location, status, position, or standard"
+    },
+    {
+      "lemma": "مَكِينٌ",
+      "form": "Adjective",
+      "meaning": "Established, secure, honored, or in high standing"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "عَلَى مَكَانَتِكُمْ: According to your position/manner.",
+    "فِي قَرَارٍ مَكِينٍ: In a secure place/lodging (the womb)."
+  ],
+  "discardedNoise": [
+    "The egg of a lizard (مَكْن) - original physical base.",
+    "Mechanics and engineering terms (post-classical)."
+  ],
+  "summaryEn": "The root denotes power and establishment, portraying the political/social empowerment (Tamkeen) of believers and secure physiological placing (Makeen).",
+  "summaryAr": "يدل هذا الجذر على التمكين والقدرة، واصفاً التمكين المجتمعي والسياسي للمؤمنين (مكّنا)، والمستقر البدني الحصين للجنين (قرار مكين).",
+  "rawText": "أَمْكَنَهُ مِنْ شَىْءِ 4 <i>He made him to have a thing within his power, or reach: enabled him to do, reach, get,</i> or <i>obtain, a thing.</i> See 2. === أَمْكَنَهُ <i>It was within his power, or reach; was possible, or practicable, to him.</i> === أَمْكَنَهُ <i>It became easy to him.</i> (Msb.) <i>It</i> (an object of the chase) <i>offered him an opportunity</i> to shoot it or capture it; or <i>became within his power, or reach.</i> === أَمْكِنِى, said to a woman, [meaning <i>Empower thou;</i> i. e. <i>grant thou access;</i>] occurs in a poem. (S, art. عرض.) === أَمْكَنَتْهُ <i>She granted him attainment.</i>\nاِسْتَمْكَنَ 10 : see 5. === <i>He,</i> or <i>it, was,</i> or <i>became, firm.</i> It seems sometimes to mean <i>It</i> (a plant) <i>took firm root.</i>\nتَمَكَّنَ 5 <i>i. q.</i> اِسْتَقَرَّ: (Msb, art. قر:) it is very often used in this sense, as meaning <i>He,</i> or <i>it, settled; became fixed,</i> or <i>established; it became fixed,</i> or <i>steady, in its place;</i> when said of a man, particularly implying <i>in authority and power:</i> see قَرَّ. === تَمَكَّنَ مِنْ شَىْءٍ, and 🡻اِسْتَمْكَنَ, <i>He became possessed of mastery,</i> or <i>dominion,</i> or <i>ascendancy,</i> or <i>authority, and power, over a thing; he was able to avail himself of it:</i> [<i>he was,</i> or <i>became, within reach of him,</i> or <i>it.</i>] (Msb.) === تَمَكَّنَ مِنْهُ <i>He assumed authority over him.</i>\nجَلَسَ مُتَمَكِّنًا <i>He sat in a firm,</i> or <i>settled, posture;</i> as when one sits cross-legged.\nمَكَانَةٌ <i>Greatness, and high rank</i> or <i>standing.</i> in the estimation of the Sultán: (Msb:) <i>an honourable place</i> in the estimation of a king. (K.)\nمَكِنَةٌ <i>i. q.</i> تَمَكُّنُ. (Sh, TA.) === النَّاسُ عَلَى مَكِنَاتِهِمْ means على مَقَارِّهِمْ. (IAar, TA.)\nمَكَّانُ : see مَصَّانٌ in art. مص.\nمَكَّنَهُ 2 <i>He gave him a place:</i> (Jel, vi. 6:) <i>he assigned him a place, and settled,</i> or <i>established, him.</i> (Bd, ibid, where see more.) You say also, مَكَّنَ لَهُ فِى مَنْزِلٍ [<i>He assigned,</i> or <i>gave, him a place in an abode</i>]. (S in art. بوأ.) === مَكَّنَهُ مِنْ شَىْءٍ, and 🡻أَمْكَنَهُ, <i>He made him to have mastery,</i> or <i>dominion,</i> or <i>ascendancy,</i> or <i>authority, and power, over a thing;</i> (Msb;) <i>put it in his power.</i> === مَكَّنَهُ مِنَ الشَّىْءِ, and 🡻أَمْكَنَمِنْهُ, <i>He empowered him, enabled him,</i> or <i>rendered him able, to do the thing: he enabled him to have the thing within his power.</i> Ex. 🡻أَمْكَنَيَدَيْهِ مِنْ رُكْبَتَيْهِ <i>He enabled his hands to take and grasp his knees.</i> from a trad. (Mgh.)\nمَكْنَانٌ : see رَيِّحَةٌ.\nمُكْنَةٌ , (Msb, TA,) with damm, (TA,) <i>Power;</i> (Msb, * TA;) <i>ability;</i> (TA;) <i>strength.</i> (Msb.)"
+}

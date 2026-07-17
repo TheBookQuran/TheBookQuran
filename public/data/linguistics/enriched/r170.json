@@ -1,0 +1,26 @@
+{
+  "rootId": "r170",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:52:16.826Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Smiling, showing teeth slightly in joy, cheerfulness, or subtle laughter",
+  "primaryMeaning": "Smiling in joy",
+  "quranicRelevance": "He smiled, laughing (Tabassama - 'fatabassama').",
+  "keyDerivations": [
+    {
+      "lemma": "تَبَسَّمَ / يَتَبَسَّمُ",
+      "form": "Form V Verb",
+      "meaning": "To smile, show teeth slightly in joy/pleasure, or grin gently"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فَتَبَسَّمَ ضَاحِكًا مِنْ قَوْلِهَا وَقَالَ رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ (27:19): So he (Solomon) smiled, laughing at her (the ant's) speech, and said: 'My Lord, grant me to thank You...'"
+  ],
+  "discardedNoise": [
+    "Bismillah (In the name of God) - B-S-M proper contraction (unrelated to this verbal root).",
+    "Basmah (female name)."
+  ],
+  "summaryEn": "The root represents smiling gently in delight (Basm), depicting Solomon's joyful reaction when he overheard the cautious warning of the leader ant to her colony.",
+  "summaryAr": "يمثل هذا الجذر التبسم وهو انفراج الشفتين ضحكاً بلا صوت هادئاً (بسم)، واصفاً سرور سليمان وتأثره البالغ عند سماع تحذير النملة لرفاقها.",
+  "rawText": "إِبْتَسَمَ 8 see 5, in two places.\nبَاسِمٌ part. n. of بَسَمَ [meaning <i>Smiling</i>]. (K, TA.)\nبَسَمَ 1 : see 5, with which it is syn. === [Hence,] مَا بَسَمْتُ فِى الشَّىْءِ ‡ <i>I did not taste the thing.</i> (K, TA.)\nبَسَّامٌ (S M, K) and 🡻مِبْسَامٌ (S, K) epithets from بَسَمَ, (M, K,) applied to a man, (S, M,) meaning كَثِيرُ التَّبَسُّمِ [<i>That smiles much</i>]. (S.)\nتبسّم 5 ; and 🡻ابتسم; and 🡻بَسَمَ, aor. ﹻ inf. n. بَسْمٌ (S, M, Msb, K) and مَبْسَمٌ; (K, * TA;) [<i>He smiled;</i>] these verbs signify less than ضَحِكَ [so that they are properly explained by the Latin <i>subrisit</i>]: (S, Msb:) or <i>he opened his lips like him who displays to another his teeth:</i> (Lth, TA:) or <i>he laughed in the least degree and in the most beautiful manner:</i> (M, K:) or <i>he laughed a little without any sound:</i> (Msb:) or تَبَسُّمٌ is the <i>beginning of</i> ضَحِكٌ [or <i>laughter</i>]: (Towsheeh, and Neseem er-Riyád, in TA art. ضحك, q. v.:) accord. to Zj, it is the utmost degree of laughing of the prophets. (M.) === [Hence,] 🡻ابتسمالسَّحَابُ عَنِ البَرْقِ (M,) or تبسّم عَنْهُ (TA,) <i>i. q.</i> اِنْكَلَّ عنه [i. e. ‡ <i>The clouds displayed a faint flashing of lightning</i>]. (M, TA.) === And تبسّم الطَّلْعُ ‡ <i>The extremities of the</i> طلع [i. e. the <i>spadix,</i> or the <i>spathe, of the palm-tree,</i>] <i>burst asunder.</i> (TA.)\nمَبْسِمٌ <i>i. q.</i> ثَغْرٌ (S, K,) meaning The <i>front teeth:</i> (TK:) [and sometimes, perhaps, the <i>mouth:</i>] so called as being the place of التَّبَسُّم [or smiling: pl. مَبَاسِمُ]. (TA.) One says, [of women or girls,] هُنَّ غُرُّ المَبَاسِمِ [<i>They are white in the front teeth</i>]. (TA.)\nمِبْسَامٌ : see بَسَّامٌ"
+}

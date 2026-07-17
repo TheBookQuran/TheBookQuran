@@ -1,0 +1,31 @@
+{
+  "rootId": "r1428",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:01:45.660Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Clothing, dressing, garment, shell, or covering",
+  "primaryMeaning": "Clothing/garment",
+  "quranicRelevance": "Feeding and clothing orphans/needy (Kiswah - 'aw kiswatuhum'), and covering bones with flesh (Kasawna - 'fakasawna al-'ithama').",
+  "keyDerivations": [
+    {
+      "lemma": "كَسَا / يَكْسُو",
+      "form": "Form I Verb",
+      "meaning": "To clothe, dress, cover, envelop, or wrap"
+    },
+    {
+      "lemma": "كِسْوَةٌ",
+      "form": "Noun",
+      "meaning": "Clothing, garment, dressing, or cover"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فَكَسَوْنَا الْعِظَامَ لَحْمًا (23:14): Then We clothed/covered the bones with flesh (biological embryology progression)."
+  ],
+  "discardedNoise": [
+    "The annual draping cover ceremony (Kiswah) of the Kaaba, which is post-canonical in detail.",
+    "Modern fabric industry classifications."
+  ],
+  "summaryEn": "The root represents covering with garments, describing the social duty of clothing (Kiswah) the poor, and the biological covering of embryonic bones with flesh.",
+  "summaryAr": "يمثل هذا الجذر الإلباس والكساء، واصفاً الإطعام والكسوة ككفارة اليمين وإغاثة الفقير (كسوتهم)، والكساء البيولوجي للعظام باللحم جنينياً.",
+  "rawText": "أَكْسَى : see بَصَلٌ.\nتكسى 5 : see تقى.\nكَاسٍ <i>Having clothing:</i> see an ex. voce رُبَّ.\nكَسَوْتُهُ سَيْفًا 1 [<i>I invested him with a sword</i>]. (TA in art. غشو.)\nكِسَآءٌ [<i>A garment</i>]. See عَبَآءٌ, and حِلْسٌ and مُسَيَّحٌ. === ذُو كِسَآءٍ, as opposed to ذُوبُرْدٍ, † <i>A poor man.</i> (S, art. عج.) [The كساء was evidently a simple oblong piece of cloth; for الكِسَائِى is said to have been thus named because he wore a كساء while in the state of إِحْرَام; as is mentioned in the TA, art. كسو; but it seems to have been sometimes sewed in the manner of the عَبَآء, which see; and see also مُسَيَّحٌ, and بُرْدٌ.] It is [properly] not one of the garments which are cut and sewed [but is a single piece]: (Mgh, art. قطع:) [<i>a wrapper,</i> or <i>wrapping garment, of a single piece</i>]. === رَكِبَ كِسَآءَهُ <i>He fell upon the back of his neck.</i> (IAar, in TA, art. ردع.)"
+}

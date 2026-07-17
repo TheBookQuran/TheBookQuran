@@ -1,0 +1,26 @@
+{
+  "rootId": "r1558",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:21:37.831Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Testing, examining, trial, refining leather, or whipping",
+  "primaryMeaning": "Testing/examining (hearts/sincerity)",
+  "quranicRelevance": "Hearts tested for piety (Imtahana - 'imtahana Allahu quloobahum'), and testing migrating women ('fam-tahinoohunna').",
+  "keyDerivations": [
+    {
+      "lemma": "اِمْتَحَنَ / يَمْتَحِنُ",
+      "form": "Form VIII Verb",
+      "meaning": "To test, examine, try, inspect, verify sincerity, or probe"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا جَاءَكُمُ الْمُؤْمِنَاتُ مُهَاجِرَاتٍ فَامْتَحِنُوهُنَّ (60:10): O you who believe! When the believing women come to you as emigrants, examine/test them (to verify their political/religious sincerity)."
+  ],
+  "discardedNoise": [
+    "Academic school exams (Imtihan) - modern usage.",
+    "Softening leather skins in tanning pits (classical reference)."
+  ],
+  "summaryEn": "The root represents examining/testing (Imtihan), detailing how God tests hearts for piety (Ikhlas) and commanding the testing of migrating women's loyalty.",
+  "summaryAr": "يمثل هذا الجذر الاختبار والفرز لمعرفة الحقيقة وباطن الأمر (امتحان)، واصفاً تطهير الله لقلوب المتقين، وأمر اختبار صدق المهاجرات سياسياً وعقائدياً.",
+  "rawText": "مَحُونَةٌ (not مُحُونَةٌ): see art. حين.\nمِحْنَةٌ <i>A trial,</i> (S, Msb, K,) or <i>trying affliction:</i> (S:) pl. مِحَنٌ. (Msb.)"
+}

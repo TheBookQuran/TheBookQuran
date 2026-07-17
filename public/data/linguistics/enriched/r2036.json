@@ -1,0 +1,26 @@
+{
+  "rootId": "r2036",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:11:50.470Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Refuge, shelter, hiding place, fortress, escape, or search",
+  "primaryMeaning": "Refuge/escape",
+  "quranicRelevance": "No refuge from God except in Him (Malja' - 'an la malja'a mina Allahi'), and searching for refuge ('malja'an').",
+  "keyDerivations": [
+    {
+      "lemma": "مَلْجَأٌ / مَلَاجِئُ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Refuge, shelter, place of escape, safety vault, or fortress"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "لَوْ يَجِدُونَ مَلْجَأً أَوْ مَغَارَاتٍ أَوْ مُدَّخَلًا لَوَلَّوْا إِلَيْهِ وَهُمْ يَجْمَحُونَ (9:57): If they could find a refuge/shelter or caves or a hole to enter, they would turn to it and run wildly (hypocrites' battlefield panic)."
+  ],
+  "discardedNoise": [
+    "Political asylum claims in modern refugee treaties.",
+    "Taking shelter under trees during rain."
+  ],
+  "summaryEn": "The root represents safety shelters (Malja'), detailing the absolute panic of hypocrites wishing for any cave/refuge, and the certainty that there is no refuge from God except in Him.",
+  "summaryAr": "يمثل هذا الجذر الملاذ الآمن ومأوى التحصن من الخطر (ملجأ)، واصفاً ذعر المنافقين وتمنيهم أي مغارة للهرب، وشهادة القلوب بألا ملجأ من الله إلا إليه.",
+  "rawText": "إِلْتَجَاَ 8 see 1 and 4.\nالجأه إِلى شَىْءٍ 4 <i>He constrained, compelled, forced, drove,</i> or <i>necessitated, him to have recourse to,</i> or <i>to betake himself to,</i> or <i>to repair to,</i> or <i>to do, a thing; he impelled him,</i> or <i>drove him, against his will, to it,</i> or <i>to do it;</i> (S, * Mgh, Msb, K, * TA;) as also 🡻لجّاهُإِلَيْهِ. (Mgh, Msb.) === الجأ أَمْرَهُ إِلَى اللّٰهِ, (S, K,) and [إِلَى اللّٰهِ]  🡻لَجَأَ, and 🡻التجأ, and 🡻تلجّأ (TA,) <i>He referred,</i> or <i>committed, his affair to God.</i> (S, K.) === الجأه <i>He protected him, defended him.</i> (K.) Also said of a place, [<i>It protected him; afforded him refuge.</i>] (K, art. حرز.) === الجأه إِلَى شَىْءٍ is also said when one has defended another, [as] in a place of refuge; [and app. may be rendered <i>He caused him to have recourse to a thing, as to a place of refuge</i>]. (TA.)\nتَلَجَّاَ 5 see 1 and 4.\nلجّأ 2 , inf. n. تَلْجِئَةٌ, <i>He forced</i> a person <i>to do a thing against his will:</i> (S, K:) or, <i>to do a thing which was contrary to what it appeared to be.</i> (AHeyth.) === تَلْجِئَةٌ is also explained as signifying The <i>leaving one's property to some one</i> or <i>more of his heirs, in preference to,</i> or <i>to the exclusion of, the other</i> or <i>others.</i> لجّأ <i>He so left</i> his property. (ISh.) === See 4.\nلَجَأٌ and 🡻مَلْجَأٌ (S, K) and 🡻مُلْتَجَأٌ (K, art. لحد; &c.) <i>A place to which one has recourse for refuge, protection, preservation, concealment, covert,</i> or <i>lodging; a place of refuge; an asylum; a refuge.</i> (S, K.) The hemzeh of the ↓ second is sometimes elided; and this is done to assimilate the word to مَنْجَا, when it is used therewith; like as منجا is written with hemzeh to assimilate it in the like case to مَلْجَأٌ. === [ 🡻ملجأٌ is often applied to a man: and you say also,] 🡻المَلْجَإِفُلَانٌ حَسَنُ [<i>Such a one is a good person to whom to have recourse for protection</i> or <i>concealment</i>]. The pl. of لَجَأٌ is أَلْجَآءٌ. (TA.) === لَجَأٌ † <i>A wife.</i> (L.) === <i>An heir.</i> (ISh.) [See 2.] ___ The <i>frog:</i> (K:) or <i>a kind of tortoise, that lives on the land and in the sea:</i> (M:) fem. with ة. (K.) <i>The</i> لجأة <i>of the sea</i> (اللَّجَأَةُ البَحْرِيَّةُ) <i>is asserted to have a tongue in its breast, and to kill the animal that it strikes.</i> (Dmr.)\nلَجَأَ إِلَيْهِ 1 , aor. ﹷ, (S, K,) inf. n. لَجْءٌ (TA) or لَجَأٌ (S) and لُجُوْءٌ (TA) and مَلْجَأٌ; (S;) and لَجِئّ, aor. ﹷ, (K,) inf. n. لَجَأٌ; (TA;) and 🡻التجأ; (S, K;) <i>He had recourse to it,</i> or <i>betook himself to it,</i> or <i>repaired to it,</i> (i. e. a thing or a place, TA) <i>for refuge, protection, preservation, concealment, covert,</i> or <i>lodging.</i> (K.) See 4. === لَجَأَ إِلَيْهِ, and 🡻التجأ, and 🡻تلجّأ, <i>He relied upon, and sought aid from, him.</i> (TA.) === لَجَأَ عَنْهُ, and 🡻التجأ, and 🡻تلجّأ, and تلجأ مِنْهُ, <i>He declined,</i> or <i>turned away, from him,</i> إِلَى غَيْرِهِ <i>to another,</i> [<i>and had recourse to the latter.</i>] (TA.)\nمَلْجَأٌ and مُلْتَجَأٌ: see لَجَأٌ."
+}

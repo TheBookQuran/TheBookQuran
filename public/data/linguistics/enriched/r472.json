@@ -1,0 +1,31 @@
+{
+  "rootId": "r472",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:06:09.694Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Guessing, conjecture, lying, estimation, fruit count, or cold",
+  "primaryMeaning": "Conjecture/lying",
+  "quranicRelevance": "Doing nothing but guessing/conjecturing (Yakhrusoon - 'in hum illa yakhrusoon'), and cursed are the conjecturers ('qutila al-kharrasoon').",
+  "keyDerivations": [
+    {
+      "lemma": "خَرَصَ / يَخْرُصُ",
+      "form": "Form I Verb",
+      "meaning": "To guess, conjecture, lie, speak without facts, or estimate blindly"
+    },
+    {
+      "lemma": "خَرَّاصٌ / خَرَّاصُونَ",
+      "form": "Noun / Active part. pl.",
+      "meaning": "Conjecturers, blind guessers, or liars who invent theories"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "قُتِلَ الْخَرَّاصُونَ (51:10): Cursed/destroyed be the conjecturers/guessers (those who build theological assumptions on absolute zero facts)."
+  ],
+  "discardedNoise": [
+    "Agricultural estimation of dates on palm trees (خرص النخل) - though etymologically related as estimation.",
+    "Obscure details of cold water."
+  ],
+  "summaryEn": "The root represents conjecture (Khars), condemning those who base their cosmic and theological positions on guesswork (Yakhrusoon) rather than verified revelation.",
+  "summaryAr": "يمثل هذا الجذر التخمين القائم على الكذب (الخرص)، ذاماً المتخرصين المبتدعين لعقائد الشرك بلا علم (الخراصون)، ورجمهم باللعنة.",
+  "rawText": "إِخْتَرَصَ 8 see 1, near the end.\nتَخَرَّصَ 5 see 1, in four places, near the end.\nخَارِصٌ One <i>who computes by conjecture the quantity of the fruit upon palm-trees:</i> pl. خُرَّاصٌ. (A, * TA.) === ‡ <i>A liar;</i> (Msb, TA;) as also 🡻خَرَّاصٌ. (S, A, Msb, TA.) قُتِلَ الخَرَّاصُونَ, in the Kur [li. 10], (TA,) means, ‡ <i>Slain be the liars;</i> (Fr, Zj, A, Bd, TA;) i. e., <i>cursed be they;</i> (Bd;) who say that Mohammad is a poet, and the like thereof, conjecturing that which they know not: (Fr, TA:) or it may mean, <i>they who only opine, and do not ascertain;</i> and therefore act according to that which they know not. (Zj, TA.) ___ See also خَرِصٌ.\nخَرَصَ النَّخْلَ 1 , (S, A, Mgh, Msb,) aor. ﹹ (A, Msb) [and ﹻ, as appears from what follows,] inf. n. خَرْصٌ, (S, A Mgh, Msb,) [and خِرْصٌ is also allowable, (see what follows,)] <i>He computed by conjecture the quantity of the fruit upon the palm-trees:</i> (A, Mgh, Msb:) or <i>he computed by conjecture the quantity that was upon the palmtrees of fresh ripe dates that would be dried dates.</i> (S.) خَرْصٌ signifies The <i>computing quantity by conjecture;</i> (A, K, TA;) <i>conjecturing; opining:</i> or <i>forming an opinion of a thing of which one is not certain:</i> you say, خَرَصَ العَدَدَ, aor. ﹹ and ﹻ, inf. n. خَرْصٌ and خِرْصٌ, the latter said by ISh to be like عِلْمٌ as inf. n. of عَلِمَ, and said by Az to be allowable because a simple subst. is put in the place of an inf. n., <i>He computed by conjecture the number:</i> and hence خَرْصُ النَّخْلِ, and التَّمْرِ, [<i>the computing by conjecture the quantity of fruit upon palm-trees,</i> and <i>of dates,</i>] because خَرْصٌ is the <i>computing quantity by opinion, not by knowledge.</i> (TA.) === خَرْصٌ also signifies Any <i>speaking by opinion,</i> or <i>conjecture.</i> (K, * TA.) You say, خَرَصَ فِيهِ <i>He spoke of him,</i> or <i>it, by opinion,</i> or <i>conjecture.</i> (TK.) === And hence, (TA,) خَرَصَ, (S, Msb, K,) aor. ﹹ, (S,) inf. n. خَرْصٌ, (S, Msb, K,) ‡ <i>He lied; spoke falsely; said what was untrue;</i> (S, Msb, K; *) as also 🡻تخرّص. (S.) You say also, عَلَيْهِ ↓ ‡ تخرّص ‡ <i>He forged a lie against him.</i> (A, K, TA.) And قَالَ ذٰلِكَ 🡻تَخَرُّصًا ‡ [<i>He said that forging a lie</i>]. (A.) And 🡻اخترص القَوْلَ, (A, K, *) and 🡻تخرِّصهُ, (A,) ‡ <i>He forged the saying.</i> (A, K. *) ___ خَرِصَ, (S, K,) aor. ﹷ, (K,) inf. n. خَرَصٌ, (S, A,) <i>He</i> (a man) <i>was hungry and cold:</i> (S, A: *) or <i>hungry in cold.</i> (K.) Being hungry without being cold is not termed خَرَصٌ: but being cold without being hungry is termed خَصَرٌ. (S.)\nخَرِصٌ A man <i>hungry and cold:</i> (S, TA:) or <i>hungry in cold:</i> (K:) and 🡻خَارِصٌ signifies the same. (TA.) [See also خَصِرٌ.]\nخَرَّاصٌ : see the next paragraph.\nخُرْصٌ (S, A, Msb, K) and 🡻خِرْصٌ (S, K) <i>A ring:</i> (Msb:) or <i>a ring of gold,</i> and <i>of silver:</i> (S, K:) or <i>an ear-ring with one bead,</i> (A, TA,) <i>of the kind called</i> قُرْط: (TA:) or the <i>ring of a</i> قُرْط: (K:) or <i>a small ring; one of the ornaments of women;</i> (Sh, K;) <i>in the form of the</i> قُرْط <i>or some other thing:</i> (Sh:) pl. خِرْصَانٌ. (S, K.) [Hence,] مَا تَمْلِكُ فُلَانَةُ خُرْصًا, meaning ‡ <i>Such a woman has not in her possession anything.</i> (A.)\nخُرْصَةٌ <i>Food for a woman who has given birth to a child:</i> (K:) app. a dial. var. of خُرْسَةٌ. (TA.)\nخِرْصٌ a subst. from خَرَصَ as explained above; (S, A, Msb, K) <i>Conjectural computation of quantity:</i> (ISh:) or <i>quantity computed by conjecture</i> of the fruit upon palm-trees. (A, Mgh.) You say, كَمْ خِرْصُ نَخْلِكَ [<i>What is the conjectural computation of the quantity,</i> or <i>the quantity computed by conjecture, of the produce of thy palm-trees?</i>]. (TA.) And كَمْ خِرْصُ أَرْضِكَ [<i>What is the conjectural computation,</i> or <i>the quantity computed by conjecture, of the produce of the palm-trees of thy land?</i>]. (S, A, K.) ___ See also خُرْصٌ. ___ And see خَرْسٌ."
+}

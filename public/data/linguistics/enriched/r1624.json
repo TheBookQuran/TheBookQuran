@@ -1,0 +1,31 @@
+{
+  "rootId": "r1624",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:05:27.741Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Water, liquidity, or luster",
+  "primaryMeaning": "Water",
+  "quranicRelevance": "Water (Maa'/Miyah) as the source of life, rain, and purification.",
+  "keyDerivations": [
+    {
+      "lemma": "مَاءٌ",
+      "form": "Noun",
+      "meaning": "Water, rain, or liquid"
+    },
+    {
+      "lemma": "مِيَاهٌ",
+      "form": "Noun pl.",
+      "meaning": "Waters"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "مَاءٍ مَهِينٍ: A despised/weak fluid (semen, representing human physical origins)."
+  ],
+  "discardedNoise": [
+    "Plating objects with gold/silver (تمويه) - post-classical metaphorical use.",
+    "Chemical properties of water."
+  ],
+  "summaryEn": "The root refers to water, representing the vital source of all living things, rain, and purification in the Quran.",
+  "summaryAr": "يشير هذا الجذر إلى الماء، وهو يمثل المصدر الأساسي للحياة الطاهرة والري والتطهير في القرآن الكريم.",
+  "rawText": "أَمَاهَ 4 <i>He</i> (a digger) <i>produced,</i> or <i>fetched out, water, by his labour</i> or <i>work;</i> syn. أَنْبَطَ المَآءَ: (S, K:) or <i>reached the water:</i> (Msb:) or <i>reached much water;</i> as also أَمْهَى. (AA, in TA, art. نبط.) === أَمَاهُ الرَّكِيَّةَ <i>He</i> (a man) <i>produced,</i> or <i>fetched out, by his labour,</i> or <i>work</i> [<i>in digging,</i>] <i>the water of the well;</i> syn. أَنْبَطَ مَآءَهَا: (S, K:) <i>He</i> (God) <i>made the water of the well to be much,</i> or <i>abundant.</i> (Msb.)\nمَوَّهَ 2 <i>He silvered</i> or <i>gilded,</i> (S, K,) or <i>washed over with gold</i> or <i>silver,</i> (Msb,) a thing (S, Msb, K, TA) of brass (TA) or copper or iron. (S, K.) === <i>He</i> [<i>varnished</i> or] <i>embellished</i> falsehood <i>so as to give it the appearance of truth.</i> (TA.) <i>He falsified</i> information, عَلَيْهِ <i>to him,</i> in reply to a question. (K.) === <i>He involved in confusion,</i> or <i>doubt;</i> or <i>practised concealment</i> or <i>disguise:</i> or <i>he concealed</i> or <i>disguised:</i> (S, TA:) and <i>he deceived, deluded, beguiled, circumvented,</i> or <i>outwitted.</i> (TA.) === <i>He varnished,</i> or <i>embellished with a false colouring.</i>"
+}

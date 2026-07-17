@@ -1,0 +1,31 @@
+{
+  "rootId": "r1237",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:51:40.463Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Anger, rage, suppressed fury, or boiling",
+  "primaryMeaning": "Anger/fury",
+  "quranicRelevance": "Suppressed rage/anger of wrongdoers or Hell itself (Ghaydh - 'adhdhoo 'alaykumu al-anamila mina al-ghaydhi', 'takadu tamayyazu mina al-ghaydhi').",
+  "keyDerivations": [
+    {
+      "lemma": "غَيْظٌ",
+      "form": "Noun",
+      "meaning": "Rage, anger, suppressed fury, or boiling wrath"
+    },
+    {
+      "lemma": "غَاظَ / يَغِيظُ",
+      "form": "Form I Verb",
+      "meaning": "To anger, enrage, infuriate, or vex"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "تَكَادُ تَمَيَّزُ مِنَ الْغَيْظِ (67:8): It almost bursts with rage/fury (depicting Hell as a living entity boiling with anger at sin)."
+  ],
+  "discardedNoise": [
+    "Variant spelling link to water decreasing (ghaadha) which is g-y-dh, distinct root.",
+    "Anger management therapy classes."
+  ],
+  "summaryEn": "The root represents suppressed rage (Ghaydh), detailing the toxic anger of hypocrites and the personified fury of Hell against transgression.",
+  "summaryAr": "يمثل هذا الجذر الغيظ والاحتقان، واصفاً غيظ صدور المنافقين (من الغيظ)، والغليان الغاضب لجهنم أمام العصاة (تميز من الغيظ).",
+  "rawText": "أَغْيَظَ 4 see the first paragraph.\nأَغْيَظُ [comparative and superlative of غَائِظٌ]. أَغْيَظُ الأَسْمَآءِ عِنْدَ ٱللّٰهِ مَلِكُ الأَمْلَاكِ means <i>The most severely to be punished, of persons bearing names, is he who is named the king of kings:</i> (TA:) [lit. <i>the most angering,</i> or <i>enraging, of names, is the king of kings.</i>]\nاغتاظ 8 <i>He was</i> or <i>became, affected with</i> غَيْظ [or <i>anger;</i> or <i>rage;</i> &c.; i. e. <i>he was,</i> or <i>became, angered;</i> or <i>enraged;</i> &c.]; (S, Msb, K;) مِنْ كَذَا <i>by reason of such a thing;</i> and sometimes one says, مِنْ لَا شَىْءٍ <i>by reason of nothing;</i> (Msb;) as also 🡻تغيّظ. (S, K.)\nتَغَيَّظَ 5 see 8. === سَمِعُوا لَهَا تَغَيُّظًا, in the Kur [xxv. 13] means ‡ <i>They shall hear it to have a sound of boiling,</i> (Zj, Bd, Jel,) <i>like the boiling of the breast of an angry man.</i> (Bd, * Jel.) === تَغَيَّظَتِ الهَاجِرَةُ ‡ <i>The midday,</i> or <i>summer-midday, became</i> [<i>ragingly</i> or] <i>vehemently hot.</i> (K, TA.)\nحَلِيمَةٌ مُغْتَاظَةٌ ‡ [lit. <i>Calm, angry;</i> or <i>the like;</i> because what it contains is sometimes still and sometimes boiling;] is an appellation given to <i>a stone cooking-pot.</i> (A, TA.)\nغايظهُ 3 , inf. n. مُغَايَظَةٌ: see 1: [originally, <i>He angered him,</i> or <i>enraged him,</i> or <i>the like, being angered,</i> or <i>enraged,</i> or <i>the like, by him.</i> === And hence, because emulation, or the like, often causes mutual anger,] ‡ <i>He emulated him, vied with him,</i> or <i>strove to overcome</i> or <i>surpass him, and did like as he did.</i> (TA.) === مُغَايَظَةٌ also signifies † <i>An acting in a leisurely manner:</i> or it is [<i>a</i>] <i>mutual</i> [<i>acting in that manner</i>]. (TA.)\nغَائِظٌ <i>Affecting with</i> غَيْظ [or <i>anger;</i> or <i>rage;</i> &c.; i. e. <i>angering;</i> or <i>enraging;</i> &c.]: (TA:) pl. غَائِظُونَ. (Kur, xxvi. 55.)\nغَاظَهُ 1 , (S, Msb, K,) aor. يَغِيظُ, (Msb, K,) inf. n. غَيْظٌ, (Msb, TA,) <i>He,</i> or <i>it, affected him with</i> غَيْظ [or <i>anger, wrath,</i> or <i>rage;</i> &c.; i. e. <i>angered him;</i> or <i>enraged him;</i> &c.]; (S, Msb, K, &c.;) as also 🡻غيّظهُ; (IAar, Th, K; [in a copy of the Msb, تغيّظهُ, which is doubtless a mistranscription;]) and 🡻غايظهُ; (S, K;) and 🡻اغاظهُ; (IAar, Th, Msb, K;) but this last is not common; (Zj;) or it is not allowable. (ISk, S.) [See also غَيْظٌ below.]\nغَيَّظَ 2 see the preceding paragraph.\nغَيْظٌ <i>Anger; wrath;</i> syn. غَضَبٌ: (K) or [<i>rage,</i> or <i>vehement anger;</i> for] it has a more intensive signification than غَضَبٌ: (IDrd:) or the former is <i>latent</i> [<i>anger</i>]; and the latter is apparent: or the former is <i>that which affects a person who has not power to exercise it;</i> and the latter, that which affects a person who has power to exercise it: (TA:) or the former, <i>latent anger affecting one who has not power to exercise it:</i> (S:) or <i>most vehement anger,</i> (Msb, K,) <i>encompassing the liver, by reason of some event that is disliked</i> or <i>hated,</i> and sometimes <i>by reason of nothing:</i> (Msb:) or the <i>outbreak, and commencement, of anger.</i> (IDrd, K.) === تَكَادُ تَمَيَّزُ مِنَ ٱلْغَيْظِ, in the Kur [lxvii. 8], means † <i>It shall almost burst asunder by reason of vehemence of heat.</i> (TA.)\nفَعَلَ ذٰلِكَ غِيَاظَكَ , and غِيَاظَيْكَ, (K, * TA,) [in the CK غِيَاضَيْكَ,] <i>i. q.</i> غَنَاظَيْكَ, (K,) i. e. <i>He did that in order to distress thee,</i> [or <i>anger thee,</i> or <i>enrage thee,</i>] <i>time after time.</i> (K in art. غنظ.)\nمَغِيظٌ <i>Affected with</i> غَيْظ [or <i>anger;</i> or <i>rage;</i> &c.; i. e. <i>angered;</i> or <i>enraged;</i> &c.]. (S, Msb.)"
+}

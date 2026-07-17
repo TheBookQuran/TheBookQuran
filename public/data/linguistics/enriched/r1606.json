@@ -1,0 +1,57 @@
+{
+  "rootId": "r1606",
+  "source": "lanes",
+  "enrichedAt": "2026-06-29T23:49:55.978Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Possessing, mastering, ruling, or kingship",
+  "primaryMeaning": "To possess, own, or rule",
+  "quranicRelevance": "Very frequent. Covers: ownership/possession ('mulk al-yameen'), sovereignty and kingdom (Mulk), kingship (Malik), the angels as agents of divine execution (Mala'ikah), and power or capability.",
+  "keyDerivations": [
+    {
+      "lemma": "مَلَكَ",
+      "form": "Form I Verb",
+      "meaning": "To possess, own, or have power over"
+    },
+    {
+      "lemma": "مُلْكٌ",
+      "form": "Noun",
+      "meaning": "Kingdom, sovereignty, or dominion"
+    },
+    {
+      "lemma": "مَلِكٌ",
+      "form": "Noun",
+      "meaning": "King or sovereign"
+    },
+    {
+      "lemma": "مَلَكٌ / مَلَائِكَةٌ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Angel / angels (from messengership/sovereignty)"
+    },
+    {
+      "lemma": "مَلَكُوتٌ",
+      "form": "Noun",
+      "meaning": "Absolute kingdom, dominion, or realm"
+    },
+    {
+      "lemma": "مَالِكٌ",
+      "form": "Noun / Active part.",
+      "meaning": "Owner, master, or king"
+    },
+    {
+      "lemma": "مَمْلُوكٌ",
+      "form": "Noun / Passive part.",
+      "meaning": "Owned, slave, or possessed"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "مَلْكٌ / مِلْكٌ: Possession, right, or property.",
+    "تَمَلَّكَ (Form V Verb): To possess or take possession."
+  ],
+  "discardedNoise": [
+    "Kneading dough strongly until it is firm (مَلَكَ العَجِينَ).",
+    "Obscure meanings relating to water-skin preparation."
+  ],
+  "summaryEn": "The root represents possessing and ruling, forming the base for the concepts of earthly and divine sovereignty (Mulk, Malakut) and the celestial beings (Mala'ikah).",
+  "summaryAr": "يمثل هذا الجذر الحيازة والملك، وهو الأساس لمفاهيم الملكوت والسيادة الإلهية والملوكية، وكذلك الكائنات السماوية (الملائكة).",
+  "rawText": "أَمْلَاكَاتٌ pl. of أَمْلاَكٌ pl. of مِلْكٌ <i>Goods,</i> or <i>chattels, of a bride:</i> see أَغْنَآءٌ in art. غنى.\nأَمْلَكُ : see شَرْطٌ. and also أَمْلَأُ, and أَرَبٌ. === مَا أَمْلِكُ شَدًّا وَلاَ إِرْخَآءً: see شَدَّ.\nالعَجِينَ 4 🡻مَلَكَ and أَمْلَكَهُ <i>He kneaded well the dough.</i> (S, K.) ___ See 2.\nتَمَلَّكَ 5 <i>He took possession of</i> a thing [<i>absolutely</i> or] <i>by force.</i> (Msb.)\nمَا تَمَالَكَ أَنْ فَعَلَ 6 <i>He could not restrain himself from doing;</i> (Mgh, Msb;) syn. مَا تَمَاسَكَ [q. v.] (S.)\nمَالكَ أُمَّهُ 3 : see شَدَنَ.\nمَالِكٌ : see رَبٌّ. === مَالِكُ الأَمْرِ <i>The possessor of command,</i> or <i>rule.</i> === المَالِكُ الكَبِيرُ <i>The Great Master, or Owner;</i> i. e., God; in contradistinction to المَالِكُ الصَّغِيرُ <i>the little master, or owner;</i> i. e., the human owner of a slave, &c. === مَالِكٌ الحَزِينُ: (so in one copy of the S: in another, and the MA, and Kzw, مَالِكُ الحَزِينِ:) [<i>The heron:</i> or a species thereof] in Pers. بوتيمار; (MA;) <i>a certain bird, long in the neck and legs, called in Pers.</i> بوتيمار. (Kzw:) see سَبَيْطَرٌ === أَبُو مَالِكٍ <i>Hunger.</i> (MF, art. جبر.) See also أَبٌ.\nمَلاَكُ الأَمْرِ and 🡻مِلاَكُهُ <i>That whereby the thing</i> &c. <i>subsists:</i> (S, KL:) <i>its</i> قَِوَام [q. v.] <i>by whom,</i> or <i>by which, it is ruled,</i> or <i>ordered:</i> (K:) <i>its foundation;</i> syn. أَصْلُهُ: (KL:) <i>its support; that upon which it rests:</i> (T, TA:) it may be rendered <i>the cause,</i> or <i>means, of the subsistence of the thing;</i> &c.\nمَلَكٌ <i>An angel:</i> see مَأْلَكٌ. === مَلَكٌ <i>Water.</i> (S.)\nمَلَكَةٌ [<i>A faculty.</i>] <i>A quality firmly rooted in the mind.</i> (KT.)\nمَلَكَهُ 1 <i>He possessed it,</i> or <i>owned it,</i> [and particularly] <i>with ability to have it to himself exclusively:</i> (M, K:) [and <i>he exercised,</i> or <i>had, authority over it;</i> for] مُلْكٌ signifies the <i>exercise of authority to command and to forbid in respect of the generality of a people</i> [&c.]: (Er-Rághib, TA:) or the <i>having possession and command</i> or <i>authority:</i> and the <i>having power to exercise command</i> or <i>authority.</i> (TA.) مِلْكٌ, as inf. n. of مَلَكَهُ meaning <i>He possessed it,</i> is more common than مَلْكٌ and مُلْكٌ. === [مَلَكَ أَمْرَهُ <i>He had the ruling,</i> or <i>ordering, of his affair,</i> or <i>case</i>] And مَلَكَ عَلَى النَّاسِ أَمْرَهُمْ <i>He had the dominion,</i> or <i>sovereignty,</i> or <i>ruling power, over the people.</i> (Msb.) ___ See 4.\nمَلَكُوتُ اللّٰهِ <i>God's world of corporeal beings.</i> (TA, art. شهد.) Generally <i>The kingdom of God.</i>\nمَلِكُ الأَمْلاَكِ <i>The king of kings.</i> See أَخْنَعُ.\nمَلَّكَهُ 2 <i>He made him to possess</i> a thing; (S, K;) as also 🡻أَمْلَكَهُ. (K.) === <i>He made him king;</i> or <i>made him to have dominion, kingship,</i> or <i>rule.</i> (Msb, K.) === يُمَلَّكَ الرَّجُلُ أَمْرَهُ [<i>The man shall be made to have the ruling,</i> or <i>ordering, of his affair,</i> or <i>affairs,</i> or <i>case</i>]. (Sh, T in art. دين.)\nمَمْلَكَةٌ <i>A kingdom, or realm.</i> (S.)\nمَمْلُوكٌ <i>A slave; a bondman;</i> syn. عَبْدٌ, (S,) or رَقِيقٌ. (TA.) In the present day, specially, <i>A white male slave.</i> (TA.) See مَرْبُوبٌ.\nمُلْكٌ <i>Dominion; sovereignty; kingship; rule; mastership; ownership; possession; right of possession; authority; sway.</i> === مُلْكُ ٱللّٰهِ <i>God's world of spirits; or invisible world.</i> (TA, art. شهد.) === [مُلْكٌ (when distinguished from ملكوت) The <i>dominion that is apparent;</i> as that of the earth.]\nمِلَاكٌ see مَلاَكٌ.\nمِلِيك is also <i>syn. with</i> مَمْلُوكٌ; this is meant in the TA where it is said that مُلَكَآءُ in the saying لَبَا مُلُوكٌ وَلَيْسَ لَبَا مُلَكَآءُ [<i>We have kings</i> of bees, <i>but we have not slaves</i>] is pl. of المَلِيكُ from المَمْلُوكُ: it is also said in art. رغو in the TA, (see 4 in that art.) that مَلِيكَةٌ is syn. with مَمْلُوكَةٌ.\nمِلْكٌ : its pl. أَمْلاَكٌ, in common conventional language means [or rather includes] <i>Houses</i> and <i>lands.</i> (TA.) See its pl. pl. أَمْلاَكَاتٌ."
+}

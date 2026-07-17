@@ -1,0 +1,26 @@
+{
+  "rootId": "r1112",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:09:12.475Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Supporting, helping, honoring, preventing, rebuke, or discipline",
+  "primaryMeaning": "Supporting/honoring",
+  "quranicRelevance": "Helping and honoring the Prophet (Azzaroo - 'wa tu'azziroohu', 'wata'tharoohu wa nasaroohu').",
+  "keyDerivations": [
+    {
+      "lemma": "عَزَّرَ / يُعَزِّرُ",
+      "form": "Form II Verb",
+      "meaning": "To support, honor, aid, strengthen, respect, or protect"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "لِتُؤْمِنُوا بِاللَّهِ وَرَسُولِهِ وَتُعَزِّرُوهُ وَتُوَقِّرُوهُ (48:9): That you may believe in God and His Messenger, and support/honor him and respect him (the duties of believers to the Prophet)."
+  ],
+  "discardedNoise": [
+    "Disciplinary court punishments (Ta'zeer) in Islamic criminal law (fiqh).",
+    "The prophet name Ezra (Uzayr) - spelling shift."
+  ],
+  "summaryEn": "The root represents honor and support, detailing the critical duties of the early Muslim community to support, defend (Ta'zeer), and respect the Prophet.",
+  "summaryAr": "يمثل هذا الجذر التوقير والنصرة والمنع من الأذى، مسطراً واجب الأمة في تعزير ودعم الرسول الكريم وحمايته وتوقيره (وتعزروه وتوقروه).",
+  "rawText": "عزّرهُ 2 , (O, TA,) inf. n. تَعْزِيرٌ, (S, O, K, TA,) <i>He disciplined, chastised, corrected,</i> or <i>punished, him;</i> (S, O, TA;) meaning <i>he did to him that which should turn him away,</i> or <i>back, from evil,</i> or <i>foul, conduct.</i> (Ibráheem Es-Seree, O, * TA.) === And hence, (S,) <i>He inflicted upon him a beating,</i> or <i>flogging, less than that prescribed by the law;</i> (S, M, Mgh, * O, Msb, * K;) as also 🡻عَزَرَهُ, inf. n. عَزْرٌ: (TA: but only the inf. n. of the latter verb in this sense is there mentioned:) because it prevents the criminal from returning to disobedience: but whether this meaning belong only to the conventional language of the law or be implied in the proper signification, is disputed: (TA:) or <i>he beat,</i> or <i>flogged, him with the utmost vehemence:</i> (M, K:) or تَعْزِيرٌ signifies [simply] the act of <i>beating.</i> (A.) And one says, ضَرَبَهُ تَعْزِيرًا, meaning <i>He beat him moderately; not exceeding the ordinary bounds.</i> (TA in art. حل.) === Also <i>He constrained him against his will,</i> عَلَى الأَمْرِ <i>to do the thing,</i> (O, K, *) <i>and taught him by forbidding him to return to the doing of that which was at variance therewith;</i> and so 🡻عَزَرَهُ: (IAar, O:) and <i>he taught him the</i> فَرَائِض and أَحْكَام [or <i>obligatory statutes</i> or <i>ordinances of God</i>]; (O;) or التَّعْزِيرُ, (Az, L,) or 🡻العَزْرُ, (K,) signifies <i>the teaching</i> [one] (Az, L, K) <i>religion,</i> (Az, L,) or بَاب الدِّين [i. e. <i>the declaration of belief in the unity of God and in the mission of Mohammad</i>] and the فَرَائِض and أَحْكَام. (L, K.) === And <i>He blamed, censured,</i> or <i>reproved, him;</i> as also 🡻عَزَرَهُ, aor. ﹻ, inf. n. عَزْرٌ. (K.) === And <i>He aided,</i> or <i>assisted, him;</i> as also 🡻عَزَرَهُ, inf. n. as above: (K, * TA:) and <i>he strengthened him;</i> (K, * TA;) and so 🡻عَزَرَهُ, inf. n. as above. (TA.) <i>He aided him against his enemy,</i> or <i>enemies, by repelling the latter;</i> (O, TA;) as also 🡻عَزَرَهُ, aor. ﹻ and ﹹ, but the former is the more chaste, inf. n. as above: (O:) or <i>he did so time after time:</i> or <i>with the sword.</i> (O, TA.) === And <i>He treated him with reverence, veneration, respect,</i> or <i>honour;</i> (S, A, O, Msb, K;) and so 🡻عَزَرَهُ, aor. ﹻ and ﹹ, inf. n. as above. (O.) === Also <i>He abased him; rendered him abject, vile, despicable,</i> or <i>ignominious:</i> thus it has two contr. significations. (B, TA.) === And <i>He loaded him,</i> namely, an ass. (S.)\nعَزَرَهُ 1 , aor. ﹻ, inf. n. عَزْرٌ, <i>He prevented, hindered, withheld,</i> or <i>forbade, him;</i> (Mgh, * O, K, * TA;) and <i>turned him away,</i> or <i>back;</i> (Mgh, * O, TA;) عَنِ الشَّىْءِ <i>from the thing:</i> this is the primary signification, from which others, mentioned in the next paragraph, are derived. (TA.) See 2, in eight places. === And عَزَرْتُ البَعِيرَ. inf. n. عَزْرٌ, <i>I tied a cord upon the</i> خَيَاشِيم [app. meaning the <i>upper parts of the nostrils</i>] <i>of the camel, and then put medicine into his mouth.</i> (O, TA.) === And عَزَرَ المَرُأَةَ, (TA,) inf. n. as above, (K,) <i>He compressed the woman.</i> (K, * TA.)\nعَيْزَارٌ <i>A species of trees.</i> (S, O, L, K.) ___ أَبُو العَيْزَارِ the surname of <i>A certain long-necked bird, which one always seees in shallow water,</i> (S, O, K, *) <i>called the</i> سَبَيْطَر: (S, O:) or it is <i>the</i> كُرْكِىّ [or <i>Numidian crane</i>]. (K.)\nعِزْرَائِيلُ , as some write it, or, as others, عَزْرَائِيلُ, [<i>The Angel of Death;</i>] <i>a certain angel, well known.</i> (MF.)"
+}

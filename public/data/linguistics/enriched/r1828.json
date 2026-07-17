@@ -1,0 +1,42 @@
+{
+  "rootId": "r1828",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:16:02.189Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Love, affection, wishing, or stakes",
+  "primaryMeaning": "To love or wish",
+  "quranicRelevance": "Affection/love (Wudd/Mawaddah), wishing/desiring ('yawaddu'), and God as the Loving (al-Wadood).",
+  "keyDerivations": [
+    {
+      "lemma": "وَدَّ",
+      "form": "Form I Verb",
+      "meaning": "To wish, desire, love, or long for"
+    },
+    {
+      "lemma": "مَوَدَّةٌ",
+      "form": "Noun",
+      "meaning": "Love, affection, or friendship"
+    },
+    {
+      "lemma": "وَدُودٌ",
+      "form": "Adjective",
+      "meaning": "Loving, Affectionate (attribute of God)"
+    },
+    {
+      "lemma": "وُدٌّ",
+      "form": "Noun",
+      "meaning": "Love, affection, or intimacy"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "يَوَدُّ أَحَدُهُمْ لَوْ يُعَمَّرُ (2:96): One of them wishes/longs that he could be granted life.",
+    "جَعَلَ بَيْنَكُمْ مَوَدَّةً وَرَحْمَةً: Placed between you affection/love and mercy (marital peace)."
+  ],
+  "discardedNoise": [
+    "The peg/stake (وتد) of a tent - distinct root spelling (w-t-d).",
+    "Pagan idol named Wadd (وَدّ) except as historical reference."
+  ],
+  "summaryEn": "The root signifies deep affection and wishing, capturing God's active love (al-Wadood), social affection (Mawaddah), and human wishes.",
+  "summaryAr": "يدل هذا الجذر على الود والرجاء، واصفاً المحبة الإلهية الصافية (الودود)، والترابط الاجتماعي (مودة)، والأمنيات البشرية.",
+  "rawText": "أَوَدُّ <i>More</i> or <i>most, loving</i> or <i>affectionate.</i> Said to be also used as a pl., for أَوَدُّونَ. (L.)\nأَوْدَدَ 4 see 1.\nتودّدهُ 5 <i>He attracted to himself his love,</i> or <i>affection.</i> (IAar, L, K.) === تودّد إِلَيْهِ <i>He manifested,</i> or <i>showed, love,</i> or <i>affection, to him.</i> (L, Msb, K.)\nمَوَدٌّ and مِوَدٌّ: see وِدٌّ.\nمَوَدَّةٌ <i>Love; affection.</i> (Msb.) See also 1. === Also, <i>A letter; an epistle:</i> and <i>letters,</i> or <i>epistles:</i> syn. كِتَابٌ and كُتُبٌ. (IAar, L, K.) Said to have the latter meaning in the Kur, lx. 1, in the first of the instances of its occurrence there: (L, K:) but this is a strange interpretation. (TA.)\nهُمَا يَتَوَادَّانِ 6 , (S, L,) inf. n. تَوَادٌّ, (K,) <i>They two love,</i> or <i>affect, each other.</i> (S, L, K.)\nوادّهُ 3 , inf. n. مُوَادَّةٌ and وِدَادٌ, <i>He loved,</i> or <i>affected him, being loved,</i> or <i>affected, by him.</i> (Msb.)\nوَادٌّ : see وِدٌّ.\nوَدُودٌ : see وِدٌّ. === الوَدُودُ, as an epithet applied to God, <i>The loving towards his servants,</i> (IAmb, L,) or, <i>towards those who obey:</i> (Beyd, lxxxv. 14:) or <i>He who regards with approbation his righteous servants:</i> or <i>He who is beloved in the hearts of his saints.</i> (IAth, L.)\nوَدُودٌ also, A mare <i>that puts forth all her power of running.</i> (ISd, L.)\nوَدِيدٌ : see وِدٌّ.\nوَدٌّ : see 1, and وِدٌّ. === وَدٌّ and 🡻وُدٌّ (the former is the more common, L) <i>A certain idol</i> (S, L, K) <i>which pertained to the people of Noah, and then to Kelb, and was at Doomet-el-Jendel:</i> (S, L:) or <i>a certain good man, who lived between Adam and Noah, and of whom, after his death, was made an image, which, after a long time, became an object of worship;</i> like سُوَاعٌ and يَغُوثُ and يَعُوقُ and نَسْرٌ, mentioned therewith in the Kur, lxxi. 22 and 23: (Bd:) and the former, <i>a certain idol belonging to Kureysh,</i> also called أُدٌّ. (L.) === بِوَدِّكِ <i>By thy Wedd!</i> meaning the idol so named. (L.) ___ وَدٌّ <i>A wooden pin, peg,</i> or <i>stake; i. q.</i> وَتِدٌ: (S, K:) of the dial. of Temeem; (IDrd;) or of Nejd: as though they made the ت quiescent and incorporated it into the د. (S.)\nوَدَّهُ 1 , first pers. وَدِدْتُ, (S, M, L, Msb, K, &c.) and وَدَدْتُ, (Ks, Z, K,) [but most disallow this] aor. يَوَدُّ, inf. n. وُدٌّ and وِدٌّ and وَدٌّ, (S, M, L, K,) of which three forms the first is the most common, (MF,) and مَوَدَّةٌ, (S, M, L, K,) or this last is a simple subst., (Msb,) and مِوَدَّةٌ (CK and some MS. copies of the K) and مَوِدَّةٌ, (accord. to some other copies of the K, this and the next preceding deviating from the common forms of inf. ns., TA,) and مَوْدِدَةٌ (M, Kz, K) and مَوْدَدَةٌ, (TA,) but these last two are allowable only in poetry, and deviate from constant rule, the former doubly, (Kz, MF, TA,) and وِدَادٌ and وَدَادٌ and وُدَادٌ, (M, L, K,) the first of which last three forms is the most common, (MF,) and وَدَادَةٌ (M, L, K) and, accord. to some, وِدَادَةٌ and وُدَادَةٌ, (MF, TA,) and, as in a copy of the K esteemed of good authority, مَوْدُودَةٌ, (TA,) <i>He loved,</i> or <i>affected, him,</i> or <i>it,</i> (S, M, L, Msb, K,) i. e. any means of attaining or doing good. (AZ, M, L.) The form وَدَدْتُ is disallowed by the Basrees who hold it to be erroneous: and Zj says, We know that Ks did not mention وَدَدْتُ without having heard it; but he heard it from him who was no authority. (T, L.) === أَوْدِدْهُ, an imp. form [of 🡻أَوَدَّهُ], without idghám, accord. to the dial. of El-Hijáz, occurs in a trad., meaning <i>Love thou it,</i> or <i>affect it.</i> (L.) === وَدِدْتُ لَوْ تَفْعَلُ ذٰلِكَ. and وَدَدْتُ لَوْ أَنَّكَ تَفْعَلُ ذٰلِكَ, (S, L,) aor. as above, inf. n. وُدٌّ and وَدٌّ and وَدَادَةٌ (S, L, Msb) and وَدَادٌ (S, L) or وِدَادٌ, (T, in TT,) <i>I wished that thou wouldest do that.</i> (S, L.) === وَدِدْتُ لَوْ كَانَ كَذَا <i>I wished that it had been so.</i> (Msb.) === وَدِدْتُ الشَّىْءَ <i>I wished for the thing.</i> Fr says, This is the more approved form; but some say وَدَدْتُ: in both cases the aor. is يَوَدَّ only. (L.) [Respecting the latter form of the pret., see above.] This is a secondary signification of the verb. (TA.)\nوُدٌّ : see 1, and وِدٌّ, and وَدٌّ. === بِوُدِّى أَنْ يَكُونَ كَذَا <i>I wish that such a thing may be.</i> In the following saying of the poet, <center> <h3> أَيُّهَا العَائِدُ المُسَائِلُ عَنَّا </h3> <h3> وَبِوُدِّيكَ لَوْ ثَرَى أَكْفَانِى </h3> </center> [<i>O thou visitor of the sick, inquiring respecting us, wishing that thou mayest see my graveclothes</i>], the kesreh of the د is lengthened for sake of the measure. (S, L.)\nوِدٌّ (S, L, K) and 🡻وُدٌّ (L, K) and 🡻وَدٌّ (IJ, L, K) and 🡻وَدِيدٌ (S, L, K) A person <i>loved,</i> or <i>beloved; an object of love; a friend;</i> syn. خِبٌّ and حَبِيبٌ and صَدِيقٌ (L) and مُحَبٌّ. (K: in the CK مُحِبٌّ.) === Also, 🡻وُدٌ (TA) and 🡻وَدُودٌ (S, L, Msb) and 🡻وَدِيدٌ (TA) and 🡻وَادٌّ (Kz) A person <i>who loves; loving; affectionate:</i> (S, L, Msb, TA:) the first also used in a pl. sense, (L, K,) being [originally] an inf. n. (TA) and the second used alike as masc. and fem. (S, L, Msb.) === Also, 🡻وُدٌّ and 🡻وُدُودٌ and 🡻مِوَدٌّ, (K,) also written 🡻مَوَدٌّ, (MF,) A man (TA) <i>loving much; having much love</i> or <i>affection; very loving</i> or <i>affectionate.</i> (K, MF.) === Pl. أَوْدَادٌ, (L, K,) pl. of وِدٌّ, (TA,) and also a pl. [of وُدٌّ] in the second of the above senses; (K;) and وَدَادٌ, [pl. of وَدٌّ or وَدِيدٌ] in the first of the above senses; (L;) and أَوُدٌّ, (S, L, K,) pl. of وُدٌّ (TA) in the second of the above senses; (K;) or of وِدٌّ; (S, TA;) and أَوْدٌّ, (L, K,) [an irreg. pl., or quasi-pl. n., upon which I find no remark,] in the first of the above senses, (L,) or the second; (K;) and وُدَّادٌ, pl. of وَادٌّ; (Kz;) and أَوِدَّآءُ, (S, L, K,) pl. of وَدِيدٌ (TA) in the first of the above senses, (L,) or in the second; (L;) and أَوِدَّةٌ, (K,) also pl. of وَدِيدٌ (TA) in the second of the above senses; (K;) and وُدَدَآءُ, pl. of وَدُودٌ (S) in the second of the above senses, (S, K,) [and the third]; and وَدِيدٌ is also mentioned as a pl. in the second of the above senses in the K; but this is probably a mistake for وِدَادٌ. (TA.) === IAth says, that 🡻وُدٌّ, used as an epithet, is for ذُو وُدٍّ; but وِدٌّ does not require ذو to be understood, being syn. with صَدِيقٌ. (L.)"
+}

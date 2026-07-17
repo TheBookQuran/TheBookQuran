@@ -1,0 +1,36 @@
+{
+  "rootId": "r1955",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:12:08.450Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Strength, power, ability, or desert",
+  "primaryMeaning": "To be strong",
+  "quranicRelevance": "God as the All-Strong (al-Qawiyy), power/might in faith and physics, and desert travelers (Muqween - 'mata'an lil-muqween').",
+  "keyDerivations": [
+    {
+      "lemma": "قَوِيٌّ",
+      "form": "Noun / Adjective",
+      "meaning": "Strong, mighty, powerful, or intense"
+    },
+    {
+      "lemma": "قُوَّةٌ / قُوَى",
+      "form": "Noun / Noun pl.",
+      "meaning": "Strength, power, might, or energy"
+    },
+    {
+      "lemma": "مُقْوِينَ",
+      "form": "Noun / Active part. pl.",
+      "meaning": "Desert travelers, hungry ones, or dwellers in waste land"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "مَتَاعًا لِلْمُقْوِينَ (56:73): A provision/comfort for the desert travelers (who dwell in vacant/wild lands, quwwa)."
+  ],
+  "discardedNoise": [
+    "Mechanical and physical definitions of power.",
+    "Obscure details of desert tracking in empty lands."
+  ],
+  "summaryEn": "The root represents strength and empty lands, capturing God's attribute as the All-Strong (al-Qawiyy) and comfort for desert travelers (Muqween).",
+  "summaryAr": "يمثل هذا الجذر القوة والقفر، معبراً عن صفة القوي لله سبحانه، ومنفعة النار للمسافرين والنازلين بالقفر (مُقوين).",
+  "rawText": "أَقْوَتِ الدَّارُ 4 <i>The house became empty, vacant,</i> or <i>unoccupied;</i> (S, Mgh, Msb, K;) as also 🡻قَوِيَت. (S, K.)\nإِقْتَوَىَ 8 see 1.\nبِتُّ قَوِيًا , and قَاوِيًا, and مُقْوِيًا: see غَوًى and غَوِىٌّ in art. غو.\nتَقَوَّى 5 <i>He strengthened himself; made himself, or constrained himself to be, strong; affected, or endeavoured to acquire, strength.</i> See 1. === تَقَوَّى مِنَ الشَّىْءِ بِقَوْمِهِ: see تَمَنَّعَ.\nفُوَّةٌ <i>Strength, power, potency, might,</i> or <i>force; contr. of</i> ضَعْفٌ; (S, K;) in body, and in intellect: (TA:) <i>vigour, robustness,</i> or <i>sturdiness;</i> like شِدَّة. === قُوَّةٌ <i>A strand;</i> i. e., <i>a single twist of a rope; a yarn; a distinct, and separately twisted, portion, of two or more which, being twisted together, compose the whole, of a rope,</i> and <i>of a string,</i> or <i>thread.</i> See also ثِنْىٌ. === <i>A faculty.</i> Ex. السَّمْعُ قُوَّةٌ فِى الاُذُنِ بِهَا تُدْرِكُ الأَصْوَاتَ [السمع <i>is a faculty in the ear by which it perceives sounds</i>]. (TA in art. سمع.) === بِالقُوَّةِ <i>Potentially,</i> or <i>virtually;</i> as opposed to بِالفِعْلِ, i. e. actually. === قُوَّةُ لَفْظٍ: see لَيْتَ.\nقَاوَاهُ 3 <i>He vied with him, strove to surpass him, or contended with him for superiority,</i> (S, K,) <i>in strength:</i> (TA:) <i>i. q.</i> شَادَّهُ. (A, L in art. شد.)\nقَوِىَ 1 and 🡻تَقَوَّى (S, K) and 🡻اِقْتَوَى (K) <i>He became strong:</i> (S, K:) <i>vigorous, robust,</i> or <i>sturdy;</i> like اِشْتَدَّ, or the last signifies <i>he became excellent in strength.</i> (TA.) === قَوِىَ عَلَيْهِ <i>He had strength,</i> or <i>power, sufficient for it;</i> or <i>he had strength,</i> or <i>power, to endure it; he prevailed against it;</i> namely, travel, adversity, &c. And <i>He</i> or <i>it, prevailed over him,</i> or <i>it.</i> === See 4. === قَوِىَ is [said to be] originally قَوِوَ, because it is from القُوَّةُ: (I'Ak, p. 368:) but Lth holds قُوَّةٌ to be [anomalous,] originally قُويَةٌ. (TA.) I prefer the former opinion, and think it should be mentioned in art. قو, or I would rather head this art. قو or قوى, like غو or غوى. ISd holds قُوَّةٌ to be from قوو, like ثُوَّةٌ, q. v. from ثوو.\nقَوَّاهُ 2 : see شَدَّهُ. === قَوَّانِى عَلَيْهِ: see 2 in art. طوق."
+}

@@ -1,0 +1,26 @@
+{
+  "rootId": "r1512",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:11:50.470Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Snatching, swallowing quickly, catching prey, gulp, or loop",
+  "primaryMeaning": "Swallowing quickly/snatching",
+  "quranicRelevance": "Moses' staff swallowing illusions (Talqaf - 'talqafu ma yafikoon', 'talqaf ma sana'oo').",
+  "keyDerivations": [
+    {
+      "lemma": "لَقِفَ / يَلْقَفُ",
+      "form": "Form I Verb (fem: talqaf)",
+      "meaning": "To swallow quickly, snatch, devour instantly, gulp, or catch prey"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فَأَلْقَىٰ مُوسَىٰ عَصَاهُ فَإِذَا هِيَ تَلْقَفُ مَا يَأْفِكُونَ (26:45): Then Moses threw his staff, and suddenly it swallowed up/devoured what they falsified (instant magic debunking)."
+  ],
+  "discardedNoise": [
+    "Catching baseballs in modern sports fields.",
+    "Gulping down hot tea."
+  ],
+  "summaryEn": "The root represents swift swallowing (Laqf), detailing the miracle of Moses' staff physically swallowing the magical illusions of Pharaoh's magicians.",
+  "summaryAr": "يمثل هذا الجذر اللقف والالتهام السريع للشيء الساقط، واصفاً التهام ثعبان عصى موسى لحبال السحرة وأوهامهم الباطلة (تلقف ما يأفكون).",
+  "rawText": "تَلَقَّفَهُ مِنْ فَمِهِ 5 <i>He caught it and retained it quickly,</i> [i. e., what he said,] <i>from his mouth.</i> (TA.)\nلَقِفَهُ 1 <i>He seized it,</i> or <i>took it quickly;</i> (S, M, K;) namely, a thing thrown to him with the hand, or said to him. (M, TA.) See also last sentence of 1 in art. حنك."
+}

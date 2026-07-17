@@ -1,0 +1,31 @@
+{
+  "rootId": "r1412",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:23:40.664Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Concealment, hiding, suppression, or seal",
+  "primaryMeaning": "To hide or conceal",
+  "quranicRelevance": "Concealing testimonies or scriptural truths (Kishman - 'yaktumoona ma anzalna'), and hiding thoughts.",
+  "keyDerivations": [
+    {
+      "lemma": "كَتَمَ",
+      "form": "Form I Verb",
+      "meaning": "To hide, conceal, keep back, or suppress"
+    },
+    {
+      "lemma": "كِتْمَانٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Concealment, or suppression"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "يَكْتُمُونَ مَا أَنْزَلَ اللَّهُ (2:174): They conceal/hide what God revealed (deliberate suppression of scriptural signs)."
+  ],
+  "discardedNoise": [
+    "Dyeing the hair with a plant named Katam.",
+    "Obscure details of sealing clay pots."
+  ],
+  "summaryEn": "The root signifies the concealment of truth, primarily criticizing the active suppression of revelation and testimonies of faith.",
+  "summaryAr": "يدل هذا الجذر على كتمان الحق وإخفائه، مركزاً في القرآن على ذم كتمان الوحي والشهادة لله ولرسوله.",
+  "rawText": "تَكَاتَمُوا 6 <i>They practised concealment, one with another:</i> see تَدَافَنُوا.\nتَكَتَّمَ 5 (K, art. دلس) <i>He</i> (a man) <i>concealed,</i> or <i>hid, himself.</i> (T, K, same art.)\nكَاتِمٌ meaning مَكْتُومٌ: see دَافِقٌ, in two places. === فِى كَاتِمِ السِّرِّ: see a verse cited in conj. 3 of art. عرض.\nكَتَمَ 1 , aor. ﹹ, inf. n. كَتْمٌ [and كِتْمَانٌ], doubly trans., <i>He concealed,</i> or <i>suppressed,</i> a secret. (Mgh.) === كَتَمَ الرَّبْوَ: see a verse cited in the last paragraph of art. عور.\nكَتُومٌ <i>A strict concealer of secrets.</i>"
+}

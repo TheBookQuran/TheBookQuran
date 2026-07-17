@@ -1,0 +1,31 @@
+{
+  "rootId": "r62",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:09:12.475Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Setting (star/sun), disappearing, fading, sinking, or absent",
+  "primaryMeaning": "Setting/disappearing",
+  "quranicRelevance": "Stars/sun setting/disappearing (Afala - 'falamma afala qala la ohibbu al-afileen').",
+  "keyDerivations": [
+    {
+      "lemma": "أَفَلَ / يَأْفُلُ",
+      "form": "Form I Verb",
+      "meaning": "To set, fade, disappear, sink, go down, or become absent"
+    },
+    {
+      "lemma": "آفِلٌ / الآفِلِينَ",
+      "form": "Noun / Active part. pl.",
+      "meaning": "Setting ones, fading celestial bodies, or disappearing divinities"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فَلَمَّا أَفَلَ قَالَ لَا أُحِبُّ الْآفِلِينَ (6:76): So when it set, he said: 'I do not love/worship the setting ones' (Abraham's critique of celestial gods)."
+  ],
+  "discardedNoise": [
+    "Sinking of boats - overlap with f-l-k.",
+    "Fading of clothes colors in washing."
+  ],
+  "summaryEn": "The root represents setting and fading, documenting Abraham's logical refutation of star, moon, and sun worship because they set and disappear (Afileen).",
+  "summaryAr": "يمثل هذا الجذر غياب الكواكب وكسوفها الأفولي (أفل)، مخلداً استدلال إبراهيم العقلي ببطلان إلهية الكواكب لكونها زائلة غائبة لا تحفظ عابديها (الآفلين).",
+  "rawText": "أَفَلَ 1 , (T, S, Msb, K,) said of a thing, (Msb,) or of the moon, (T,) and أَفَلَتْ, said of the sun, (T, S, M,) and of the stars, (M,) aor. ﹻ and ﹹ, inf. n. أُفُولٌ (T, S, M, Msb, K) and أفْلٌ, (M, Msb,) <i>It was,</i> or <i>became, absent,</i> or <i>hidden,</i> or <i>concealed;</i> (T, S, Msb, K;) <i>it set;</i> (T, S, M, &c.;) and so أَفِلَ, aor. ﹷ. (K.) === Hence, أَفَلَ فُلَانٌ عَنِ البَلَدِ <i>Such a one became absent,</i> or <i>went away, from the country,</i> or <i>town.</i> (Msb.)\nأَفِيلٌ <i>A young camel such as is termed</i> اِبْنُ مَخَاضٍ [i. e. <i>that has entered its second year</i>]; (As, ElFárábee, S, M, Msb, K;) and <i>the like;</i> (S;) or, and also <i>such as is above this</i> [<i>in age</i>]; (ElFárábee, M, Msb, K;) or, and also <i>such as is termed</i> اِبْنُ لَبُونٍ [i. e. <i>that has entered the third year</i>]; beyond which it is not so called: (As, TA:) or <i>that is seven months old,</i> or <i>eight:</i> (As, Msb:) or <i>a youthful camel:</i> (AZ, Msb:) and also (M, K) <i> a young weaned camel;</i> syn. فَصِيلٌّ: (T, M, Msb, K:) fem. with ة: (As, S:) pl. إِفَالٌ (T, S, M, K) and أَفَائِلُ, (Sb, S, M, K,) which latter they liken to ذَنَائِبُ as pl. of ذنُوبٌ. (M.) [In my copy of the Msb, the pl. is said to be إفالة: and it is also there said, on the authority of IF, that افالة signifies the <i>young ones of sheep.</i>] It is said in a prov., إِنَّمَا القَرْمِ مِنَ الأَفِيلِ [<i>The stallion-camel is only</i> that which has increased in growth <i>from the young one in its second year,</i> &c.]; i. e. what is great has begun small. (TA.)\nآفِلٌ part. n. of 1, (T, TA,) applied to the moon, and to any star: (TA:) fem. with ة: (T, TA:) pl. آفِلُونَ (Kur vi. 76 [the rational form of the pl. being there used because it is applied to stars as being likened to gods]) and أُفَّلٌ and أُفُولٌ. (TA.)"
+}

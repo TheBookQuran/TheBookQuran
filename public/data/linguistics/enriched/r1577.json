@@ -1,0 +1,26 @@
+{
+  "rootId": "r1577",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:52:16.826Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Rain-clouds, white water-carrying clouds, glowing moisture, or high status",
+  "primaryMeaning": "Rain-clouds/water-carrying clouds",
+  "quranicRelevance": "From the rain-clouds (Al-muzn - 'mina al-muzni').",
+  "keyDerivations": [
+    {
+      "lemma": "مُزْنٌ",
+      "form": "Noun",
+      "meaning": "Rain-clouds, white moisture-bearing clouds, or clouds carrying rain"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "أَأَنْتُمْ أَنْزَلْتُمُوهُ مِنَ الْمُزْنِ أَمْ نَحْنُ الْمُنْزِلُونَ (56:69): Is it you who sent it down from the rain-clouds, or are We the senders?"
+  ],
+  "discardedNoise": [
+    "Mazan (going away/boasting).",
+    "Mazanah (honor/dignity)."
+  ],
+  "summaryEn": "The root refers to rain-bearing clouds (Muzn), serving as a rhetorical challenge about the divine origin of fresh drinking water.",
+  "summaryAr": "يشير هذا الجذر إلى السحاب الأبيض الحامل للمطر والماء المنسكب العذب (مزن)، سائلاً البشر عن عجزهم وقدرة الله وحده في إنزال الماء من السحاب.",
+  "rawText": "إِبْنُ مَازِنٍ <i>The ant.</i> (TA in art. بنى.)\nمُزْنٌ <i>Clouds</i> (K, and Ham, p. 564) <i>of any kind:</i> (Ham, ibid:) or <i>white clouds:</i> (S, K, and Ham, p. 53:) or <i>clouds containing water.</i> (K.)"
+}

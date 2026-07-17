@@ -1,0 +1,40 @@
+{
+  "rootId": "r1466",
+  "source": "lanes",
+  "enrichedAt": "2026-06-29T23:22:58.699Z",
+  "modelId": "claude-3-5-sonnet-human-curated",
+  "semanticCore": "being; existence; occurrence",
+  "primaryMeaning": "To be, exist, or happen; to take place.",
+  "quranicRelevance": "The primary verb of existence: 1) The divine command of creation: 'Be, and it is' (كُن فَيَكُونُ) (e.g. 2:117, 3:47). 2) Temporal states and attributes ('He was...', 'they were...'). 3) The creation and universe (الكون).",
+  "keyDerivations": [
+    {
+      "lemma": "كَانَ",
+      "form": "Form I",
+      "meaning": "To be, exist, occur; to possess a state or attribute."
+    },
+    {
+      "lemma": "كَوَّنَ",
+      "form": "Form II",
+      "meaning": "To bring into being; to shape or constitute."
+    },
+    {
+      "lemma": "مَكَانٌ",
+      "form": "Noun of place",
+      "meaning": "A place, position, or status (pl. مَكَانَات)."
+    },
+    {
+      "lemma": "مَكَانَةٌ",
+      "form": "Noun",
+      "meaning": "Ability, station, or rank (e.g. 6:135 'according to your position')."
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "The phrase 'He is/was...' used for God's eternal attributes (وَكَانَ اللَّهُ غَفُورًا رَّحِيمًا) indicating continuous, eternal existence, not a past state."
+  ],
+  "discardedNoise": [
+    "Detailed grammatical rules of complete vs. incomplete verbs (تامة وناقصة) in classical syntax."
+  ],
+  "summaryEn": "The root كون represents existence and being. In the Quran, it manifests in the instant command of creation (كُنْ - Be!) and describes temporal states or eternal divine attributes.",
+  "summaryAr": "يدل جذر كون على الوجود والحصول والصيرورة. ويظهر في القرآن الكريم في أمر الخلق الفوري (كُنْ فَيَكُونُ) والتعبير عن اتصاف الكائنات بأحوالها الزمانية أو ثبوت الصفات الإلهية الأزلية.",
+  "rawText": "اِسْتَكَانَ 10 <i>He was,</i> or <i>became lowly, humble, submissive,</i> or <i>in a state of abasement.</i> (Har, p. 4, q. v.) See اِسْتَكَنَ in art. سكن: and see art. كين.\nتَكَوَّنَ 5 <i>He,</i> or <i>it, received,</i> or <i>took, his, or its, being,</i> or <i>existence; came into existence; originated.</i>\nكَانَ 1 <i>He or it was.</i> A verb of the class called incomplete, (نَاقِصٌ) because, with the agent which it comprises, or to which it relates, it cannot constitute a complete proposition; i. e., non-attributive. The other verbs of this class are, ظَلَّ أَضْحَى أَمْسَى أَصْبَحَ صَارَ, مَا دَامَ مَاٱنْفَكَّ مَا فَتِئَ مَابَرِحَ مَا زَالَ بَاتَ, and لَيْسَ. Each of these governs its noun, or subject, in the nom. case, and its enunciative, or predicate, in the acc. case; as, كَانَ زَيْدٌ قَائِمًا <i>Zeyd was standing.</i> === (The ن in يَكُنْ and the like is often irregularly elided.) === كَانَ, divested of all signification of time. is often used as a copula. (See De Sacy 's Gr. Ar. i. 196.) So too is كَائِنٌ; for هٰذَا زَيْدٌ and هٰذَا كَائِنٌ زَيْدًا signify the same. (Mughnee, voce أَنَّ.) === كَانَ as a complete, i. e., an attributive, verb, see حَصَلَ. in three places.\nكَيْنُونَةٌ :see شَاخَ.\nمَكَانَةٌ <i>A particular place of being</i> or <i>existence.</i> See an ex. voce نَفْسٌ. === مَكَانَكَ وَزَيْدًا [<i>Keep where thou art and approach not Zeyd!</i>] Heard by Ks. (L, art. عند.) === <i>State,</i> or <i>condition.</i> [Bd, xi. 122, and xxxix. 40.) See art. مكن. === مَكَانٌ <i>i. q.</i> مَنْزِلَةٌ. (Bd, xii. 77.) === هٰذَا مَكَانٌ لِقَوْلِنَا كَذَا <i>This is a ground for our saying thus.</i> === أَصْبَحَ مَكَانَ كَذَا <i>It became as,</i> or <i>like, such a thing.</i> See a verse cited voce رَتْمٌ.\nنَعُوذُ بِاللّٰهِ من الحَوْرِ بَعْدَ الكَوْنِ : see حَوْرٌ and كَوْرٌ."
+}

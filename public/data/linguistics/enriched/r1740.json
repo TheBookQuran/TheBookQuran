@@ -1,0 +1,26 @@
+{
+  "rootId": "r1740",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:58:55.910Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "She-camel, coordination, refinement, or choice",
+  "primaryMeaning": "She-camel",
+  "quranicRelevance": "The miraculous she-camel of Saleh (Naqah - 'hathihi naqatu Allahi'), and warnings against harming her ('naqata Allahi wa suqyaha').",
+  "keyDerivations": [
+    {
+      "lemma": "نَاقَةٌ",
+      "form": "Noun",
+      "meaning": "She-camel (adult female camel)"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "نَاقَةُ اللَّهِ وَسُقْيَاهَا (91:13): The she-camel of God and her drink-access (symbol of divine property and test of Thamud)."
+  ],
+  "discardedNoise": [
+    "Coordination and neatness (Tanseeq) in modern layout designs.",
+    "Ancient camel milking buckets."
+  ],
+  "summaryEn": "The root refers to she-camels (Naqah), focusing on the sacred she-camel of Saleh which served as a national test and sign for Thamud.",
+  "summaryAr": "يشير هذا الجذر إلى النوق (ناقة)، مركزاً حصراً على ناقة صالح الإعجازية التي مثلت آية إلهية واختباراً مصيرياً لقوم ثمود.",
+  "rawText": "تَنَّيَقَ فِى مَطْعَمِهِ وَمَلْبَسِهِ 5 , and نَنَوَّقَ, <i>He was nice and luxurious</i> (تَجَوَّدَ وَبَالَغَ) <i>in his diet and his apparel.</i> (JK, K.) Better explained voce تَأَنَّقَ. === تَنَوَّقَ: see تَأَنَّقَ and تَجَوَّدَ, and نِيقَةٌ.\nنَاقَةٌ : see قَلُوصٌ, and بَعِيرٌ, and بَكْرٌ. === نَاقَةُ الحَذَّآءِ: see رِحَالَةٌ. === أَيْنُقَاتٌ pl. of أَيْنُقٌ pl. of نَاقَةٌ: see a verse cited voce مُسْهَمٌ.\nنَوَّقَ 2 [<i>He broke, or trained,</i> a camel]. (TA, voce مُصْعَبٌ.)\nنِيقٌ quasi-inf. n. of أَنَاقَ.\nنِيقَةٌ a subst. from تَنَوَّقَ  (IJ, S, K) as syn. with تَأَنَّقَ (S) [and therefore signifying <i>Daintiness, nicety, exquisiteness, refinement,</i> or <i>scrupulous nicety and exactness;</i> and the <i>exceeding of what is usual</i> in a thing: or the <i>choosing what is excellent,</i> or <i>best, to be done, and doing admirably:</i> or the <i>doing firmly, solidly, soundly,</i> or <i>thoroughly, and skilfully:</i> or] the <i>exceeding what is usual</i> in a thing, <i>and making</i> it <i>good,</i> or <i>beautiful, and firm, solid, sound,</i> or <i>free from defect</i> or <i>imperfection.</i> (Ham, p. 625) See تَأَنَّقَ."
+}

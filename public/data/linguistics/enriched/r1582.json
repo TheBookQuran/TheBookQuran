@@ -1,0 +1,36 @@
+{
+  "rootId": "r1582",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:20:57.876Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Holding, keeping, shunning, musk, or skin/leather",
+  "primaryMeaning": "To hold or grasp",
+  "quranicRelevance": "Holding fast to the Book (Tamasuk - 'yumas-sikoon'), holding/retaining, and the sweet perfume musk (Misk).",
+  "keyDerivations": [
+    {
+      "lemma": "أَمْسَكَ",
+      "form": "Form IV Verb",
+      "meaning": "To hold, retain, keep back, withhold, or seize"
+    },
+    {
+      "lemma": "تَمَسَّكَ",
+      "form": "Form V Verb",
+      "meaning": "To hold fast, cling, or adhere to"
+    },
+    {
+      "lemma": "مِسْكٌ",
+      "form": "Noun",
+      "meaning": "Musk (sweet-smelling perfume mentioned in 83:26)"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "خِتَامُهُ مِسْكٌ (83:26): Its seal/end is musk (describing the fragrant completion of the drink of Paradise)."
+  ],
+  "discardedNoise": [
+    "Animal skins or hides (مسك).",
+    "Specific physical methods of grasping ropes."
+  ],
+  "summaryEn": "The root denotes holding and fragrance, representing the duty of holding fast to scriptures (Tamasuk), withholding resources, and the premium fragrance of musk.",
+  "summaryAr": "يدل هذا الجذر على الإمساك والطيب، ممثلاً الاستمساك بالحق والوحي (تمسك)، وإمساك الأرزاق والرياح، وطيب المسك الختامي.",
+  "rawText": "أَمْسَكَ 4 <i>He retained; he withheld.</i> (Msb.) === <i>He maintained: he was tenacious,</i> or <i>niggardly.</i> === <i>He,</i> or <i>it, held fast</i> a thing: and <i>arrested</i> it. === أَمْسَكَهُ <i>He held, retained, detained,</i> <i>restrained, stayed, confined, imprisoned,</i> or <i>withheld, him.</i> (K.) === أَمْسَكَ عَنِ الأَمْرِ <i>He held, refrained,</i> or <i>abstained, from the thing.</i> (Msb.) === أَمْسَكَهُ <i>He grasped it, clutched it, laid hold upon it;</i> or <i>seized it,</i> (قَبَضَ عَلَيْهِ) بِيَدِهِ <i>with his hand:</i> (Msb:) or <i>he took it;</i> or <i>took it with his hand,</i> (أَخَذَهُ,) namely, a rope, &c.: (Mgh:) or <i>he held,</i> or <i>clung, to it:</i> (TA:) [as also 🡻تَمَسكَبِهِ]. Also, أَمْسَكَ بِهِ signifies [<i>the same;</i> or] <i>he laid hold upon,</i> or <i>seized, somewhat of his body,</i> or <i>what might detain him, as an arm or a hand, or a garment, and the like:</i> but أَمْسَقَهُ may signify <i>he withheld him,</i> or <i>restrained him, from acting according to his own free will.</i> (Mugh, art. بِ.) === أَمْسَكَ بَطْنَهُ [<i>It bound,</i> or <i>confined, his belly</i> (or <i>bowels</i>)]: said of medicine. (S, O, Msb, K; all in art. عقل.) === الإِمْسَاك, in relation to تَحْجِيل: see an unusual application of it in art. طلق, conj. 4.\nاِسْتَمْسَكَ البَطْنُ 10 [<i>The belly</i> (or <i>bowels</i>) <i>became bound,</i> or <i>confined</i>]. (TA in art. عقل.) === اِسْتَمْسَكَ بِهِ [sometimes] <i>He sought to lay hold upon it.</i> (Bd, in ii. 257.) === اِسْتَمْسَكَ: see an ex. voce صِرْعَةٌ.\nاِمْتَسَكَ بِهِ 8 <i>He clutched,</i> or <i>griped, him,</i> or <i>it; i. q.</i> 🡻تَمَسَّكَبِهِ. (MA.)\nتَمَاسَكَ 6 <i>He withheld,</i> or <i>restrained, himself:</i> (PS:) <i>he was able,</i> or <i>powerful;</i> as also تَمَالَكَ, q. v. (KL.) === مَا تَمَاسَكَ أَنْ فَعَلَ كَذَا <i>He could not restrain himself from doing so;</i> syn. مَا تَمَالكَ. (S.) === تَمَاسَكَ <i>It held together.</i> === إِنَّهُ لَذُو تَمَاسُكٍ † <i>Verily he possesses intelligence.</i> (TA.) And مَابِهِ تَمَاسُكٌ ‡ <i>There is no good in him.</i> (TA.) See مُسْكَةٌ.\nتَمَسَّكَ 5 see 4 and 8. === تَمَسَّكَ بِحَبْلِهِ <i>He held fast by his covenant:</i> see أَعْصَمَ.\nمَسَكٌ <i>Tortoise-shell;</i> syn. ذَبْلٌ: (K:) <i>bracelets made of tortoise-shell</i> (ذَبْلٌ), or <i>of</i> عاج [<i>ivory</i>]: (S, Msb:) <i>bracelets and anklets made of horn and of</i> عاج: n. un. with مُسْكَةٌ. (K.)\nمَسِيكٌ : see مُسْكَةٌ.\nمَسَّاكاتٌ [in the CK, art. روض, written مُسّاكات,] <i>Places, in land,</i> or <i>in the ground, to which the rain-water flows, and which retain it.</i> (TA.) See ضَابِطَةٌ.\nمَسَّكَ بِالنَّارِ 2 : see ثقّب.\nمُتَمَاسِكٌ <i>Compact in the limbs,</i> (TA in art. بدن,) or <i>flesh.</i> (TA in this art.)\nمُسْكَانٌ : see art. سكن.\nمُسْكَةٌ <i>Intelligence:</i> (Msb:) or <i>full intelligence,</i> (K, TA,) <i>and judgment; judgment and intel-ligence to which one has recourse;</i> as also مُسْكٌ, not 🡻مَسِيكٌ, as in the K; (TA;) <i>i. q.</i> تَمَاسُكٌ. (Mgh.) You say, لَيْسَ لَهُ مُسْكَةٌ <i>He has no intel-ligence.</i> (Msb.) === لَيْسَ بِهِ مُسْكَةٌ <i>He has no strength.</i> (Msb.)\nمُمْسَكٌ , said of a horse, <i>white on both fore and kind leg on the same side:</i> see مُحَجَّلٌ.\nمِسَاكٌ or مَسَاكٌ A kind of <i>needles:</i> see مِدَادٌ.\nمِسْكٌ [<i>Musk:</i> it is obtained from the muskdeer, moschus moschiferus; being found in the male animal, in a vesicle near the navel and prepuce.] It is masc. and fem. (IAmb, TA voce ذَكِىٌّ.)"
+}

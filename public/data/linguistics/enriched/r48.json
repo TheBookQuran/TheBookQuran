@@ -1,0 +1,26 @@
+{
+  "rootId": "r48",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:13:34.921Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Foundation, establishing, base, origin, starting point, or corner",
+  "primaryMeaning": "Foundation/establishing base",
+  "quranicRelevance": "Mosque founded on piety (Assasa - 'ossisa 'ala at-taqwa', 'assasa bunyanahu').",
+  "keyDerivations": [
+    {
+      "lemma": "أَسَّسَ / يُؤَسِّسُ",
+      "form": "Form II Verb",
+      "meaning": "To found, establish base, build foundations, lay ground-bricks, or anchor"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "أَفَمَنْ أَسَّسَ بُنْيَانَهُ عَلَىٰ تَقْوَىٰ مِنَ اللَّهِ وَرِضْوَانٍ خَيْرٌ أَمْ مَنْ أَسَّسَ بُنْيَانَهُ عَلَىٰ شَفَا جُرُفٍ هَارٍ (9:109): Is he who founded his building upon fear of God and His pleasure better, or he who founded his building on the brink of a crumbling cliff?"
+  ],
+  "discardedNoise": [
+    "Modern company establishment charters.",
+    "Theoretical physics foundation logs."
+  ],
+  "summaryEn": "The root represents structural foundations (Ta'sees), contrasting the Quba mosque founded on piety with the hypocrites' mosque built on a crumbling cliff.",
+  "summaryAr": "يمثل هذا الجذر وضع حجر الأساس والقواعد البنائية (تأسيس)، واصفاً مسجد قباء المؤسس على التقوى مقارنة بالمسجد الضرار المبني على شفا جرف هار.",
+  "rawText": "أسّسهُ 2 , (S, M, Msb,) inf. n. تَأْسِيسٌ, (S, Msb, K,) <i>He founded it;</i> or <i>made,</i> or <i>laid, a foundation,</i> or <i>basis, for it;</i> (S, * Msb;) namely, a building, (S,) or a wall: (Msb:) <i>he marked out the limits of it,</i> (namely, of a house,) <i>and raised its foundations: he built its foundation,</i> or <i>basis:</i> (K:) <i>he commenced it;</i> namely, a building; as also 🡻أَسَّهُ, aor. يَؤُسُّهُ, inf. n. أَسَّ: (M:) <i>he built it;</i> namely, a house; (TA;) as also 🡻أَسَّهُ. (K.) You say, هٰذَا تَأْسِيسٌ حَسَنٌ [<i>This is a good founding,</i> or <i>foundation</i>]. (TA.) And مَنْ لَمْ يُؤَسِّسْ مِلْكَهُ بِالعَدْلِ هَدَمَهُ ‡ [<i>He who does not lay the foundation of his property with equity,</i> or <i>justice, destroys it</i>]. (A, TA.) === أسّس زَادًا: see زَادَ in art. زود.\nأَسَاسٌ : see أُسٌّ, in several places.\nأَسَسٌ : see أُسٌّ, in several places.\nأَسِيسٌ : see أُسٌّ, in several places.\nأَسٌّ : see what next follows, in six places.\nأُسٌّ The <i>foundation, basis,</i> or <i>lowest part,</i> (S, A, Mgh, Msb, K,) of a building, (S, A, K,) or of a wall; (Mgh, Msb;) as also 🡻أَسٌّ and 🡻إِسٌّ (A, K) and 🡻أَسَاسٌ (S, A, Mgh, Msb, K) and 🡻أَسَسٌ, (S, K,) which is a contraction of أَسَاسٌ: (S:) or the <i>commencement</i> of a building: and <i>any commencement</i> of a thing; as also 🡻أَسٌّ and 🡻أَسَاسٌ and 🡻أَسَسٌ: (M:) and the <i>origin, source, stock,</i> or <i>root,</i> (أَصْل,) of a man; as also 🡻أَسٌّ: or of anything; (M, K;) as also 🡻أَسٌّ (M, K) and 🡻إِسٌّ and 🡻أَسِيسٌ: (K:) and the <i>heart</i> of a man; because [the Arabs believe that] it is the first thing that comes into existence in the womb: (M, K:) pl. آسَاسٌ (S, M, Mgh, Msb, K) and إِسَاسٌ (M, Msb, K) and أُسُسٌ; (M, Mgh, Msb, K;) the first of which is pl. of أٌسٌّ, (Mgh, Msb,) like as أَقْفَالٌ is of قُفْلٌ; (Msb;) or of أَسَسٌ, like as أَسْبَابٌ is of سَبَبٌ; (S;) or, as some say, of أُسُسٌ, [like as أَعْنَاقٌ is of عُنُقٌ,] so that it is a pl. pl.; (TA;) and the second, of أَسٌّ, like as عِسَاسٌ is of عُسٌّ; (Msb;) and the third, of أَسَاسٌ, (Mgh, Msb,) like as عُنُقٌ is of عَنَاقٌ. (Msb.) You say, بَنَى بَيْتَهُ عَلَى 🡻أَسَاسِهِالأَوَّلِ [<i>He built his house upon its first foundation.</i>] (A.) And قَلَعَهُ مِنْ أُسِّهِ [<i>He uprooted it from its foundation</i>]. (A.) And فُلَانٌ 🡻أَسَاسُأَمْرِهِ الكَذِبُ ‡ [<i>Such a one, the foundation of his affair,</i> or <i>case, is falsehood</i>]. (A, TA.) And كَانَ ذٰلَكَ عَلَى أُسِّ الدَّهْرِ, (S, M, A, K,) and 🡻أَسِهِ, and 🡻إِسِهِ, (S, M, K,) ‡ <i>That was in old,</i> or <i>ancient, time;</i> (S, M, K;) <i>at the beginning of time;</i> (S, A, * K;) and in like manner, عَلَي ٱسْتِ الدَّهْرِ. (A.) === Also <i>A remain, relic, trace, vestige, sign, mark,</i> or <i>track,</i> of anything. (K.) You say, خُذْ أُسَّ الطَّرِيقِ, or 🡻أَسَّالطَّرِيقِ, [accord. to different copies of the K, meaning, <i>Take thou to the track of the way,</i>] when one guides himself by any mark or track, or by camels' dung: but when the way is manifest, you say, خُذْ شَرَكَ الطَّرِيقِ. (K.) أُسٌّ also signifies The <i>remains of ashes</i> (M, K) <i>between the</i> أَثَافِى, q.v.: (M:) occurring in a verse of En-Nábighah Edh-Dhubyánee; but accord. to most relates of this verse, it is آسٌ. (TA.)\nإِسٌّ : see أُسٌّ, in several places.\nاَسڤسَ 1 see 2, in two places."
+}

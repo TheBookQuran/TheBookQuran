@@ -1,0 +1,57 @@
+{
+  "rootId": "r588",
+  "source": "lanes",
+  "enrichedAt": "2026-06-29T23:36:19.920Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Remembering, mentioning, reminding, or masculinity/honor",
+  "primaryMeaning": "To remember or mention",
+  "quranicRelevance": "Very frequent. Covers remembering God (Dhikr), mentioning/reminding (Tadhkirah), scripture as a reminder (ad-Dhikr), masculinity or male gender (Dhakar), and honor/status ('wa innahu ladhikrun laka' meaning 'and indeed it is a reminder/honor for you').",
+  "keyDerivations": [
+    {
+      "lemma": "ذِكْرٌ",
+      "form": "Noun",
+      "meaning": "Remembrance, mention, reminder, or honor"
+    },
+    {
+      "lemma": "ذَكَرَ",
+      "form": "Form I Verb",
+      "meaning": "To remember, mention, or invoke"
+    },
+    {
+      "lemma": "ذَكَرٌ",
+      "form": "Noun",
+      "meaning": "Male gender"
+    },
+    {
+      "lemma": "ذُكُورٌ / ذُكْرَانٌ",
+      "form": "Noun pl.",
+      "meaning": "Males"
+    },
+    {
+      "lemma": "ذَكَّرَ",
+      "form": "Form II Verb",
+      "meaning": "To remind, admonish, or make male"
+    },
+    {
+      "lemma": "تَذَكَّرَ / اذَّكَّرَ",
+      "form": "Form V / Form VIII Verb",
+      "meaning": "To remember, take heed, or reflect"
+    },
+    {
+      "lemma": "تِذْكِيرٌ / تَذْكِرَةٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Admonition or reminder"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "ذِكْرَةٌ: Remembrance or state of recalling.",
+    "مُذَكَّرٌ: Masculine in grammar; or a sword made of hard steel."
+  ],
+  "discardedNoise": [
+    "Descriptions of iron and steel swords (سيف مذكر).",
+    "Wind blowing strongly in a specific direction."
+  ],
+  "summaryEn": "The root denotes remembering and mentioning, which Quranically connects human invocation (Dhikr) with divine reminders (scriptures) and moral reflection (Tadhakkur).",
+  "summaryAr": "يدل هذا الجذر على الحفظ والذكر، وهو ما يربط في القرآن بين الاستحضار والعبادة البشرية (الذكر) وبين المواعظ والكتب الإلهية (التذكرة) والتفكر الأخلاقي (التذكر).",
+  "rawText": "أَذْكَرَ 4 see 2. ___ اذكر also signifies <i>He</i> (a man [or other]) <i>begat a male.</i> (TA from a trad.) And اذكرت <i>She</i> (a woman, S, A, or other female, TA) <i>brought forth a male,</i> (S, A, K,) or <i>males.</i> (Mgh.) It is said in a prayer for a woman in labour, أَيْسَرَتْ وَأَذْكَرَتْ <i>May she have an easy birth, and may she bring forth a male child.</i> (A.) And you say also, اذكرت بِهِ † <i>She brought him forth a male, and hardy:</i> (TA from a trad.:) or <i>a male, and sharp and cunning.</i> (Mgh.)\nأَذْكَرُ ‡ <i>More,</i> and <i>most, sharp,</i> (S, TA,) <i>acute and ardent, vigorous and effective in affairs.</i> (TA.) Mohammad used to go round to his wives in one night, and to perform the ablution termed غُسْل for his visit to every one of them; and being asked wherefore he did so, he answered, إِنَّهُ أَذْكَرُ ‡ <i>It is more,</i> or <i>most, sharp</i> [or <i>effective</i>]; syn. أَحَدُّ. (S, TA, from a trad.) And it was said to Ibn-Ez-Zubeyr, when he was prostrated, وَٱللّٰهِ مَا وَلَدَتِ النِّسَآءُ أَذْكَرَ مِنْكَ ‡ <i>By God, women have not brought forth one more acute and ardent and vigorous and effective in affairs than thou.</i> (TA from a trad.)\nإِسْتَذْكَرَ 10 see 1, in six places, in the first and third sentences.\nاِدَّكَرَ 8 and and اِذْدَكَرَ: see 1, in three places, in the first and second sentences.\nتذاكروا 6 <i>They called to mind</i> [a story, or discourse, or the like, or a thing,] <i>one with another.</i> (KL. [See 3.]) === [And hence, <i>They conferred together.</i>]\nتَذَكَّرَ 5 see 1, in five places, in the first and second sentences. === [Also <i>It</i> (a word) <i>was,</i> or <i>became,</i> or <i>was made, of the masculine gender; contr. of</i> تأنّث.]\nتَذْكِرَةٌ an inf. n. of 2. (A, TA.) === [And hence,] <i>A thing by means of which something that one wants</i> [or <i>desires to remember</i>] <i>is called to mind; a memorandum.</i> (S, K, TA.) === [<i>A biographical memoir.</i> === And, in the present day, <i>Any official note;</i> such as <i>a passport; a permit;</i> and <i>the like.</i>]\nذاكرهُ 3 , (MA,) inf. n. مُذَاكَرَةٌ, (KL;) <i>He called to mind with him</i> (MA, KL) a story, or discourse, or the like, (MA,) or a thing. (KL.) === [And hence, <i>He conferred with him.</i>]\nذكّرهُ إِيَّاهُ 2 , (S, A, * Msb, K,) and ذكّرهُ بِهِ, (Kur xiv. 5, &c.,) inf. n. تَذْكِرَةٌ (A, TA) and تَذْكِيرٌ, (K, TA,) and quasi-inf. n. 🡻ذِكْرَى imperfectly decl.; (A, * K, * TA;) and 🡻اذكرهُايّاهُ; (S, Msb, K;) <i>He reminded him of,</i> or <i>caused him to remember, him,</i> or <i>it.</i> (S, Msb, K.) === And ذكّر, (TA,) inf. n. تَذْكِيرٌ (K) [and تَذْكِرَةٌ also, as in the Kur xx. 2], <i>He exhorted; admonished; exhorted to obedience; gave good advice, and reminded of the results of affairs; reminded of what might soften the heart, by the mention of rewards and punishments.</i> (K, TA.) Thus the verb is used in the Kur lxxxviii. 21. (TA.) ___ Also ذكّرهُ, inf. n. تَذْكِيرُ, <i>He made it</i> (a word) <i>masculine; contr. of</i> أَنَّثَهُ. (S, * Msb, K. *) === In the Kur [ii. 282], فَتُذَكِّرَ إِحْدَاهُمَا الأُخْرَى is said by some to signify † <i>That one of them may make the other to be in the legal predicament of a male:</i> [meaning that both of them together shall be as one man:] or, accord. to others, <i>one of them may remind the other.</i> (TA.) === It is said in a trad., القُرْآنُ 🡻ذَكَرٌفَذَكِّرُوهُ ‡ <i>The Kur-án is eminently excellent</i> [lit., <i>masculine</i>]: <i>therefore do ye hold it and know it and describe it as such.</i> (K, TA. [In the CK, for ذَكَرٌ is put ذِكْرٌ.]) === [Hence,] ذكّرهُ, (TA,) inf. n. تَذْكِيرٌ, (K,) <i>He put to it,</i> namely a sword, (TA,) and the head of an axe &c., (K,) <i>an edge of steel.</i> (K, * TA.) [See ذُكْرَةٌ.]\nذَاكِرٌ [act. part. n. of 1]. === مَا حَلَفْتُ بِهِ ذَاكِرًا وَلَا آثِرًا: see art. اثر.\nذَكَرٌ [probably originally signifying “ mentioned, ” or “ talked of, ” of the measure فَعَلٌ in the sense of the measure مَفْعُولٌ, like نَفَضٌ in the sense of مَنْفُوضٌ, and خَبَطٌ in the sense of مَخْبُوطٌ, and قَبَضٌ in the sense of مَقْبُوضٌ, &c.; and hence the first, and perhaps most others, of the significations here following:] <i>Male; masculine; of the male,</i> or <i>masculine, sex,</i> or <i>gender; contr. of</i> أُنْثَى: (S, A, Msb, K, &c.:) [the corresponding word in Hebrew () has been supposed to have this signification because a male is much “ mentioned, ” or “ talked of; ” and it is well known that the Arabs make comparatively little account of a female:] pl. ذُكُورٌ (S, A, Msb, K) and ذُكُورَةٌ (A, Msb, K) and ذِكَارٌ (K) and ذِكَارَةٌ and ذُكْرَانٌ (S, A, Msb, K) and ذِكَرَةٌ: (S, K:) [the last, in one copy of the S, I find written 🡻ذِكْرَةٌ, which, if correct, is a pl. of pauc.: and in the TA, in the same phrase in which it occurs in the S, it is written 🡻ذُكْرَةٌ, and expressly said to be with damm, so that it is a quasi-pl. n.:] the pl. form with و and ن is not allowable. (Msb.) One says, كَمِ الذِّكَرَةُ مِنْ وَلَدِكَ, or 🡻الذِّكْرَةُ, (accord. to different copies of the S,) or 🡻الذُّكْرَةُ, with damm, (accord. to the TA,) <i>How many are the males of thy children?</i> (S, TA.) === The <i>male organ of generation;</i> the <i>penis;</i> syn. عَوْفٌ; (S, K, &c.;) of a man: (TA:) or the فَرْج [an equivocal term, but here evidently used in the above-mentioned sense,] of an animal: (Msb:) pl. ذُكُورٌ, (K,) or ذِكَرَةٌ, like عِنَبَةٌ, (Msb,) or ذِكَارَةٌ, (T, TA,) and 🡻مَذَاكِيرُ: (S, Msb, K:) the last contr. to analogy, (S, Msb,) as though used for the sake of distinction between this signification and the one immediately preceding: (S:) or of the same class as مَحَاسِنُ [with respect to حُسْنٌ] and مَلَامِحُ [with respect to لَمْحَةٌ]: (ISd:) Akh says that it is a pl. without a [proper] sing., like عَبَابِيدُ and أَبَابِيلُ: accord. to the T, it has no sing.; or if it have a sing., it is 🡻مُذْكِرٌ, like مُقْدِمٌ, of which the pl. is مَقَادِيمُ; and signifies the <i>parts next to the penis:</i> (TA:) or it signifies the <i>penis with what is around it;</i> [or the <i>genitals;</i>] and is similar to مَفَارِقُ in the phrase شَابَتْ مَفَارِقُ رَأْسِهِ: and قَطَعَ مَذَاكِيرَهُ signified <i>He extirpated his penis.</i> (Mgh.) === Applied to a man, (A, K,) it also signifies ‡ <i>Strong; courageous; acute and ardent; vigorous and effective in affairs;</i> [and also] <i>stubborn; and disdainful:</i> (TA:) or [<i>masculine,</i> meaning] <i>perfect;</i> like as أُنْثَى is applied to a woman. (T and A in art. انث.) The signification of “ strong, courageous, and stubborn, ” and the significations which the same word has when applied to rain and to a saying, are assigned in the K to 🡻ذِكْرٌ; but [SM says,] I know not how this is; for in the other lexicons they are assigned to ذَكَرٌ. (TA.) You say, لَا يَفْعَلُهُ إِلَّا ذُكُورَةُ الرِّجَالِ ‡ [<i>None will do it but such as are strong,</i> &c., <i>of men</i>]. (A.) === Applied to iron, ‡ <i>Of the toughest and best quality,</i> (K,) <i>and strongest;</i> (TA;) <i>contr. of</i> أَنِيثٌ; (S;) [iron <i>converted into steel;</i>] as also 🡻ذَكِيرٌ. (K.) [See also ذُكْرَةٌ.] === Applied to a sword, ‡ <i>Having</i> مَآء [i. e., <i>diversified wavy marks, streaks,</i> or <i>grain</i>]; (S;) as also 🡻مُذَّكَّرٌ: (S, K:) or <i>of which the edge is of steel</i> (حَدِيدٌ ذَكَرٌ) <i>and the</i> مَتْن [or <i>middle of the broad side</i>] <i>of soft iron;</i> of which the people say that they are of the fabric of the Jinn, or Genii: (A'Obeyd, S:) or 🡻مُذَكَّرُ signifies <i>having a sharp iron blade or edge:</i> (As:) the pl. of the former is ذُكُورٌ. (Ham p. 168.) === ذُكُورُ البُقُولِ ‡ <i>Herbs,</i> or <i>leguminous plants, that are hard and thick:</i> (TA voce عُشْبٌ:) or <i>that are thick, and inclining to bitterness:</i> (S, TA:) like as أَحْرَارُهَا signifies such as are slender and sweet: (TA:) or the former signifies <i>such as are thick and rough.</i> (AHeyth.) === ذُكُورَةُ الطِّيبِ, (K,) and ذُكُورُهُ"
+}

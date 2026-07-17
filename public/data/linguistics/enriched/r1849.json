@@ -1,0 +1,32 @@
+{
+  "rootId": "r1849",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:11:50.470Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Closing, lock, barrier, cavern door, threshold, or vault",
+  "primaryMeaning": "Cavern door/threshold or locked wall",
+  "quranicRelevance": "Sleepers' dog at the cave threshold (Waseed - 'bil-waseedi'), and locked Hell ('mu'sadatun').",
+  "keyDerivations": [
+    {
+      "lemma": "وَصِيدٌ",
+      "form": "Noun",
+      "meaning": "Threshold, courtyard, cave entrance, stone wall, or barrier"
+    },
+    {
+      "lemma": "مُؤْصَدَةٌ",
+      "form": "Adjective (fem.) / Passive part.",
+      "meaning": "Closed over, locked, vaulted, sealed, or shut tight"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَتَحْسَبُهُمْ أَيْقَاظًا وَهُمْ رُقُودٌ ۚ ... وَكَلْبُهُمْ بَاسِطٌ ذِرَاعَيْهِ بِالْوَصِيدِ (18:18): And you would think them awake while they were asleep... and their dog stretching his forelegs at the threshold/entrance.",
+    "إِنَّهَا عَلَيْهِمْ مُؤْصَدَةٌ (104:8): Indeed, it (Hellfire) will be closed over/sealed upon them (inescapable heat chamber)."
+  ],
+  "discardedNoise": [
+    "Locked boxes in modern lockers.",
+    "Threshold metrics in computer screens."
+  ],
+  "summaryEn": "The root represents locked enclosures, applied to the cave sleepers' dog guarding the threshold (Waseed) and Hell sealed over (Mu'sadah) the damned.",
+  "summaryAr": "يمثل هذا الجذر السد الحابس والباب المغلق والأفنية (وصد)، واصفاً فناء ومدخل غار أهل الكهف (بالوصيد)، وجهنم المطبقة المغلقة على الكفار (مؤصدة).",
+  "rawText": "استوصد 10 (S, A, L, K) and 🡻اوصد (A, K) <i>He made a fold, such as is called</i> وَصِيدَة, (S, L,) or وَصِيد, (K,) or <i>a</i> حَظِيرَة, <i>for his sheep</i> or <i>goats,</i> (A,) in a mountain. (S, L.)\nاوصد 4 <i>He closed,</i> a door, or an entrance; syn. أَغْلَقَ; (S, M, A, L, K;) and أَطْبَقَ: (Msb, K:) as also آصَدَ. (S, L, K.) === See 10. === أُوِصِدَ <i>It</i> (a door, or entrance) <i>became closed.</i> (S.) === اوصد <i>He covered,</i> or <i>covered over,</i> a cooking-pot. (M, A, L.) === وَقَعَ الجَبَلُ عَلَى بَابِ الكَهْفِ فَأَوْصَدَهُ <i>The mountain fell upon the entrance of the cavern, and stopped it up.</i> (L, from a trad.) See also أَوْطَدَ. === اوصدوا عَلَيْهِ ‡ <i>They straitened him, and imposed on him a difficulty which he was unable to bear.</i> (A.)\nمُوصَدٌ A door, or entrance, <i>closed:</i> (L:) or <i>become closed.</i> (S.) === In the Kur, eiv. 8, [and xc. 20,] مُوصَدَةٌ (as some read instead of مُؤْصَدَةٌ, L) signifies <i>Closed over.</i> (S, L.) === See وَصِيدٌ.\nوَصِيدٌ <i>A court,</i> or <i>an open</i> or <i>a wide space in front of a house</i> or <i>dwelling,</i> or <i>extending from its sides:</i> (S, M, A, L, Msb, K:) as also أَصِيدٌ; q. v.: (L:) pl. وُصُدٌ and وَصَائِدُ. (TA.) === <i>A threshold</i> (Msb, K) <i>of a door</i> or <i>entrance.</i> (Msb.) === <i>A door,</i> or <i>entrance.</i> (A.) See وِصَادٌ. === It has the first of these meanings in the Kur, xviii. 17; (A, L, TA;) or the second: (TA:) or the third: (A, TA:) or it there means The <i>cavern of the Asháb el-Kahf.</i> (K *, TA.) === Also, وَصِيدٌ, (K,) or 🡻وَصِيدَةٌ, (S, A, L,) [as also أَصِيدَةٌ,] <i>A fold</i> (حَظِيرَة) <i>for sheep</i> or <i>goats:</i> (A:) or <i>a house like a</i> حظيرة, <i>of stones, made in the mountains, for flocks</i> or <i>herds;</i> (L, K;) i. e., <i>for sheep</i> or <i>goats &c.:</i> (TA:) <i>an enclosure like a</i> حظيرة, <i>made for flocks</i> or <i>herds, excepting that it is of stones, and a</i> حظيرة [<i>is</i>] <i>of branches of trees:</i> (S, L:) F, misunderstanding this explanation, has erroneously said in the K, that وَصِيدٌ also signifies a حظيرة of branches of trees: (TA:) pl. وَصَائِدُ. (A.) === [<i>Snares,</i> or <i>traps,</i> for catching beasts of prey: see رَصَائِدُ in art. رصد.] === وَصِيدٌ Herbage <i>having the roots near together.</i> (S, L, K.) === وَصِيدٌ ‡ <i>Strait; straitened;</i> (K, TA;) as also 🡻مُوصَدٌعَلَيْهِ. (A, TA.)\nوَصِيدَةٌ : see وَصِيدٌ.\nوِصَادٌ (M, L,) as also إِصَادٌ, (L,) and 🡻وَصِيدٌ [see the Kur, xviii. 17,] (K,) <i>i. q.</i> مطبق: (M, L, K.:) [in a copy of the M written مَطْبَقٌ: in the L, without any syll. signs: in the CK, مُطْبَق: and in my MS. copy of the K, مُطْبِق: see the remarks on these words in art. أَصد:]) or وِصَادٌ and إِصَادٌ are like طِبَاقٌ. (O.)"
+}

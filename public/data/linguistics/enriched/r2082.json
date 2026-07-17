@@ -1,0 +1,26 @@
+{
+  "rootId": "r2082",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T18:01:00.335Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Calamity, disaster, cunning intelligence, sagacity, or bitter hardship",
+  "primaryMeaning": "Calamitous/disastrous (Adha)",
+  "quranicRelevance": "More calamitous (Adha - 'wa-as-sa'atu adha').",
+  "keyDerivations": [
+    {
+      "lemma": "أَدْهَى",
+      "form": "Adjective (Comparative)",
+      "meaning": "More calamitous, more disastrous, or heavier in hardship"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "بَلِ السَّاعَةُ مَوْعِدُهُمْ وَالسَّاعَةُ أَدْهَىٰ وَأَمَرُّ (54:46): But the Hour is their appointment, and the Hour is more calamitous and more bitter."
+  ],
+  "discardedNoise": [
+    "Dahiyah (smart person/genius) - modern Arabic intellectual shift.",
+    "Duha (forenoon) - spelling mismatch."
+  ],
+  "summaryEn": "The root refers to a devastating calamity or hardship (Dahy), describing the Day of Judgment as far more disastrous and painful than any worldly defeat.",
+  "summaryAr": "يمثل هذا الجذر المصيبة العظمى والدهياء والداهية الملمة، والدهاء والذكاء (دهي)، واصفاً أهوال قيام الساعة بأنها أشد دهاءً وأعظم بلاءً وأعظم مرارة.",
+  "rawText": "دهى 2 <i>He took his way in the</i> دَوّ [q. v.]. (M, K.) And دوّى فِى الأَرْضِ <i>He went away into the country,</i> or <i>in the land.</i> (T.) Ru-beh uses the phrase دوّى بِهَا as signifying <i>He passed by them;</i> meaning, by them, a male [wild] ass and his she-asses. (T.) And it is said of the دَوِّيَّة that it is thus called لِأَنَّهَا تُدَوِّى صَارَ فِيهَا, i. e. <i>Because it makes away with those who are in it.</i> (T.) ___ See also art. دوى."
+}

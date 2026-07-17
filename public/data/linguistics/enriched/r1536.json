@@ -1,0 +1,26 @@
+{
+  "rootId": "r1536",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:55:18.217Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Color, hue, diversity, variety, or complexion",
+  "primaryMeaning": "Color or variety",
+  "quranicRelevance": "Diverse colors of plants, mountains, and human languages/skins (Alwan - 'mukhtalifan alwanuhu', 'wakhtilafu alsinatikum wa alwanikum').",
+  "keyDerivations": [
+    {
+      "lemma": "لَوْنٌ / أَلْوَانٌ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Color, hue, variety, sort, or skin complexion"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "بَقَرَةٌ صَفْرَاءُ فَاقِعٌ لَوْنُهَا (2:69): A yellow cow, bright is her color (pleasing to look at)."
+  ],
+  "discardedNoise": [
+    "Optical wavelength color theories.",
+    "Modern paint industry codes."
+  ],
+  "summaryEn": "The root denotes color and variety, illustrating the visual beauty of yellow cows, and using 'Alwan' to praise the natural diversity of creation and languages.",
+  "summaryAr": "يدل هذا الجذر على الألوان والتنوع، واصفاً لون البقرة الصفراء المبهج، ومستخدماً (ألوانكم) للتدليل على عظمة الاختلاف الطبيعي.",
+  "rawText": "أَلْوَانُ الأَطْعِمَةِ [<i>Sorts,</i> or <i>species, of viands</i>]. (S in art. بأج.)\nتَلَوَّنَ 5 <i>It became coloured.</i> (MA, KL.) See 1. === <i>It became variegated,</i> or <i>diversified in colour.</i> === And hence, (see تغّول,) <i>It varied in state,</i> or <i>condition; it was,</i> or <i>became, variable therein. He assumed various forms,</i> or <i>appearances.</i> === تَلَوَّنَ فُلَانٌ <i>Such a one varied in disposition.</i> (Msb.)\nلَوَّنَ 2 <i>i. q.</i> 🡻تَلَوَّنَ <i>It became coloured.</i> (M.) === <i>It</i> (a palm-tree) <i>had dates which had become coloured.</i> (T.) === لَوَّنَ فِى الكَلَامِ [<i>He varied in speech</i>]. (Sgh, K, voce تَمَطَّطَ.)\nلَوْنٌ <i>Colour:</i> (S, Msb, K:) <i>distinctive quality</i> or <i>property:</i> (M, K:) <i>sort,</i> or <i>species:</i> (S, K:) <i>mood, disposition,</i> or <i>character.</i>\nمُتَلَوِّنٌ <i>Varying,</i> or <i>variable, in dispositions.</i> === <i>Unsteady in disposition.</i> (K.)"
+}

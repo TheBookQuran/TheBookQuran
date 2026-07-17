@@ -1,0 +1,53 @@
+{
+  "rootId": "r1067",
+  "source": "lanes",
+  "enrichedAt": "2026-06-29T23:36:19.920Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Darkness, wrongdoing, or placing a thing out of its proper place",
+  "primaryMeaning": "To wrong, oppress, or do injustice",
+  "quranicRelevance": "Very frequent. Used for injustice/wrongdoing (Zulm) against oneself or others, association of partners with God (Shirk as Zulmun 'Adheem), and physical or metaphorical darkness (Zulumat) contrasting with light.",
+  "keyDerivations": [
+    {
+      "lemma": "ظُلْمٌ",
+      "form": "Noun",
+      "meaning": "Injustice, wrongdoing, or oppression"
+    },
+    {
+      "lemma": "ظَالِمٌ",
+      "form": "Noun / Active part.",
+      "meaning": "Wrongdoer, oppressor, or unjust person"
+    },
+    {
+      "lemma": "ظُلُمَاتٌ",
+      "form": "Noun pl.",
+      "meaning": "Darknesses (physical, moral, or spiritual)"
+    },
+    {
+      "lemma": "أَظْلَمَ",
+      "form": "Form IV Verb",
+      "meaning": "To grow dark, or enter into darkness"
+    },
+    {
+      "lemma": "ظَلَمَ",
+      "form": "Form I Verb",
+      "meaning": "To do wrong, commit injustice, or oppress"
+    },
+    {
+      "lemma": "ظَلُومٌ / ظَلَّامٌ",
+      "form": "Adjectives",
+      "meaning": "Extremely unjust, or constant wrongdoer"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "ظَلَمَ (Form I): To dig or put water where it shouldn't be; or to drink milk before it is churned (metaphor of prematurity).",
+    "مَظْلُومٌ: An oppressed or wronged person."
+  ],
+  "discardedNoise": [
+    "Drinking milk prematurely (ظَلَمَ السِّقَاءَ).",
+    "Excavating water-courses or path digging.",
+    "Snow or brightness of teeth (ظَلْم)."
+  ],
+  "summaryEn": "The root encompasses wrongdoing (putting something in the wrong place) and darkness, contrasting with justice and light in the Quranic world view.",
+  "summaryAr": "يشمل هذا الجذر فعل الجور والظلم (وضع الشيء في غير موضعه) والظلام، متقابلاً مع العدل والنور في الرؤية القرآنية.",
+  "rawText": "أَظْلَمُ [<i>More,</i> and <i>most, wrongful, unjust, injurious,</i> or <i>tyrannical, in conduct</i>]. El-Muärrij says, I heard an Arab of the desert say to his companion, أَظْلَمِى وَأَظْلَمُكَ فَفَعَلَ ٱللّٰهُ بِهِ, meaning <i>The more wrongful in conduct of me and of thee</i> [<i>may God do to him</i> what He will do; i. e. may God punish him]. (T.) [And] one says, لَعَنَ ٱللّٰهُ أَظْلَمِى وَأَظْلَمَكَ i. e. [<i>May God curse</i>] <i>the more wrongful in conduct of us.</i> (K. [But in the TA, a doubt is intimated as to the correctness of this latter saying.]) One says also, لَهُوَ أَظْلَمُ مِنْ حَيَّةٍ [i. e. <i>Verily he is more wrongful in conduct than a serpent</i>]: because it comes to a burrow which it has not excavated, and makes its abode in it: (Fr, T:) for it comes to the burrow of the [lizard called] ضَبّ, and eats its young one, and takes up its abode in its burrow. (TA voce حَيَّةٌ.) === And الأَظْلَمُ is an appellation of <i>The</i> ضَبّ; because it eats its young ones. (TA.)\nإِنْظَلَمَ 7 see the next paragraph.\nاظلم 4 , said of the night, (Fr, T, S, M, Msb, K,) and 🡻ظَلِمَ, (Fr, T, S, K,) the latter with kesr, (S,) like سَمِعَ, (K,) [erroneously written in the TT as from the M ظَلَمَ,] <i>It became dark;</i> (S, K;) or <i>it became black;</i> (M;) or <i>it came with its darkness.</i> (Msb.) It is said in the Kur [ii. 19], وَإِذَا أَظْلَمَ عَلَيْهِمْ قَامُوا [<i>And when it becomes dark to them they stand still</i>]; the verb being intrans.: or, accord. to the Ksh, and Bd follows it, it may be trans. [so that the meaning is, <i>and when He makes</i> their place <i>dark</i> &c.]; as is shown by another reading, which is أُظْلِمُوا: accord. to AHei, it is known by transmission as only intrans.; but Z makes it to be trans. by itself; Ibn-Es-Saláh affirms it to be trans. and intrans.: and Az [so in the TA, but correctly ISd, in the M,] mentions the saying, تَكَلَّمَ فَأَظْلَمَ عَلَيْنَا البَيعتَ † [<i>He spoke, and made dark to us the house,</i> or <i>chamber,</i> or <i>tent</i>], meaning he made us to hear what we disliked, or hated, the verb being trans. (TA.) === And أَظْلَمُوا <i>They entered upon the</i> ظَلَام [or <i>darkness,</i> or <i>beginning of night</i>]: (S, M, Msb, K:) or, as in the Mufradát [of Er-Rághib], <i>they became in darkness.</i> (TA.) === And they said, مَا أَظْلَمَهُ and ما أَضْوَأَهُ [<i>How dark is it!</i> and <i>How light,</i> or <i>bright, is it!</i>]; which is anomalous. (S, TA.) ___ And اظلم الثَّغْرُ <i>The front teeth glistened.</i> (T, K.) Hence the saying [of a poet], <center> <h3> إِذَا مَا ٱجْتَلَى الرَّائِى إِلَيْهَا بِطَرْفِهِ </h3> <h3> غُرُوبَ ثَنَايَاهَا أَضَآءَ وَأَظْلَمَا </h3> </center> [as though meaning, <i>When the beholder of her with his eye looks at the fineness,</i> or <i>sharpness,</i> (but غُرُوب is variously explained,) <i>of her central teeth, it shines brightly, and glistens:</i> but Az plainly indicates another meaning; i. e., <i>he sees</i> (lit. <i>lights on,</i> or <i>finds,</i>) <i>brightness and lustre;</i> for he immediately adds, without the intervention of وَ or أَوْ, evidently in relation to this verse,] أَضَآءَ أَىْ أَصَابَ ضَوْءًا وَأَظْلَمَ أَصَابَ ظَلْمًا: (T:) [and ISd cites the verse above with the substitution of بِعَينِهِ for بِطَرْفِهِ and of أَنَارَ for أَضَآءَ immediately after saying that] أَظْلَمَ signifies <i>he looked at the teeth and saw lustre</i> (الظَّلْمَ). (M.) [In the K, next after the explanation of اظلم الثَّغْرُ given above, it is added that اظلم said of a man signifies أَصَابَ ظَلْمًا: thus, with fet-h, to the ظ, accord. to the TA: in my MS. copy of the K and in the CK, ظُلْمًا, which is doubtless a mistranscription.]\nاِظَّلَمَ 8 (T, S, M, K) and اِظْطَلَمَ and اِطَّلَمَ, (S, M,) which last is [said to be] the most usual, (S,) [but I have mostly found the first to be used,] of the measure اِفْتَعَلَ, (S, M,) <i>He took upon himself</i> [<i>the bearing of</i>] ظُلْم [or <i>wrong,</i> &c.,] <i>in spite of difficulty, trouble,</i> or <i>inconvenience:</i> (S, TA:) or <i>he bore</i> الظُّلْم [or <i>wrong,</i> &c.,] (T, M, K, TA,) <i>willingly, being able to resist;</i> (T, TA;) and 🡻اِنْظَلَمَ signifies [thus likewise, or] <i>he bore</i> الظُّلْم. (S, M, K.)\nتظالم القَوْمُ 6 (S, M, Msb) <i>The people,</i> or <i>company of men, treated,</i> or <i>used, one another wrongfully, unjustly, injuriously,</i> or <i>tyrannically</i> (ظَلَمَ بَعْضُهُمْ بَعْضًا). (M, Msb.) === And [hence] تَظَالَمَتِ المِعْزَى ‡ <i>The goats smote one another with their horns</i> by reason of their being fat and having abundance of herbage. (IAar, M, TA.) One says, وَجَدْنَا أَرْضًا تَظَالَمَ مِعْزَاهَا ‡ <i>We found a land whereof the goats smote one another with their horns</i> by reason of satiety and liveliness. (T, TA.)\nتَظَلَّمَ 5 تظلّم مِنْهُ (T, S, M, K, [but in some copies of the S, منه is omitted,]) <i>He complained of his</i> ظُلْم [or <i>wrongdoing,</i> &c.], (S, M, K,) إِلَى الحَاكِمِ [<i>to the judge</i>]: (T:) in some copies of the S, تُظُلِّمَ. (TA.) === And تظلّم signifies also <i>He transferred the responsibility for the</i> ظُلْم [or <i>wrongdoing,</i> &c.,] <i>upon himself,</i> (M, K,) accord. to IAar, who has cited as an ex., <center> <h3> كَانَتْ إِذَا غَضِبَتْ عَلَىَّ تَظَلَّمَتْ </h3> </center> [as though meaning <i>She used, when she was angry with me, to transfer the responsibility for the wrongdoing upon herself;</i> which may mean that she finally confessed the wrongdoing to be hers]; but [ISd says] I know not how that is: the تَظَلُّم in this case is only the complaining of الظُّلْم; for when she was angry with him, it was not allowable [to say] that she attributed the ظُلْم to herself. (M.) === See also 1, former half, in two places.\nظلّمهُ 2 , inf. n. تَظْلِيمٌ, (T, S, &c.,) <i>He told him that he was</i> ظَالِم [i. e. <i>doing wrong</i> or <i>acting wrongfully</i> &c., or <i>a wrongdoer</i>]: (T:) or <i>he attributed,</i> or <i>imputed, to him</i> ظُلْم [i. e. <i>wrongdoing,</i> &c.]. (S, M, Msb, K.) === And <i>He</i> (a judge) <i>exacted justice for him from his wronger, and aided him against him.</i> (T.)\nظَالِمٌ [<i>Acting wrongfully, unjustly, injuriously,</i> or <i>tyrannically:</i> and <i>wronging;</i> or <i>treating,</i> or <i>using, wrongfully,</i> &c.:] part. n. of ظَلَمَ: (M, K:) and 🡻مُتَظَلِّمٌ signifies the same; as well as <i>complaining of his wrongdoer:</i> (T:) [the pl. of the former is ظَالِمُونَ and ظَلَمَةٌ:] and ظَلَمَةٌ signifies those <i>who debar men from,</i> or <i>refuse to them, their rights,</i> or <i>dues.</i> (IAar, T, TA.) ___ See also ظِلَّامٌ.\nظَاْلَمَ 3 see 1, in the middle of the paragraph.\nظَلَامٌ : see ظُلْمَةٌ, in two places.\nظَلَمَ 1 , aor. ﹻ, has for its inf. n. ظَلْمٌ, (M, Msb, K, and so in some copies of the S,) or 🡻ظُلْمٌ, (so in other copies of the S,) or both, (T,) or the latter is a simple subst., (T, M, Msb, TA,) which is put in the place of the inf. n., (TA, [and the same is indicated in the T and K by the saying that the proper inf. n. is with fet-h,]) and 🡻مَظْلِمَةٌ, (S, TA,) or this is likewise a simple subst., (Msb,) and 🡻مَظْلَمَةٌ, [or this also is a simple subst.,] and 🡻ظِلَامٌ also is said to be an inf. n. like ظُلْمٌ, these two being like لِبَاسٌ and لُبْسٌ, [or it is a simple subst. like as ظُلْمٌ is said to be, or it is an inf. n. of 3, as such occurring in the middle of this paragraph,] or, accord. to Kr, it is pl. of ظُلْمٌ [like as رِمَاحٌ is pl. of رُمْحٌ]: (TA:) [ظَلَمَ when intrans. generally means <i>He did wrong;</i> or <i>acted wrongfully, unjustly, injuriously,</i> or <i>tyrannically:</i> and when trans., <i>he wronged;</i> or <i>treated,</i> or <i>used, wrongfully, unjustly, injuriously,</i> or <i>tyrannically;</i> or <i>he misused:</i>] accord. to most of the lexicologists, (Er-Rághib, TA,) primarily, (As, T, S, Msb,) 🡻الظُّلْمُ signifies <i>the putting a thing in a place not its own; putting it in a wrong place; misplacing it:</i> (As, T, S, M, Er-Rághib, Msb, K"
+}

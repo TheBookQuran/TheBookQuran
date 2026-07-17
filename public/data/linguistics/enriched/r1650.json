@@ -1,0 +1,31 @@
+{
+  "rootId": "r1650",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:21:37.831Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Bee, gift, wedding dowry, thinning, or thin shape",
+  "primaryMeaning": "Bee or gift/dowry",
+  "quranicRelevance": "Honey bees (Nahl - 'ila an-nahli'), and giving wedding dowries (Nihlah - 'nihlatan').",
+  "keyDerivations": [
+    {
+      "lemma": "نَحْلٌ",
+      "form": "Noun (collective)",
+      "meaning": "Honey bees, hive insects, or honey producers"
+    },
+    {
+      "lemma": "نِحْلَةٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Free gift, wedding dowry given willingly, or donation"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَأَوْحَىٰ رَبُّكَ إِلَى النَّحْلِ أَنِ اتَّخِذِي مِنَ الْجِبَالِ بُيُوتًا (16:68): And your Lord inspired/revealed to the bee: 'Take for homes among the mountains' (instinctual biology)."
+  ],
+  "discardedNoise": [
+    "Physical weight loss and thinning of body (Nuhool) - health logs.",
+    "Attributing a poem falsely to an author (Nahl)."
+  ],
+  "summaryEn": "The root connects instinctive architecture (bees) with marital gifts, detailing the divine inspiration of honey bees (Nahl) and ordering wedding dowries (Nihlah) given as free gifts.",
+  "summaryAr": "يربط هذا الجذر بين حشرة النحل صانعة العسل (نحل)، ونحلة الصداق والمهور الطوعية للنساء (نحلة)، واصفاً إلهام النحل الجبلي، ومهر الزواج.",
+  "rawText": "نَحَِلَ جِسْمُهُ 1 <i>His body became lean,</i> or <i>emaciated.</i> (S.)\nنِحْلَةٌ <i>i. q.</i> فَرِيضَةٌ; or دِيَانَةٌ; and دِينٌ, as in the saying مَا نِحْلَتُكَ [<i>What is thy religion?</i>]. (TA.)"
+}

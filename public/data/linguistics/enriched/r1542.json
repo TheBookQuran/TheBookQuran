@@ -1,0 +1,42 @@
+{
+  "rootId": "r1542",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:01:45.660Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Gentleness, softness, tender, palm tree, ease, or flexible",
+  "primaryMeaning": "Gentleness/softness or palm tree",
+  "quranicRelevance": "Soft/gentle speech (Layyin - 'qawlan layyinan'), behaving gently (Linta - 'linta lahum'), and soft palm trees (Leenah - 'leenatin').",
+  "keyDerivations": [
+    {
+      "lemma": "لَانَ / يَلِينُ",
+      "form": "Form I Verb",
+      "meaning": "To grow soft, gentle, yielding, tender, or malleable"
+    },
+    {
+      "lemma": "أَلَانَ / يُلِينُ",
+      "form": "Form IV Verb",
+      "meaning": "To make soft, malleable, flexible, or yielding"
+    },
+    {
+      "lemma": "لَيِّنٌ",
+      "form": "Adjective",
+      "meaning": "Gentle, soft, tender, or flexible"
+    },
+    {
+      "lemma": "لِينَةٌ",
+      "form": "Noun",
+      "meaning": "Soft, excellent palm tree (yielding soft sweet dates)"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فَبِمَا رَحْمَةٍ مِنَ اللَّهِ لِنْتَ لَهُمْ (3:159): So by mercy from God you (O Prophet) behaved gently/softly with them (gentle leadership).",
+    "وَأَلَنَّا لَهُ الْحَدِيدَ (34:10): And We made the iron soft/malleable for him (David's technological miracle)."
+  ],
+  "discardedNoise": [
+    "Soft clay (Teeh) - distinct spelling.",
+    "Modern flexibility stretch exercises."
+  ],
+  "summaryEn": "The root denotes gentleness and softness, contrasting the Prophet's gentle leadership (Linta) and soft speech with David's soft, malleable iron (Alanna).",
+  "summaryAr": "يدل هذا الجذر على الليونة والرقة والنعومة، واصفاً لين القيادة النبوية الشريفة (لِنت لهم)، وتليين الحديد لداود (وألنّا)، والنخيل اللينة المقطوعة.",
+  "rawText": "أَلَانَ بَطْنَهُ 4 [<i>It relaxed his bowels</i>]; said of medicine. (K in art. سهل.)\nاِسْتَلَانَ 10 : see its contr. استخشن.\nعَيْشٌ لَيِّنٌ <i>Soft, delicate,</i> or <i>easy, life.</i> === لَيِّنُ الجَانِبِ: see جَانِبٌ. === لَيِّنُ الأَعْطَافِ; &c.: see art. عطف.\nلَانَ 1 , inf. n. لِينٌ [not لَيْنٌ as in the CK] and لَياَنٌ, (T, S, M, K,) <i>contr. of</i> خَشُنَ; (S, K in art. خشن, and TK;) <i>It was,</i> or <i>became, soft, as opposed to rough</i> or <i>harsh; smooth; plain; without asperities; fine to the touch; delicate; tender; supple; lithe; limber; pliant; pliable; flexible; ductile; malleable; soft,</i> or <i>flabby; lax:</i> and <i>he was,</i> or <i>became, soft; tender; pliant; gentle; bland;</i> or <i>mild.</i> Hence لان جَانِبُهُ: see لَيِّنٌ. === لَانَ بَطْنُهُ <i>His bowels became relaxed.</i> === لَانَ <i>He relented.</i>\nلَانَ for الْآنَ: see the latter in art. اين.\nلَايَنَهُ بِالقَوْلِ 3 <i>He soothed, coaxed, or wheedled, him with words.</i> (L, art. مسح.) === لَايَنَهُ [<i>He acted gently towards him;</i> (M, K;) <i>treated him with gentleness, or blandishment; soothed him; coaxed him; wheedled him;</i>] <i>i. q.</i> دَارَاهُ. (S, M, Msb, voce داراه.) === لَايَنَهُ <i>He was soft, tender, gentle, bland,</i> or <i>mild, towards him.</i> (M, K.)\nلِينَةٌ applied to <i>a palm-tree:</i> see art. لون; and see عَجْوَةٌ.\nلِينُ العَيْشِ <i>Softness, delicateness,</i> or <i>easiness, of life.</i>\nمُلَيِّنٌ <i>A lenitive,</i> or <i>laxative,</i> medicine."
+}

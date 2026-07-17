@@ -1,0 +1,42 @@
+{
+  "rootId": "r1953",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:16:02.189Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Disobedience, rebellion, staff/stick, or hardness",
+  "primaryMeaning": "To disobey or staff",
+  "quranicRelevance": "Disobedient rebellion against commands (Isyan - 'asa'), sins/disobedience (Ma'siyah), and Moses' staff/stick (Asa).",
+  "keyDerivations": [
+    {
+      "lemma": "عَصَى",
+      "form": "Form I Verb",
+      "meaning": "To disobey, rebel, or oppose"
+    },
+    {
+      "lemma": "عِصْيَانٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Disobedience, or rebellion"
+    },
+    {
+      "lemma": "عَصًا / عِصِيٌّ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Staff, stick, or rod"
+    },
+    {
+      "lemma": "مَعْصِيَةٌ",
+      "form": "Noun",
+      "meaning": "Disobedience, sin, or transgression"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَعَصَى آدَمُ رَبَّهُ (20:121): And Adam disobeyed/rebelled (sinned by crossing limits).",
+    "أَلْقِ عَصَاكَ: Throw down your staff (Moses' rod of power)."
+  ],
+  "discardedNoise": [
+    "Obscure details of sword handles (عصا).",
+    "Historical battles of rebellion."
+  ],
+  "summaryEn": "The root covers disobedience and the staff, linking the literal staff (Asa) with the moral transgression of disobeying divine commands.",
+  "summaryAr": "يغطي هذا الجذر العصيان والعصا، جامعاً بين العصا المادية لموسى عليه السلام والمعصية والتمرد الأخلاقي (عصيان).",
+  "rawText": "إِسْتَعْصَىَ 10 see the first paragraph.\nاِعْتَصَتِ النَّوَاةُ 8 <i>The date-stone was,</i> or <i>became, hard.</i> (S, K.)\nتعاصى 6 [occurs in the S and TA, voce تَحَمَّسَ, as meaning <i>He feigned disobedience,</i> or <i>rebellion:</i> and in the A and TA, voce تَشَاغَبَ, as meaning <i>he manifested incompliance</i>].\nتعصّىِ 5 <i>It</i> (an affair) <i>was,</i> or <i>became, difficult;</i> syn. اِعْتَاصَ: (K, TA:) said by some to be originally تَعَصَّصَ; like تَظَنَّى and تَقَضَّى. (TA.)\nعَاصٍ and 🡻عَصِىٌّ <i>Disobeying,</i> or <i>rebelling;</i> or <i>disobedient,</i> or <i>rebellious:</i> (S, K:) [both are mentioned in the S and K as though syn.: but] ↓ the latter is an intensive epithet [and therefore has the latter signification, or means <i>very disobedient</i> or <i>rebellious</i>]: the pl. of the former is عُصَاةٌ. (Msb.) === العَاصِى is an appellation of <i>The young camel when it disobeys its mother, and does not follow her.</i> (TA.) === And it signifies also ‡ <i>The vein that will not cease bleeding:</i> (S, K, TA:) belonging to this art. and to art. عصو: (TA: mentioned in art. عصو in the K:) pl. العَوَاصِى. (S.)\nعَاْصَىَ 3 see the preceding paragraph.\nعَصَاهُ 1 , aor. يَعْصِيهِ, inf. n. عَصْىٌ and مَعْصِيَةٌ (S, Msb, K, TA) and عِصْيَانٌ, (TA, and so in some copies of the S,) or this last is a simple subst., (Msb,) <i>He</i> ([for instance] a slave, Msb, TA) <i>disobeyed him,</i> or <i>rebelled against him,</i> (S, K, TA,) i. e., his master; (Msb, TA;) as also 🡻عاصاهُ, (S, Msb, K, TA,) inf. n. مُعَاصَاةٌ; (TA;) and 🡻استعصى عَلَيْهِ, (S,) meaning <i>he opposed him,</i> or <i>resisted him,</i> and <i>did not obey him,</i> [or <i>he rebelled against him,</i>] namely, his prince, or commander. (TA.) [See also an ex. of the first in a verse cited voce زُجٌّ] فُلَانٌ يَعْصِى الرِيحَ means † <i>Such a one faces the quarter from which the wind blows, not opposing his side to the wind.</i> (TA.)\nعَصِىٌّ : see what follows, in two places.\nعِصْيَانٌ [mentioned above as an inf. n., but accord. to the Msb a simple subst.,] <i>Disobedience,</i> or <i>rebellion; contr. of</i> طَاعَةٌ. (S, K.)"
+}

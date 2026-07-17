@@ -1,0 +1,37 @@
+{
+  "rootId": "r1615",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:00:21.796Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Slowness, respite, molten metal, dregs of oil, or ease",
+  "primaryMeaning": "Slowness/respite or molten metal",
+  "quranicRelevance": "Granting respite/delay to disbelievers (Mahhala/Amhila - 'famah-hili al-kafireena amhilhum'), and drink like molten brass/metal (Muhl - 'khal-muhli').",
+  "keyDerivations": [
+    {
+      "lemma": "مَهَّلَ / يُهَمِّلُ",
+      "form": "Form II Verb",
+      "meaning": "To grant respite, delay, give time, or defer punishment"
+    },
+    {
+      "lemma": "أَمْهَلَ / يُهْمِلُ",
+      "form": "Form IV Verb",
+      "meaning": "To respite, give a brief delay, or let be"
+    },
+    {
+      "lemma": "مُهْلٌ",
+      "form": "Noun",
+      "meaning": "Molten metal, boiling brass, or dregs of hot oil"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فَمَهِّلِ الْكَافِرِينَ أَمْهِلْهُمْ رُوَيْدًا (86:17): So grant respite/delay to the disbelievers; respite them gently/briefly (divine strategy).",
+    "يَشْوِي الْوُجُوهَ بِئْسَ الشَّرَابُ (18:29): It scalds/roasts the faces, miserable is the drink (Muhl)."
+  ],
+  "discardedNoise": [
+    "Modern professional deadlines (Mahal).",
+    "Obscure details of camel fat extraction."
+  ],
+  "summaryEn": "The root represents slowness and suspension, covering the strategic respite (Israa/Ihmal) granted to tyrants, and the boiling, molten metal drink (Muhl) of Hell.",
+  "summaryAr": "يمثل هذا الجذر التمهل والإبطاء والمذاب، واصفاً الإمهال الإلهي المؤقت للكافرين (أمهلهم)، والشراب المغلي كالمعادن المذابة في جهنم (كالمهل).",
+  "rawText": "أَمْهَلَهُ 4 <i>He acted gently, softly, or in a leisurely manner, towards, or with, him.</i> (K.) <i>He granted him some delay, or respite; let him alone, or left him, for a while.</i> (S, K.) [<i>In both senses</i>] <i>i. q.</i> أَرْوَدَهُ. (S, art. رود.) You say أَمْهِلْنِى حَتَّى أَفْعَل كَذَا <i>Grant thou me some delay that I may do such a thing; give me time to do such a thing.</i> See Har p. 164.\nتَمَهَّلَ 5 <i>He acted,</i> or <i>behaved, deliberately,</i> or <i>leisurely; without haste;</i> (S, Msb, K;) in an affair. (S, Msb.)\nغُرْمُولٌ مُتْمَهِلٌّ <i>A hard penis:</i> see قَاسِبٌ.\nمَهَلٌ : see مَهْلٌ.\nمَهْلٌ and 🡻مَهَلٌ and 🡻مُهْلَةٌ <i>Gentleness; a leisurely manner of acting or proceeding.</i> (Msb, K, &c.) === مَهْلًَا <i>Act gently, softly,</i> or <i>leisurely.</i>\nمُهْلَةٌ : see مَهْلٌ. === فِى الأَمْرِ مُهْلَةٌ <i>In the affair is a delay;</i> syn. تَأْخِيرٌ. (Msb.) === فِى مُهْلَةٍ <i>Leisurely; gently; by little and little.</i>"
+}

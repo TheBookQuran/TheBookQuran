@@ -1,0 +1,36 @@
+{
+  "rootId": "r1927",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:12:08.450Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Mocking, ridicule, laughing at, or speed",
+  "primaryMeaning": "To mock or ridicule",
+  "quranicRelevance": "Ridiculing faith and prophets (Huzu' - 'huzuwan'), and mockers.",
+  "keyDerivations": [
+    {
+      "lemma": "هَزِئَ",
+      "form": "Form I Verb",
+      "meaning": "To mock, ridicule, scoff, or laugh at"
+    },
+    {
+      "lemma": "هُزُؤٌ / هُزُوًا",
+      "form": "Noun",
+      "meaning": "Mockery, ridicule, laughing-stock, or joke"
+    },
+    {
+      "lemma": "مُسْتَهْزِئُونَ",
+      "form": "Noun / Active part. pl.",
+      "meaning": "Mockers, scoffers, or ridiculing ones"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "اللَّهُ يَسْتَهْزِئُ بِهِمْ (2:15): God mocks/scoffs at them (divine response matching their mockery)."
+  ],
+  "discardedNoise": [
+    "Riding a camel at full speed.",
+    "Obscure pre-Islamic poetry on tribal insults."
+  ],
+  "summaryEn": "The root represents ridicule, detailing the scoffing faced by prophets and the divine retribution that matches their mockery (Huzu').",
+  "summaryAr": "يمثل هذا الجذر الاستهزاء والسخرية، واصفاً مواقف الكافرين من الرسل ودعواتهم (هزواً) ومجازاة الله لهم من جنس عملهم.",
+  "rawText": "إِسْتَهْزَاَ 10 see 1.\nاهزأ 4 <i>He entered upon the time of severe cold.</i> (K.) See also اهرأ, which is the word commonly known. (TA.) === See 1. ___ اهزأتْ بِهِ نَاقَتُهُ <i>His she-camel hastened with him.</i> (K.)\nتَهَزَّاَ 5 see 1.\nغَدَاةٌ هَازِئَةٌ ‡ <i>A morning intensely cold:</i> as though mocking men when they shrug and shiver. (A.)\nمَفَازَةٌ هَازِئَةٌ بِالرَّكْبِ , and with هُزَأَةٌ for هازئة, ‡ [<i>A desert that mocks the company of riders</i>]. (A.)\nهَزَأَ مِنْهُ 1 , (K,) and بِهِ; (S, K;) and هَزِئَ (S, K) followed by منه and به; (Akh, S;) but accord. to Yoo, we should say هزئ به only; not منه; (TA;) aor. ﹷ, inf. n. هُزْءٌ and هُزُؤٌ (S, K) and هُزُوْءٌ (TA) and مَهْزَأَةٌ; (S, K;) and 🡻تهزّأبه, (AZ, S, K,) and 🡻استهزأبه; (S, K;) <i>He mocked at, scoffed at, laughed at, derided,</i> or <i>ridiculed, him.</i> (S, K.) === The most approved reading of 🡻مُسْتَهْزِئُونَ in the Kur, ii. 13, is with the ء fully pronounced: some alleviate it: and some read مُسْتَهْزِيُرنَ: and some مُسْتَهْزُونَ; (but this pronunciation is of weak authority;) and say إِسْتَهْزَيْتُ for إِسْتَهْزَأْتُ. (Zj.) === السَّرَابُ يَهْزَأُ بِالرَّكْبِ ‡ [<i>The mirage mocks the company of riders</i>]. (A.) ___ هَزَأَ, (K,) inf. n. هَزْءٌ, (TA,) <i>He,</i> or <i>it, broke</i> a thing. (K.) === A poet says, describing a coat of mail, <center> <h3> لَهَا عُكَنْ تَرُدُّ النَّبْلَ خَنْسًا </h3> <h3> وَتَهْزَأُ بِالْمَعَابِلِ وَالقِطَاعِ </h3> </center> [<i>It has creases that repel the arrows, making them to recede, and break the broad and long arrow-heads, and those which are small and broad</i>]. The ب in بالمعابل is redundant. This is the opinion of the lexicologists, except ISd, who thinks that this is an error, and that تهزأ here means “ mocks. ” (TA.) ___ هَزَأَ إِبِلَهُ (K; but it is thought that this may be a mistake for هَرَأَ, TA,) inf. n. هَزْءٌ; (TA;) and اهزأ 🡻ها; (K;) <i>He killed his camels with cold.</i> IAar says, that اهزأهُ البَرْدُ and اهرأهُ both signify <i>The cold killed him.</i> (TA.) ___ هَزَأَ <i>He put in motion,</i> [or <i>excited,</i>) the beast on which he rode. (As, K.) ___ هَزَأَ and هَزِئَ <i>He died</i> (K) <i>in his place,</i> or <i>on the spot;</i> i. e. <i>unexpectedly,</i> or <i>suddenly:</i> (Z:) improperly objected against by Ibn-Es-Sáïgh. ('Ináyeh, MF.)\nهُزَأَةٌ One <i>who mocks at, scoffs at, laughs at, derides,</i> or <i>ridicules, others.</i> (S, K.)\nهُزْأَةٌ One <i>who is mocked at, scoffed at, laughed at, derided;</i> a <i>ridiculous</i> person. (S, K.)"
+}

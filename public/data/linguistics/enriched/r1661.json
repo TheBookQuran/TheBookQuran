@@ -1,0 +1,26 @@
+{
+  "rootId": "r1661",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:21:37.831Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Exhausting wine, bleeding, draining dry, losing head, or siphon",
+  "primaryMeaning": "Draining dry or losing intellect/exhausting source",
+  "quranicRelevance": "Paradise wine not exhausting intellect/source (Yunzafoon - 'la yunzafoona', 'la... yunzafoon').",
+  "keyDerivations": [
+    {
+      "lemma": "نَزَفَ / يَنْزِفُ",
+      "form": "Form I Verb (passive: yunzaf)",
+      "meaning": "To drain dry, exhaust supply, deplete wine, lose intellect, get drunk, or bleed"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "يُطَافُ عَلَيْهِمْ بِكَأْسٍ مِنْ مَعِينٍ ﴿٤٥﴾ ... لَا فِيهَا غَوْلٌ وَلَا هُمْ عَنْهَا يُنْزَفُونَ (37:45-47): Round them will be passed a cup of pure wine... No headiness/harm is in it, nor are they drained/deprived of intellect thereby."
+  ],
+  "discardedNoise": [
+    "Nosebleed blood drainage (Nazf) in medical books.",
+    "Draining water wells dry with buckets."
+  ],
+  "summaryEn": "The root represents exhaustion of wine and intellect, promising that Paradise beverages will never cause intoxication, mental depletion (Inzaf), or run dry.",
+  "summaryAr": "يمثل هذا الجذر استنزاف مياه الآبار ونفاد الخمر وذهاب عقل الشارب (نزف)، واعداً بسلامة خمر الجنة فلا يزول معها عقل شاربها ولا تنفد أبداً.",
+  "rawText": "مَنْزُوفٌ <i>Exhausted:</i> see an ex. voce ضَرَطَ.\nنَزَفَ 1 <i>He entirely exhausted</i> (S, Msb, K) a well, (Msb,) or the water of a well. (S, K.)"
+}

@@ -1,0 +1,26 @@
+{
+  "rootId": "r963",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:44:39.226Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Shackles, chains, bounds, gifts, or binding together",
+  "primaryMeaning": "Shackles/chains",
+  "quranicRelevance": "Devils bound in shackles (Asfad - 'muqarraneena fee al-asfadi').",
+  "keyDerivations": [
+    {
+      "lemma": "صَفَدٌ / أَصْفَادٌ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Shackle, chain, metallic bond, restraint, or handcuffs"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَآخَرِينَ مُقَرَّنِينَ فِي الْأَصْفَادِ (38:38): And others (devils/jinn) bound together in shackles/chains (Solomon's dynamic control)."
+  ],
+  "discardedNoise": [
+    "Giving generous gifts (classical dictionary definition of Safad - absent from Quranic context).",
+    "Strap binding belts."
+  ],
+  "summaryEn": "The root represents chains and shackles (Asfad), detailing the physical containment of rebellious jinn under Solomon's reign and describing the chains of sinners in Hell.",
+  "summaryAr": "يمثل هذا الجذر القيود والأغلال الحديدية الرابطة للأيدي والأرجل (صفد)، واصفاً حبس مردة الجن تحت حكم سليمان، وربط المجرمين بالأصفاد.",
+  "rawText": "إِصْفِدٌ is used by a poet for إِصْفِنْطٌ [q. v.]. (M.)\nاصفدهُ 4 , (S, M, A, L,) inf. n. إِصْفَادٌ, (S,) <i>He gave him;</i> (S, M, A, L;) <i>gave him freely,</i> or <i>gratuitously;</i> (L;) property, or a slave: (S:) it is doubly trans. (M.) One says, إِنْ أَفَدْتَنِى حَرْفًا فَقَدْ أَصْفَدْتَنِى أَلْفًأ [<i>If thou teach me a word, verily thou givest me</i> what is worth <i>a thousand</i> dirhems]. (A, TA.) ___ See also 1.\nصَفَدٌ <i>A bond;</i> (S, K, TA;) as also 🡻صَفْدٌ: (TA:) or, (M, A,) as also 🡻صَفْدٌ, (M,) <i>i. q.</i> 🡻صِفَادٌ, (M, A,) which signifies <i>a rope,</i> (M,) or <i>a thong,</i> (S, K,) or <i>a shackle,</i> or <i>fetter,</i> (S, A, K,) or <i>a</i> [<i>collar of iron which is put upon the neck</i> or <i>around the neck and hands together, such as is called</i>] غُلّ, (S, M, A,) <i>with which one is made fast,</i> (M,) or <i>with which a captive is made fast:</i> (S, A, K:) pl. أَصْفَادٌ, [expl. in the S and A and K as signifying <i>shackles,</i> or <i>fetters,</i>] the only known pl., though of the form of a pl. of pauc. (M.) === Also <i>A gift;</i> (S, M, A, K;) [said to be] so called because he upon whom it is conferred is bound thereby; (Ksh and Bd in xxxviii. 37;) and so 🡻صَفْدٌ: (M:) pl. as above. (L.) One says, الصَّفَدُ صَفَدٌ <i>The gift is a shackle,</i> or <i>fetter.</i> (A.) === And <i>i. q.</i> ثَنَآءٌ [which generally means <i>Praise, eulogy,</i> or <i>commendation;</i> but is said by some to mean also <i>the contr.</i>]. (M.)\nصَفَدَهُ 1 , (S, M, A, Mgh, K,) aor. ﹻ, (S, M, Mgh, K,) inf. n. صَفْدٌ (S, M, Mgh) and صُفُودٌ; (M;) <i>He bound him, bound him fast</i> or <i>made him fast,</i> (S, M, A, Mgh, K,) <i>shackled him,</i> or <i>fettered him, in iron</i> &c., (M,) or <i>with iron,</i> (A,) or <i>with a</i> [<i>collar of iron put upon the neck</i> or <i>around the neck and hands together, such as is called</i>] غُلّ; (L;) and 🡻صفّدهُ, (M, K,) inf. n. تَصْفِيدٌ, (S,) signifies the same; (S, M, K;) and so 🡻اصفدهُ, (K,) or this last has a different signification from the two other verbs mentioned above, as expl. below. (L.)\nصَفَّدَ 2 see above. === [Hence,] one says, صَفَّدْتُهُ, بِكَلَامِى, inf. n. تَصْفِيدٌ <i>I overcame him by my speech.</i> (A, TA.)\nصَفْدٌ : see the next paragraph, in three places.\nصِفَادٌ : see the next preceding paragraph.\nنَهِىَ عَنْ صَلَاةِ الصَّافِدِ <i>The praying of him who puts his feet together as though they were fettered is forbidden.</i> (L, from a trad.)"
+}

@@ -1,0 +1,81 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-max);
+  width: 100%;
+  max-width: 850px;
+  margin: 0 auto;
+}
+
+.verseRow {
+  display: flex;
+  flex-direction: column;
+  padding: var(--spacing-mega) var(--spacing-medium2);
+  border-bottom: 1px solid var(--color-border-default, #e5e7eb);
+  gap: var(--spacing-medium2);
+}
+
+.verseHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.verseKey {
+  font-size: var(--font-size-small);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-background-brand, #2ca4ab);
+  background-color: rgba(44, 164, 171, 0.08);
+  padding: 0.25rem 0.625rem;
+  border-radius: 6px;
+}
+
+.actions {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-xmicro);
+}
+
+.actionButton {
+  width: 2rem;
+  height: 2rem;
+  border-radius: var(--border-radius-circle);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--color-text-muted);
+  transition: all var(--transition-fast) ease;
+}
+
+.actionButton:hover {
+  background-color: var(--color-background-neutral, #f4f5f6);
+  color: var(--color-text-default);
+}
+
+.translationsList {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-small);
+  text-align: left;
+  direction: ltr;
+  width: 100%;
+}
+
+.translationItem {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-xmicro);
+  text-align: start;
+}
+
+.translationText {
+  color: var(--color-text-default);
+  line-height: 1.6;
+}
+
+.authorName {
+  font-size: 0.75rem;
+  color: var(--color-text-muted);
+  font-weight: var(--font-weight-medium);
+}

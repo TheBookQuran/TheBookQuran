@@ -1,0 +1,31 @@
+{
+  "rootId": "r1850",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:29:55.134Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Describing, naming attributes, matching, or fabric",
+  "primaryMeaning": "To describe or attribute",
+  "quranicRelevance": "Making false descriptions/attributions to God ('subhanahu 'amma yasifoon'), and descriptions.",
+  "keyDerivations": [
+    {
+      "lemma": "وَصَفَ",
+      "form": "Form I Verb",
+      "meaning": "To describe, attribute, assert, depict, or characterize"
+    },
+    {
+      "lemma": "وَصْفٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Description, attribution, or characterization"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "سُبْحَانَهُ عَمَّا يَصِفُونَ: Exalted is He above what they attribute/describe (refuting pagan descriptions of divine partners)."
+  ],
+  "discardedNoise": [
+    "Medical prescriptions (وصفة) - modern usage.",
+    "Detailed clothing descriptions in early trade."
+  ],
+  "summaryEn": "The root represents attribution and description, focusing in the Quran on the rejection of false pagan characterizations (Wasf) of God.",
+  "summaryAr": "يمثل هذا الجذر الوصف والنسبة، مركزاً في القرآن على تنزيه الباري سبحانه عن نعوت وأوهام المفترين المشركين (يصفون).",
+  "rawText": "أَوْصَفَ 4 and 🡻اِسْتَوْصَفَ <i>He</i> (a boy) <i>became of full stature, and fit for service.</i> (Mgh.)\nإِسْتَوْصَفَ 10 see 4.\nاِتَّصَفَ بِالعِلْمِ 8 [<i>He was,</i> or <i>became, characterized,</i> or <i>he characterized himself, by knowledge,</i> or <i>science</i>]. (Msb in art. أَهْلٌ.)\nبَيْعُ المُوَاصَفَةِ : see 3 in art. روض.\nصِفَةٌ <i>A quality; an attribute; a property;</i> or <i>a description,</i> as meaning the <i>aggregate of the qualities or attributes or properties</i> of a thing; or the <i>state, condition,</i> or <i>case,</i> of a thing. So explained voce صِنْفٌ, and voce صُورَةٌ. See its syn. حَالٌ. === صِفَةٌ in grammar, <i>The same as</i> نَعْتٌ, <i>An epithet.</i> (K.) === <i>A word denoting an attribute</i> (مَعْنًى) <i>and a substance</i> (ذَات). Under this term are comprised the اسم فاعل, the اسم مفعول, the صفة مشبّهة, and the افعل التفضيل. (I'Ak, sect. الصفة المشبّهة باسم الفاعل.) === صِقَةٌ مُشَبَّهَةٌ [<i>A simple epithet</i>]; <i>an epithet resembling an</i> اسم فاعل. === صِفَةٌ غَالِبَةٌ <i>An epithet in which the substantive character predominates.</i> === صِفَةٌ, as a general term for an attributive word, is also applied by Lth and other old writers to <i>An adverbial n. of place or time,</i> and to <i>a preposition.</i> It is so applied in the L and TA, art. عنل, &c. It was applied to the former by Fr, (T, voce ظَرْفٌ,) and to the latter also. (L, TA, ubi supra.)\nوَصُفَ 1 <i>He attained to the proper age for service.</i> (K.) See an ex. in the K, voce مُخَلَّدُونَ."
+}

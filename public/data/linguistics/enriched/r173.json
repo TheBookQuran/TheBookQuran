@@ -1,0 +1,26 @@
+{
+  "rootId": "r173",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:52:16.826Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Onions, layered bulbs, peeling, or circular dome shapes",
+  "primaryMeaning": "Onions",
+  "quranicRelevance": "And its onions (Basaliha - 'wa-basaliha').",
+  "keyDerivations": [
+    {
+      "lemma": "بَصَلٌ",
+      "form": "Noun",
+      "meaning": "Onion, the edible layered bulb crop Allium cepa"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فَادْعُ لَنَا رَبَّكُ يُخْرِجْ لَنَا مِمَّا تُنْبِتُ الْأَرْضُ مِنْ بَقْلِهَا وَقِثَّائِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا (2:61): '...and its lentils and its onions.'"
+  ],
+  "discardedNoise": [
+    "Basalah (bravery/gallantry) - confused spelling B-S-L-H (different root).",
+    "Layered structures of architectural domes."
+  ],
+  "summaryEn": "The root denotes onions (Basal), recorded in the catalog of earthly agricultural items that the Israelites demanded in exchange for divine manna.",
+  "summaryAr": "يشير هذا الجذر إلى البصل النبات البقلي ذي القشور المعروف (بصل)، الوارد في لائحة الأطعمة الأرضية التي اشتهتها بنو إسرائيل مللاً من المن والسلوى.",
+  "rawText": "بَصَلٌ [The <i>onion; allium cepa:</i> or <i>onions,</i> collectively:] what it signifies is <i>well known:</i> n. un. with ة. (S, M, Msb, K.) Hence the prov., أَكْسَى مِنَ البَصَلِ [<i>Having more coats,</i> or <i>coverings,</i> <i>than the onion</i>]. (TA.) === [Also <i>Any kind of bulb,</i> or <i>bulbous plant.</i>] بَصَلُ الزَّعْفَرَانِ [<i>The bulb of the saffron</i>], which is buried in the ground, is like the بَصَل [or onion] commonly known. (Mgh.) بَصَل الفَأْرِ is <i>the same as</i> الإِسْقِيلُ and الإِسْقَالُ and العُنْصَلُ, (K in art. سقل,) also written العُنْصُلُ, (K in art. عصل,) or بَصَلُ العنصل, (KL voce زيزٌ, [and so as written by Golius,]) [<i>Scilla,</i> or <i>squill;</i> particularly <i>scilla maritima,</i> or <i>officinal squill;</i> called by all these names, except, perhaps, السقال, in the present day;] also called زِيزٌ, and البَصَلُ البَرِّىُّ [<i>the wild onion;</i> but from what follows, it seems that there is a confusion here]. (KL ubi suprà.) بَصَلُ الذِّئْبِ, and بصل الزير, (Golius on the authority of Zeyn El-Attár,) or بصل الرند, (so in the TA in art. بلبس,) <i>i. q.</i> بلبوس <i>Bulbus esculentus,</i> (Golius, from Zeyn El-Attár,) or البَلْبُوس, with fet-h, [thus generally written, though it would seem to be correctly بُلْبُوس,] <i>the leaves of which resemble those of the</i> سَذَاب [or <i>rue</i>]: (TA in art. بلبس:) the بَلْبُوس is <i>the wild onion</i> (in Pers. پِيَازْ صَحْرَائِى). (KL voce بلبوس. [This last assertion suggests that الزير and الرند may be mistranscriptions for الزِّيز; the زيز mentioned before.]) [بَصَلُ القىْءَ <i>Bulbus vomitorius;</i> mentioned by Golius; and by Dioscorides, (l. ii. c. 201,) as being emetic and diuretic.] === Also, (K,) or بَصَلَةٌ, (M,) ‡ <i>A helmet</i> (M, K) <i>of iron,</i> (K,) <i>pointed in the middle;</i> so called as being likened to what is first mentioned above. (M.) Lebeed likens helmets to بَصَل. (S.)\nتبصّل 5 <i>It</i> (a thing) <i>was,</i> or <i>became, several fold,</i> or <i>many fold, like the coats of the</i> بَصَل [or <i>onion</i>]. (Z, TA.) See also مُتَبّصِّلٌ. ___ It is also trans.: see 2, in two places. === [Hence,] تَبَصَّلُوهُ † <i>They begged of him so much that all that he had became exhausted.</i> (Sgh, K.)\nتَبْصِيلٌ 2 The act of <i>stripping,</i> or <i>divesting;</i> [<i>like as when one strips an onion</i> (بَصَلَة) <i>of its coats;</i>] (K;) as also 🡻تَبَصُّلٌ. (Fr, K.) You say, بَصَّلْتُ الرَّجُلَ عِنْ ثِيَابِهِ [and 🡻تَبَصَّلْتُهُ] <i>I stripped the man of his clothes.</i> (TA.)\nمُتَبَصِّلٌ (ISh, K) and ذُو 🡻تَبَصُّلٍ (ISh, TA) A covering of any kind (قِشْرٌ) <i>consisting of many coats; thick;</i> (ISh, K;) <i>like the coats of the</i> بَصَل [or <i>onion</i>]. (ISh, TA.)"
+}

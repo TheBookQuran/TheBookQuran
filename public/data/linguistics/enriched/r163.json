@@ -1,0 +1,26 @@
+{
+  "rootId": "r163",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:58:55.910Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Proof, demonstration, clear evidence, argument, or clarify",
+  "primaryMeaning": "Proof/evidence",
+  "quranicRelevance": "Divine evidence/manifest proof (Burhan - 'ya ayyuha an-nasu qad ja'akum burhanun min rabbikum', 'qul hatoo burhanakum').",
+  "keyDerivations": [
+    {
+      "lemma": "بُرْهَانٌ / بَرَاهِينُ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Proof, demonstration, clear evidence, or decisive argument"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فَذَانِكَ بُرْهَانَانِ مِنْ رَبِّكَ إِلَىٰ فِرْعَوْنَ (28:32): So those are two proofs/evidences from your Lord to Pharaoh (Moses' hand and staff)."
+  ],
+  "discardedNoise": [
+    "Sophistic philosophical logic textbooks.",
+    "Mathematical proof processes in modern geometry."
+  ],
+  "summaryEn": "The root represents decisive proof (Burhan), demanding rational justification for polytheism while presenting physical prophetic miracles and the Quran as divine proof.",
+  "summaryAr": "يمثل هذا الجذر البرهان والبيان الحاسم، مطالباً المشركين بالدليل المنطقي (هاتوا برهانكم)، وواصفاً آيات موسى والقرآن بالبرهان الرباني.",
+  "rawText": "برهن\nبَرْهَنَ Q. 1 <i>He adduced,</i> (T, Z, Msb,) or <i>established,</i> (S, K, and Ham p. 7,) <i>the</i> بُرْهَان, (T, Z, Msb, K,) i. e. the <i>evidence</i> or <i>proof</i> [&c.]; (T, S, Msb, &c.;) or <i>he adduced his evidence</i> or <i>proof</i> [&c.]; (T, Msb;) عَلَيْهِ [<i>against him,</i> or <i>it,</i> or (as in اِسْتَدَلَّ عَلَيْهِ) <i>of it</i>], (S, K, and Ham p. 7,) and لَهُ [<i>to him,</i> or <i>for him</i>]: (Ham ubi suprà:) but this verb is said by Az and Z, on the authority of IAar, to be post-classical; the correct word, they say, being أَبْرَهَ: (Msb:) this they assert on the ground of the opinion that بُرْهَانٌ [q. v.] is of the measure فُعْلَانٌ; but J holds the ن to be a radical. (TA.)\nبُرْهَانٌ <i>An evidence,</i> or a <i>proof:</i> (T, S, Msb, K, and Ham p. 7:) and a <i>demonstration;</i> i. e. the <i>manifestation of an evidence</i> or <i>proof:</i> (Msb:) or <i>a decisive and manifest evidence</i> or <i>proof:</i> (TA:) or the <i>firmest, strongest,</i> or <i>most valid, evidence</i> or <i>proof;</i> which is <i>such as ever necessarily implies truth,</i> or <i>veracity, as its consequence,</i> or <i>concomitant;</i> for evidences, or proofs, are of five sorts; whereof this is one; another is that which ever necessarily implies falsity, or falsehood, as its consequence, or concomitant; another, that which is nearer to truth, or veracity; another, that which is nearer to falsity, or falsehood; and another, that which is intermediate between these two: (Er-Rághib, TA:) [pl. بَرَاهِينُ:] some say that the ن in this word is augmentative; (Msb, and Ham p. 7;) that it is of the measure فُعْلَانٌ, from البره [app. البَرْهُ] signifying the “act of cutting:” (Ham ubi suprà:) others, that it is radical: Az mentions both of these opinions: J confines himself to the latter opinion: Z, to the former, saying, on the authority of IAar, that the word is derived from بَرَهْرَهَةٌ, meaning “white,” [or “fair in complexion,”] applied to a girl: (Msb:) Abu-l-Fet-h [i. e. IJ] says that he holds it to be of the measure فُعْلَالٌ, like قُرْطَاسٌ and قُرْنَاسٌ, the ن not being augmentative, as is shown by the verb above mentioned: (Ham ubi suprà:) but [it has been stated above that] this verb is said, on the authority of IAar, to be post-classical. (Msb, TA.)"
+}

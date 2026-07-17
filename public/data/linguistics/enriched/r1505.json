@@ -1,0 +1,26 @@
+{
+  "rootId": "r1505",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:56:55.064Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Scorching, burning, striking with hot wind or fire, or blackening the face",
+  "primaryMeaning": "Scorching/burning faces",
+  "quranicRelevance": "Fire will scorch their faces (Talfahu - 'talfahu wujohahumu').",
+  "keyDerivations": [
+    {
+      "lemma": "لَفَحَ / يَلْفَحُ",
+      "form": "Form I Verb",
+      "meaning": "To scorch, burn, blacken, strike with hot wind, or blow hot fire on the face"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "تَلْفَحُ وُجُوهَهُمُ النَّارُ وَهُمْ فِيهَا كَالِحُونَ (23:104): The Fire will scorch their faces, and they therein will be grinning/grimacing."
+  ],
+  "discardedNoise": [
+    "Lafhah (scarf) - modern winter clothing.",
+    "Wind blows generally without heat reference."
+  ],
+  "summaryEn": "The root refers to scorching or burning with hot air/fire (Lafh), illustrating how the heat of Hell directly burns and disfigures the faces of the disbelievers.",
+  "summaryAr": "يشير هذا الجذر إلى إصابة حر النار أو السموم للوجه وتأثيرها الحارق المغير للبشرة (لفح)، مصوراً لفح لهيب جهنم لوجوه الكفار حتى يشوهها.",
+  "rawText": "أَصَابَهَ لفْحٌ مِنْ حَرُورٍ وَسَمُومٍ <i>A burning gust of hot night-wind, and of hot day-wind, smote him.</i> (L.) === أَصَابَهُ مِنَ الحَرِّ لَفْحٌ وَمِنَ البَرْدِ نَفْحٌ [<i>A blast of heat smote him, and a blast of cold</i>]. (A.) === You say also لَوَافِحُ السَّمُوِم [pl. of 🡻لَافِحَةٌ, and meaning <i>Burning blasts of the</i> سموم]. (S, K in art. سفع.)\nلَافِحَةٌ : see لَفْحٌ.\nلَفَحَتْهُ النَّارُ 1 , (S, M, K,) aor. ﹷ, (M,) inf. n. لَفْحٌ and لَفَحَانٌ, (M, K,) <i>The fire smote,</i> or <i>hurt, his face;</i> as also لفحت وَجْهَهُ: (M, O:) <i>the fire burned him;</i> (TA;) as also نفحته النار بِحَرِّهَا; (S, K;) and in like manner the hot wind called سَمُوم: (S:) لَفَحَتْ and نَفَحَتْ are syn., except that the effect of النَّفْح is greater than that of اللَّفْح: (Zj:) or لَفْحٌ relates to a hot wind; and نَفْحٌ, to a cold, or cool, wind: (As, S:) you also say لفحته السَّمُوم meaning <i>the</i> سموم <i>blew in his face.</i> (L.) === Also لَفَحَهُ, aor. ﹷ, <i>He smote,</i> or <i>struck, him,</i> with a sword, (S, K,) <i>lightly,</i> or <i>slightly:</i> you say لَفَحْتُهُ بِالسَّيْفِ لَفْحَةً <i>I struck him with the sword a light,</i> or <i>slight, blow.</i> (S.)\nلَفْحَةٌ <i>A light,</i> or <i>slight, blow</i> with a sword. (S.)\nلُقَّاحٌ <i>A certain well known plant,</i> (K,) <i>of the kind termed</i> يَقْطِينِىٌّ, (L,) <i>which people smell,</i> (S.) <i>yellow, and of sweet odour,</i> (A, L,) <i>resembling the</i> بَاذِنْجَان (S, A, K,) <i>when it becomes yellow;</i> (S, A;) [accord. to Golius, app. on the authority of Ibn-Beytár, <i>the same which the Syrians and Egyptians call</i> شَمَّامٌ, q. v.]. === Also, The <i>fruit,</i> or <i>produce,</i> (ثَمَرَة,) <i>of the</i> يَبْرُوح [or <i>mandrake,</i> which is called by this name (يبروح) in the present day]; (K;) thus correctly written, with the ى before the ب [not ببروح, as in the CK and some MS. copies]. (TA.) [It seems that the application of the term لفّاح to both the mandrake and the شمّام has led to confusion, and occasioned Linnæus to call the latter “ cucumis dudaim. ” See also يَبْرُوحٌ, and مَغْدٌ.]"
+}

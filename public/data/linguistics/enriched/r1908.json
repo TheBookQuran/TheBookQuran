@@ -1,0 +1,32 @@
+{
+  "rootId": "r1908",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:16:02.189Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Certainty, conviction, death, or truth",
+  "primaryMeaning": "Certainty",
+  "quranicRelevance": "Conviction of faith (Yaqeen), certainty of Hereafter, and death (referred to as al-Yaqeen - 'hat-ta ya'tiyaka al-yaqeen').",
+  "keyDerivations": [
+    {
+      "lemma": "يَقِينٌ",
+      "form": "Noun",
+      "meaning": "Certainty, conviction, absolute truth, or death"
+    },
+    {
+      "lemma": "أَوْقَنَ / يُوقِنُونَ",
+      "form": "Form IV Verb",
+      "meaning": "To believe with certainty, or be convinced"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "عِلْمَ اليَقِينِ (102:5): The knowledge of certainty.",
+    "حَتَّى يَأْتِيَكَ اليَقِينُ (16:99): Until there comes to you the certainty (meaning death, which is absolutely certain to come)."
+  ],
+  "discardedNoise": [
+    "Epistemological debates in modern philosophy of science.",
+    "Obscure details on water settling in a stone hollow."
+  ],
+  "summaryEn": "The root denotes absolute certainty, defining the highest level of conviction in faith and serving as a metaphor for death (Yaqeen).",
+  "summaryAr": "يدل هذا الجذر على اليقين والقطع، واصفاً أعلى درجات الإيمان (يقين) ومستعملاً كناية عن الموت لحتميته.",
+  "rawText": "أَيْقَنَ 4 see 1.\nإِسْتَيْقَنَ 10 see 1.\nتَيَقَّنَ 5 see 1.\nيَقِنَهُ 1 , (S, Msb, K,) and يَقِنَ بِهِ; (Msb;) and 🡻أَيْقَنَهُ, (S, K,) and 🡻ايقنبِهِ; (K;) and 🡻تَيَقَّنَهُ; and 🡻اِسْتَيْقَنَهُ, (S, Msb, K,) and 🡻استيقن بِهِ; (K;) all signify the same; (S;) <i>He knew it; he was,</i> or <i>became, certain,</i> or <i>sure,</i> or <i>he made sure, of it;</i> syn. عَلِمَهُ; (Msb, K;) <i>intuitively,</i> and <i>inferentially;</i> (Msb;) [see 1 in art. علم;] and تَحَقَقَّهُ. (K.)\nيَقِينٌ is of the measure فَعِيلٌ in the sense of the measure فَاعِلٌ, signifying <i>Sure,</i> or <i>certain,</i> and <i>manifest.</i> (Msb.) === And <i>knowledge,</i> or <i>certainty;</i> [see ظَنٌّ;] <i>instinctive</i> and <i>inferential.</i> (Msb.) === عَيْنُ اليَقِينِ: see عَيْنٌ (latter part). === الحقُّ اليَقِينُ and حَقُّ اليَقِينِ: see جَامِعٌ; where the two words are said to have the same meaning: and Bd and Jel in lvi. 95; in the latter of which, اليقين in حَقُّ اليَقِينِ is expressly said to be an epithet: see also Ham, p. 335."
+}

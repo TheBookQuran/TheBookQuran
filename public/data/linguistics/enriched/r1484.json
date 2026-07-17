@@ -1,0 +1,32 @@
+{
+  "rootId": "r1484",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:00:21.796Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Deviation, grave niche, blasphemy, tilt, refuge, or shelter",
+  "primaryMeaning": "Deviation or grave niche/refuge",
+  "quranicRelevance": "Deviating/distorting God's names or verses (Yulhidoona - 'yulhidoona fee ayatina'), and a safe refuge/shelter (Multahada - 'wal-lan tajida... multahadan').",
+  "keyDerivations": [
+    {
+      "lemma": "أَلْحَدَ / يُلْحِدُ",
+      "form": "Form IV Verb",
+      "meaning": "To deviate, distort, tilt, incline from truth, or commit heresy"
+    },
+    {
+      "lemma": "مُلْتَحَدٌ",
+      "form": "Noun",
+      "meaning": "Place of refuge, safe shelter, or asylum (where one turns aside for safety)"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "لِسَانُ الَّذِي يُلْحِدُونَ إِلَيْهِ أَعْجَمِيٌّ (16:103): The language of the one they deviate/incline to (falsely claim teaches the Prophet) is foreign.",
+    "وَلَنْ تَجِدَ مِنْ دُونِهِ مُلْتَحَدًا (18:27): And you will never find besides Him any refuge/shelter."
+  ],
+  "discardedNoise": [
+    "Modern atheism (Ilhad) political history.",
+    "The physical digging measurements of grave niches (Lahd)."
+  ],
+  "summaryEn": "The root denotes tilting/turning aside, contrasting the dangerous distortion (Ilhad) of names/languages with the secure shelter (Multahad) of turning to God.",
+  "summaryAr": "يدل هذا الجذر على الميل والانحراف والالتجاء، معارضاً انحراف المعاندين في التنزيل والأسماء (يلحدون)، بالملاذ الآمن والملجأ الإلهي (ملتحداً).",
+  "rawText": "التحد إِلَيْهِ 8 ‡ <i>He had recourse,</i> or <i>betook himself, to it,</i> or <i>him, for refuge, protection, concealment, covert,</i> or <i>lodging.</i> (A.)\nالحد 4 : see 1, throughout. === † <i>He disputed; altercated; wrangled.</i> (A' Obeyd, L, Msb, K.) === الحد بِهِ † <i>He brought a reproach upon him,</i> or <i>held him in light estimation,</i> or <i>despised him,</i> (أَزْرَى بِهِ,) <i>and said of him what was false:</i> (K:) or <i>he held his clemency,</i> or <i>forbearance,</i> or <i>intellect,</i> (حِلْم,) <i>in light estimation;</i> or <i>despised it;</i> as also أَلْهَدَ بِهِ. (L.)\nلاحدهُ 3 † <i>He behaved towards him in a crooked,</i> or <i>perverse, manner, the latter doing the same.</i> (K, * TA.)\nلَاحِدٌ : see مَلْحُودٌ.\nلَحَدَ 1 (A) and 🡻الحد (L, K) ‡ <i>He,</i> or <i>it,</i> (as an arrow, A) <i>declined,</i> or <i>deviated, from the right course:</i> (A, L, K:) and also <i>he,</i> or <i>it, inclined:</i> you say لَحَدَ إِلَيْهِ, (A, L, K,) aor. ﹷ; (L;) and 🡻الحد (A;) and 🡻التحد; (S, L, K;) <i>he,</i> or <i>it, inclined to him,</i> or <i>it.</i> (A, L, K.) Some read, [in the Kur xvi. 105,] لِسَانُ ٱلَّذِى يَلْحَدُونَ إِلَيْهِ ‡ [<i>The tongue of him unto whom they incline</i>]. (S.) === 🡻الحدفِى الدِّينِ; (S, A, L, Msb;) and لَحَدَ فِيهِ, (S, L, Msb,) aor. ﹷ; (L;) ‡ <i>He deviated,</i> or <i>swerved, from the right way, with respect to religion:</i> (S, A, L:) <i>he impugned religion.</i> (Msb.) === 🡻الحدفِى الحَرَمِ ‡ <i>He relinquished,</i> or <i>forsook, the right course, with respect to that which he was commanded to do, in the sacred Temple</i> or <i>territory of Mekkeh;</i> (L, K;) <i>and inclined to do wrong, wrongfully, unjustly,</i> or <i>injuriously:</i> (L:) or <i>he did wrong, wrongfully, unjustly,</i> or <i>injuriously, therein;</i> (S, L, K;) <i>and so opposed others:</i> (Fr, L:) or <i>he associated others with God, therein;</i> expl. by أَشْرَكَ بِاللّٰهِ: so in the K and Basáïr; in the latter as on the authority of Zj: or <i>he doubted respecting God, therein:</i> so in the L and other lexicons, as on the authority of Zj: (TA:) or <i>he hoarded up corn in expectation of its becoming dear, therein;</i> (L, K;) a meaning taken from a trad of 'Omar; (L;) but this is merely a kind of wrong-doing: (TA:) or <i>he desecrated it, and violated its sanctity.</i> (Msb.) The origin of the phrase is in the text of the Kur [xx. 26,] وَمَنْ يُرِدْ فِيهِ بِإِلْحَادٍ بِظُلْمٍ, i.e. إِلْحَادًا بِظُلْمٍ, the ب being redundant. (S, L.) ___ لَحَدَ القَبْرَ, aor. ﹷ, (inf. n. لَحْدٌ; L,) and 🡻الحدهُ; (A, L, K;) and لَحَدَ لَهُ لَحْدًا; and 🡻الحدله; (S, Msb;) <i>He made a</i> لَحْد <i>to the grave.</i> (S, A, L, K.) === لَحَدَ ٱلْمَيِّتَ, aor. ﹷ, inf. n. لَحْدٌ; and 🡻الحدهُ; and لَحَدَ لَهُ; and 🡻الحدله; <i>He made a</i> لَحْد <i>for the corpse:</i> or 🡻الحدهُ has this signification; (L;) and in like manner, لَحَدَ لَه لَحْدًا, and 🡻الحد, <i>he dug a</i> لَحْد <i>for him:</i> (A, Mgh, Msb:) and لَحَدَهُ, <i>he buried him;</i> (L, K;) or <i>put him into a</i> لحد; and so 🡻الحدهُ. (Mgh, Msb.)\nلَحْدٌ (S, A, L, Msb, K) and 🡻لُحْدٌ (S, L, Msb, K) and 🡻لَحَدٌ (El-Basáïr) and 🡻مَلْحُودٌ, (A, L, K,) which last is an epithet wherein the quality of a subst. is predominant, (L,) <i>A trench</i> or <i>an oblong excavation, in the side of a grave; a lateral hollow of a grave;</i> (S, A, L, Msb, K;) <i>which is the place of the corpse;</i> what is called ضَرِيحٌ and ضَرِيحَةٌ is in the middle: (L:) pl. (of the first, Msb) لُحُودٌ and (of the second, Msb) أَلْحَادٌ. (L, Msb, K.) Accord. to some, لحد used in this sense is tropical; from لَحَدَ and أَلْحَدَ signifying “ he inclined, or declined. ” (MF.) [The reverse, however, is the case accord. to the A.] [See an ex. in a verse cited voce شَدِيدٌ.]\nلُحْدٌ and لَحَدٌ: see لَحْدٌ.\nمَلْحُودٌ (A, K) and 🡻مُلْحَدٌ, (S, A,) or مَلْحُودٌ لَهُ and 🡻مُلْحَدٌلَهُ, (L,) and 🡻لَاحِدٌ, (K,) <i>A grave having a</i> لَحْد <i>made to it.</i> (S, A, L, K.) === See لَحْدٌ.\nمُلْتَحَدٌ ‡ <i>A place to which one has recourse for refuge, protection, concealment, covert,</i> or <i>lodging: a place of refuge; an asylum:</i> (S, Msb, K:) so called because one turns aside to it. (S.)\nمُلْحَدٌ : see مَلْحُودٌ.\nمُلْحِدٌ act. part. n. of 4, q. v.: ‡ One <i>who deviates,</i> or <i>swerves, from the truth, and introduces into it that which does not belong to it:</i> (ISk, L:) <i>an impugner of religion:</i> (Msb in art. رندق;) pl. مُلْحِدُونَ (Msb) [and مَلَاحِذَةٌ]. Some apply the appellation of المُلْحِدُونَ especially to <i>the Bátinees</i> (البَاطِنِيَّة), who assert that the Kur-án has an outward sense and an inward, the latter differing from the former, and known to them; by which doctrine they have perverted the law. (Msb.)"
+}

@@ -1,0 +1,26 @@
+{
+  "rootId": "r1605",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:21:37.831Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Poverty, flattery, wiping out, smooth stone, or lack",
+  "primaryMeaning": "Poverty/lack of resources",
+  "quranicRelevance": "Killing children due to poverty (Imlaq - 'min imlaqin', 'khashyata imlaqin').",
+  "keyDerivations": [
+    {
+      "lemma": "إِمْلَاقٌ",
+      "form": "Noun / Inf. n. (Form IV)",
+      "meaning": "Poverty, destitution, financial depletion, lack of resources, or starvation"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَلَا تَقْتُلُوا أَوْلَادَكُمْ خَشْيَةَ إِمْلَاقٍ ۖ نَحْنُ نَرْزُقُهُمْ وَإِيَّاكُمْ (17:31): And do not kill your children out of fear of poverty/destitution; We provide for them and for you (banning infanticide)."
+  ],
+  "discardedNoise": [
+    "Flattery and smooth talking (Tamalluq).",
+    "Smooth river stones (Malaq)."
+  ],
+  "summaryEn": "The root represents resource depletion and poverty (Imlaq), prohibiting pagan infant-killing practices driven by poverty fears and guaranteeing divine provision.",
+  "summaryAr": "يمثل هذا الجذر الفقر الطارئ المستأصل للأموال والخلو (إملاق)، حاظراً وأد الجاهلية للفتيات خشية الفقر والفاقة المادية (خشية إملاق).",
+  "rawText": "تَمَلَّقَهُ 5 , (S, K,) and تَمَلَّقَ لَهُ, (S, Msb, K,) inf. n. تَمَلُّقٌ and تِمِلَّاقٌ, [like تِحِمَّالٌ and تِكِلَّامٌ, not تَمْلَاقٌ as in the CK,] <i>He behaved in a loving,</i> or <i>an affectionate, and a blandishing,</i> or <i>coaxing, manner to him.</i> (S, Msb, * K.) See a verse cited in art. رضو, conj. 5.\nمَلَقَهُ 1 <i>He flayed him</i> with a whip: like سَلَقَهُ. (TA in art. سلق.)\nمَلَقِيَّةٌ [A <i>swiftly-running mare</i>]. See عَبَّرَ بِهِ. مَلَّاقٌ <i>Vehement in journeying, or in his pace; i. q.</i> مَلَّاخٌ. (TA, voce مَلَّاخٌ.)\nمِمْلَقَةٌ <i>A harrow:</i> see مَلَّسَ."
+}

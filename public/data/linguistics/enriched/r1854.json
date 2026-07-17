@@ -1,0 +1,26 @@
+{
+  "rootId": "r1854",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:56:22.540Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Weaving closely, plaiting with gold or gems, interlocking rings of mail, or nested structures",
+  "primaryMeaning": "Weaving closely/adorned",
+  "quranicRelevance": "Thrones woven with gold (Mawdoonah - 'sururin mawdoonatin').",
+  "keyDerivations": [
+    {
+      "lemma": "مَوْضُونٌ",
+      "form": "Participle (Passive)",
+      "meaning": "Closely woven, plaited with gold and jewels, or interlinked neatly"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "عَلَىٰ سُرُرٍ مَوْضُونَةٍ (56:15): On thrones woven/decorated (with gold, silk, and precious gems)."
+  ],
+  "discardedNoise": [
+    "Wada (placing/putting) - W-D-E.",
+    "Wadun (washing clothes)."
+  ],
+  "summaryEn": "The root refers to tight, intricate weaving or plaiting (Wadn), describing the luxurious, gold-woven couches prepared for the foremost believers in Paradise.",
+  "summaryAr": "يمثل هذا الجذر نسج الشيء نَسْجاً متداخلاً دقيقاً محكماً مرصعاً بالذهب واللؤلؤ (وضن)، واصفاً سرر أهل الجنة (موضونة) لبديع صنعها وجمال نسجها.",
+  "rawText": "مِيضَنَةٌ <i>i. q.</i> قُفَّةٌ i. e. مَرْجُونَةٌ. (TA in art. ضون.)\nوَضِينٌ <i>A girth</i> (بِطَان) <i>wide, woven of thongs or hair,</i> or <i>only of skin;</i> (M, K;) <i>said to be adapted for the</i> رَحْل <i>and the</i> هَوْدَج; the بِطَان being peculiarly for the قَتَب: (M:) or <i>it is for the</i> هَوْدَج, <i>like the</i> بِطَان <i>for the</i> قَتَب <i>and the</i> تَصْدِير <i>for the</i> رَحْل <i>and the</i> حِزَام <i>for the</i> سَرْج; and <i>both</i> [but to what this refers is doubtful] <i>are like the</i> نِسْع, <i>except that they are of thongs woven one upon another, doubly</i> or <i>more.</i> (S.)"
+}

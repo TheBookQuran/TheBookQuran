@@ -1,0 +1,26 @@
+{
+  "rootId": "r2078",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:56:22.540Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Intestines, bowels, guts, digestive tract, or inside hollow",
+  "primaryMeaning": "Intestines/bowels",
+  "quranicRelevance": "Their intestines (Am'a'ahum - 'wa-qatta'a am'a'ahum').",
+  "keyDerivations": [
+    {
+      "lemma": "مِعًى",
+      "form": "Noun (Plural: أَمْعَاء)",
+      "meaning": "Intestine, bowel, gut, or digestive canal"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَسُقُوا مَاءً حَمِيمًا فَقَطَّعَ أَمْعَاءَهُمْ (47:15): And they are given to drink scalding water, so it tears/cuts their intestines/bowels."
+  ],
+  "discardedNoise": [
+    "Ma'a (with/alongside) - preposition particle (unrelated to this root).",
+    "Ma'een (spring water) - M-Y-N."
+  ],
+  "summaryEn": "The root refers to internal intestines (Mi'a), describing the horrific physical destruction of Hell's inhabitants whose bowels are severed by drinking boiling water.",
+  "summaryAr": "تشير مادة هذا الجذر إلى المعى والأمعاء وهي مجاري الطعام والشراب داخل البطن الأحشاء (معي)، واصفاً تقطيع أمعاء أهل النار بشربهم الماء الحميم المغلي.",
+  "rawText": "الأَمْعَاءُ <i>i. q.</i> الأَقْصَابُ; (AO: see voce قِتْبٌ;) <i>the guts;</i> i. e. <i>bowels,</i> or <i>intestines, into which the food passes from the stomach:</i> الحَشَا is the name of all the places of the food; and in the belly are the أَعْفَاج and the أَقْتَاب, to which the food passes after the stomach, and these are the lower امعاء; and all these are called the قُصْب: the حَوَايَا are all the امعاء that wind, or take a coiled, or circular, form. (Zj, in his “ Khalk el-Insán. ”) === أَمْعَآءُ: see a tropical signification (<i>water-holes</i>) of this pl. voce حَوِيَّةُ.\nمِعًى <i>A narrow, depressed place</i> (See طَأْطَاءٌ.) === بَنَاتٌ مِعًى <i>The</i> بَعْر. (T in art. بنى.) === المِعَى المُسْتَقِيمُ <i>The rectum.</i>"
+}

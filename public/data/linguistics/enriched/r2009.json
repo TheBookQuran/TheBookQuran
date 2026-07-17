@@ -1,0 +1,32 @@
+{
+  "rootId": "r2009",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:39:17.504Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Valley, blood-money, flowing water, or paying",
+  "primaryMeaning": "Valley or blood-money",
+  "quranicRelevance": "Valleys/gorges (Wadi - 'wadin ghayr thee zar''), and blood-money for accidental homicide (Diyah - 'diyatun musallamatun').",
+  "keyDerivations": [
+    {
+      "lemma": "وَادٍ / أَوْدِيَةٌ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Valley, riverbed, gorge, or hollow land"
+    },
+    {
+      "lemma": "دِيَةٌ / دِيَاتٌ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Blood-money, compensation, or fine for injury/homicide"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فِي كُلِّ وَادٍ يَهِيمُونَ (26:225): Wandering in every valley (poets pursuing every flighty idea/style).",
+    "وَدِيَةٌ مُسَلَّمَةٌ إِلَى أَهْلِهِ (4:92): And blood-money handed over to his family (homicide compensation)."
+  ],
+  "discardedNoise": [
+    "Medical terms for secretions.",
+    "Obscure details of valley plant species."
+  ],
+  "summaryEn": "The root covers valleys and compensation, representing the physical valleys of the earth, the metaphorical wandering of poets, and legal blood-money (Diyah).",
+  "summaryAr": "يغطي هذا الجذر الأودية والفداء المالي، ممثلاً أودية الأرض الجغرافية، وتيه الشعراء المجازي (في كل واد)، والدية المالية لقتل الخطأ (دية).",
+  "rawText": "أَوْدَى بِهِ 4 <i>It destroyed him;</i> (T;) <i>it removed him,</i> or <i>took him away:</i> (M, K:) said of death [&c.]. (T, M, K.) See an ex. in art. بلو, conj. 8, and another voce أَزْلَمُ. === أَوْدَى: see a verse cited voce قَلَبَةٌ. === أَوْدَى العَيْرُ إِلّا ضَرِطًا: see ضَرَطَ.\nتَوْدِيَةٌ ; pl. تَوَادٍ, in the accus. case, by poetic licence, تَوَادِيًا: see a verse cited voce خُفٌّ.\nدِيَةٌ <i>Bloodwit; a fine for bloodshed,</i> i. e., <i>homicide;</i> consisting of a hundred camels. === دِيَاتُ جِرَاحَاتٍ [<i>Fines for wounds</i>]. (S, M, TA, &c., in art. شنق.)\nوَادٍ [<i>A valley; a water-course,</i> or <i>torrent-bed:</i> and sometimes <i>a river;</i>] <i>a space intervening,</i> (M, Msb, K,) i. e. <i>any such space,</i> (M, Msb,) <i>between mountains or hills;</i> (M, Msb, K;) <i>through which a torrent runs forth</i> [<i>occasionally</i> or <i>constantly</i>]: (Msb:) for which reason it is thus called. (M, Mgh, TA.) === حَلَّ بِوَادِيهِ <i>i. q.</i> بَاعَِ عَلَى بَيْعِهِ in one of the senses explained in art. بيع; i. e., ‡ <i>He superseded him,</i> &c.\nوَادَاهُ 3 inf. n. مُوَادَاةٌ, <i>He took</i> [<i>from him</i>] <i>the</i> دِيَة. (TA.) See 3 in art. عدو.\nوَدَى القَتِيلَ 1 <i>He gave the bloodwit to the heir,</i> or <i>next of kin, of the slain person.</i> (Msb.)\nوَدِىٌّ <i>Small</i> فَسِيل, q. v.; (S, Msb, K;) <i>shoots,</i> or <i>offsets, cut off from palm-trees and planted:</i> (Mgh:) <i>young palm-trees.</i> (TA.)"
+}

@@ -1,0 +1,52 @@
+{
+  "rootId": "r1374",
+  "source": "lanes",
+  "enrichedAt": "2026-06-29T23:54:48.044Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Turning, flipping, turning over, or the heart",
+  "primaryMeaning": "To turn over, flip, or change; also the heart (which fluctuates in states)",
+  "quranicRelevance": "Very frequent. Mapped to: the human heart (Qalb/Quloob) as the seat of understanding, faith, and emotion; turning or fluctuating states ('taqallub'); and turning back or returning to God ('munqalab').",
+  "keyDerivations": [
+    {
+      "lemma": "قَلْبٌ",
+      "form": "Noun",
+      "meaning": "Heart, intellect, or center of consciousness"
+    },
+    {
+      "lemma": "قُلُوبٌ",
+      "form": "Noun pl.",
+      "meaning": "Hearts, minds, or intellects"
+    },
+    {
+      "lemma": "تَقَلَّبَ",
+      "form": "Form V Verb",
+      "meaning": "To turn about, fluctuate, move to and fro, or behave active"
+    },
+    {
+      "lemma": "مُنْقَلَبٌ",
+      "form": "Noun",
+      "meaning": "Turning-place, return, or ultimate destination"
+    },
+    {
+      "lemma": "قَلَبَ",
+      "form": "Form I Verb",
+      "meaning": "To turn over, invert, transform, or turn away"
+    },
+    {
+      "lemma": "اِنْقَلَبَ",
+      "form": "Form VII Verb",
+      "meaning": "To turn back, return, or be inverted"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "تَقْلِيبُ الأُمُورِ: Turning matters over, plotting, or scheming.",
+    "قَلَبَ كَفَّيْهِ: Turning one's hands over in regret (18:42)."
+  ],
+  "discardedNoise": [
+    "Turning a garment inside out.",
+    "Specific diseases affecting the pith/heart of palm trees."
+  ],
+  "summaryEn": "The root denotes turning and flipping, representing both physical fluctuation (Taqallub) and the spiritual/cognitive core of man, the heart (Qalb), which constantly changes states.",
+  "summaryAr": "يدل هذا الجذر على التقلب والتحول، ممثلاً التقلب والتقلب المادي والزماني (تقلب)، وكذلك المركز الروحي والمعرفي للإنسان وهو القلب (قلب) لسرعة تقلبه.",
+  "rawText": "أَقْلَبَ 4 see 1, in six places. [اقلبهُ, said of God, also signifies † <i>He made him to return</i> from a journey: see an ex. in the first paragraph of art. صحب. (In the phrase أَقْبِلْنَا بِذِمَّةٍ, expl. in the TA in art. دم as meaning <i>Restore us to our family in safety,</i> أَقْبِلْنَا is a mistranscription for أَقْلِبْنَا.)] ___ اقلب as intrans., said of bread [and the like], <i>It became fit to be turned over</i> [in order that the other side might become thoroughly baked]. (S, O, K.) === And اقلب العِنَبُ <i>The grapes became dry,</i> or <i>tough, externally,</i> (K, TA,) <i>and were therefore turned over,</i> or <i>shifted.</i> (TA.) ___ Also <i>He had his camels attacked by the disease called</i> قُلَاب. (S, O, K.)\nأَقْلَبُ as an epithet applied to a man: and قَلْبَآءُ as an epithet applied to a lip (شَفَةٌ): see 1, near the end.\nإِقلابية [app. إِقْلابِيَّةٌ] <i>A sort of wind, from which sailors on the sea suffer injury, and fear for their vessels.</i> (TA.)\nالمَقْلُوبَةُ [A subst., rendered such by the affix ة,] <i>The ear.</i> (O, K.)\nانقلب 7 , of which مُنْقَلَبٌ is an inf. n., (S, O, K, TA,) syn. with اِنقِلَابٌ, (TA,) and also a n. of place, (S, O, K, TA,) like مُنْصَرَفٌ, (S, O, TA,) is quasi-pass. of قَلَبْتُهُ: (S, O:) it signifies <i>It,</i> or <i>he, was,</i> or <i>became, altered,</i> or <i>changed, from its,</i> or <i>his, mode,</i> or <i>manner, of being:</i> (TA:) [and hence,] <i>it</i> (a thing) <i>became inverted,</i> or <i>turned upside-down</i> [&c.: see 1]. (S.) === And [hence] الاِنْقِلَابُ إِلَى ٱللّٰهِ means † <i>The transition,</i> and <i>the being translated,</i> or <i>removed, to God, by death:</i> and [in like manner] المُنْقَلَبُ means <i>the transition</i> [&c.], of men, to the final abode. (TA. [See an ex. in p. 132, sec. col., from the Kur xxvi. last verse.]) === And الاِنْقِلَابُ means also † <i>The returning,</i> in an absolute sense: and, as also المُنْقَلَبُ, particularly, from a journey, and to one's home: thus, in a trad., in the prayer relating to journeying, أُعُوذُ بِكَ مِنْ كَآبَةِ المُنْقَلَبِ † [<i>I seek protection by Thee from the being in an evil state in respect of the returning</i> from my journeying to my home]; i. e., from my returning to my dwelling and seeing what may grieve me. (TA.) The saying in the Kur xxii. 11 وَإِنْ أَصَابَتْهُ فِتْنَةٌ ٱنْقَلَبَ عَلَى وَجْهِهِ means † <i>And if trial befall him,</i> and [particularly such as] disease in himself and his cattle, <i>he returns</i> [<i>to his former way,</i> i. e., in this case,] <i>to infidelity.</i> (Jel. [See also other exs. in the Kur in ii. 138 and iii. 138.]) And one says, انقلب عَنِ العَهْدِ [meaning † <i>He withdrew,</i> or <i>receded, from the covenant, compact, agreement,</i> or <i>engagement</i>]. (S in art. حول.) [See also an ex. from the Kur-án (lxvii. 4) voce خَاسِئٌ.]\nتقلّب الشَّىْءُ ظَهْرًا لبِطْنٍ 5 [<i>The thing turned over and over,</i> or <i>upside-down</i> as meaning <i>so that the upper side became the under side,</i> (lit. <i>back for belly,</i>) doing so <i>much,</i> or <i>repeatedly</i>], like as does the serpent upon the ground vehemently heated by the sun. (S, O, TA.) تقلّب said of a man's face [&c.] signifies تصرّف [i. e. <i>It turned about,</i> properly meaning <i>much,</i> or <i>in various ways</i> or <i>directions;</i> or <i>it was,</i> or <i>became, turned about,</i> &c.]. (Jel in ii. 139.) And تَتَقَلَّبُ فِيهِ ٱلْقُلُوبُ وَٱلْأَبْصَارُ, in the Kur [xxiv. 37], means <i>In which the hearts and the eyes shall be in a state of commotion,</i> or <i>agitation,</i> by reason of fear, (Zj, Jel, TA,) and impatience; (Zj, TA;) the hearts between safety and perdition, and the eyes between the right side and the left. (Jel.) And فِى تَقَلُّبِهِمْ, in the Kur xvi. 48, means † <i>In their journeyings for traffic.</i> (Jel. [See also the Kur iii. 196, and xl. 4.]) You say, تقلّب فِى البِلَادِ, (TA,) and فى الأُمُورِ, (K, TA,) meaning تَصَرَّفَ فِيهَا كَيْفَ شَآءَ [i. e. † <i>He acted in whatsoever way he pleased, according to his own judgment</i> or <i>discretion</i> or <i>free will,</i> or <i>as a free agent, in journeying, for traffic</i> or <i>otherwise, in the country,</i> and <i>in the disposal,</i> or <i>management, of affairs:</i> and simply, <i>he employed himself in journeying, for traffic</i> or <i>otherwise, in the country,</i> and <i>in the disposal,</i> or <i>management, of affairs:</i> or تقلّب فى الامور means <i>he practised versatility,</i> or <i>used art</i> or <i>artifice</i> or <i>cunning, in the disposal,</i> or <i>management, of affairs</i>]. (K, * TA.) And هُوَ يَتَقَلَّبُ فِى أَعْمَالِ السُّلْطَانِ ‡ <i>He acts as he pleases,</i> &c., or simply <i>he employs himself, in the offices of administration,</i> or <i>in the provinces, of the Sultán</i>]. (A.)\nتَقَلُّبَاتٌ † <i>Vicissitudes</i> of fortune or of time.]\nرَجُلٌ قُلَّبٌ † <i>A man who employs himself as he pleases in journeying, for traffic</i> or <i>otherwise,</i> or <i>in the disposal,</i> or <i>management, of affairs:</i> or <i>in practising versatility,</i> or <i>using art</i> or <i>artifice</i> or <i>cunning, in the disposal,</i> or <i>management, of affairs.</i> (TA.) And حُوَّلِىٌّ قُلَّبٌ (S, O, K) and حُوَّلٌ قُلَّبٌ and حُوَّلِىٌّ قُلَّبِىٌّ (O, K) or قُلَّبٌ حُوَّلٌ (A) ‡ One <i>who exercises art, artifice, cunning, ingenuity,</i> or <i>skill, and excellence of consideration</i> or <i>deliberation, and ability to manage according to his own free will, with subtilty; knowing, skilful,</i> or <i>intelligent, in investigating, scrutinizing,</i> or <i>examining, affairs,</i> [or <i>turning them over and over in his mind,</i>] <i>and considering what will be their results.</i> (S, A, * O, K, TA. [See also art. حول.])\nقَالَبٌ , with fet-h to the ل, (S, MA, O, Msb, K, KL,) and 🡻قَالِبٌ, (MA, O, Msb, K,) but the former is the more common, (Msb, K,) <i>A model according to which the like thereof is made,</i> or <i>proportioned:</i> (T in art. مثل, MA, KL, MF:) the <i>model</i> [or <i>last</i>] (KL,) of a boot, (S, O, Msb, KL,) and of a shoe, (KL,) &c.: (O, Msb, KL:) and <i>a mould into which metals are poured:</i> (K:) قَالَبٌ is an arabicized word, as is shown by its form, which is not that of an Arabic word; though Esh-Shiháb, in his Expos. of the Shifè, denies this: its original is [the Pers. word] كَالَبٌ: (MF:) the pl. is قَوَالِبُ, (MA,) and قَوَالِيب is used by El-Hareeree to assimilate it to أَسَالِيب. (Har p. 23.) [A fanciful and false derivation of قَالِبٌ used in relation to a boot &c., as though it were of Arabic origin, is given in the O, and in Har p. 23.] === الكَلَامِ 🡻قَالَِبَقَدْ رَدَّ وَقَدْ طَبَّقَ المَفْصِلَ وَوَضَعَ الهِنَآءَ مَوَاضِعَ النُّقْبِ [app. meaning † <i>He has returned in reply the model,</i> or <i>pattern, of speech; and has hit the joint so as to sever the limb;</i> (that is to say, <i>has hit aright,</i> or <i>hit upon, the argument, proof,</i> or <i>evidence,</i> agreeably with an explanation in art. طبق;) <i>and has put the tar upon the places of the scabs;</i>] is mentioned by AZ as said of an eloquent man. (O, TA. * [The TA, in this art. and in art. طبق, has ورد (to which I cannot assign in this case any apposite meaning) instead of رَدَّ, the reading in the O.]) === And 🡻قَالَِبٌ, (O, L, TA,) with fet-h and with kesr to the ل, (L, TA,) signifies also <i>A</i> [<i>clog,</i> or] <i>wooden sandal,</i> (O, L, TA,) like the قَبْقَاب [q. v.]: in this sense likewise said to be an arabicized word: and قَوَالِيبُ is its pl., [properly قَوَالِبُ,] occurring in a trad., in which it is said that the women of the Children of Israel used to wear the wooden sandals thus called: (L, TA:) it is related in a trad. of Ibn-Mes'ood that the woman used to wear a pair of the kind of sandals thus called in order thereby to elevate herself (O, L, TA) when the men and the women of that people used to pray together. (O.)\nقَالِبٌ <i>Red unripe dates:</i> (S, O, Msb, K:) so in the dial. of Belhárith Ibn-Kaab: (El-U"
+}

@@ -1,0 +1,26 @@
+{
+  "rootId": "r462",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T18:03:45.341Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Treacherous deception, perfidy, breaking covenants secretly, deceit, or severe betrayal",
+  "primaryMeaning": "Treacherous deception/perfidy",
+  "quranicRelevance": "Treacherous ingrate (Khattar - 'kulli khattarin kafoorin').",
+  "keyDerivations": [
+    {
+      "lemma": "خَتَّارٌ",
+      "form": "Noun/Adjective (Intensive)",
+      "meaning": "Treacherous deceiver, highly perfidious, covenant-breaker, or betrayer"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَمَا يَجْحَدُ بِآيَاتِنَا إِلَّا كُلُّ خَتَّارٍ كَفُورٍ (31:32): And none rejects Our signs except every treacherous, perfidious deceiver and ingrate."
+  ],
+  "discardedNoise": [
+    "Khatara (to cross the mind) - Kh-T-R (with T'a).",
+    "Khotrah (danger/risk) - Kh-T-R."
+  ],
+  "summaryEn": "The root represents worst-case treachery or breaking of promises (Khatr), condemning those who call upon God in distress but betray their covenants once they are safely returned to land.",
+  "summaryAr": "يمثل هذا الجذر الغدر الشديد الفظيع ونكث العهد في الخفاء والخديعة القبيحة (ختر)، واصفاً المعرض الغادر الناكث بـالـ (ختّار) الكفور.",
+  "rawText": "تختّر 5 <i>He</i> (a man, TA) <i>was,</i> or <i>became, languid,</i> (تَفَتَّرَ,) <i>and relaxed, and heavy,</i> or <i>sluggish, and fevered:</i> (K:) <i>he was,</i> or <i>became, languid in body, in consequence of disease &c.:</i> (TA:) and <i>his intellect became confused, from drinking milk</i> and <i>the like.</i> (K.) And تختّرت نَفْسُهُ <i>His soul</i> [or <i>stomach</i>] <i>was,</i> or <i>became, languid.</i> (TA.) === <i>He walked with the gait of him who is heavy,</i> or <i>sluggish.</i> (K.)\nختّرهُ 2 , inf. n. تَخْتِيرٌ, said of wine, or beverage, <i>It corrupted,</i> or <i>disordered, his soul</i> [or <i>stomach</i>], (Ibn-'Arafeh, K,) <i>and rendered him relaxed.</i> (Ibn-'Arafeh.)\nخَاتِرٌ (K) and [in an intensive sense] 🡻خَتَّارٌ (S, A, K) and 🡻خَتِيرٌ and 🡻خَتُورٌ and 🡻خِتِّيرٌ (K) One <i>who acts,</i> or <i>behaves, with perfidy, treachery,</i> or <i>unfaithfulness:</i> (S, K:) or <i>with the foulest perfidy</i> or <i>treachery</i> or <i>unfaithfulness:</i> (A, K:) or <i>with deceit, guile,</i> or <i>circumvention:</i> (K:) [or <i>in a bad,</i> or <i>corrupt, manner:</i> (see 1:) the second and following epithets signifying one <i>who does so much,</i> or <i>frequently,</i> or <i>habitually.</i>]\nخَتَرٌ <i>Languor</i> (خَدَرٌ), (K,) or the <i>like thereof,</i> (TA,) <i>that betides on the occasion of drinking medicine</i> or <i>poison,</i> (K, TA,) <i>such as weakens and intoxicates.</i> (TA.)\nخَتَرَتْ نَفْسُهُ 1 <i>His soul</i> [or <i>stomach</i>] <i>became heavy;</i> or <i>heaved,</i> or <i>became agitated by a tendency to vomit;</i> syn. خَبُثَتْ: (IAar, K:) and <i>became in a corrupt,</i> or <i>disordered, state.</i> (K.) ___ خَتَرَهُ, (S, K, *) aor. ﹻ and ﹹ, (K,) inf. n. خَتْرٌ (S, A, K) and خُتُورٌ, (K,) <i>He acted,</i> or <i>behaved, towards him with perfidy, treachery,</i> or <i>unfaithfulness:</i> (S, K: *) or <i>with the foulest perfidy</i> or <i>treachery</i> or <i>unfaithfulness:</i> (A, K:) or <i>with deceit, guile,</i> or <i>circumvention:</i> (K:) or <i>in a bad,</i> or <i>corrupt, manner.</i> (Ibn-'Arafeh.) And خَتَرَ بِالعَهْدِ [<i>He was unfaithful,</i> &c., <i>to the compact,</i> or <i>covenant</i>]. (TA, from a trad.)\nخَتُورٌ : see what follows.\nخَتِيرٌ : see what follows.\nخَتَّارٌ : see what follows.\nخِتِّيرٌ : see what follows."
+}

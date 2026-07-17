@@ -1,0 +1,26 @@
+{
+  "rootId": "r1376",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:56:55.064Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Uprooting, desisting, withholding, ceasing rain, sails, or pulling out",
+  "primaryMeaning": "Withholding/ceasing rain",
+  "quranicRelevance": "O sky, cease rain (Aqli'ee - 'ya-sama'u aqli'ee').",
+  "keyDerivations": [
+    {
+      "lemma": "أَقْلَعَ / يُقْلِعُ",
+      "form": "Form IV Verb",
+      "meaning": "To cease, desist, withhold, pull back, or stop raining"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَقِيلَ يَا أَرْضُ ابْلَعِي مَاءَكِ وَيَا سَمَاءُ أَقْلِعِي وَغِيضَ الْمَاءُ (11:44): And it was said: 'O earth, swallow your water, and O sky, cease/withhold your rain.' And the water subsided."
+  ],
+  "discardedNoise": [
+    "Qila' (ship sails) - plural of Qila'.",
+    "Qal'ah (castle/fortress) - political geography."
+  ],
+  "summaryEn": "The root denotes pulling back or desisting (Qal'), representing the command given to the heavens to stop raining and bring Noah's flood to an end.",
+  "summaryAr": "يشير هذا الجذر إلى النزع والاستئصال، والإمساك والكف عن العمل ككف المطر (قلع)، مصوراً انتهاء الطوفان بأمر السماء بالإمساك والامتناع عن صب الماء.",
+  "rawText": "أَقْلَعَ 4 <i>It</i> (rain) <i>left off.</i> (The lexicons passim.) <i>It cleared away;</i> syn. إِنْجَلَى. (TA.) === أَقْلَعَ عَنْهُ <i>He,</i> or <i>it, left him,</i> or <i>quitted him,</i> or <i>it.</i> (Mgh, Msb, K.) <i>He abstained,</i> or <i>desisted, from it.</i> (S.) === أَقْلَعَ <i>It</i> (hard fortune) <i>departed:</i> see an ex. voce إِبِدٌ. === أَقْلعَتِ الحُمَّى <i>The fever passed away.</i>\nإِقْتَلَعَ 8 see 1.\nاِنْقَلَعَ 7 <i>It became pulled out,</i> or <i>up,</i> or <i>off; became removed from its place, displaced, eradicated, uprooted,</i> or <i>unrooted; it fell,</i> or <i>came, out.</i> You say, إِنْقَلَعَتْ أَسْنَانُهُ [<i>His teeth fell,</i> or <i>came, out.</i>] (TA, art. حس.)\nتَقَلَّعَ فِى مَشْيِهِ 5 <i>He walked as though he were descending a declivity.</i> (TA.)\nقَلَعَ 1 and 🡻اِفْتَلَعَ <i>He pulled, plucked, tore, wrenched,</i> or <i>rooted, out, or up, or off; detached; removed from his or its place; displaced;</i> (Msb, K *;) <i>eradicated; uprooted; unrooted.</i> (K.) === تَقْلَعُ (K in art. جذو) and تقلعُ السَّيْرَ (TA in that art.) [app. for تَقْلَعُ فِى السَّيْرِ], said of she-camels, (K ib.) [app. <i>They raise their feet clear from the ground:</i> see قَلِعٌ and قُلْعٌ: the pret. seems to be قَلِعَ: so if تَقْلَعُ be the right reading: but in a copy of the K it seems to be تُقْلِعُ: see جَاذٍ, art. جذو.\nقَلَعَةٌ as meaning <i>Large stones:</i> see مِرْدًى.\nقَلْعِىٌّ : see رَصاَصٌ and آنُكٌ; in Turkish قَلَاىْ.\nقُلُوعٌ is a quasi-inf. n. of the verb in the phrase أَقْلَعَتِ الحُمَّى: see صَلَّ.\nمَقْلَعٌ : see an ex. voce صَمْغٌ.\nمِقْلاَعٌ <i>A thing with which one throws a stone;</i> (S;) <i>a sling:</i> (PS:) so in the present day. === See also مِزْعَقٌ."
+}

@@ -1,0 +1,26 @@
+{
+  "rootId": "r982",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:44:39.226Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Twin shoot, cluster from single root, brother, equal, or branch",
+  "primaryMeaning": "Twin shoots from a single root",
+  "quranicRelevance": "Date palms growing in twin shoots (Sinwan - 'sinwanun wa-ghayru sinwanin').",
+  "keyDerivations": [
+    {
+      "lemma": "صِنْوٌ / صِنْوَانٌ",
+      "form": "Noun / Noun pl. (acting as adjective)",
+      "meaning": "Twin shoot from same root, sister stems, cluster palms, or sibling trunks"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَفِي الْأَرْضِ قِطَعٌ مُتَجَاوِرَاتٌ ... وَنَخِيلٌ صِنْوَانٌ وَغَيْرُ صِنْوَانٍ يُسْقَىٰ بِمَاءٍ وَاحِدٍ (14:4): And on the earth are neighboring tracts... and date palms, twin shoots (from a single root) and single stems, watered with the same water."
+  ],
+  "discardedNoise": [
+    "Hearing test sounds (Suno) - distinct terminology.",
+    "Tribal sibling brothers."
+  ],
+  "summaryEn": "The root refers to twin shoots sharing a single root (Sinwan), showcasing date palms that share resources in the same soil to prove the diversity and oneness of creation.",
+  "summaryAr": "يشير هذا الجذر إلى الجذعين المشتركين في أصل واحد وجذر مشترك (صنو)، ضارباً المثل بالنخيل الصنوان المتصل رياً بالماء لتأكيد توحيد الصنع.",
+  "rawText": "اصنى النَّخْلُ 4 <i>The palm-trees had pairs,</i> or <i>triplets,</i> or <i>more, growing together from single roots.</i> (IKtt, TA.)\nصَنْوٌ : see the next paragraph.\nصُنَىٌّ <i>A small</i> حِسْى [q. v.] <i>to which no one comes for water,</i> (S, K,) <i>and for which no one cares:</i> dim. of 🡻صِنْوٌ: (S:) or, as some say, (S,) <i>a cleft in a mountain:</i> (S, TA:) or <i>a ravine,</i> or <i>gap,</i> (شِعْبٌ,) <i>in which water flows, between two mountains.</i> (TA.)\nصُنْوٌ : see the next paragraph.\nصِنْوٌ <i>One of a pair,</i> (AHn, S, M, K,) or <i>of three,</i> (S, M,) or <i>of more than two,</i> (K,) or <i>of more than three,</i> (M,) or <i>of five,</i> or <i>of six,</i> (TA,) of palmtrees, (S, M, K,) or of any trees, (AHn, M, K,) or of trees resembling one another, (M,) <i>growing from one root;</i> (AHn, S, M, K;) each [or every one] of such being called the صِنْو of the other [or others growing with it]; (AHn, M;) as also 🡻صُنْوٌ, (M, K,) mentioned by Zj: (M:) two of such are termed صِنْوَانِ (S, K) and صُنْوَانِ and صَنْوَانِ, [which last implies that 🡻صَنْوٌ as well as صُنْوٌ is a dial. var. of صِنْوٌ,] and also صِنْيَانِ and صُنْيَانِ and صَنْيَانِ, [which imply that صِنْىٌ and صُنْىٌ and صَنْىٌ are also dial. vars. of صِنْوٌ and صُنْوٌ and صَنْوٌ;] (K;) and the pl. is صِنْوَانٌ (AZ, S, M) and [of pauc.] أَصْنَآءٌ, (M,) the former pl. differing from the first of the duals mentioned above by being perfectly decl. (AZ, S, * TA.) Hence, in the Kur [xiii. 4], صِنْوَانٍ وَغَيْرُِ صِنْوَانٍ, (TA,) i. e. Palmtrees <i>having one root and</i> [others] <i>having distinct roots:</i> Hafs read صُنْوَان, like قُنْوَان pl. of قِنْوٌ; of the dial. of Temeem. (Bd.) === And hence, (TA,) † <i>A brother;</i> but not so called unless coupled with another: (Sh, TA:) or <i>a brother by the same father:</i> (Az, TA:) [or <i>a brother by the same mother;</i> as is indicated by an explanation of one of the pls in what follows:] or <i>a brother such as is termed</i> شقِيق, (M, K,) which means <i>by the father and mother:</i> (TA in art. شق:) and <i>a son;</i> (M, K;) because he has branched forth from one stock [with his father]: (TA:) and <i>a paternal uncle;</i> (M, K;) but this last meaning is taken from a trad. cited in what follows: (TA:) the fem. is with ة: and the pl. is أَصْنَآءٌ [a pl. of pauc.] and صِنْوَانٌ [as above]. (M, K.) It is said in a trad., عَمُّ الرَّجُلِ صِنْوُ أَبِيهِ ‡ [<i>The paternal uncle of the man is the</i> صِنْو <i>of his father</i>]; (T, S;) meaning that the stock of both is one. (T, TA.) [And it is said that] صَنْوَانٌ وغَيْرُ صِنْوَانٍ, relating to a man's children, means † <i>Sons of one mother by different fathers, and children of different mothers by one father.</i> (Har p. 608.) === [Hence the pl.] أَصْنَآءٌ signifies also † <i>Likes,</i> or <i>fellows.</i> (IAar, TA.) === And رَكِيَّتَانِ صِنْوَانِ ‡ <i>Two wells near together,</i> (AZ, S, M, K, TA,) or (so in the TA and in some copies of the K) <i>that yield water from one spring.</i> (AZ, S, K, TA.) === صِنْوٌ also signifies <i>A widened well</i> (حَفَرٌ) <i>from which water is not drawn and of the water of which no use is made:</i> (Ibn-Buzurj, K:) pl. صِنْوَانٌ. (Ibn-Buzurj, TA.) === See also what follows."
+}

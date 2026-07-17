@@ -1,0 +1,31 @@
+{
+  "rootId": "r829",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:09:12.475Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Poison, eye of a needle, scorching wind, penetration, or narrow hole",
+  "primaryMeaning": "Scorching wind or eye of a needle",
+  "quranicRelevance": "Camel passing through needle eye (Summ - 'sammi al-khiyati'), and scorching wind of Hell (Samoom - 'fee samoomin', 'athaba as-samoomi').",
+  "keyDerivations": [
+    {
+      "lemma": "سَمٌّ",
+      "form": "Noun",
+      "meaning": "Eye of a needle, narrow hole, channel, or piercing exit"
+    },
+    {
+      "lemma": "سَمُومٌ",
+      "form": "Noun / Adjective",
+      "meaning": "Scorching wind, piercing fire-heat, thermal storm, or poison wind"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَلَا يَدْخُلُونَ الْجَنَّةَ حَتَّىٰ يَلِجَ الْجَمَلُ فِي سَمِّ الْخِيَاطِ (7:40): Nor will they enter Paradise until the camel passes through the eye of the needle (mathematical/physical impossibility of arrogance entering heaven)."
+  ],
+  "discardedNoise": [
+    "Poisons (Sumoom) in toxicology manuals.",
+    "Modern air conditioning filters."
+  ],
+  "summaryEn": "The root connects narrow penetrations with intense heat, describing the tiny needle-eye (Summ) camel metaphor and the piercing scorching heat (Samoom) of Hell.",
+  "summaryAr": "يربط هذا الجذر بين الاختراق والضيق الشديد (سم الخياط)، والحرارة النافذة للمسام (السموم)، واصفاً استحالة دخول المتكبر للجنة وعذاب السموم.",
+  "rawText": "سَاسَمٌ , without ء, (AHát, TA,) <i>A kind of tree, of which arrows are made:</i> (AHát, M:) <i>a kind of black tree:</i> (S, K:) or <i>a kind of tree</i> (AHn, M, K) <i>of the mountains, of the</i> [<i>sort termed</i>] عُتُق, (AHn, M,) <i>of which bows are made:</i> (AHn, M, K:) or, (K,) as some assert, (AHn, M,) the [<i>tree called</i>] آبِنُوس [i. e. <i>ebony</i>]: (AHn, M, K:) or, (K,) as others assert, (AHn, M,) the [<i>tree called</i>] شِيز: (AHn, M, K: [in some copies of the K شِيزَى, which means the same:]) but neither of these two is suitable for bows. (AHn, M.)"
+}

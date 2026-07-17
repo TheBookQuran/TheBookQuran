@@ -1,0 +1,26 @@
+{
+  "rootId": "r1907",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:56:22.540Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Waking, vigilance, alertness, being awake, or conscious state",
+  "primaryMeaning": "Awake/conscious",
+  "quranicRelevance": "You would think them awake (Ayqazan - 'tahsabahum ayqāzan').",
+  "keyDerivations": [
+    {
+      "lemma": "يَقِظٌ",
+      "form": "Adjective (Plural: أَيْقَاظ)",
+      "meaning": "Awake, alert, vigilant, or not sleeping"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَتَحْسَبُهُمْ أَيْقَاظًا وَهُمْ رُقُودٌ (18:18): And you would think them awake, while they were asleep (referring to the Companions of the Cave)."
+  ],
+  "discardedNoise": [
+    "Yaqazah (vigilance/renaissance movement) - modern political vocabulary.",
+    "Mustayqiz (one who just woke up)."
+  ],
+  "summaryEn": "The root represents being awake or alert (Yaqz), describing the miraculous appearance of the Sleepers of the Cave whose open eyes made onlookers believe they were awake.",
+  "summaryAr": "يمثل هذا الجذر اليقظة والانتباه وضد النوم والرقاد وحضور الوعي (يقظ)، واصفاً أصحاب الكهف (أيقاظاً) لتقلبهم وانفتاح عيونهم وهم رقود في سباتهم.",
+  "rawText": "إِسْتَيْقَظَ 10 استيقظ: see 5, in three places. === ‡ <i>It</i> (a woman's anklet or other ornament) <i>made a sound</i> or <i>sounds:</i> (K, TA:) like as one says [in the contr. case], نَامَ, meaning “ its sound, or sounds, ceased, ” by reason of the fulness of the leg. (TA.) ___ استيقظهُ: see 4.\nايقظهُ 4 (S, &c.) inf. n. إِيقَاظٌ, (TA,) <i>He awakened him,</i> (S, Mgh, Msb, K,) مِنْ نِوْمِهِ <i>from his sleep;</i> (S;) as also 🡻يقّظهُ, inf. n. تَيْقِيظٌ; (K;) and 🡻استيقظهُ. (TA.) === ‡ <i>He roused his attention,</i> لِلْأُمُورِ <i>to the things,</i> or <i>affairs;</i> (Msb;) as also يقّظهُ. (TA.) === ايقظ الغُبَارَ ‡ <i>He dispersed the dust:</i> (Lth:) and † <i>he raised the dust;</i> (Lth, S, Z;) as also 🡻يقّظهُ: (Lth, S:) or, accord. to Az, this is a mistranscription, for بَقَّطَ التُّرَابَ, inf. n. تَبْقِيطٌ. (TA.)\nتيقّظ 5 <i>He became awakened;</i> or <i>he awaked,</i> or <i>awoke;</i> (S, Msb, TA;) مِنْ نَوْمِهِ <i>from his sleep;</i> (TA;) as also 🡻استيقظ. (S, Mgh, Msb, K.) === ‡ <i>His attention became roused,</i> or <i>he had his attention roused,</i> لِلْأَمْرِ <i>to the thing,</i> or <i>affair;</i> (Msb, * TA;) as also 🡻استيقظ, and 🡻يَقِظَ: (Msb:) <i>he became vigilant, wary,</i> or <i>cautious.</i> (TA.) You say also, هُوَ 🡻يَسْتَيْقِظُإِلَى صَوْتِهِ ‡ [<i>He has his attention roused at his voice,</i> to listen thereto]. (TA.)\nمَا رَأَيْتُ أَيْقَظَ مِنْهُ ‡ [<i>I have not seen any more vigilant, wary,</i> or <i>cautious, than he</i>]. (TA.)\nمُتَيَقِّظٌ : see يَقِظٌ.\nيَقَظَةٌ <i>A state of waking,</i> or <i>being awake;</i> (S, Mgh, K;) as also 🡻يَقْظَةٌ, occurring in the saying of the Et-Tihámee, <center> <h3> العَيْشُ نَوْمٌ وَالْمَنِيَّةُ يَقْظَةٌ </h3> <h3> وَالْمَرْءُ بَيْنَهُمَا خَيَالٌ سَارِى </h3> </center> [<i>Life is a state of sleep, and death is a state of waking; and man between the two is a night journeying phantom</i>]; but most hold it to be used only by poetic license. (TA.)\nيَقِظٌ and 🡻يَقْظٌ and 🡻يَقْظَانٌ A man <i>waking,</i> or <i>awake: not sleeping:</i> (K:) or the last has this signification; (S, Msb;) and its fem. is يَقْظَى: (O, Msb, K:) the pl. (K, &c.) of the first (IB, Msb) and second, (IB,) or of the first only, for the second has no broken pl., because of the rareness of فَعُلٌ as the measure of an epithet, (Sb, TA,) is أَيْقَاظٌ, (Sb, IB, Msb, K,) which is applied to women as well as to men; (O;) and the pl. of يقظان is يِقَاظٌ; (IB;) and the pl. of يقظى is يَقَاظَى. (K.) === And the first (ISk, S, Msb) and ↓ second (ISk, S) ‡ A man <i>vigilant, wary, cautious,</i> or <i>in a state of preparation;</i> (S, Msb;) <i>having his attention roused:</i> (S:) and <i>intelligent:</i> (Msb:) or a man <i>having his attention much roused, very vigilant, and possessing knowledge and intelligence.</i> (ISk.) [In the TA, each of these two epithets is said to be after the manner of the rel. n.; but they are both part. ns. from يَقِظَ as syn. with تيقّظ.] You say also, رَجُلٌ 🡻يَقْظَانُالفِكْرِ and 🡻مُتَيَقِّظُهُ and يَقِظُهُ and 🡻يَقُظُهُ ‡ [<i>A man vigilant in mind</i>]. (TA.) And إِنَّ فُلَانٌ لَيَقِظٌ † [<i>Verily such a one is vigilant; not dull, heavy,</i> or <i>listless;</i> lit.] <i>light in head.</i> (AA.)\nيَقِظَ 1 , aor. ﹷ, (Msb, K,) and يَقُظَ, aor. ﹹ; (Lh, K;) and in the Msb is added يَقَظَ, i. e. like ضَرَبَ, which is strange; (TA;) [but this I do not find in my copy of the Msb;] inf. n. [of the first] يَقَظٌ (Msb, K) and يَقَظَةٌ, (Msb, TA,) or the latter is a simple subst., (S,) and [of the second] يَقَاظَةٌ; (Msb, K;) <i>He waked,</i> or <i>woke; did not sleep,</i> or <i>was not sleeping.</i> (Msb, K.) === See also 5.\nيَقَّظَ 2 See 4, throughout.\nيَقْظٌ : see what next follows, in three places.\nيَقْظَانُ : see يَقِظٌ, in two places. === أَبُو اليَقْظَانِ <i>The domestic cock.</i> (K.)\nيَقْظَةٌ : see what next follows."
+}

@@ -1,0 +1,36 @@
+{
+  "rootId": "r1599",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:09:34.147Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Plotting, scheming, deception, or subtle planning",
+  "primaryMeaning": "To plot or scheme",
+  "quranicRelevance": "Subtle planning/plotting (Makr), matching schemes of wrongdoers, and planners.",
+  "keyDerivations": [
+    {
+      "lemma": "مَكَرَ",
+      "form": "Form I Verb",
+      "meaning": "To plot, scheme, plan subtly, or deceive"
+    },
+    {
+      "lemma": "مَكْرٌ",
+      "form": "Noun",
+      "meaning": "Plot, scheme, planning, or deception"
+    },
+    {
+      "lemma": "مَاكِرٌ / مَاكِرِينَ",
+      "form": "Noun / Active part.",
+      "meaning": "Plotter / planners"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَمَكَرُوا وَمَكَرَ اللَّهُ: And they schemed, and God planned (divine subversion of evil plans)."
+  ],
+  "discardedNoise": [
+    "A red dye from a specific plant (مَكْر).",
+    "Obscure details of desert fox schemes."
+  ],
+  "summaryEn": "The root signifies subtle planning and plotting, depicting the futile conspiracies of wrongdoers (Makr) and the supreme planning of God.",
+  "summaryAr": "يدل هذا الجذر على المكر والتدبير الخفي، واصفاً مؤامرات الظالمين العاجزة (مكر) ومكر الله وحسن تقديره لإبطالها.",
+  "rawText": "أَمْكَرَ 4 see 1, in two places.\nتماكروا 6 <i>They practised mutual deceit, guile,</i> or <i>circumvention;</i> &c. (A, * TA.)\nماكرهُ 3 <i>He practised with him mutual deceit, guile,</i> or <i>circumvention;</i> &c.; (A, * TA;) syn. خَادَعَهُ. (TA.)\nمَاكِرٌ (S, A, Msb, K) and 🡻مَكَّارٌ (S, A, K) and 🡻مَكُورٌ (K) epithets from مَكَرَ: (S, A, Msb, K:) [the first signifying <i>Practising deceit, guile,</i> or <i>circumvention;</i> &c.: and the second and third, <i>practising the same much,</i> or <i>frequently; deceitful, guileful, artful, crafty,</i> or <i>cunning; a trickster,</i> or <i>crafty knave.</i>]\nمَكَرَ 1 , aor. ﹹ, (Msb, TA,) inf. n. مَكْرٌ; (S, A, Msb, K;) and 🡻امكر; (Msb;) <i>He practised deceit, guile,</i> or <i>circumvention;</i> or <i>he practised deceit, guile,</i> or <i>circumvention, desiring to do to another a foul, an abominable,</i> or <i>an evil, action, clandestinely,</i> or <i>without his knowing whence it proceeded;</i> syn. خَدَعَ; (Msb;) and of the inf. n. خَدِيعَةٌ: (S, A, K:) <i>he practised an evasion</i> or <i>elusion, a shift, an artifice,</i> or <i>artful contrivance</i> or <i>device, a machination, a trick, a plot, a stratagem,</i> or <i>an expedient; he plotted;</i> or <i>he exercised art, craft, cunning,</i> or <i>skill, in the management</i> or <i>ordering of affairs, with excel-lent consideration</i> or <i>deliberation, and ability to manage according to his own free will;</i> syn. of the inf. n. إِحْتِيَالٌ: (S, TA:) or to this explanation, conveyed by احتيال as the syn. of the inf. n., should be added <i>secretly,</i> or <i>privately:</i> (Lth, TA:) مَكْرٌ is praised or dispraised according to the nature of its object. (El-Basáir.) [For further explanation, see what follows.] === It is trans. by means of بِ: and also, accord. to Z, by itself: (MF:) [but I know not any instance of its being trans. by itself: except as meaning <i>he plotted</i> a thing: see مَكْرَ السَّيِّئ in the Kur, xxxv. 41, cited voce سَيِّئٌ:] you say مَكَرَ بِهِ, (S, A, TA,) aor. and inf. n. as above, (S, TA,) meaning, <i>He deceived, beguiled,</i> or <i>circumvented, him;</i> or <i>he deceived, beguiled,</i> or <i>circumvented, him, and desired to do him a foul, an abominable,</i> or <i>an evil, action, clandestinely,</i> or <i>without his knowing whence it proceeded:</i> &c.: (S, A, TA:) syn. كَادَهُ: or it differs [somewhat] from كاده, accord. to Aboo-Hilál El-'Askeree: (TA:) some say, that مكر به signifies as above with the addition of <i>feigning the contrary of his real intentions;</i> which كاده does not imply: or this latter signifies “ he did him harm, ” or “ mischief; ” and the former, <i>he did him harm,</i> or <i>mischief, clandestinely.</i> (MF, voce كاد.) See art. خدع. === مَكَرَ also signifies <i>He managed with thought,</i> or <i>consideration,</i> or <i>acted with policy, and practised stratagem, in war.</i> (TA.) === مَكَرَ ٱللّٰهُ and 🡻أَمْكَرَ are syn., (IKtt, Msb,) signifying, ‡ <i>God recompensed,</i> or <i>requited, for</i> مَكْر [or the <i>practising deceit,</i> &c.]: (Lth, * Msb, TA: *) or مَكْرُ ٱللّٰهِ signifies <i>God's granting a man respite</i> or <i>delay, and enabling him to accomplish his worldly aims</i> [<i>so as to bring upon himself the punishment due to his evil actions</i>]: (Er-Rághib, TA:) or, accord. to IAth, <i>God's causing his trials to befall his enemies, exclusively of his friends:</i> or <i>his taking men by little and little, so that they do not reckon upon it, bestowing upon them renewed favours for acts of obedience which are imagined to be accepted whereas they are rejected.</i> (TA.)\nمَكَرَ بِهِ 1 <i>i. q.</i> خَدَعَهُ, (Msb, &c.,) see كَادَهُ.\nمَكُورٌ : see مَاكِرٌ.\nمَكَّارٌ : see مَاكِرٌ.\nمَكْرٌ [<i>Artifice; machination; stratagem; fraud; fraudulence; guile</i>]."
+}

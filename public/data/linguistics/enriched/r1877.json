@@ -1,0 +1,26 @@
+{
+  "rootId": "r1877",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:56:22.540Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Punching, striking with the fist, pushing away violently, or thrusting with a staff",
+  "primaryMeaning": "Striking with the fist/punching",
+  "quranicRelevance": "Moses struck him (Wakazahu - 'fawakazahu musa').",
+  "keyDerivations": [
+    {
+      "lemma": "وَكَزَ / يَوكِزُ",
+      "form": "Form I Verb",
+      "meaning": "To strike with the fist, punch, push away with force, or jab"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فَوَكَزَهُ مُوسَىٰ فَقَضَىٰ عَلَيْهِ (28:15): So Moses struck him with his fist, and it ended him (killed him)."
+  ],
+  "discardedNoise": [
+    "Wakkaz (walking stick/crutch) - related noun but secondary here.",
+    "Kaza (he grew) - confused spelling."
+  ],
+  "summaryEn": "The root represents striking with a closed fist (Wakz), recounting the incident where Moses accidentally killed an Egyptian with a single punch while defending an Israelite.",
+  "summaryAr": "يشير هذا الجذر إلى ضرب الشخص بجمع الكف والبوكس ودفع الصدر بقوة (وكز)، واصفاً ضربة موسى القوية للفرعوني بجمع يده التي أدت لوفاته خطأً.",
+  "rawText": "مُتَوَكِّزٌ بأَمْرٍ <i>Standing ready,</i> or <i>prepared,</i> for a thing, or an affair. (L, art. وكد.)\nوَكَزَهُ 1 , (S, Msb,) aor. يَكِزُهُ, (Msb,) inf. n. وَكْزٌ, (Msb, K,) <i>He struck,</i> or <i>beat him,</i> (S, Msb,) [with anything,] as, for ex., with a staff, or stick: (TA:) or it signifies, (Msb,) or signifies also (S) <i>he struck,</i> or <i>beat, him with his fist upon his chin:</i> (S, Msb:) or, accord. to Ks, <i>i. q.</i> لَكَمَهُ; (Msb;) [i. e.] <i>he struck,</i> or <i>beat, him with his fist.</i> (A, K.) === <i>He pushed,</i> or <i>impelled,</i> or <i>repelled, him.</i> (S, Msb, K.) === <i>He pierced him</i> (Ks, K, * TK) with a spear. (TK.) === <i>He goaded him.</i> (TA.) === <i>He broke</i> his nose. (T, TA.)\nوَكَّازٌ One <i>who strikes,</i> or <i>beats, much with his fist.</i> (A.)\nوَكْزَةٌ <i>A blow with the fist.</i> (A.)"
+}

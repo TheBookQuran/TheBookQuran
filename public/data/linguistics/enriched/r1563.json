@@ -1,0 +1,26 @@
+{
+  "rootId": "r1563",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:29:55.134Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "City life, civilization, settling down, or urban center",
+  "primaryMeaning": "City or town",
+  "quranicRelevance": "The city/town (al-Madinah - e.g., the city of Pharaoh or Medina), and cities (Madain).",
+  "keyDerivations": [
+    {
+      "lemma": "مَدِينَةٌ / مَدَائِنُ",
+      "form": "Noun / Noun pl.",
+      "meaning": "City, town, urban center, or province"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَجَاءَ رَجُلٌ مِنْ أَقْصَى المَدِينَةِ يَسْعَى: And there came a man from the farthest end of the city running."
+  ],
+  "discardedNoise": [
+    "Historical battles of Medina post-migration.",
+    "Modern definitions of municipal laws."
+  ],
+  "summaryEn": "The root refers to cities and towns, depicting urban setups, social centers, and the specific city locations of scriptural stories.",
+  "summaryAr": "يشير هذا الجذر إلى المدن والتحضر، واصفاً التجمعات الحضرية ومواقع الأحداث التاريخية للرسالات.",
+  "rawText": "مَيْدَانٌ : see art. ميد.\nهُوَ ٱبْنُ مَدِينَتِهَا , said of a skilful guide: see بَجْدَةٌ."
+}

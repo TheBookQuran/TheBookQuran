@@ -1,0 +1,170 @@
+.toolbarContainer {
+  position: fixed;
+  top: -4rem; /* Hidden offscreen by default when at the scroll top */
+  left: 0;
+  right: 0;
+  z-index: 50;
+  width: 100%;
+  background-color: var(--color-background-default);
+  border-bottom: 1px solid var(--color-border-subtle);
+  transition: top 0.25s ease-in-out, box-shadow 0.2s ease;
+}
+
+.isSticky {
+  top: 0; /* Slides down and sticks to the top of viewport when navbar hides */
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+  background-color: var(--color-background-default);
+}
+
+.toolbarContent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem 1.5rem;
+  max-width: 100%;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.infoSection {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.divider {
+  color: var(--color-text-secondary);
+  opacity: 0.3;
+  font-size: 0.9rem;
+  user-select: none;
+}
+
+.metaData {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+  opacity: 0.5;
+}
+
+.dotSeparator {
+  font-size: 0.6rem;
+  opacity: 0.6;
+}
+
+.actionsSection {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+/* Mode Selector styles (mirrors ChapterHeader) */
+.modeSelector {
+  display: inline-flex;
+  align-items: center;
+  background-color: var(--color-background-default);
+  border: 1px solid var(--color-border-default, #efeae0);
+  border-radius: 30px;
+  padding: 3px;
+  gap: 3px;
+}
+
+.modeButton {
+  padding: 0.25rem 0.625rem;
+  border-radius: 30px;
+  border: none;
+  background: transparent;
+  font-size: var(--font-size-xsmall, 0.75rem);
+  font-weight: var(--font-weight-semibold, 600);
+  color: var(--color-text-muted);
+  cursor: pointer;
+  transition: all var(--transition-fast, 0.16s) ease;
+}
+
+.modeButton:hover {
+  color: var(--color-text-default);
+}
+
+.activeMode {
+  background-color: var(--color-background-brand, #cb955b);
+  color: var(--color-background-default, #ffffff) !important;
+  box-shadow: 0 2px 8px rgba(203, 149, 91, 0.2);
+}
+
+.playButton {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.25rem;
+  height: 2.25rem;
+  border-radius: 50%;
+  background-color: var(--color-background-default);
+  color: var(--color-background-brand, #cb955b);
+  border: 1px solid var(--color-border-default, #d1d5db);
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  transition: all var(--transition-fast, 0.16s) ease;
+}
+
+.playButton:hover {
+  transform: translateY(-2px);
+  background-color: var(--color-background-alternative-faint, #f4f5f6);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  border-color: var(--color-border-hover, #9ca3af);
+}
+
+.playButton:active {
+  transform: translateY(0);
+}
+
+.playButton svg {
+  fill: currentColor;
+}
+
+.settingsButton {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.25rem;
+  height: 2.25rem;
+  border-radius: 50%;
+  background-color: var(--color-background-default);
+  color: var(--color-text-default);
+  border: 1px solid var(--color-border-default, #d1d5db);
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  transition: all var(--transition-fast, 0.16s) ease;
+}
+
+.settingsButton:hover {
+  transform: translateY(-2px);
+  background-color: var(--color-background-alternative-faint, #f4f5f6);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  border-color: var(--color-border-hover, #9ca3af);
+}
+
+.settingsButton:active {
+  transform: translateY(0);
+}
+
+.settingsButton svg {
+  stroke: currentColor;
+}
+
+@media (max-width: 640px) {
+  .hideOnMobileReading {
+    display: none !important;
+  }
+  
+  .modeButton {
+    padding: 0.2rem 0.5rem;
+    font-size: 0.7rem;
+  }
+  
+  .settingsButton, .playButton {
+    width: 2rem;
+    height: 2rem;
+  }
+}

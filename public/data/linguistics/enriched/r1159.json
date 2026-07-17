@@ -1,0 +1,26 @@
+{
+  "rootId": "r1159",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:58:55.910Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Wandering blindly, perplexity, confusion, hesitation, or lost",
+  "primaryMeaning": "Wandering blindly/confused",
+  "quranicRelevance": "Wandering blindly in transgression (Ya'mahoon - 'wa natharuhum fee tughyanihim ya'mahoon', 'fee ghamratihim ya'mahoon').",
+  "keyDerivations": [
+    {
+      "lemma": "عَمِهَ / يَعْمَهُ",
+      "form": "Form I Verb",
+      "meaning": "To wander blindly, grope in confusion, hesitate, or lose direction"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فِي طُغْيَانِهِمْ يَعْمَهُونَ: In their transgression they wander blindly (spiritual loss of bearings)."
+  ],
+  "discardedNoise": [
+    "Blindness of eyes (Ama) - belonging to 'a-m-y.",
+    "Obscure details of desert mirage walks."
+  ],
+  "summaryEn": "The root denotes blind wandering (Amh), focusing on the state of spiritual confusion where transgressive souls grope without moral navigation.",
+  "summaryAr": "يدل هذا الجذر على التخبط والعمى الفكري (عمه)، واصفاً حالة التيه النفسي والتردد الأعمى للمتجاوزين لحدود الله (يعمهون).",
+  "rawText": "أَعْمَهُ : see عَمِهٌ. === [Its fem.] عَمْهَآءُ, applied to a land (أَرْضٌ), signifies <i>Having in it no signs of the way</i> (S, Msb, K) <i>to guide to safety.</i> (Msb.) [Hence, accord. to the Msb, the verb عَمِهَ expl. above: but some hold it to be tropical: see 1, last sentence.]\nالعُمَّيْهَى : see what next precedes.\nتَعَاْمَهَ 6 see the first paragraph.\nذَهَبَتْ إِبِلُهُ العُمَّهَى and 🡻العُمَّيْهَى <i>His camels went away, whither none knew.</i> (S, K.)\nعَامِهٌ : see عَمِهٌ.\nعَمِهٌ (S, Msb, K) and 🡻عَامِهٌ (S, K) and 🡻أَعْمَهُ (Msb) <i>In a state of confusion,</i> or <i>perplexity, and unable to see his right course;</i> and <i>going repeatedly to and fro:</i> (S:) or <i>going repeatedly to and fro,</i> (Msb, K,) <i>in confusion,</i> or <i>perplexity,</i> (Msb,) or <i>in error, and confusion,</i> or <i>perplexity,</i> (K,) <i>unable to see his right course:</i> (Msb, K:) or <i>not knowing the</i> [<i>right</i>] <i>argument,</i> or <i>plea,</i> or <i>allegation:</i> (K:) [see 1:] pl. [of the first] عمِهُونَ (K) and [of the second] عُمَّهٌ (S, K) [and of the third عُمْهٌ].\nعَمِهَ 1 , (S, Msb, K,) and عَمَهَ, aor. of each ﹷ, (K,) inf. n. عَمَهٌ (S, Msb, K, TA, [عَمْهًا in the CK being a mistake for عَمَهًا,]) and عُمُوهٌ and عُمُوهَةٌ and عَمَهَانٌ, (K, TA,) [the first of the former verb, and the rest, app., of the latter verb,] <i>He was,</i> or <i>became, confounded,</i> or <i>perplexed, and unable to see his right course;</i> and <i>went repeatedly to and fro</i>: (S:) or <i>he went repeatedly to and fro-</i> (Msb, K,) <i>in confusion,</i> or <i>perplexity,</i> (Msb,) or <i>in error, and confusion,</i> or <i>perplexity,</i> (K,) <i>unable to see his right course,</i> (Msb, K,) in contending, disputing, or litigating; or in a way, or road: (K:) or <i>he knew not the</i> [<i>right</i>] <i>argument,</i> or <i>plea,</i> or <i>allegation:</i> (Th, K, TA:) and 🡻تعامه <i>signifies the same:</i> (Z, K, TA:) all are said when one turns aside, or away, from that which is right, or true: (TA:) or العَمَهُ is <i>the looking repeatedly, not knowing whither to go:</i> (Lh, TA:) or it is in the mental perception; and العَمَى is in the sight, or is common to both of these. (TA.) [Accord. to the Msb, عَمِهَ is from عَمْهَآء as an epithet applied to land, expl. below: but this requires consideration, as appears from what here follows.] === One says also, عَمِهَتِ الأَرْضُ ‡ <i>The land was destitute of signs of the way:</i> (K, TA:) a tropical phrase. (TA.)\nعَمَّهْتَ فِى ظُلْمِهِ 2 , inf. n. تَعْمِيهٌ, <i>Thou wrongedst him,</i> or <i>hast wronged him, without sure information.</i> (A, K.)"
+}

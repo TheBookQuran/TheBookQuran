@@ -1,0 +1,37 @@
+{
+  "rootId": "r1974",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:16:02.189Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Bequeathing, enjoining, advising, or joining",
+  "primaryMeaning": "To enjoin or bequeath",
+  "quranicRelevance": "Enjoining covenants/ethics (Wasiyyah - 'wassa'), bequeathing estate/legacy, and advising one another (Tawasaw).",
+  "keyDerivations": [
+    {
+      "lemma": "وَصَّى / أَوْصَى",
+      "form": "Form II / Form IV Verb",
+      "meaning": "To enjoin, command, advise, or bequeath"
+    },
+    {
+      "lemma": "وَصِيَّةٌ",
+      "form": "Noun",
+      "meaning": "Will, testament, legacy, or injunction"
+    },
+    {
+      "lemma": "تَوَاصَى",
+      "form": "Form VI Verb",
+      "meaning": "To enjoin/advise one another mutually"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَصَّى بِهَا إِبْرَاهِيمُ (2:132): Abraham enjoined/willed this (the legacy of monotheism).",
+    "تَوَاصَوْا بِالصَّبْرِ: Enjoined/advised one another to patience."
+  ],
+  "discardedNoise": [
+    "Joining two plants in farming (وصي).",
+    "Specific court procedures for testament execution."
+  ],
+  "summaryEn": "The root denotes enjoining and legacy, covering both the moral injunctions (Wasiyah) and mutual advice (Tawasaw) to patience and truth.",
+  "summaryAr": "يدل هذا الجذر على الإيجاب والوصية، مغطياً العهد والوصية المالية والشرعية (وصية)، والتواصي الأخلاقي المتبادل (تواصوا).",
+  "rawText": "أَوْصَى لَهُ بِالثُّلُثِ 4 <i>He bequeathed to him the third</i> of the property. (MA.) === أَوْصَى <i>He made his will.</i> === See 2.\nتَوَاصَوْا 6 <i>They enjoined, charged, bade, ordered,</i> or <i>commanded, one another.</i> See an ex. voce تَبَاعَثُوا.\nوَصِىٌّ <i>A person commissioned; a commissioned agent:</i> (K:) <i>an executor appointed by a will.</i>\nوَصِيَّةٌ <i>An injunction, a charge, bidding, order,</i> or <i>command:</i> (K:) <i>an admonition, with an endeavour to persuade:</i> and <i>a command:</i> its place may be supplied by any word in which is the meaning of أَمْرٌ. (Msb.) === And <i>A will,</i> or <i>testament.</i> (K, * TA.)\nوَصَّاهُ 2 and 🡻أَوْصَاهُ <i>He enjoined him; charged him; bade him; ordered him:</i> (K, &c.:) <i>he commanded him,</i> بِكَذَا, <i>to do such a thing.</i> (Msb.)"
+}

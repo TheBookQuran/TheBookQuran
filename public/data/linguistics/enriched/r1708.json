@@ -1,0 +1,47 @@
+{
+  "rootId": "r1708",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T00:58:39.998Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Spending, loss, tunneling, or hypocrisy",
+  "primaryMeaning": "To spend or tunnel",
+  "quranicRelevance": "Spending wealth (Infaq), hypocrisy (Nifaq - having two exits like a tunnel), and tunnel (Nafaq).",
+  "keyDerivations": [
+    {
+      "lemma": "أَنْفَقَ",
+      "form": "Form IV Verb",
+      "meaning": "To spend, distribute, or consume wealth"
+    },
+    {
+      "lemma": "نِفَاقٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Hypocrisy, double-dealing"
+    },
+    {
+      "lemma": "مُنَافِقٌ / مُنَافِقُونَ",
+      "form": "Noun / Active part.",
+      "meaning": "Hypocrite / hypocrites"
+    },
+    {
+      "lemma": "نَفَقٌ",
+      "form": "Noun",
+      "meaning": "Tunnel, underground passage"
+    },
+    {
+      "lemma": "نَفَقَةٌ",
+      "form": "Noun",
+      "meaning": "Expenditure, cost, or spending amount"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "نِفَاقٌ: Hypocrisy, conceptually derived from (نافقاء)—the hidden secondary exit of a jerboa's tunnel, representing double-faced entry/exit.",
+    "خَشْيَةَ الإِنْفَاقِ (17:100): Out of fear of spending/depletion."
+  ],
+  "discardedNoise": [
+    "A beast perishing or dying (نَفِقَتِ الدَّابَّةُ).",
+    "Market goods selling out quickly."
+  ],
+  "summaryEn": "The root represents spending and hidden passages, forming the base for the concepts of charitable spending (Infaq) and double-faced hypocrisy (Nifaq).",
+  "summaryAr": "يمثل هذا الجذر الإنفاق والمسالك الخفية، مؤصلاً لمفهوم الإنفاق في سبيل الله ومفهوم النفاق والالتواء العقدي.",
+  "rawText": "أَنْفَقَ 4 <i>He expended</i> money: and <i>he</i> (God or a man) <i>dispensed</i> gifts.\nتَنَفَّفَتِ الجَزُورُ 5 [<i>The slaughtered camel became dealt out,</i> or <i>dispensed</i>]. (S, K in art. شيط.) === تَنَفَّقَ: see Har, p. 472. === تَنَفَّقَ <i>It</i> (a wound) <i>cracked in its sides, and made, in the flesh, what resembled</i> 🡻أَنْفَاق, i. e. <i>holes in the ground,</i> or <i>subterranean excavations</i> or <i>habitations,</i> pl. of نَفَقٌ. (TA in art. دسم.)\nنَافَقَ 3 <i>He played the hypocrite</i> in religion: (K, TA:) <i>he pretended, to the Muslims, that he held the religion of El-Islám, concealing in his heart another religion than El-Islám.</i> (Msb.) And نَافَقَ فُلاَنًا <i>He acted with such a one hypocritically.</i> (TK in art. دهن. [But I have not found this elsewhere.]) And نَافَقَ فِى المَحَبَّةِ [<i>He acted the hypocrite in respect of love</i>]. (Har, p. 505.) See خَانَ.\nنَفَقٌ : see سَرَبٌ === أَنْفَاقٌ The <i>hole</i> of rats or mice. (S, TA in art. خفى:) see 1 in that art.: <i>holes in the ground;</i> or <i>subterranean excavations</i> or <i>habitations;</i> pl. of نَفَقٌ. (TA in art. دسم.) See 5. ___ Also <i>Fresh olive-oil:</i> see فَاقٌ in art. فوق: also mentioned in art. نفق in the TA.\nنَفَقَةٌ <i>What one expends, of money and the like,</i> (K, TA,) <i>upon himself and upon his family</i> or <i>household.</i> (TA.)\nنَفَقَتِ السُّوقُ 1 <i>The marked became brisk, its goods selling much;</i> syn. قَامَت. (K.) === نَفَقَ <i>It was,</i> or <i>became, saleable; easy,</i> or <i>ready, of sale;</i> or <i>in much demand:</i> see its syn. رَاجَ. === نَفَقَتْ <i>It</i> (a commodity, سِلْعَة,) <i>was in much demand:</i> and <i>she</i> (a woman) <i>was demanded in marriage by many.</i> (Msb.) === نَفِقَتِ الدَّراَهِمُ, inf. n. نَفَقٌ, <i>The dirhems passed away, came to an end,</i> or <i>became spent</i> or <i>exhausted;</i> syn. نَفِدَت. (Msb.)\nنَيْفَقٌ The <i>part</i> of a pair of drawers, or trousers, <i>which is turned down at the top, and sewed, and through which the waistband, or string, passes.</i> See نُقْبَة."
+}

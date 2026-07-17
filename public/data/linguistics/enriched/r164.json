@@ -1,0 +1,26 @@
+{
+  "rootId": "r164",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:21:37.831Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Rising, emerging, cut skin, blood flow, or shining star",
+  "primaryMeaning": "Rising/emerging (celestial body)",
+  "quranicRelevance": "Rising moon/sun in Abraham's search (Bazighan - 'al-qamara bazighan', 'ash-shamsa bazighatan').",
+  "keyDerivations": [
+    {
+      "lemma": "بَزَغَ / يَبْزُغُ",
+      "form": "Form I Verb (active part: bazigh)",
+      "meaning": "To rise, emerge, shine, start to glow, or appear in the sky"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فَلَمَّا رَأَى الشَّمْسَ بَازِغَةً قَالَ هَٰذَا رَبِّي هَٰذَا أَكْبَرُ (6:78): And when he saw the sun rising/emerging, he said: 'This is my Lord; this is greater' (Abraham's pedagogical stellar review)."
+  ],
+  "discardedNoise": [
+    "Bleeding a camel's veins by cutting skin (Bazgh).",
+    "Early dawn dew drops."
+  ],
+  "summaryEn": "The root represents celestial rising, tracking Abraham's progressive theological critique of the rising moon and sun to prove the transience of created bodies.",
+  "summaryAr": "يمثل هذا الجذر طلوع الكواكب وبداية إشراق ضوئها بالسموات (بزوغ)، مصوراً حجة إبراهيم المتدرجة في بزوغ القمر ثم بزوغ الشمس لإبطال ربوبيتها.",
+  "rawText": "إِبْتَزَغَ 8 see 7.\nانبزغ الرَّبِيعُ 7 , (S, and so in a copy of the K,) or 🡻ابتزغ, (so in other copies of the K and in the TA,) <i>The first,</i> or <i>beginning, of the</i> [<i>season,</i> or <i>rain,</i> or <i>herbage, called</i>] ربيع <i>came.</i> (S, K.)\nبَزَّغَ 2 see 1.\nبُزُوغٌ 1 [inf. n. of بَزَغَ] signifies The <i>beginning to rise,</i> or <i>come forth:</i> this is the primary meaning: mentioned by Zj. (TA.) === Hence, (TA,) بَزَغَ, said of a tush, or tusk, or canine tooth, (A,) or of the tush of a camel, (S, Msb, K,) [aor. ﹹ,] inf. n. بُزُوغٌ, (Msb,) <i>It came forth;</i> (S, Msb, K;) <i>it clave the flesh, and came forth.</i> (A.) === And hence, (A, TA,) بَزَغَتِ الشَّمْسُ, (JK, S, A, Msb, K,) aor. ﹹ, (TK,) inf. n. as above (JK, S, K) and بَزْغٌ, (K,) <i>The sun began to rise;</i> (JK, TA;) <i>as though it clave the darkness with its light:</i> (A, TA:) or <i>rose,</i> (S, Msb, K,) <i>with spreading light:</i> (TA:) or بُزُوغٌ has the meaning first explained above; the <i>beginning to rise,</i> or <i>come forth.</i> (K.) And in like manner one says, بَزَغَ القَمَرُ [<i>The moon began to rise:</i> or <i>rose</i>]. (A, TA.) ___ بَزَغَ, (S, Mgh, Msb, K,) aor. ﹹ, (Msb,) inf. n. بَزْغٌ, (JK, Msb,) <i>He</i> (a cupper, and a farrier,) <i>scarified,</i> (S, Msb, K,) <i>and made the blood to flow:</i> (Msb:) <i>he</i> (a farrier) <i>scarified</i> a beast (JK, Mgh, TA) <i>in its</i> أَشْعَر [or <i>part next the hoof</i> (in the TA, erroneously, شعر)], (JK,) <i>with a</i> مِبْزَع (JK, Mgh, TA) <i>of iron;</i> (JK;) as also 🡻بزّغ, inf. n. تَبْزِيغٌ: (JK, * TA:) Aboo- 'Adnán says that تَبْزِيغٌ and تَعْرِيبٌ signify the same, namely, the <i>making a slight incision,</i> or <i>stab, such as does not reach the sinews,</i> or <i>tendons.</i> (TA.) === And <i>He made</i> his blood <i>to flow.</i> (TA.)\nقَمَرٌ بَازِغٌ , (TA,) and شَمْسٌ بَازِغَةٌ, (Msb,) and نُجُومٌ بَوَازِغُ, (JK, A,) [<i>A moon,</i> and <i>a sun,</i> and <i>stars,</i>] <i>beginning to rise:</i> (JK, TA:) or <i>rising.</i> (Msb, TA.)\nمِبْزَغٌ <i>A lancet</i> (S, Mgh, K) <i>of a cupper</i> and <i>of a farrier.</i> (JK, Mgh, TA.)"
+}

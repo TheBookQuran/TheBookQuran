@@ -1,0 +1,31 @@
+{
+  "rootId": "r1373",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:01:45.660Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Following behind, track, trace, head back, or trail",
+  "primaryMeaning": "To follow close behind (in track)",
+  "quranicRelevance": "Sending messengers in succession (Qaffayna - 'wa qaffayna 'ala atharihim'), and pursuing what one has no knowledge of ('wa la taqfu').",
+  "keyDerivations": [
+    {
+      "lemma": "قَفَّى / يُقَفِّي",
+      "form": "Form II Verb",
+      "meaning": "To send in succession, cause to follow immediately, or trail behind"
+    },
+    {
+      "lemma": "قَفَا / يَقْفُو",
+      "form": "Form I Verb",
+      "meaning": "To follow behind, pursue, track, or chase"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ (17:36): And do not pursue/follow what you have no knowledge of (moral warning against gossip/conjecture)."
+  ],
+  "discardedNoise": [
+    "Cervical vertebrae (Qafa) - anatomy details.",
+    "Cavalry lines in pre-Islamic defense formations."
+  ],
+  "summaryEn": "The root represents following tracks, detailing the succession (Taqfiyah) of prophets sent after one another, and warning against pursuing gossip/conjecture (Taqfu).",
+  "summaryAr": "يمثل هذا الجذر التتبع للأثر والسير خلفه، واصفاً إرسال الرسل متتابعين على نفس نهج التوحيد (قفينا)، وناهياً عن تتبع الظنون والإشاعات (لا تقف).",
+  "rawText": "قَافِيَةٌ , by synecdoche, for ذُو قَافِيَةٍ, (IJ,) ‡ <i>A verse; a single verse of a poem.</i> (Akh, Az, TA.) === Also, [by a further extension of the proper signification,] <i>A</i> قَصِيدَة [or <i>an ode,</i> or <i>a poem</i>]. (Az, IJ, TA.)\nقَفًا The <i>back of the neck.</i> (S, Msb, K.) === عَيْنَاهُ فِى قَفَاهُ is said of him who is put to flight. because he looks behind him, fearing pursuit. (TA in art. انف.) And جَعَلَ أَنْفَهُ فِى قَفَاهُ: see أَنْفٌ. === [Also the <i>back</i> of the hand: and the <i>flat back</i> of a knife and the like.]\nقَفَا أَثَرَهُ 1 and <i>He followed his track,</i> or <i>footsteps; tracked him.</i> (S, Msb.) === قَفَا فُلَانًا <i>He followed the footsteps of such a one.</i> (TA.) See قَصَّ أَثَرَهُ, which signifies the same, for a better explanation. See also قَفَوَتُ أَثَرَهُ.\nقَفِيَّةٌ : see دَوَآءُ."
+}

@@ -1,0 +1,27 @@
+{
+  "rootId": "r4",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T18:01:00.335Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Wild pasture, herbage, plants eaten by livestock, fodder, or preparing to travel",
+  "primaryMeaning": "Wild pasture/herbage (Abb)",
+  "quranicRelevance": "And herbage/pasture (Abban - 'wa-fakihatan wa-abban').",
+  "keyDerivations": [
+    {
+      "lemma": "أَبٌّ",
+      "form": "Noun",
+      "meaning": "Wild pasture, herbage, grass, or plants eaten by grazing animals"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَفَاكِهَةً وَأَبًّا (80:31): And fruit and herbage/pasture (as provisions for humans and their livestock)."
+  ],
+  "discardedNoise": [
+    "Ab (father) - distinct root A-B-W.",
+    "Aba (to refuse) - A-B-Y.",
+    "Abba (swallowing water)."
+  ],
+  "summaryEn": "The root refers to wild plants and pasture grass consumed by livestock (Abb), cited in Surat 'Abasa as one of the natural provisions God grows to sustain animal life.",
+  "summaryAr": "يشير هذا الجذر إلى الكلأ والكلأ الرطب من العشب الذي ترعاه البهائم والأنعام ولا يزرعه الناس (ابب)، وارداً كمنفعة وعلف للمواشي (وفاكهة وأبا).",
+  "rawText": "أَبٌ : see art. ابو.\nأَبَابَةٌ and إِبَابَةٌ <i>A way,</i> or <i>course, of acting,</i> or <i>conduct,</i> or <i>the like.</i> (M, K.) [See 1.]\nأَبٌّ <i>Herbage,</i> (M, K,) <i>whether fresh or dry:</i> (M, * K, * TA:) or <i>pasture,</i> or <i>herbage which beasts feed upon,</i> (Fr, AHn, Zj, T, S, M, A, Msb, K,) <i>of whatever kind,</i> (AHn, Zj,) [or] <i>not sown by men:</i> (Msb:) it is, <i>to cattle and other beasts, what fruit is to men:</i> (Mujáhid, T, Msb:) or <i>whatever grows upon the face of the earth;</i> (Atà, Th, T, M;) <i>whatever vegetable the earth produces:</i> (K, * TA:) and also, <i>green herbage,</i> or <i>plants:</i> (K, * TA:) and, as some say, <i>straw,</i> (Jel in lxxx. 31, and TA,) because cattle eat it: (TA:) or <i>herbage prepared for pasture and for cutting:</i> (TA:) accord. to IF, (Msb,) <i>dried fruits;</i> because prepared for winter (Bd in lxxx. 31, and Msb) and for journeying: (Msb:) pl. [of pauc.] أَوُبٌّ, originally أَأْبُبٌ. (I' Ak p. 367.) You say, فُلَانٌ رَاعَ لَهُ الحَبُّ وَطَاعَ لَهُ الأَبُّ, meaning <i>Such a one's seed-produce</i> [or <i>grain</i>] <i>increased, and his pasture became ample.</i> (A.) ___ Also a dial. var. of أَبٌ, <i>A father.</i> (T, and MF from the Tes-heel of Ibn-Málik.) ___ أَبَّ أَبَّهُ: see 1.\nأَبَّ 1 , (T, S, M, &c.,) aor. ﹻ, (M, K,) agreeably with analogy in the case of an intrans. verb of this class, (TA,) and ﹹ, (AZ, T, S, M, K,) contr. to analogy, (TA,) inf. n. أَبٌّ (T, S, M, K) and أَبِيبٌ (M, K) and أَبَابٌ and أَبَابَةٌ (S, M, K) and إِبَابَةٌ; (M;) and 🡻ٱئْتَبَّ [written with the disjunctive alif اِيتَبَّ]; (T, K;) <i>He prepared himself,</i> (AZ, S, M, A, K,) and <i>equipped himself,</i> (AZ, S, A,) for (لِ) departing, or going away, (AZ, S,) or for journeying: (M, A, K:) or <i>he determined upon journeying, and prepared himself.</i> (T.) El-Aashà says, <center> <h3> صَرَمْتُ وَلَمْ أَصْرِمْكُمُ وَكَصَارِمٍ </h3> <h3> أَخٌ قَدْ طَوَى كَشْحًا وَأَبَّ لِيَذْهَبَا </h3> </center> (T, S, M, TA,) i. e. <i>I cut</i> [in effect, <i>while I did not really cut</i>] <i> you: for like one who cuts is a brother who has determined and prepared to go away.</i> (TA.) [Hence,] لَا عَبَابَ وَ لَا أَبَابَ, [or لا عَبَابِ ولا أَبَابِ,] a prov. [which see explained in art. عب]. (TA.) [And hence the saying,] هُوَ فِى أَبَابِهِ, (S, M, K,) and أَبَابَتِهِ, and إِبَابَتِهِ, (M,) <i>He is in his</i> [<i>state of,</i> or <i>he is engaged in his,</i>] <i>preparation</i> or <i>equipment</i> [for departing or journeying]. (S, M, K.) The hemzeh in أَبَّ is sometimes changed into و; and thus وَبَّ, inf. n. وَبٌّ, signifies <i>He prepared himself to assault,</i> or <i>charge, in battle.</i> (T, TA.) === أَبَّتْ أَبَابَتُهُ, and إِبَابَتُهُ, <i>His way,</i> or <i>course, of acting,</i> or <i>conduct,</i> or <i>the like, was,</i> or <i>became, rightly directed,</i> or <i>ordered.</i> (M, K.) === أَبَّ 🡻أَبَّهُ <i>i. q.</i> قَصَدَ قَصْدَهُ, (K,) which signifies <i>He tended, repaired, betook himself,</i> or <i>directed his course, towards him,</i> or <i>it:</i> (S and Msb in art. قصد:) and also, <i>he pursued his</i> (another‘s) <i>course, doing as he</i> (the latter) <i>did.</i> (L in art. وكد.) === أَبَّدِ إِلَى وَطَنِهِ, (M, K,) aor. ﹻ (IDrd, M, K) and ﹹ, (K,) inf. n. أَبٌّ (AA, S, M, K) and إِبَابَةٌ and أَبَابَةٌ (M, K,) and أَبَابٌ, (TA,) <i>He yearned for, longed for,</i> or <i>longed to see, his home.</i> (AA, S, M, K.)\nإِاْتَبَبَ 8 see 1, first signification.\nإِبَّانٌ The <i>time,</i> or <i>season,</i> of a thing: (Msb:) or the <i>time of preparing,</i> or <i>making ready,</i> of a thing: (Mgh:) as, for instance, of fruit: (Mgh, Msb:) it is of the measure فِعْلَانٌ, (Mgh, Msb,) from أَبَّ in the first of the senses assigned to it above, (Mgh,) the ن being augmentative; (Msb;) or of the measure فِعَّالٌ, (Mgh, Msb,) from أَبَّنَ “he watched” or “observed” a thing, (Mgh,) the ن being radical: (Msb:) but the former derivation is the more correct. (Mgh.) [See also art. ابن.]\nاِسْتَأَبَّهُ 10 <i>He adopted him as a father;</i> an extr. form; (IAar, M;) from أَبٌّ, a dial. var. of أَبٌ: (TA:) regularly, اِسْتَأْبَاهُ. (M.) And استأبّ أَبًا and اِسْتَأْبَبَ أَبًا <i>He adopted a father.</i> (TA in art. ابو.)"
+}

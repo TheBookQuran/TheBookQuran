@@ -1,0 +1,26 @@
+{
+  "rootId": "r1716",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:52:16.826Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Dust clouds raised in battle, soaking, steeping, stagnant water pool, or loud screaming",
+  "primaryMeaning": "Dust clouds (raised in battle)",
+  "quranicRelevance": "Raising clouds of dust (Naq'an - 'naq'an').",
+  "keyDerivations": [
+    {
+      "lemma": "نَقْعٌ",
+      "form": "Noun",
+      "meaning": "Dust clouds raised in dry ground by fast running horses, or soaking"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فَأَثَرْنَ بِهِ نَقْعًا (100:4): And raising thereby clouds of dust (during the tactical charge of war horses)."
+  ],
+  "discardedNoise": [
+    "Naq'a (steeping tea bags in hot water) - modern culinary.",
+    "Naqe'e (soaking water)."
+  ],
+  "summaryEn": "The root represents dust clouds stirred by high-speed motion (Naq'), capturing the intense battle charge of horses whose hooves raise dust columns in the morning air.",
+  "summaryAr": "يمثل هذا الجذر الغبار الثائر المنتشر في الجو بفعل حوافر الخيل السريعة، ونقع السوائل (نقع)، واصفاً إثارة خيل الغزاة للغبار الكثيف في هجومهم الصباحي.",
+  "rawText": "أَنْقَعَ 4 see 1.\nأَنْقَعُ <i>More,</i> or <i>most, thirst-quenching:</i> see an ex. under الحَاذُ, in art. حوذ; and another voce رَشَفَ.\nأَنْقُوعَةٌ The <i>hollow,</i> or <i>depression, of</i> ثَرِيد, (S, A, K,) <i>in which the gravy collects.</i> (A, K. *)\nإِسْتَنْقَعَ 10 see 1.\nسَمٌّ نَاقِعٌ <i>Poison that takes effect;</i> (S, K;) <i>that kills:</i> (TA:) <i>that remains fixed,</i> (Abu-nNasr, K, TA,) <i>and collects.</i> (Abu-Nasr, TA.)\nمَسْتَنْقَعٌ : see مَنْقَعٌ.\nمَنْقَعُ البُرْمِ <i>Untwisted old thread which a woman spins a second time, and puts into the stone cooking-pots, because she has nothing but these</i> [<i>in which to deposit it</i>]. (Sgh, K, TA. [From the K it would seem to be مُنْقعٌ alone: and in the CK, البُرام is erroneously put for البِرام: Golius found it written البَرَام; and has wrongly explained it in his Appendix.]) === سَمٌّ مُنْقَعٌ <i>Poison made into a confection.</i> (S, K, TA.)\nمَنْقَعُ مَآءِ , and 🡻مَسْتَنْقَعُمَآءٍ, <i>A place where water remains and collects; where it collects and stagnates;</i> or <i>where it remains long, and becomes altered.</i> See نَقَعَ.\nنَقَعَ 1 and 🡻اِسْتَنْقَعَ <i>It</i> (water) <i>remained,</i> or <i>stagnated,</i> or <i>collected,</i> in a hollow, or cavity: (Mgh:) or <i>remained long, and became altered:</i> (Msb:) or the former [and latter] <i>collected in a</i> مَنْقَع: (S:) or the latter [and former] <i>became yellow and altered.</i> (K.) === نَقَعَ and 🡻أَنْقَعَ [<i>He macerated, steeped,</i> or <i>soaked,</i> a medicine, <i>in water,</i>] <i>he left it in water until its colour became changed.</i> (Msb.)\nنَقِيعٌ <i>An infusion;</i> meaning, <i>a beverage made by steeping something in water:</i> (Msb:) and <i>a mash.</i>"
+}

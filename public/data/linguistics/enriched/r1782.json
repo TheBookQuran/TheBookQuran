@@ -1,0 +1,42 @@
+{
+  "rootId": "r1782",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:05:27.741Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Destruction, death, waste, or perishing",
+  "primaryMeaning": "To perish or destroy",
+  "quranicRelevance": "Physical death/destruction (Halak), spending wealth excessively ('ahlaqtu malan lubada').",
+  "keyDerivations": [
+    {
+      "lemma": "هَلَكَ",
+      "form": "Form I Verb",
+      "meaning": "To perish, die, or be destroyed"
+    },
+    {
+      "lemma": "أَهْلَكَ",
+      "form": "Form IV Verb",
+      "meaning": "To destroy, ruin, waste, or consume"
+    },
+    {
+      "lemma": "مَهْلِكٌ",
+      "form": "Noun",
+      "meaning": "Place/time of destruction, or ruin"
+    },
+    {
+      "lemma": "مُهْلِكٌ",
+      "form": "Noun / Active part.",
+      "meaning": "Destroyer"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "أَهْلَكْتُ مَالًا لُبَدًا (90:6): I have wasted/spent vast wealth (wasting without gain).",
+    "هَلَكَ عَنِّي سُلْطَانِيَهْ (69:29): Gone/perished from me is my authority."
+  ],
+  "discardedNoise": [
+    "A deep pit in the desert where travelers get lost (هَلْكَة).",
+    "Obscure pre-Islamic details of animal plagues."
+  ],
+  "summaryEn": "The root refers to perishing and waste, denoting the literal destruction of ancient peoples (Ihlak) and the senseless wasting of wealth.",
+  "summaryAr": "يشير هذا الجذر إلى الهلاك والنفاد، دالاً على الإهلاك المادي للأمم البائدة، وإهلاك وإنفاق المال سدى.",
+  "rawText": "أَهْلَكَهُ 4 <i>He destroyed, made an end of,</i> or <i>caused to perish</i> or <i>come to an end, made away, did away with,</i> or <i>brought to nought, him,</i> or <i>it; took away his life.</i>\nإِهْتَلَكَ 8 see 6.\nاِسْتَهْلَكَ 10 properly signifies <i>He sought, or courted, destruction;</i> like اِسْتَمَاتَ: see مُسْتَمِيتَ: and see an ex. voce شَرْشَرَةٌ. === اِسْتَهْلَكَ فِى كَذَا <i>He</i> (a man) <i>distressed, troubled,</i> or <i>fatigued, himself in,</i> or <i>respecting, such a thing.</i> (TA.) See also 6.\nتَهَالَكَ غَمًّا 6 [app. <i>He perished gradually by reason of grief.</i>] (A, art. سوس: see 1 in that art.) === تَهَالَكَ عَلَيْهِ <i>He was vehemently eager for it.</i> (TA.) === تَهَالَكَ فِيهِ <i>He strove, laboured, toiled,</i> or <i>exerted himself, in it,</i> namely in running; as also 🡻اِهْتَلَكَ. (TA.) <i>He strove, laboured, toiled,</i> or <i>exerted himself, and hastened, in it,</i> namely an affair; as also استهلك 🡻فيه. (TA.) === تَهَالَكَتْ said of a she-camel, <i>i. q.</i> عَشِقَتْ [<i>She vehemently desired the stallion</i>]. (AA, TA in art. عشق.)\nمَهْلَِكَةٌ <i>A cause of perdition,</i> or <i>of death.</i> (TA in art. بخل.) === ‡ <i>A place of perdition</i> or <i>death:</i> and <i>a desert:</i> (KL:) or <i>a</i> [<i>desert,</i> or <i>such as is termed</i>] مَفَازَة; (S, K, TA;) because persons perish therein; (Z, TA;) or because it urges [or leads] to perdition. (TA.) See جَادَّةٌ.\nمَهْلُكٌ : see أَلُوكٌ.\nمَهْلِكٌ <i>Death:</i> see a verse cited voce سَهُوٌ.\nهَالِكٌ <i>Dead;</i> or <i>dying.</i> (Bd, Jel in xii. 85) === هَالِكٌ sometimes means <i>Subject to perish;</i> as in the Kur, xxviii. last verse.\nهَلاَكٌ [<i>Perdition; destruction; a state of perdition</i> or <i>destruction: a lost state;</i>] <i>death.</i> (K.) === هَلاَكٌ and 🡻هَلَكَةٌ are syn. (S, Msb, K.) === اِرْتَبَكَ فِى اِنْهَلَكَاتِ <i>He stuck fast in cases of perdition:</i> see art. ربك.\nهَلَكَ 1 , inf. n. هَلَاكٌ &c., (S, K, &c.,) <i>He,</i> or <i>it, perished, came to nought, came to an end, passed away, was not, was no more,</i> or <i>became non-existent</i> or <i>annihilated:</i> (KL, PS in explanation of هَلاَكٌ, &c.:) or <i>fell:</i> or <i>became in a bad,</i> or <i>corrupt, state; became corrupted, vitiated, marred,</i> or <i>spoiled:</i> or <i>went away, no one knew whither:</i> (Mgh in explanation of هَلاَكٌ:) <i>he died.</i> (K.) === هَلَكَتْ أَرْضُهُ <i>His land had its herbage dried up by drought:</i> see جَرِبَ.\nهَلَكَةٌ <i>The drying up of the plants,</i> or <i>herbage.</i> (AHn, TA.) See هَلاَكٌ.\nهُوَ مُسْتَهْلِكٌ إِلَى كَذَا <i>i. q.</i> مُسْتَمِيتٌ [q. v.]. (TA, art. موت, from the A.) === مُسْتَهْلِكُ الوِرْدِ A road <i>that destroys him who seeks water, by reason of its far extent.</i> (O.)\nوَادِى تُهُلِّكَ 2 <i>I. q.</i> تُضُلِّل"
+}

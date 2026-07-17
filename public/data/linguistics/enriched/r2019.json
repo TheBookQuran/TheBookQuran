@@ -1,0 +1,27 @@
+{
+  "rootId": "r2019",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:11:50.470Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Keeping distance, moving away, remote, turning aside, or separate",
+  "primaryMeaning": "Moving away/keeping distance",
+  "quranicRelevance": "Turning aside in pride (Na'a - 'wa na'a bi-janibihi'), and keeping others away while staying away ('yan'awna').",
+  "keyDerivations": [
+    {
+      "lemma": "نَأَى / يَنْأَى",
+      "form": "Form I Verb",
+      "meaning": "To move away, keep distance, turn aside, withdraw, or stay remote"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَنَأَىٰ بِجَانِبِهِ (17:83): And he turns aside and moves away/withdraws in pride (the psychology of the ungrateful wealthy).",
+    "وَهُمْ يَنْهَوْنَ عَنْهُ وَيَنْأَوْنَ عَنْهُ (6:26): And they prevent others from it and they withdraw/stay away from it."
+  ],
+  "discardedNoise": [
+    "Flute instruments (Nay) - spelling overlap.",
+    "Remote islands tourism folders."
+  ],
+  "summaryEn": "The root represents distancing (Na'ee), describing the prideful withdrawal of ungrateful people and leaders who block others from faith while staying distant themselves.",
+  "summaryAr": "يمثل هذا الجذر التباعد المكاني والمعنوي والترفع كبراً (نأى)، واصفاً إعراض الإنسان البطر بنعمة ربه، وصد مشركي مكة عن القرآن وتنائيهم عنه.",
+  "rawText": "أَنْآهُ 4 : see آنَاهُ in art. انى.\nاِسْتَنْأَى 10 : <i>i. q.</i> اِسْتَنَاءَ q. v. in art. نوأ.\nنَأَى بِهِ 1 [<i>He, or it, removed him; put or placed him at a distance, away, or far away.</i>] (S, art. طرح.) === نَأَى <i>He shrank</i> from a thing: see an ex. in a verse cited voce دَفٌّ.\nنُؤْىٌ <i>A trench dug round a tent,</i> (S, K,) or <i>a barrier</i> [<i>raised</i>] <i>around it,</i> (T, IB, TA,) <i>to prevent the rain-water from entering it,</i> (S,) or <i>keep off a torrent.</i> (K.)"
+}

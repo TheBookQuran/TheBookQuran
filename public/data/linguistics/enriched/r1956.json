@@ -1,0 +1,52 @@
+{
+  "rootId": "r1956",
+  "source": "lanes",
+  "enrichedAt": "2026-06-29T23:49:55.978Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Proximity, closeness, helper/protector, or turning away",
+  "primaryMeaning": "To turn towards, be near, or rule/protect",
+  "quranicRelevance": "Very frequent. Used for closeness/nearness, helper/guardian/ally (Wali / Awliya'), authority/guardianship (Wilayah), turning one's back or turning away (Tawalla), and placing someone in charge.",
+  "keyDerivations": [
+    {
+      "lemma": "وَلِيٌّ",
+      "form": "Noun",
+      "meaning": "Protector, guardian, ally, or close friend"
+    },
+    {
+      "lemma": "أَوْلِيَاءُ",
+      "form": "Noun pl.",
+      "meaning": "Protectors, allies, or guardians"
+    },
+    {
+      "lemma": "وَلَّى",
+      "form": "Form II Verb",
+      "meaning": "To turn away, turn one's back, or put in charge"
+    },
+    {
+      "lemma": "تَوَلَّى",
+      "form": "Form V Verb",
+      "meaning": "To turn away, take charge, or assume authority/guardianship"
+    },
+    {
+      "lemma": "مَوْلًى",
+      "form": "Noun",
+      "meaning": "Master, helper, patron, or client"
+    },
+    {
+      "lemma": "أَوْلَى",
+      "form": "Adjective comparative",
+      "meaning": "Closer, worthier, or more deserving"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "أَوْلَى لَكَ (57:13): Woe to thee! (an expression of threat or condemnation meaning 'near to thee is destruction').",
+    "وَلْيٌ: Rain that follows rain (from proximity)."
+  ],
+  "discardedNoise": [
+    "Obscure descriptions of continuous rains.",
+    "Grammatical details on the declension of (وليّ) vs (مَوْلى)."
+  ],
+  "summaryEn": "The root denotes closeness and guardianship, which Quranically shapes the concept of divine protection (Wali, Mawla) and the act of turning away (Tawalli) from guidance.",
+  "summaryAr": "يدل هذا الجذر على القرب والولاية، وهو ما يشكل في القرآن مفهوم الولاية والنصرة الإلهية (ولي، مولى) وفعل التولي والإعراض عن الهدى.",
+  "rawText": "أَوْلَى 4 <i>He gave:</i> and <i>he made near.</i> (KL.) === أَوْلَاهُ مَعْرُوفًا <i>He did to him,</i> or <i>conferred upon him, a benefit,</i> or <i>favour;</i> syn. أَسْدَاه إِلَيْهِ; <i>as though he made it cleave to him, being next to him:</i> or <i>he put him in possession of it.</i> (TA.) You say also, أَوْلَاهُ ذُلَّا [<i>He brought upon him abasement,</i> or <i>ignominy</i>], (S, K, in art. خسف,) and الذُّلَّ وَالهَوَانَ. (Msb in that art., voce خَسْفٌ, q. v.)\nاِسْتَوْلَى عَلَيْهِ 10 <i>He mastered, or gained the mastery over, him or it;</i> (Msb;) <i>he got it in his hand, possession, or power.</i> (TA.) === إِسْتَوْلَتْ عَلَيْهِ الحُجَّةُ [<i>The argument, allegation,</i> or <i>pled, overcame him</i>]. (L in art. بهت.)\nتَوَلَّى 5 <i>He turned himself,</i> الى <i>towards.</i> (Jel, ii. 139.) <i>He turned away</i> (Idem, xix. 50; and S, Msb) عَنْهُ <i>from him,</i> or <i>it.</i> (S.) === تَوَلَّى <i>He turned the back</i> to another: see a verse in art. فيل, conj. 1. === تولّى أَمْرًا <i>He took upon himself an affair.</i> === تَوَلَّى كِبْرَهُ <i>He took upon himself,</i> or <i>undertook, the main part thereof;</i> syn. تَحَمَّلَ مُعْظَمَهُ. (Jel, xxiv. ii.) === تَولَّاهُ: see وَلِيَهُ.\nفُلَانٌ أَوْلَى بِكَذَا <i>Such a one is more,</i> or <i>most, entitled to such a thing; has a better,</i> or <i>the best, right,</i> or <i>title,</i> or <i>claim, to it; is more,</i> or <i>most, deserving,</i> or <i>worthy, of it; is more,</i> or <i>most, competent to it; is more,</i> or <i>most, fit for it;</i> syn. أَحَقُّ بِهِ. (Msb.) But see أَحَقٌّ. See also an ex. voce أُولُو, from the Kur, viii., last verse, and xxxiii. 6. === أَوْلَى بِشَىْءٍ <i>More worthy, or deserving, of a thing. More fit, apt, or proper, for a thing.</i> === بِالطَّرِيقِ لِأَوْلَى <i>A fortiori:</i> see طَرِيقٌ.\nمَوَالِيَا , vulg. مَوَّال (not مَوَالِيَّا) <i>A kind of short poem,</i> generally of five lines, of which all but the penultimate end with the same rhyme: see note 5 to ch. xxvi. of my “ 1001 Nights. ”\nمَوْلًى <i>A lord,</i> or <i>chief;</i> syn. سَيِّدٌ. (TA in the addenda.) === The <i>son of a paternal uncle:</i> (S, Msb:) or <i>a relation,</i> (K,) <i>such as a son of a paternal uncle</i> (IAar, K) and <i>the like,</i> (K,) [i. e.] and <i>such as a son of a sister.</i> (IAar, TA.) === And <i>A freedman;</i> (S, Msb, K;) so called because he is in the condition of the son of a paternal uncle; <i>being one</i> [<i>under the patronage of his emancipator,</i> i. e.,] <i>whom the emancipator is bound to aid, and whose property he inherits if he dies having no</i> [<i>natural or other legal</i>] <i>heir.</i> (TA.) And (K) <i>a slave:</i> (M, K:) fem. with ة. (M.)\nوَالٍ <i>A prefect, governor, ruler, king, regent, judge, magistrate,</i> &c. See مَعُونَةُ.\nوَالَاهُ 3 <i>It was next, or adjacent, to it.</i> Said of one place or tract with respect to another. === وَالَى <i>He made a consecution,</i> or <i>succession, of one to the other;</i> (S, K;) بَيْنَهُمَا <i>between them two;</i> (S;) or بَيْنَ الأَمْرَيْنِ <i>between the two things</i> or <i>affairs; he made a successive connexion,</i> or <i>no interruption.</i> (K.) And والاه <i>He made it consecutive, successive,</i> or <i>uninterrupted, in its progressions,</i> or <i>gradations,</i> or <i>the like;</i> syn. تَابَعَهُ [which see]. (Msb.) === وَالَاهُ, (MA,) inf. n. مُوَالَاةٌ, (S, KL, TA,) <i>He befriended him,</i> or <i>was friendly to him.</i> (S, MA, KL, TA.) See شَايَعَهُ.\nوَلَآءٌ <i>Relationship:</i> so in the phrase بَيْنَهُمَا وَلَآءٌ [<i>Between them two is relationship</i>]. (JM.) === Also used for أَصْحَابُ وَلَآءٍ: see a verse cited voce عَيْرٌ. === وَلَآءٌ The <i>right to the inheritance of the property left by an emancipated slave.</i>\nوَلِىٌّ The <i>manager of a thing,</i> or <i>of the affairs</i> of another: (Msb:) the <i>guardian,</i> or <i>manager of the affairs, and maintainer,</i> of an orphan: the <i>guardian</i> of a women, <i>who affiances</i> her, <i>and independently of whom marriage cannot be contracted</i> by her. (TA.) The <i>executor</i> of a deceased person: (Bd, xvii. 35:) the <i>heir</i> of a deceased person. (Bd, Jel, ibid.) The <i>hair</i> [or <i>next-of-kin</i>] of a slain person, (Bd, Jel, xvii. 35,) <i>who has the management of the affairs after the death</i> of that person. (Bd, ibid.) And the slayer's <i>next-of-kin, who is answerable for him.</i> === وَلِىُّ عَهْدٍ and وِلَايَةُ عَهْدٍ: see art. عهد. === وَلِىّ ٱللّٰهِ may be rendered <i>The friend of God:</i> or وَلِىٌّ has the meaning of an act. part. n., i. e. the <i>constant obeyer</i> [of God]: or that of a pass. part. n., i. e. [the <i>favourite</i> of God;] the <i>object of the constant beneficence and favours</i> of God. (TA.) See عَدُوٌّ. === أَللّٰهُ وَلِىُّ الحَمْدِ signifies both مُسْتَحِقُّهُ and صَاحِبُهُ. (IbrD.) === وَلِىٌّ pl. أَوْلِيَاءُ <i>A saint, &c.</i> === وَلِىٌّ The <i>rain after the</i> وَسْمِىّ. (TA in art. عنو.)\nوَلِيَهُ 1 , (S, Msb, K,) and وَلِى عَلَيْهِ, (Msb, K,) inf. n. وِلَايَةٌ (S, Msb, K,) and وَلَايَةٌ, (K,) or the former is a simple subst., (TA,) and signifies the office, and authority, (K,) <i>He held command or authority over it; had charge of it; presided over it, or superintended it,</i> (namely a thing, S, Msb, K, and a country, province, town, or the like, S, Msb,) <i>as a prefect, commander, governor, lord, prince, king, administrator, or manager;</i> (K, TA;) <i>i. q.</i> 🡻تَوَلَّاهُ. (Msb.) === وَلِىَ كَذَا <i>He performed the act</i> or <i>office of doing such a thing; he did such a thing himself.</i>\nوَلَّى 2 <i>He caused to turn away, or back.</i> (Kur-án, ch. ii. v. 136.) === <i>He caused to turn towards,</i> with acc. (Idem, ch. ii. v. 139.) === <i>He turned away,</i> or <i>departed.</i> (TA.) === وَلَّى عَنْهُ <i>He turned away from, avoided, shunned, and left, him or it.</i> (Msb.) === وَلَّتِ الحَرْبُ [<i>The war declined</i>]. (A, K, in art. سفر.) === وَلَّى هَارِبًا <i>He went back,</i> or <i>retreated, fleeing.</i> (S.) === وَلَّيْتُهُ ظَهْرِى <i>I placed him behind me, and betook myself to defending him.</i> (TA in art. شزن.) === More commonly <i>I turned my back upon him,</i> or <i>it:</i> see Har, p. 564. === وَلَّى اللَّيْلُ لِيَذْهَبَ <i>The night</i> [<i>declined,</i> i. e.] <i>retreated to depart;</i> syn. أَدْبَرَ. (T in art. دبر.) === وَلَّى أَمْرُ القَوْمِ لِفَسَادِ <i>The case of the people,</i> or <i>party, declined,</i> or <i>became reduced to a bad state;</i> syn. أَدْبَرَ. (M in art. دبر.) === [وَلَّى كِبَرًا, and وَلَّى alone, both of frequent occurrence in the lexicons, &c., <i>He became in a declining state by reason of age.</i>] وَلَّى said of a man is <i>syn. with</i> دَبَرَ; as also شَيَّخَ. (S in art. دبر.) See also two exs., p. 75, col. 3. === التَّوْلِيَةُ, like الإِدْبَارُ, properly signifies <i>Retrogression;</i> and hence, like this English word, tropically, <i>declension.</i> === وَلَّاهُ أَمْرًا <i>He set him over the thing; appointed him superintendent of it;</i> or <i>set him to do it;</i> as also 🡻أَوْلَاهُإِيَّاهُ. === وَلَّى دُبُرَهُ and وَلَّاهُ دُبُرَهُ; see دُبُرٌ, and see three phrases voce ذَنَبٌ.\nوِلَايَةٌ : see وَلِىٌّ."
+}

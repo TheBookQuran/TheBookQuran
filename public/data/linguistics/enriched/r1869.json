@@ -1,0 +1,37 @@
+{
+  "rootId": "r1869",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:51:40.463Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Fuel, kindling, fire burning, spark, or flame",
+  "primaryMeaning": "Fuel or kindling",
+  "quranicRelevance": "Fuel for Hellfire (Waqood - 'waqooduha an-nasu wal-hijaratu'), kindling/lighting fire (Awaqada - 'kullama awqadoo naran lil-harbi'), and burning fire (Mooqadah).",
+  "keyDerivations": [
+    {
+      "lemma": "وَقُودٌ",
+      "form": "Noun",
+      "meaning": "Fuel, firewood, or material for burning"
+    },
+    {
+      "lemma": "أَوْقَدَ",
+      "form": "Form IV Verb",
+      "meaning": "To kindle, ignite, light a fire, or bake"
+    },
+    {
+      "lemma": "مُوقَدَةٌ",
+      "form": "Adjective / Passive part. fem.",
+      "meaning": "Kindled, ignited, or burning (fire)"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "نَارُ اللَّهِ الْمُوقَدَةُ (104:6): The kindled fire of God (eternally burning Hellfire).",
+    "وَقُودُهَا النَّاسُ وَالْحِجَارَةُ: Its fuel is mankind and stones."
+  ],
+  "discardedNoise": [
+    "Thermodynamic gas ignition coefficients.",
+    "Obscure details of matchstick chemical formulas."
+  ],
+  "summaryEn": "The root represents combustion and fuel, detailing the fuel of Hell (peoples and stones), kindling military actions, and the kindled divine fire (Mooqadah).",
+  "summaryAr": "يمثل هذا الجذر الاشتعال والوقود، واصفاً وقود النار المستعر بالبشر والحجارة، وإيقاد الفتن والحروب، ونار الله الحارقة للقلوب (الموقدة).",
+  "rawText": "أَوْقَدَ 4 اوقد النَّارَ, (S, A, L, Msb, K,) inf. n. إِيقَادٌ; (L, Msb;) and 🡻وقّدها, (L,) and 🡻توقّدها, (K,) and 🡻استوقدها; (S, L, Msb, K;) <i>He lighted,</i> or <i>kindled, the fire; made it to burn, to burn up, to burn brightly</i> or <i>fiercely, to blaze,</i> or <i>to flame;</i> syn. أَضْرَمَهَا; (K, art. ضرم;) and أَشْعَلَهَا; (TK;) <i>he raised the fire,</i> or <i>made it to burn up, with fire-wood,</i> or <i>fuel:</i> (A:) or the ↓ last signifies <i>he desired,</i> or <i>endeavoured, to kindle the fire. and to make it burn up,</i> or <i>burn brightly</i> or <i>fiercely, and blaze,</i> or <i>flame.</i> (Bd, ii. 16.) === كُلَّمَا أَوْقَدُوا نَارًا لِلْحَرْبِ أَطْفَأَهَا ٱللّٰهُ ‡ [<i>Whenever they kindle a fire for war, God extinguisheth it;</i> Kur. v. 69,] meaning, whenever they contrive a mischievous and deceitful plot, God annulleth it. (Msb.) === أَوْقَدْتُ لِلصِّبَا نَارًا [in some copies of the K, لِلصَّبِىِّ,] † <i>I relinquished silly and youthful conduct.</i> (L, K.) A poet says, <center> <h3> صَحَوْتُ وَأَوْقَدْتُ لِلَّهْوِ نَارَا </h3> <h3> وَرَدَّ عَلَىَّ ٱلصِّبَا مَا ٱسْتَعَارَا </h3> </center> † [<i>I recovered from intoxication, and relinquished vain and frivolous diversion; and youthfulness restored to me what it had borrowed</i>]. (L.) === أَبْعَدَ ٱللّٰهُ دَارَهُ وَأَوْقَدَ نَارَا أَثَرَهُ ‡ [<i>May God remove his dwelling far away, and</i>] <i>may He not bring him back,</i> or <i>restore him!</i> (L, K.) It was a custom of Arabs, when a man whose evil or mischief they feared removed from them, to light a fire behind him, that his evil or mischief might go with him. (L.)\nإِسْتَوْقَدَ 10 see 1 and 4.\nإِوْتَقَدَ 8 see 1. === اتّقدت الشَّمْسُ [<i>The sun was,</i> or <i>became, burning,</i> or <i>fiercely burning</i>]. (M, K, in art. صقر, conj. 4, &c.)\nالوَقْدَةُ , (S, K,) or وَقْدَةُ الحَرِّ, (L,) ‡ <i>The greatest heat;</i> (S, L, K;) <i>which is a period of ten days,</i> or <i>of half a month.</i> (S, L.) === طَبَخَتْهُمْ وَقْدَةُ الصَّيْفِ ‡ [<i>The greatest heat of the summer affected them with a hot,</i> or <i>burning, fever</i>]. (A.) === وَقَدَاتُ سُهَيْلٍ: see the last paragraph of art. عدل.\nتَوَقَّدَ 5 See 1 and 4. === توقّد is also said of the odour of perfume, (S, A, K, in art. وهج,) meaning † <i>It was,</i> or <i>became, hot</i> [or strong]. (TK.)\nزَنْدٌ مِيقَادٌ <i>A</i> زند <i>that quickly produces fire.</i> (A, L, K.) You also say زند وَقَدَى, i. e., مُتَوَقِّدَةٌ. (JK.)\nغَائِرُ الوَاقِدَيْنِ ‡ <i>Blind:</i> (A:) by الواقدين are meant <i>the two eyes:</i> El-Aashà says, accord. to one reading, <center> <h3> رَأَتْ رَجُلًا غَائِرَ الوَاقِدَيْنِ </h3> </center> but the reading commonly known is الوَافِدَيْنِ. (JK.)\nمَوْقِدٌ (S, A, L, Msb) and 🡻مُسْتَوْقَدٌ (A, L) and 🡻مُوقَدٌ (JK) <i>A fire-place; a place in which fire is lighted.</i> (S, A, * L, Msb.) See an ex. voce حَسَاسٌ.]\nمُتَوَقِّدٌ : see وَقَّادٌ.\nمُسْتَوْقِدٌ : see مَوْقِدٌ.\nمُوقَدٌ : see مُوْقِدٌ.\nوَقَدٌ <i>Fire</i> itself. (A, L, K.) Ex. مَا أَعْظَمَ هٰذَا الوَقَدَ <i>How great is this fire!</i> (A.) === See also 1.\nوَقَدَتِ النَّارُ 1 , aor. تَقِدُ, inf. n. وُقُودٌ (S, A, L, Msb, K) and وَقُودٌ, (Sb, Zj, L, K,) but this is a deviation [as to form] from the constant course of speech, and most hold that the former is an inf. n. and the latter a subst. signifying “ fire-wood ” [or “ fuel ”], though there are some instances of inf. ns. of the measure فَعُولٌ, whereof قَبُولٌ is one, (El-Basáïr, TA,) and وَقْدٌ (S, A, L, Msb, K) and وَقَدٌ and قِدَةٌ and وَقَدَانٌ (S, L, K) and وَقِيدٌ; (S, L;) and 🡻توقّدت, and 🡻اتّقدت, (S, L, Msb, K,) and 🡻استوقدت; (L, Msb, K;) <i>The fire burned; burned up; burned brightly</i> or <i>fiercely; blazed;</i> or <i>flamed;</i> syn. اِشْتَعَلَت; (Msb, art. شعل;) and هَاجَت; (L;) and سَطَعَتْ وَٱرْتَفَعَ لَهَبُهَا. (Bd, ii. 16.) === وَقَدَتْ بِكَ زِنَادِى † [<i>May my</i> زند <i>emit fire by thy means!</i>] a prayer, like وَرِيَتْ بك زنادى: (L:) [meaning, do thou aid, or help, me]. === وَقَدَ and 🡻توقّد <i>It</i> (anything) <i>shone,</i> or <i>glistened.</i> (L.) === 🡻توقّدقَلْبُهُ ‡ <i>His heart became excited with ardour,</i> or <i>eagerness.</i> (L.) === [And 🡻توقّد ‡ <i>He</i> (a man) <i>was,</i> or <i>became, clever, ingenious, acute, sharp,</i> or <i>penetrating.</i> (See وَقَّادٌ.)]\nوَقَدَى , fem. <i>Shining,</i> or <i>glistening.</i> (L.) === See also مِيقَادٌ.\nوَقُودٌ <i>Fire-wood;</i> (S, L, Msb, K;) but it is only so called <i>when kindled;</i> (El-Hareeree, in De Sacy's Anthol. Gramm. Ar., p. 31 of the Arabic text;) as also وِقَادٌ and وَقِيدٌ: (K:) or <i>any fuel; anything with which fire is kindled,</i> or <i>made to burn, burn up, burn brightly</i> or <i>fiercely, blaze,</i> or <i>flame:</i> (L:) or the <i>blaze,</i> or <i>flame, of fire, which one sees.</i> (Lth, L.) === وَقُودُهَا النَّاسُ وَٱلْحِجَارَةُ [Kur. ii. 22; and lxvi. 6; <i>The fuel whereof shall be men and stones</i>]. (L.) === See also 1. In the Kur. lxxxv. 5, it is most properly rendered as an inf. n.; (Az, L;) and some in this case read الوُقُود. (Yaakoob, S, L.)\nوَقَّادٌ <i>Shining,</i> or <i>shining brightly;</i> (L, K;) applied to a star. (L.) === وَقَّادٌ (L, K) and 🡻مُتَوَقِّدٌ (L) ‡ A heart, or mind. <i>quickly excited with ardour,</i> or <i>eagerness, in liveliness and acuteness</i> or <i>penetration.</i> (L, K.) === Also, both words, ‡ A man (L) <i>clever, ingenious, acute, sharp,</i> or <i>penetrating.</i> (L, K.)\nوَقَّدَ 2 see 4."
+}

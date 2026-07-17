@@ -1,0 +1,26 @@
+{
+  "rootId": "r428",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:25:04.476Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Throat, windpipe, larynx, vocal cords, or channel",
+  "primaryMeaning": "Throat/larynx",
+  "quranicRelevance": "Hearts reaching the throats in terror (Hanajir - 'balaghati al-quloobu al-hanajira', 'lada al-hanajiri').",
+  "keyDerivations": [
+    {
+      "lemma": "حَنْجَرَةٌ / حَنَاجِرُ",
+      "form": "Noun / Noun pl. (quadriliteral)",
+      "meaning": "Throat, windpipe, larynx, vocal channel, or neck passage"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "إِذْ جَاءُوكُمْ مِنْ فَوْقِكُمْ وَمِنْ أَسْفَلَ مِنْكُمْ ... وَإِذْ زَاغَتِ الْأَبْصَارُ وَبَلَغَتِ الْقُلُوبُ الْحَنَاجِرَ (34:10): When they came upon you from above you and from below you... and when eyes shifted and hearts reached the throats (trench battle panic)."
+  ],
+  "discardedNoise": [
+    "Throat surgical operations.",
+    "Singers raising vocal pitches."
+  ],
+  "summaryEn": "The root represents throats (Hanajir), serving as a physiological description of extreme battlefield panic where hearts feel as if they have risen to the throat.",
+  "summaryAr": "يمثل هذا الجذر مجرى النفس في الحلق والممر الحنجري (حنجر)، مصوراً ذعر المؤمنين بغزوة الأحزاب بارتفاع ووصول نبض القلوب للحناجر خوفاً.",
+  "rawText": "حنجر\nحَنْجرَةٌ : see art. حجر.\nحَنْجَرَهُ , here mentioned in the K: see art. حجر, in which I have mentioned it as Q. Q., like the two words here following, which are mentioned in the latter art. in the S and K &c.\nحُنْجُورٌ : see art. حجر."
+}

@@ -1,0 +1,31 @@
+{
+  "rootId": "r1842",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:21:37.831Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Gathering, enveloping, loading ship, full moon, or stack",
+  "primaryMeaning": "Gathering/enveloping or loading",
+  "quranicRelevance": "Night and what it gathers/envelops (Wasaqa - 'wal-layli wa-ma wasaqa').",
+  "keyDerivations": [
+    {
+      "lemma": "وَسَقَ / يَسِقُ",
+      "form": "Form I Verb",
+      "meaning": "To gather, envelop, carry, wrap up, load a cargo, or stack together"
+    },
+    {
+      "lemma": "وَسَقٌ",
+      "form": "Noun",
+      "meaning": "Camel-load cargo, grain volume unit, or stack"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَاللَّيْلِ وَمَا وَسَقَ (84:17): And by the night and what it gathers/envelops (gathering animals and darkness under its shroud)."
+  ],
+  "discardedNoise": [
+    "Loading shipping containers in seaports.",
+    "Fulfilled promises."
+  ],
+  "summaryEn": "The root represents gathering and loading (Wasq), swearing by the night shroud that gathers (Wasaqa) and envelops all creatures under its dark cover.",
+  "summaryAr": "يمثل هذا الجذر جمع المتفرقات وحملها وتغطيتها بالظلام (وسق)، مقسماً بالليل وما يجمعه ويضمه تحت عباءته السوداء من الدواب والظلام (وما وسق).",
+  "rawText": "وَسِيقَةٌ <i>A mob of driven cattle:</i> see سَيِّقَهٌ and مِعْتَاقٌ.\nوَسْقٌ <i>A camel's load:</i> see وِقْرٌ."
+}

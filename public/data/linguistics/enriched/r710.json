@@ -1,0 +1,26 @@
+{
+  "rootId": "r710",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:09:12.475Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Adornment, gold, decoration, deceptive beauty, or polish",
+  "primaryMeaning": "Gold or deceptive decoration",
+  "quranicRelevance": "Gold ornaments/palace (Zukhruf - 'baytun min zukhrufin'), deceptive speech ('zukhrufa al-qawli'), and earth's gold dressing ('akhathat al-ardhu zukhrufaha').",
+  "keyDerivations": [
+    {
+      "lemma": "زُخْرُفٌ / زَخَارِيفُ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Gold ornament, decoration, deceptive beauty, or cosmetic embellishment"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "شَيَاطِينَ الْإِنْسِ وَالْجِنِّ يُوحِي بَعْضُهُمْ إِلَىٰ بَعْضٍ زُخْرُفَ الْقَوْلِ غُرُورًا (6:112): Devils of mankind and jinn, inspiring one another with decorated/embellished speech as delusion (propaganda)."
+  ],
+  "discardedNoise": [
+    "Modern interior home decoration (Zakhrafah).",
+    "Historical calligraphy designs."
+  ],
+  "summaryEn": "The root denotes deceptive beauty and gold (Zukhruf), illustrating the transient golden beauty of earth's flora and warning against beautified devilish propaganda.",
+  "summaryAr": "يدل هذا الجذر على الذهب والزينة البراقة الموهة بالكذب (زخرف)، واصفاً زينة الأرض العشبية الزائلة، وخطاب البروباجندا الشيطانية المغري (زخرف القول).",
+  "rawText": "تَزَخْرَفَ <i>He</i> (a man) <i>adorned, ornamented, decorated,</i> or <i>embellished, himself.</i> (TA.)\nزخرف\nزَخْرَفَةٌ signifies The <i>adorning, ornamenting, decorating,</i> or <i>embellishing,</i> of a thing, (KL, and Har p. 3,) primarily, <i>with</i> زُخْرُف, i. e. <i>gold:</i> (Har ib.:) and hence, (Har,) the <i>adorning,</i> &c., of falsehood, or a lie: (KL, Har:) and the <i>falsifying</i> or <i>adulterating</i> [of speech &c.]. (KL.) You say, زَخْرَفَ البَيْتَ, inf. n. زَخْرَفَةٌ, <i>He adorned, ornamented, decorated,</i> or <i>embellished, the house,</i> or <i>chamber,</i> &c.; and <i>rendered it complete:</i> and زُخْرِفَ is said of anything as meaning <i>It was adorned, ornamented, decorated,</i> or <i>embellished.</i> (TA.) And زَخْرَفَ الكَلَامَ <i>He arranged,</i> or <i>rightly disposed,</i> or <i>put into a right</i> or <i>proper state, the speech,</i> or <i>language:</i> (TA:) and <i>i. q.</i> رَقَّشَهُ [i. e. <i>he embellished it;</i> generally meaning, <i>with lies</i>]. (S, A, K, in art. رقش.) [This verb is mentioned and explained by Freytag as on the authority of the K, in which it is not found in this art.]\nزُخْرُفٌ <i>Gold:</i> (Fr, S, M, K:) so in the Kur xvii. 95: and this, accord. to ISd, is the primary meaning. (TA.) === Then applied to <i>Any orna-</i> <i>ment, decoration,</i> or <i>embellishment:</i> (ISd, TA:) <i>anything adorned, ornamented, decorated,</i> or <i>embellished:</i> (Ham p. 784:) and particularly applied to the <i>decorations, and pictured works, in gold, with which the Kaabeh was ornamented in Pagan times.</i> (TA.) The <i>colours of the plants</i> or <i>herbage,</i> of land, (K, TA,) <i>red and yellow and white:</i> its <i>ornature, consisting in blossoms and flowers:</i> or its <i>perfection:</i> so in the Kur x. 25. (TA.) And The <i>furniture,</i> or <i>utensils, of a house</i> or <i>tent.</i> (TA.) === <i>Anything varnished,</i> or <i>embellished with a false colouring,</i> or <i>falsified,</i> is likened thereto [and so termed]. (S, TA.) [Hence,] زُخْرُفُ القَوْلِ <i>The ornature of speech;</i> (TA;) <i>the fair appearance,</i> or <i>comeliness, of speech, produced by the embellishing with lies:</i> (K, TA:) so in the Kur vi. 112: (TA:) or it there means <i>varnished falsehoods.</i> (Bd.) === [Its pl.] زَخَارِفُ signifies The <i>lines,</i> or <i>streaks,</i> [<i>that are seen on the surface</i>] of water. (S, K.) === And <i>Ships:</i> (T, K:) or <i>ornamented,</i> or <i>decorated, ships:</i> (M, TA:) or the <i>ornature of ships, with which they are decorated.</i> ('Eyn, TA.) === Also <i>Certain insects that fly upon the water,</i> (T, O, K,) <i>having four legs, resembling the common fly;</i> (O, K;) <i>small flies, having four legs, that fly upon the water:</i> (M, TA:) the sing., زُخْرُفٌ, is expl. by Kr [in the Munjid] as meaning <i>a kind of flying thing.</i> (TA.)\nمُزَخْرَفٌ <i>Adorned, ornamented, decorated,</i> or <i>embellished:</i> (S, TA:) [&c.: see the verb.]"
+}

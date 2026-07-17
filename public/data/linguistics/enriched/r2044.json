@@ -1,0 +1,31 @@
+{
+  "rootId": "r2044",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:51:40.463Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Reclining, binding a skin flask, support, or sitting",
+  "primaryMeaning": "To recline or lean",
+  "quranicRelevance": "Reclining in comfort in Paradise (Ittika' - 'muttaki'eena feeha 'ala al-ara'iki'), and place of comfort (Muttaka - 'wa a'tadat lahunna muttaka'an').",
+  "keyDerivations": [
+    {
+      "lemma": "اِتَّكcontentَأَ",
+      "form": "Form VIII Verb",
+      "meaning": "To recline, lean back, support oneself, or sit comfortably"
+    },
+    {
+      "lemma": "مُتَّكَأٌ",
+      "form": "Noun place",
+      "meaning": "Banquet couch, place of reclining, or cushions"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَأَعْتَدَتْ لَهُنَّ مُتَّكَأً (32:31): And prepared for them a banquet/place of reclining (Joseph's female guests)."
+  ],
+  "discardedNoise": [
+    "The physical string of a leather skin bag (وكاء).",
+    "Modern lounge chair designs."
+  ],
+  "summaryEn": "The root denotes comfortable reclining (Ittika'), describing the physical banquets of Egypt and the eternal comfort couches of Paradise.",
+  "summaryAr": "يدل هذا الجذر على الاتكاء والاستناد، واصفاً مجالس الترف لنسوة مصر (متكأ) وأرائك النعيم الخالدة في الجنة (متكئين).",
+  "rawText": "أَوْكَأَهُ 4 , (S, K,) inf. n. إِيكَاءٌ, (S,) <i>He set up for him a thing upon which to recline</i> (مُتَّكَأٌ.) (S, K.) === أَتْكَأَهُ, (in which ت is substituted for و,) inf. n. إِتْكَاهُ, <i>He propped him up by a cushion</i> or <i>other thing whereon to recline; made him recline upon a cushion &c.</i> (AZ, TA.) === ضَرَبَهُ فَأَتْكَأَهُ, (A,) or طَعَنَهُ حَتَّى أَتْكَأَهُ, originally أَوْكَأَهُ, (S,) ‡ <i>He smote him,</i> (A,) or <i>pierced him,</i> (S,) <i>so that he made him fall in a reclining posture:</i> (S, A, K: *) or, <i>so that he threw him down upon his left side.</i> (K.) === See 3.\nاِتَّكَأَ 8 <i>He sat in a firm,</i> or <i>settled, manner:</i> and <i>he sat leaning upon one of his sides:</i> (Msb, in art. تكأ:) the vulgar know it only in the latter sense: but it signifies <i>he leaned, rested,</i> or <i>stayed, his back,</i> or <i>his side, against,</i> or <i>upon, a thing:</i> and <i>he leaned, rested,</i> or <i>stayed, himself in any manner, upon a thing.</i> (IAth, in Msb, art. وكأ.) === اِتَّكَأَ عَلَى شَىْءٍ, (S,) and 🡻توكّأ, (S, K,) and 🡻اوكأ; (K;) and 🡻تَكِئَ, [in which ت is substituted for و,] aor. يَتْكَأُ, inf. n. تَكْءٌ; (Lth;) and 🡻وَكَأَ; (CK;) <i>He leaned,</i> or <i>reclined, upon a thing; supported, propped,</i> or <i>stayed, himself upon it.</i> (K.) === اِتَّكَأَ <i>He reclined</i> upon a cushion, &c. (TA.) === اِتَّكَأَ <i>He made for him</i> [i. e., app., for himself,] <i>a thing upon which to lean,</i> or <i>recline:</i> (CK, and a MS. copy of the K:) or <i>he made him to be a thing upon which to lean,</i> or <i>recline.</i> (TA.) [The latter seems to be wrong, unless the verb be read أَتْكَأَ.] === اِتَّكَأْنَا عِنْدَ فُلَانٍ ‡ <i>We ate a repast with,</i> or <i>at the abode of, such a one.</i> (TA.) ___ اِتَّكَأَتْ (MF) and 🡻تَوَكَّأَتْ (K) <i>She</i> (a camel) <i>was taken with the pains of labour, and cried out.</i> (K.) Accord. to Lth, تَوَكُّؤُ النَّاقَةِ signifies تصلّفها عند مخاضها: (TA:) [but it is evident that the right reading is تصلّقها; and the sense agreeable with the above explanation].\nتَوَكَّاَ 5 see 8.\nتُكَأَةٌ (in which ت is substituted for و, TA) <i>A staff,</i> or <i>stick,</i> (K,) <i>upon which one leans in walking; a walking-stick:</i> (TA:) <i>that upon which one leans</i> or <i>reclines.</i> (S, K.) === <i>One who reclines much.</i> (S, K.) === ‡ A <i>heavy</i> person [app., <i>in disposition</i>]. (TA.)\nمُتَّكَأ <i>A place in which one reclines:</i> (S:) <i>a chamber,</i> or <i>sitting-room.</i> (Akh, S.) === <i>That upon which one leans,</i> or <i>reclines, in eating, drinking,</i> or <i>talking.</i> (Zj.) === ‡ <i>Food,</i> or <i>a repast:</i> so called because people used to recline when they sat to eat: but the Muslims are forbidden to do so. [See مُتَّكِئٌ.] It is said to have this last meaning in the Kur. xii. 31. (TA.)\nمُتَّكِئٌ act. part. n. of 8. === لَا آكُلُ مُتَّكِئًا <i>I</i> (said Mohammad) <i>eat not sitting in a firm,</i> or <i>settled, posture, cross-legged,</i> or <i>in such other similar manner as is adapted for much eating:</i> for he used to eat sitting upon his hams, with his shanks erect, so as to be ready to rise. The meaning is not [only] “ inclining on one side, ” as the vulgar among students imagine. (K.)\nواكأ عَلَى يَدَيْهِ 3 <i>He leaned upon his hands,</i> or <i>arms.</i> Mohammad was seen to do so when he raised and extended his hands in supplication to God. (IAth.)\nوَكڤاَ 1 see 8."
+}

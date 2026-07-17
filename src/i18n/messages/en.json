@@ -1,0 +1,221 @@
+{
+  "common": {
+    "home": "Home",
+    "search": "Search",
+    "journal": "Journal",
+    "bookmark": "Bookmark",
+    "notes": "Reflect",
+    "settings": "Settings",
+    "reciters": "Listening",
+    "theme": "Theme",
+    "about": "About Us",
+    "surah": "Surah",
+    "juz": "Juz",
+    "hizb": "Hizb",
+    "rub": "Rub el-Hizb",
+    "page": "Page",
+    "read": "Read",
+    "listen": "Listen",
+    "loading": "Loading...",
+    "back": "Back",
+    "readMore": "Read More",
+    "showLess": "Show Less",
+    "meccan": "Meccan",
+    "medinan": "Medinan",
+    "verses": "verses",
+    "privacy": "Privacy",
+    "terms-and-conditions": "Terms",
+    "popular-links": "Popular Links",
+    "footer": {
+      "title": "Quran",
+      "description": "A non-profit digital platform aiming to facilitate access to the Holy Quran, listen to it, search it, and understand its language.",
+      "rights": "All Rights Reserved"
+    }
+  },
+  "home": {
+    "title": "Read, Listen, Search, and Reflect on the Quran",
+    "searchPlaceholder": "Search the Quran...",
+    "quickLinks": "Popular Links"
+  },
+  "quranReader": {
+    "font": "Quran Font",
+    "lines": "Mushaf Lines",
+    "translation": "Translation",
+    "reading": "Reading",
+    "translationFontSize": "Translation Font Size",
+    "quranTextFontSize": "Quran Font Size",
+    "wbw": "Word by Word",
+    "wbwTranslation": "Word Translation",
+    "wbwTransliteration": "Word Transliteration",
+    "showMaqayisMeaning": "Show Maqayis al-Lugha (Ibn Faris)",
+    "showLanesMeaning": "Show Lane's Lexicon",
+    "lexiconSettings": "Lexicon Settings",
+    "playAudioOnClick": "Play word audio on click"
+  },
+  "settings": {
+    "title": "Settings",
+    "selectedReciter": "Selected Reciter",
+    "selectedTranslations": "Selected Translations",
+    "theme": "Theme",
+    "themeLight": "Light",
+    "themeDark": "Dark",
+    "themeSepia": "Sepia",
+    "themeSystem": "System"
+  },
+  "quick-links": {
+    "ayat-ul-kursi": "Ayatul Kursi",
+    "yaseen": "Yaseen",
+    "mulk": "Al Mulk",
+    "rahman": "Ar-Rahman",
+    "waqiah": "Al Waqi'ah",
+    "kahf": "Al Kahf",
+    "muzzammil": "Al Muzzammil"
+  },
+  "about": {
+    "title": "About Quran",
+    "description1": "Quran is a non-profit digital platform aiming to facilitate access to the Holy Quran, help users read it, listen to it, and explore its language in a simple and modern way.",
+    "description2": "We gather in one place tools needed by the reader and researcher, such as reading in Uthmani script, audio recitations, search, translations, linguistic roots, and lexicons, with a design that focuses on ease of use and reduces complexity.",
+    "our-vision": {
+      "title": "Our Vision",
+      "desc1": "We believe that direct access to the Holy Quran and its language should be available to everyone.",
+      "desc2": "We seek to build a platform that helps anyone wishing to learn about the Quran through tools that facilitate reading, listening, learning, and exploring the Quranic language, allowing the user to refer back to original sources easily while maintaining a simple experience."
+    },
+    "key-features": {
+      "title": "What does Quran offer?",
+      "features": [
+        "Reading the Holy Quran in Uthmani script.",
+        "Audio recitations with follow-along highlight of verses and words during reading.",
+        "Quick search in surahs, verses, and words.",
+        "Multiple translations of the Holy Quran.",
+        "Exploring linguistic roots and word meanings from original sources.",
+        "A simple, ad-free user experience.",
+        "A free, non-profit platform available to everyone."
+      ]
+    },
+    "non-profit": {
+      "title": "Non-profit Project",
+      "desc1": "Quran is an independent, non-profit project developed to provide a free cognitive service that anyone can benefit from, without ads, subscriptions, or commercial goals.",
+      "desc2": "We seek to build an open project that welcomes community contributions in the future, whether in development, translation, content improvement, or data review."
+    },
+    "linguistic-sources": {
+      "title": "Linguistic Sources",
+      "desc": "The language section of Quran relies on authentic lexical sources, most notably Lane's Lexicon and Maqayis al-Lughah. A custom processing pipeline has been developed for the project to extract, organize, and enrich these sources to suit the user experience on the platform."
+    },
+    "credits": {
+      "title": "Acknowledgements",
+      "desc": "We extend our sincere thanks to all projects and institutions that contributed to providing the open data and sources upon which this project relies, most notably:",
+      "list": [
+        { "name": "Quran Foundation", "desc": "APIs for Quranic text, recitations, search, and translations.", "url": "https://quran.foundation" },
+        { "name": "King Fahd Glorious Quran Printing Complex", "desc": "Mushaf fonts and text data.", "url": "https://qurancomplex.gov.sa" },
+        { "name": "Quranic Arabic Corpus", "desc": "Linguistic data, roots, and morphological analysis.", "url": "https://corpus.quran.com" }
+      ]
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "intro": {
+      "title": "Introduction",
+      "desc": "We respect the privacy of our users and are committed to collecting the minimum amount of data necessary to run and improve the Quran platform. This page explains what information is collected and how it is used."
+    },
+    "info-collection": {
+      "title": "Information We Collect",
+      "desc1": "Using Quran does not require creating an account or logging in.",
+      "desc2": "Some technical information may be collected automatically when visiting the website, such as:",
+      "items": [
+        "Browser type and version.",
+        "Operating system.",
+        "Device type.",
+        "Pages visited.",
+        "Time and date of the visit.",
+        "Technical data that helps improve site performance and stability."
+      ],
+      "desc3": "We do not use this information to identify the user."
+    },
+    "cookies": {
+      "title": "Cookies",
+      "desc1": "The website may use cookies or similar technologies to improve the user experience, such as:",
+      "items": [
+        "Remembering the interface language.",
+        "Saving certain reading settings.",
+        "Improving site performance."
+      ],
+      "desc2": "Cookies are not used for advertising purposes or tracking users across other websites."
+    },
+    "external-services": {
+      "title": "External Services",
+      "desc1": "The project relies on some external services and sources to provide parts of the content, such as APIs from the Quran Foundation to obtain Quranic text, recitations, search, and translations.",
+      "desc2": "These services may be subject to their own privacy policies."
+    },
+    "ads": {
+      "title": "Advertisements",
+      "desc": "Quran does not display any advertisements."
+    },
+    "data-sharing": {
+      "title": "Data Sharing",
+      "desc": "We do not sell, rent, or share user data with any entity for commercial purposes."
+    },
+    "data-protection": {
+      "title": "Data Protection",
+      "desc": "We strive to apply appropriate security practices to protect the website and the data processed, keeping in mind that no method of transmission or storage over the Internet guarantees absolute security."
+    },
+    "policy-changes": {
+      "title": "Changes to This Policy",
+      "desc1": "The privacy policy may be updated when adding new features or changing how the website operates.",
+      "desc2": "Any update will be published on this page."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "desc": "If you have any questions or feedback about the privacy policy, you can contact us through our Contact Us page or via the official social media channels of the project."
+    }
+  },
+  "terms": {
+    "title": "Terms of Use",
+    "intro": {
+      "title": "Introduction",
+      "desc1": "Welcome to Quran.",
+      "desc2": "By using this platform, you agree to the terms of use outlined on this page."
+    },
+    "use": {
+      "title": "Using the Platform",
+      "desc": "Quran can be used for free for personal, educational, and research purposes, in compliance with applicable laws and regulations."
+    },
+    "content-nature": {
+      "title": "Nature of Content",
+      "desc1": "The platform aims to facilitate access to the Holy Quran, listen to it, and explore its language through modern digital tools.",
+      "desc2": "It is not intended to provide religious rulings (fatwas) or replace specialized scientific sources."
+    },
+    "accuracy": {
+      "title": "Accuracy of Information",
+      "desc1": "We strive to provide accurate information as much as possible; however, unintended errors may occur or some data may need updating.",
+      "desc2": "We welcome reporting any notes or errors to help improve the platform."
+    },
+    "intellectual-property": {
+      "title": "Intellectual Property",
+      "desc1": "The project relies on a number of open sources and projects referred to on the About Us page.",
+      "desc2": "The rights to those data, fonts, and content belong to their respective owners in accordance with their original licenses.",
+      "desc3": "As for the software and content developed specifically for the Quran project, the rights belong to the project, unless stated otherwise."
+    },
+    "acceptable-use": {
+      "title": "Acceptable Use",
+      "desc": "It is prohibited to use the platform in a way that leads to:",
+      "items": [
+        "Damaging the website or disrupting its services.",
+        "Abusing the site's interfaces or attempting unauthorized access.",
+        "Violating the rights of others or applicable laws."
+      ]
+    },
+    "external-services": {
+      "title": "External Services",
+      "desc": "Some parts of the platform may rely on services or APIs provided by third parties, and these services may be subject to their own terms."
+    },
+    "modifications": {
+      "title": "Modifications",
+      "desc1": "These terms may be updated as the project evolves or new features are added.",
+      "desc2": "Continued use of the platform after the updates are published constitutes acceptance of the updated version."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "desc": "If you have any questions about the terms of use, you can contact us through our Contact Us page."
+    }
+  }
+}

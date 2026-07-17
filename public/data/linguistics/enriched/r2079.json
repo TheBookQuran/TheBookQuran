@@ -1,0 +1,26 @@
+{
+  "rootId": "r2079",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:56:22.540Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Depriving, diminishing, withholding, reducing, or cheating of a right",
+  "primaryMeaning": "Depriving/diminishing (deeds)",
+  "quranicRelevance": "We will not deprive them (Alatnahum - 'wa-ma alatnahum').",
+  "keyDerivations": [
+    {
+      "lemma": "أَلَتَ / يَأْلِتُ",
+      "form": "Form I Verb",
+      "meaning": "To deprive, diminish, withhold, cheat of a right, or reduce quantity"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَالَّذِينَ آمَنُوا وَاتَّبَعَتْهُمْ ذُرِّيَّتُهُمْ بِإِيمَانٍ ... وَمَا أَلَتْنَاهُمْ مِنْ عَمَلِهِمْ مِنْ شَيْءٍ (52:21): And those who believed and whose descendants followed them in faith... We will not deprive/diminish them of their deeds in the least."
+  ],
+  "discardedNoise": [
+    "Alat (pagan goddess Al-Lat) - proper noun spelling confusion.",
+    "Alt (binding/fastening)."
+  ],
+  "summaryEn": "The root represents depriving or diminishing a deserved share (Alt), promising that when God elevates descendants to join their pious ancestors in Paradise, He will not decrease the rewards of the ancestors to do so.",
+  "summaryAr": "يمثل هذا الجذر النقص والمنع والبخس والظلم وحرمان العامل من جزائه (الت)، مؤكداً عدم نقص الله لأعمال الآباء الصالحين شيئاً عند إلحاق ذريتهم بهم.",
+  "rawText": "أَلَتَ 1 ,aor. ﹻ, inf. n.أَلْتٌ, <i>It</i> (a thing) <i>decreased; diminished; lessened; became defective, deficient, incomplete, or imperfect.</i> (Msb.) ___ أَلَتَهُ حَقَّهُ, (S, M, A, K,) aor. ﹻ, (S, M, K,) inf. n. أَلْتٌ (S, M) and إِلَاتَهُ; (M;) and أَلِتَهُ, aor. ﹷ; (Fr;) and 🡻آلتهُ (M, K,) inf. n. إِيلَاتٌ; (K;) as also أَلَاتَهُ, inf. n. إِلَاتٌ, (so in a MS. copy of the K,) or إِلَاتَةٌ; (so in the L: [agreeably with analogy, and therefore probably the correct reading: see art. ليت, to which it belongs: in SM's copy of the K, and in the CK, the verb is written أَلْأَتَهُ, and the inf. n. إِلْآتٌ: by MF, the verb is written 🡻آلَتَهُ, of the measure فَاعَلَ and the inf. n. إِلَاتٌ like قِتَالٌ:]) [and لَاتَهُ, aor. يَلِيتٌ; and وَلَتَهُ; and أَوْلَتَهُ;] <i>He diminished to him his right, or due; abridged him, or defrauded him, of a portion of it:</i> (Fr, S, M, A, K:) and in like manner, أَلَتَهُ مَالَهُ and 🡻آلتهُ, &c., <i>he diminished to him his property; or abridged him, or defrauded him, of a portion of it:</i> (M, TA:) and أَلَتَ الشَّىْءَ <i> he diminished the thing.</i> (Msb.) [Hence,] مَا أَلْتَنَاهُمْ مِنْ عَمَلِهِمْ مِنْ شَىْءٍ [in the Kur lii. 21, <i>We will not diminish to them aught of</i> the reward <i>of their work]:</i> (T, A:) or, accord. to one reading, (that of Ibn-Ketheer, TA,) ما أَلِتْنَاهُمْ. (T, TA.) [See also art. ليت.] ___ أَلَتَهُ, (T, S, K,) or أَلَتَهُ عَنْ وَجْهِهِ, (TA,) aor. ﹻ (T;) as also لَاتَهُ; these being two dial. vars. one of the other, mentioned by Yz, on the authority of AA; (S;) [and أَلَاتَهُ; (see art. ليت;)] <i>He withheld him, or restrained him,</i> (S, K,) and <i>turned him, or averted him,</i> (T, S, K,) <i>from his course, purpose, or object.</i> (S, TA.) ___ أَلَتَهُ, (M, K,) or أَلَتَهُ يَمِينًا, (As, T, S,) aor. ﹻ inf. n. أَلْتٌ, <i>He made him to swear, or take an oath:</i> (As, T, S, K:) or <i>he desired of him that he should swear, or give his testimony, for him.</i> (M, K.) And أَلَتَهُ بِيَمِينٍ, inf. n. as above, <i>He pressed him,</i> or <i>pressed hard upon him, with an oath.</i> (M.) It is related that a man said to 'Omar, \"\"Fear God, O prince of the faithful:\"\" and another, hearing him, said, أَتَأْلِتُ عَلَى أَمِيرِ المُؤْمِنِينَ, meaning <i>Dost thou lower the dignity of the prince of the faithful? or dost thou diminish to him [the respect that is due to him</i>]? accord. to IAar.: or rather, <i>dost thou conjure the prince of the faithful?</i> his saying \"\"Fear God\"\" being as though he conjured him by God: for the Arabs say, أَلَتُّكَ بِاللّٰهِ لَمَّا فَعَلْتَ كَذَا, meaning <i>I conjure thee by God but that thou do thus, or such a thing.</i> (T.)\nأَلْتٌ <i>Deficiency:</i> as in the saying, مَا فِى مَزَاوِدِهِمْ أَلْتٌ [<i>There is not, in their provision-bags, any deficiency</i>]. (A.) ___ <i>A swearing;</i> syn. حَلِفٌ (M, TA.) [Perhaps an inf. n. in this sense.] === <i>An oath:</i> as in the saying, when one has not given thee thy right, or due, قَيِّدْهُ بِالْأَلْتِ [<i>Bind thou him by oath</i>]. (T.) ___ <i>Calumny, slander,</i> or <i>false accusation.</i> (Kr, M, K.) [Perhaps an inf. n. in this sense also.]\nأُلْتَةٌ <i>A small gift.</i> (AA, T, K.) ___ <i>An oath such as is termed</i> غَمُوس, q. v. (AA, T, K.)\nاَاْلَتَ 3 see 1.\nآلَتَ 4 see 1, in two places."
+}

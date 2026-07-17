@@ -1,0 +1,26 @@
+{
+  "rootId": "r186",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:39:17.504Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Suddenness, surprise, unexpected, or overtaking",
+  "primaryMeaning": "Suddenly/unexpectedly",
+  "quranicRelevance": "The sudden arrival of the Hour or punishment (Bagtah - 'ta'teehim baghtatan fatabhatuhum').",
+  "keyDerivations": [
+    {
+      "lemma": "بَغْتَةً",
+      "form": "Noun / Adverb",
+      "meaning": "Suddenly, unexpectedly, or by surprise"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "تَأْتِيهِمْ بَغْتَةً (21:40): It will come to them suddenly (overwhelming them)."
+  ],
+  "discardedNoise": [
+    "Unexpected guests in social custom.",
+    "Obscure details of camel startle paces."
+  ],
+  "summaryEn": "The root denotes suddenness, emphasizing that eschatological judgment and divine retribution arrive without warning (Baghtah).",
+  "summaryAr": "يدل هذا الجذر على المباغتة، مؤكداً أن الحساب والقيامة والعذاب يفاجئ العباد الداهمين بلا مقدمات (بغتة).",
+  "rawText": "البَاغُوتُ <i>The festival,</i> (A,) or <i>a certain festival,</i> (IAth, K,) <i>of the Christians;</i> (A, IAth, K;) [namely, <i>Easter;</i>] thus called accord. to some; but accord. to others, الباعوث [q. v.], with the unpointed ع and the three-pointed ث. (IAth.)\nبَاْغَتَ 3 see 1.\nبَغَتَهُ 1 , (S, A, &c.,) aor. ﹷ, (A, Msb, K,) inf. n. بَغْتٌ and بَغْتَةٌ (S, A, Msb, K) and بَغَتٌ (MF) and بَغَتَةٌ (K) and بَغَتَّةٌ, with teshdeed to the ت, of the same measure as جَرَبَّةٌ, accord. to AA's reading of the Kur in a passage which will be found below, without a parallel among inf. ns., (Z,) [and said by some to have an intensive signification,] <i>He,</i> or <i>it, came upon him,</i> or <i>happened to him, suddenly, unexpectedly, without his being aware of it,</i> or <i>without any previous cause; surprised him; took him by surprise,</i> or <i>unawares;</i> (S, A, Msb, K;) as also 🡻باغتهُ, (A, Msb,) inf. n. مُبَاغَتَةٌ (S, K) and بِغَاتٌ. (TA.) It is said in the Kur vi. 31, accord. to the reading mentioned above, إِذَا جَآءَتْهُمُ ٱلسَّاعَةُ بَغَتَّةً [<i>When the hour</i> of the resurrection <i>shall come upon them suddenly, unexpectedly,</i> &c.]. (Z.) And you say, جَآءَهُ بَغْتَةً <i>He,</i> or <i>it, came to him suddenly,</i> &c. (A, Msb.) And لَقِيَهُ بَغْتَةً <i>He met,</i> or <i>found, him,</i> or <i>it, suddenly,</i> &c. (S.) And لَسْتُ آمَنُ بَغَتَاتِ العَدُوِّ <i>I am not secure from,</i> or <i>free from fear of, the enemy's comings</i> [<i>upon me</i>] <i>unawares.</i> (S.)\nمَبْغُوتٌ <i>i. q.</i> مَبْهُوتٌ [<i>Confounded,</i> or <i>perplexed, and unable to see his right course</i>]: so in the saying, لَا رَأْىَ لِمَبْغُوتٍ [<i>There is no judgment to one who is confounded,</i> &c.]. (A.)"
+}

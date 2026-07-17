@@ -1,0 +1,27 @@
+{
+  "rootId": "r406",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:58:55.910Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Portion, fortune, share of good, luck, or status",
+  "primaryMeaning": "Portion or fortune",
+  "quranicRelevance": "Share/portion of inheritance or blessing (Hadh - 'lith-thakari mithlu hath-thi al-unthayayni', 'thoo hath-thin 'atheemin'), and no portion in the hereafter.",
+  "keyDerivations": [
+    {
+      "lemma": "حَظٌّ / حُظُوظٌ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Portion, share, fortune, luck, or allotted destiny"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "إِنَّهُ لَذُو حَظٍّ عَظِيمٍ (28:79): Indeed, he is owner of great fortune/luck (worldly observers viewing Karun's wealth).",
+    "أَلَّا يَجْعَلَ لَهُمْ حَظًّا فِي الْآخِرَةِ (3:176): That He will not allocate for them any portion/share in the Hereafter."
+  ],
+  "discardedNoise": [
+    "Lucky charms and astrological forecasts.",
+    "Modern lottery ticket distribution statistics."
+  ],
+  "summaryEn": "The root denotes portion and fortune (Hadh), contrasting the worldly fortune of Karun's wealth with the eternal portion of Paradise denied to the hypocrites.",
+  "summaryAr": "يدل هذا الجذر على الحظ والنصيب المقدر، معارضاً حظ قارون المادي الدنيوي الزائل، بالحرمان الأبدي من نصيب الجنة للكافرين (حظاً في الآخرة).",
+  "rawText": "أَحَاظٍ said to be an irreg. pl. of حَظٌّ, q. v.\nأَحْظَظَ 4 see 1, in two places. ___ أَحْظَيْتُهُ عَلَيْهِ [<i>I preferred him above him</i>] may be from the same root as the other words of this art.; the second ظ being changed into ى; [like as أَمْلَيْتُ is, accord. to some, formed from أَمْلَلْتُ;] or it may be from حُظْوَةٌ. (TA.)\nحَظِيظٌ and 🡻حَظٌّ (S, K) and 🡻حَظِّىٌّ, as a relative n., accord. to [most of] the copies of the K, or as a defective word, [i. e. 🡻حَظِىٌّ, with a single ظ, as we find it in the CK,] accord. to Az, who says that it is originally حَظٌّ, (TA,) and 🡻مَحْظُوظٌ, (AA, S, Msb, K,) <i>Fortunate;</i> or <i>possessed of good fortune;</i> (S, Msb, K;) <i>possessing a good share</i> (حَظٌّ) <i> of the means of subsistence:</i> (TA:) or the first, accord. to Fr, <i>possessing competence,</i> or <i>sufficiency;</i> or <i>rich,</i> or <i>wealthy,</i> or <i>opulent:</i> (TA:) the pl. [accord. to analogy of حَظِيظٌ] is أَحِظَّآءُ. (So in the L: [in the TA written أَحْظَآء, which I think a mistake, though it seems to be there implied that it is pl. of حَظٌّ, and if so, we must suppose it to be originally أَحْظَاظٌ, like as حِظَآءٌ, a pl. of the subst. حَظٌّ, if correct, is originally حِظَاظٌ.])\nحَظٌّ <i>Fortune;</i> or particularly <i>good fortune;</i> syn. جَدٌّ (S, Nh, Msb, K) and بَخْتٌ: (Nh:) and <i>a share, portion,</i> or <i>lot:</i> (S, Msb, K:) or particularly <i>a share, portion,</i> or <i>lot, of something good</i> or <i>excellent:</i> (Lth, K:) some of the people of Hims say حَنْزٌ; but when they form a pl., they return to the original, saying حُظُوظٌ: and the ن is regarded by them as a nasal sound, not as a radical letter: and in like manner they do in the case of every word having a doubled letter, such as رُزٌّ and أُتْرُجٌّ, saying رٌنْزٌ and أُتْرُنْجٌ: (Lth, L:) the pl. (of pauc., S) is أَحُظٌّ (S, K) and (of mult., S) حُظُوظٌ (AZ, S, Msb, K) and حُظُوظَةٌ (Ibn- 'Abbád, K) and حِظَاظٌ (IJ, K) and حُظٌّ (AZ, K) and 🡻أَحَاظٍ, (S, L, K, [in the CK, erroneously, أَحَاظٌ,]) irregularly, as though it were pl. of أَحْظٍ, (S, L,) or it is regularly formed from أَحْظٍ, which latter is [irregular, being] originally أَحْظُظٌ, [which is the original form of the pl. of pauc. mentioned above,] (IB,) and another pl. is 🡻حِظَآءٌ, (L, [and so in the TA as from the K, but in several copies of the K 🡻حِظَّآءٌ, which is of one of the forms of quasi-pl. ns.,]) also irregular, being formed [from حِظَاظٌ] by a change of the second ظ [into ى and then into ء]. (L.) ___ See also حَظِيظٌ.\nحَظَّ , sec. pers. حَظِظْتَ, (S, K,) aor. يَحَظُّ, (S,) inf. n. حَظٌّ, (K,) <i>He was,</i> or <i>became, fortunate,</i> or <i>possessed of good fortune,</i> (S, K,) فِى الأَمْرِ <i>in the affair;</i> (K;) as also 🡻احظّ: (K, TA:) or ↓ the latter signifies <i>he was,</i> or <i>became, rich, wealthy,</i> or <i>opulent;</i> or <i>in a state of,</i> or <i>possessed of, competence,</i> or <i>sufficiency; in no need; without wants;</i> or <i>with few wants.</i> (O, TS.) Lth says, I have not heard any verb from حَظٌّ: but it has a verb, transmitted from the Arabs, which Lth did not know, and had not heard: and AHeyth says, in writing to Ibn-Buzurj, هُمْ يُحَظُّونَ بِهِمْ, and يُجَدُّونَ بهم, (Az, TA,) meaning <i>They become possessed of good fortune, and riches,</i> or <i>competence,</i> or <i>sufficiency.</i> (L in art. جد.)\nحَظِّىٌّ , or حَظِىٌّ: see what next follows.\nحِظَآءٌ and حِظَّآءٌ: see حَظٌّ.\nفُلَانٌ أَحَظُّ مِنْ فُلَانٍ <i>Such a one is more fortunate than such a one.</i> (S, * Msb, * TA.)\nمَحْظُوظٌ : see حَظِيظٌ."
+}

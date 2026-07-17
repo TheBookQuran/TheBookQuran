@@ -1,0 +1,73 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.form {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-xxsmall);
+}
+
+.inputWrapper {
+  display: flex;
+  align-items: center;
+  border: 1px solid var(--color-border-default, #efeae0);
+  border-radius: var(--border-radius-rounded, 15px);
+  background-color: var(--color-background-elevated, #ffffff);
+  overflow: hidden;
+  transition: all var(--transition-fast) ease;
+}
+
+.inputWrapper:focus-within {
+  border-color: var(--color-background-brand, #96742f);
+  box-shadow: 0 0 0 3px rgba(150, 116, 47, 0.1);
+}
+
+.input {
+  flex-grow: 1;
+  border: none;
+  background: transparent;
+  padding: 0.875rem 1.25rem;
+  font-size: var(--font-size-normal, 1rem);
+  color: var(--color-text-default);
+  outline: none;
+  width: 100%;
+}
+
+.input::placeholder {
+  color: var(--color-text-muted, #777777);
+  opacity: 0.7;
+}
+
+/* Hide spin buttons */
+.input::-webkit-outer-spin-button,
+.input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.button {
+  background-color: var(--color-background-brand, #96742f);
+  color: #ffffff;
+  padding: 0.875rem 1.5rem;
+  font-weight: var(--font-weight-semibold, 600);
+  transition: background-color var(--transition-fast) ease;
+  cursor: pointer;
+  border: none;
+}
+
+.button:hover {
+  background-color: var(--color-background-brand-hover, #7b5e25);
+}
+
+.error {
+  font-size: var(--font-size-xsmall);
+  color: var(--color-text-error, #c50000);
+  text-align: center;
+}

@@ -1,0 +1,26 @@
+{
+  "rootId": "r1773",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:52:16.826Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Jest, amusement, play, joking, lack of seriousness, or wasting away/emaciation",
+  "primaryMeaning": "Jest/amusement (lack of seriousness)",
+  "quranicRelevance": "It is not amusement/play (Al-hazl - 'bi-al-hazli').",
+  "keyDerivations": [
+    {
+      "lemma": "هَزْلٌ",
+      "form": "Noun",
+      "meaning": "Jest, joking, play, lack of seriousness, amusement, or dry vanity"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "إِنَّهُ لَقَوْلٌ فَصْلٌ ۞ وَمَا هُوَ بِالْهَزْلِ (86:13-14): Indeed, it (the Quran) is a decisive statement, and it is not amusement/play."
+  ],
+  "discardedNoise": [
+    "Hazal (emaciation/extreme thinness of body) - though classical, secondary to the play/jest meaning here.",
+    "Hazeelah (lean/weak sheep)."
+  ],
+  "summaryEn": "The root denotes joking or playing (Hazl), declaring the Quran to be a serious, decisive guide that contains no frivolous speech or jesting.",
+  "summaryAr": "يشير هذا الجذر إلى الهزل واللعب والمزاح وضد الجد والصرامة، وضعف البدن وهزاله (هزل)، مؤكداً أن قول القرآن فصل جاد خال من العبث والمزاح.",
+  "rawText": "مَهْزُولٌ : see two exs. in a verse cited voce عِرْضٌ.\nهَازَلَ 3 <i>He jested,</i> or <i>joked.</i> (K.) See 1.\nهَزْلٌ 1 is <i>contr. of</i> جِدٌّ. (S, Mgh, K.) You say, هَزَلَ, aor. ﹻ, inf. n. هَزْلٌ; (S, Msb, K;) and هَزِلَ, aor. ﹷ, (K,) inf. n. as above; (TA;) and 🡻هَازَلَ; (K;) <i>He jested,</i> or <i>joked;</i> (Msb;) or <i>was not serious,</i> or <i>in earnest;</i> (TA;) فِى كَلاَمِهِ <i>in his speech;</i> (Msb, TA;) and فِى الأَمْرِ <i>in the affair.</i> (TA.)\nهَزْلَى , pl. of هَزِيلٌ <i>Lean, meagre, emaciated.</i> (K, voce خَشَبٌ.)\nهُزاَلٌ <i>Leanness, meagreness, emaciation: contr. of fatness.</i> (S, K.)"
+}

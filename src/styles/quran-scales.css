@@ -1,0 +1,310 @@
+.code_v2-font-size-1 {
+  --skeleton-height: 4.17vw;
+  --font-size: 4vw;
+  --line-height: normal;
+}
+
+@media only screen and (min-width: 768px) {
+  .code_v2-font-size-1 {
+    --font-size: 2.9vh;
+    --line-height: 6.1vh;
+    --skeleton-height: 4.65vh;
+  }
+}
+
+.code_v2-font-size-1 {
+  font-size: var(--font-size);
+}
+
+.code_v2-font-size-2 {
+  --skeleton-height: 6.54vw;
+  --font-size: 5vw;
+  --line-height: normal;
+}
+
+@media only screen and (min-width: 768px) {
+  .code_v2-font-size-2 {
+    --font-size: 3vh;
+    --line-height: 6.1vh;
+    --skeleton-height: 4.65vh;
+  }
+}
+
+.code_v2-font-size-2 {
+  font-size: var(--font-size);
+}
+
+.code_v2-font-size-3 {
+  --skeleton-height: 7.1vw;
+  --font-size: 5.3vw;
+  --line-height: normal;
+}
+
+@media only screen and (min-width: 768px) {
+  .code_v2-font-size-3 {
+    --font-size: 3.2vh;
+    --line-height: 6.1vh;
+    --skeleton-height: 4.65vh;
+  }
+}
+
+.code_v2-font-size-3 {
+  font-size: var(--font-size);
+}
+
+.code_v2-font-size-4 {
+  --skeleton-height: 8.4vw;
+  --font-size: 8.4vw;
+  --line-height: normal;
+}
+
+@media only screen and (min-width: 768px) {
+  .code_v2-font-size-4 {
+    --font-size: 3.5vh;
+    --line-height: 6.1vh;
+    --skeleton-height: 4.65vh;
+  }
+}
+
+.code_v2-font-size-4 {
+  font-size: var(--font-size);
+}
+
+.code_v2-font-size-5 {
+  --skeleton-height: 10vw;
+  --font-size: 10vw;
+  --line-height: normal;
+}
+
+@media only screen and (min-width: 768px) {
+  .code_v2-font-size-5 {
+    --font-size: 3.7vh;
+    --line-height: 6.1vh;
+    --skeleton-height: 4.65vh;
+  }
+}
+
+.code_v2-font-size-5 {
+  font-size: var(--font-size);
+}
+
+.code_v2-font-size-6 {
+  --skeleton-height: 1rem;
+  --font-size: 11vw;
+  --line-height: normal;
+}
+
+@media only screen and (min-width: 768px) {
+  .code_v2-font-size-6 {
+    --font-size: 5.16vh;
+    --line-height: 9.28vh;
+    --skeleton-height: 7.84vh;
+  }
+}
+
+.code_v2-font-size-6 {
+  font-size: var(--font-size);
+}
+
+.code_v2-font-size-7 {
+  --skeleton-height: 1rem;
+  --font-size: 12vw;
+  --line-height: normal;
+}
+
+@media only screen and (min-width: 768px) {
+  .code_v2-font-size-7 {
+    --font-size: 6.62vh;
+    --line-height: 12.46vh;
+    --skeleton-height: 11.03vh;
+  }
+}
+
+.code_v2-font-size-7 {
+  font-size: var(--font-size);
+}
+
+.code_v2-font-size-8 {
+  --skeleton-height: 1rem;
+  --font-size: 13vw;
+  --line-height: normal;
+}
+
+@media only screen and (min-width: 768px) {
+  .code_v2-font-size-8 {
+    --font-size: 8.08vh;
+    --line-height: 15.64vh;
+    --skeleton-height: 14.22vh;
+  }
+}
+
+.code_v2-font-size-8 {
+  font-size: var(--font-size);
+}
+
+.code_v2-font-size-9 {
+  --skeleton-height: 1rem;
+  --font-size: 14vw;
+  --line-height: normal;
+}
+
+@media only screen and (min-width: 768px) {
+  .code_v2-font-size-9 {
+    --font-size: 9.54vh;
+    --line-height: 18.82vh;
+    --skeleton-height: 17.41vh;
+  }
+}
+
+.code_v2-font-size-9 {
+  font-size: var(--font-size);
+}
+
+.code_v2-font-size-10 {
+  --skeleton-height: 1rem;
+  --font-size: 15vw;
+  --line-height: normal;
+}
+
+@media only screen and (min-width: 768px) {
+  .code_v2-font-size-10 {
+    --font-size: 11vh;
+    --line-height: 22vh;
+    --skeleton-height: 20.6vh;
+  }
+}
+
+.code_v2-font-size-10 {
+  font-size: var(--font-size);
+}
+
+
+
+@media only screen and (min-width: 768px) {
+  .code_v2-line-width-1 {
+    --line-width: 52vh;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .code_v2-line-width-2 {
+    --line-width: 54vh;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .code_v2-line-width-3 {
+    --line-width: 56vh;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .code_v2-line-width-4 {
+    --line-width: 61vh;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .code_v2-line-width-5 {
+    --line-width: 64.5vh;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .code_v2-line-width-6 {
+    --line-width: 90.4vh;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .code_v2-line-width-7 {
+    --line-width: 116.3vh;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .code_v2-line-width-8 {
+    --line-width: 142.2vh;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .code_v2-line-width-9 {
+    --line-width: 168.1vh;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .code_v2-line-width-10 {
+    --line-width: 194vh;
+  }
+}
+
+/* Fallback Font Scales (Extracted from Reference _utility.scss) */
+.fallback_qpc_uthmani_hafs-font-size-1 { --font-size: 4vw; --line-height: normal; }
+@media only screen and (min-width: 768px) { .fallback_qpc_uthmani_hafs-font-size-1 { --font-size: 3.19vh; --line-height: 6vh; } }
+.fallback_qpc_uthmani_hafs-font-size-1 { font-size: var(--font-size); }
+
+.fallback_qpc_uthmani_hafs-font-size-2 { --font-size: 4.5vw; --line-height: normal; }
+@media only screen and (min-width: 768px) { .fallback_qpc_uthmani_hafs-font-size-2 { --font-size: 3.2vh; --line-height: 6vh; } }
+.fallback_qpc_uthmani_hafs-font-size-2 { font-size: var(--font-size); }
+
+.fallback_qpc_uthmani_hafs-font-size-3 { --font-size: 5vw; --line-height: normal; }
+@media only screen and (min-width: 768px) { .fallback_qpc_uthmani_hafs-font-size-3 { --font-size: 3.39vh; --line-height: 6.1vh; } }
+.fallback_qpc_uthmani_hafs-font-size-3 { font-size: var(--font-size); }
+
+.fallback_qpc_uthmani_hafs-font-size-4 { --font-size: 8.9vw; --line-height: normal; }
+@media only screen and (min-width: 768px) { .fallback_qpc_uthmani_hafs-font-size-4 { --font-size: 3.6vh; --line-height: 6vh; } }
+.fallback_qpc_uthmani_hafs-font-size-4 { font-size: var(--font-size); }
+
+.fallback_qpc_uthmani_hafs-font-size-5 { --font-size: 11vw; --line-height: normal; }
+@media only screen and (min-width: 768px) { .fallback_qpc_uthmani_hafs-font-size-5 { --font-size: 4.4vh; --line-height: 5.68vh; } }
+.fallback_qpc_uthmani_hafs-font-size-5 { font-size: var(--font-size); }
+
+.fallback_qpc_uthmani_hafs-font-size-6 { --font-size: 12vw; --line-height: normal; }
+@media only screen and (min-width: 768px) { .fallback_qpc_uthmani_hafs-font-size-6 { --font-size: 5.55vh; --line-height: 8.14vh; } }
+.fallback_qpc_uthmani_hafs-font-size-6 { font-size: var(--font-size); }
+
+.fallback_qpc_uthmani_hafs-font-size-7 { --font-size: 13vw; --line-height: normal; }
+@media only screen and (min-width: 768px) { .fallback_qpc_uthmani_hafs-font-size-7 { --font-size: 6.7vh; --line-height: 10.61vh; } }
+.fallback_qpc_uthmani_hafs-font-size-7 { font-size: var(--font-size); }
+
+.fallback_qpc_uthmani_hafs-font-size-8 { --font-size: 14vw; --line-height: normal; }
+@media only screen and (min-width: 768px) { .fallback_qpc_uthmani_hafs-font-size-8 { --font-size: 7.85vh; --line-height: 13.07vh; } }
+.fallback_qpc_uthmani_hafs-font-size-8 { font-size: var(--font-size); }
+
+
+.fallback_qpc_uthmani_hafs-font-size-9 { --font-size: 15vw; --line-height: normal; }
+@media only screen and (min-width: 768px) { .fallback_qpc_uthmani_hafs-font-size-9 { --font-size: 9vh; --line-height: 15.54vh; } }
+.fallback_qpc_uthmani_hafs-font-size-9 { font-size: var(--font-size); }
+
+.fallback_qpc_uthmani_hafs-font-size-10 { --font-size: 16vw; --line-height: normal; }
+@media only screen and (min-width: 768px) { .fallback_qpc_uthmani_hafs-font-size-10 { --font-size: 10.15vh; --line-height: 18vh; } }
+.fallback_qpc_uthmani_hafs-font-size-10 { font-size: var(--font-size); }
+
+/* Fallback Line Widths */
+@media only screen and (min-width: 768px) {
+  .fallback_qpc_uthmani_hafs-line-width-1 { --line-width: 55vh; }
+  .fallback_qpc_uthmani_hafs-line-width-2 { --line-width: 59vh; }
+  .fallback_qpc_uthmani_hafs-line-width-3 { --line-width: 63.8vh; }
+  .fallback_qpc_uthmani_hafs-line-width-4 { --line-width: 65vh; }
+  .fallback_qpc_uthmani_hafs-line-width-5 { --line-width: 66vh; }
+  .fallback_qpc_uthmani_hafs-line-width-6 { --line-width: 1rem; }
+  .fallback_qpc_uthmani_hafs-line-width-7 { --line-width: 1rem; }
+  .fallback_qpc_uthmani_hafs-line-width-8 { --line-width: 1rem; }
+  .fallback_qpc_uthmani_hafs-line-width-9 { --line-width: 1rem; }
+  .fallback_qpc_uthmani_hafs-line-width-10 { --line-width: 1rem; }
+}
+
+@media only screen and (min-width: 1024px) {
+  .fallback_qpc_uthmani_hafs-line-width-1 { --line-width: 56vh; }
+  .fallback_qpc_uthmani_hafs-line-width-2 { --line-width: 56.2vh; }
+  .fallback_qpc_uthmani_hafs-line-width-3 { --line-width: 60vh; }
+  .fallback_qpc_uthmani_hafs-line-width-4 { --line-width: 63vh; }
+  .fallback_qpc_uthmani_hafs-line-width-5 { --line-width: 81vh; }
+  .fallback_qpc_uthmani_hafs-line-width-6 { --line-width: 102.6vh; }
+  .fallback_qpc_uthmani_hafs-line-width-7 { --line-width: 124.3vh; }
+  .fallback_qpc_uthmani_hafs-line-width-8 { --line-width: 146.2vh; }
+  .fallback_qpc_uthmani_hafs-line-width-9 { --line-width: 168vh; }
+  .fallback_qpc_uthmani_hafs-line-width-10 { --line-width: 190vh; }
+}

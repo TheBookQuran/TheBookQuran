@@ -1,0 +1,32 @@
+{
+  "rootId": "r1495",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:01:45.660Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Inevitable, binding, constant, adhere, companion, or creditor",
+  "primaryMeaning": "Inevitable/binding",
+  "quranicRelevance": "Inevitable/binding judgment (Lizam - 'fasawfa yakoonu lizaman'), and forcing adherence to righteousness ('wa alzamahum kalimata at-taqwa').",
+  "keyDerivations": [
+    {
+      "lemma": "أَلْزَمَ / يُلْزِمُ",
+      "form": "Form IV Verb",
+      "meaning": "To force to adhere, bind, fasten, or make follow"
+    },
+    {
+      "lemma": "لِزَامٌ",
+      "form": "Noun / Adjective",
+      "meaning": "Inevitable, binding consequence, doom, or inescapable judgment"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فَسَوْفَ يَكُونُ لِزَامًا (25:77): So it (the punishment) will be inevitable/inescapable (clinging doom for mockery).",
+    "أَنُلْزِمُكُمُوهَا وَأَنْتُمْ لَهَا كَارِهُونَ (11:28): Should we force it (guidance) upon you while you are averse to it?"
+  ],
+  "discardedNoise": [
+    "Commitment (Iltizam) in modern contracts.",
+    "Mandatory enlistment files."
+  ],
+  "summaryEn": "The root represents binding obligation, outlining Noah's refusal to force guidance, the fastening of piety (Alzamahum), and the inevitable doom (Lizam) of deniers.",
+  "summaryAr": "يمثل هذا الجذر اللزوم والثبوت والالتزام، واصفاً لزوم العذاب الحتمي للمشركين (لزاماً)، وإلزام الله المؤمنين كلمة التقوى، ونفي إكراه الهدى.",
+  "rawText": "أَلْزَمَهُ شَيْئًا 4 signifies <i>He necessitated him,</i> or <i>obliged him, to do,</i> and <i>to pay,</i> &c.; or <i>to suffer,</i> or <i>endure, a thing:</i> and hence, said of God, <i>He decreed;</i> or <i>appointed,</i> or <i>ordained, to him a thing.</i> And <i>He made him to cleave to a thing;</i> and <i>he made a thing to cleave to him.</i> See جَدَعَ. === أُلْزِمَ شَيْئًا لَا يُفَارِقُهُ [<i>He was made to cleave to a thing, not quitting it</i>]. (K.) === أَلْزَمَهُ اللّٰهُ الشَّرَّ <i>May God make evil to cleave to him:</i> or, <i>to attend him constantly:</i> or <i>decree evil to him.</i> === أَلْزَمَنَاهُ طَائِرَهُ فِى عُنُقِهِ, (Kur xvii. 14,) <i>We have decreed to him his happiness</i> or <i>his misery,</i> foreseeing that he would be obedient, or disobedient: (AM, in TA, art. طير:) or <i>we have made his works</i> and <i>what is decreed to him to cleave</i> to him like the طَوْق <i>upon his neck.</i> (Bd.) === أَلْزَمَهُ البَيِّنَةَ <i>He compelled him,</i> or <i>constrained him, to accept,</i> or <i>admit, the evidence,</i> or <i>proof.</i> (Jel xi. 30.) === أَلْزَمَهُ المَالَ <i>He obliged him to pay the money &c.</i> أَلْزَمَهُ العَمَلَ <i>He obliged him to do the deed.</i> (Msb.) === أَلْزَمْتُهُ الدَّنْبَ, and الحَقَّ: see زَكَّ. === أَلْزِمْ نَعْلَيْكَ قَدَمَيْكَ [<i>Keep thou thy sandals upon thy feet</i>]. (From a trad. in the Jámi' es- Sagheer.)\nأَلْزَمُ as syn. with أَقْنَى in the prov. خَلَاؤُكَ أَقْنَى لِحَيَائِكَ means <i>Most preservative:</i> see that prov. in art. خلو, and see قَنِىَ الحَيَآءَ, and لَزِمَ شَيْئًا.\nاِسْتَلْزَمَهُ 10 <i>It necessarily required it</i> or <i>involved it.</i>\nاِلْتَزَمَ 8 <i>He took upon himself</i> an affair. (KL.) You say, اِلْتَزَمَهُ <i>He took it upon himself; charged himself with it; obliged himself to do it; became,</i> or <i>made himself, answerable for it by an inseparable obligation:</i> see بَآءَ. === اِلْتَزَمْتُ بَالمَالِ <i>i. q.</i> أَلْزَمْتُ بِهِ نَفْسِى, and تَكَفَّلْتُ بَهَ, accord. to IAmb, or تَحَمَّلْتُ بِهِ, accord. to AZ; (Msb in art. كفل;) <i>I made myself answerable, responsible</i> or <i>accountable, by an inseparable obligation, for the property:</i> see ضَمِنَ. === اِلْتَزَمَ المَالَ, and العَمَلَ, <i>He obliged himself,</i> or <i>took upon himself the obligation, to pay the money &c., and to do the deed.</i> (Msb.) === اِلْتَزَمَهُ <i>He kept,</i> or <i>restricted himself, to it;</i> i. e. an action, or usage, &c. === And <i>It was,</i> or <i>became, necessary for him,</i> or <i>obligatory upon him, to do it,</i> or <i>pay it,</i> &c.; or <i>to suffer it,</i> or <i>endure it.</i> === دَلَفَ لِٱلْتِزَامِى <i>He hastened to take me by the hand and embrace me:</i> see دَلَفَ. === اِلْتِزَامٌ <i>i. q.</i> لُزُومُ مَا لَا يَلْزَمُ: see below.\nلَازَمَهُ 3 <i>He kept, confined himself, clave, clung,</i> or <i>held fast, to him, or it:</i> as also 🡻لَزِمَهُ: <i>he held on,</i> or <i>continued, it.</i> See 1.\nلَازِمٌ <i>Keeping, keeping close, cleaving,</i> &c.; <i>tenacious:</i> and <i>pertinacious.</i> === لَازِمٌ <i>A thing inseparable from another thing:</i> pl. لَوَازِمُ. (TA.) <i>Such as cleaves fast; inseparable:</i> as an epthet. === إِسْمٌ لَازِمٌ: see جَمْعٌ, as signifying “ a plural. ” === لَوَازِمُ <i>Necessary,</i> or <i>inseparable, adjuncts, accompaniments, consequences,</i> or <i>results.</i>\nلَزُومٌ One <i>who keeps, cleaves, clings,</i> or <i>holds fast, much,</i> or <i>habitually,</i> لِشَىْءٍ <i>to a thing:</i> see an ex. in the Ham, p. 238, line 21.\nلَزِمَهُ 1 <i>It necessarily,</i> or <i>inseparably, belonged,</i> or <i>pertained,</i> or <i>it clave,</i> or <i>adhered, to him,</i> or <i>it;</i> as also لَزِمَ لَهُ: <i>it</i> (disgrace, &c.) <i>attached to him.</i> === لَزِمَهُ أَمْرُ فُلَانٍ <i>The management of the affair,</i> or <i>affairs, of such a one was,</i> or <i>became, incumbent,</i> or <i>obligatory, upon him.</i> === لَزِمَ شَيْئًا <i>He kept close, clave, clave fast, clung,</i> or <i>held fast, to anything.</i> (S, K, &c.) And hence, <i>He preserved a thing:</i> see قَنِىَ. === See 3. === لَزمَ الغَرِيمَ, and لَزِمَ بِهِ, and 🡻لَازَمَهُ, <i>He adhered, kept, clave, clung,</i> or <i>held fast, to the debtor.</i> (Msb.) === لَزِمَ بَيْتَهُ <i>He kept,</i> or <i>clave, to his house</i> or <i>tent; did not quit it; was not found elsewhere.</i> (Kull, p. 318.) === لَزِمَهُ المَالُ <i>The</i> [<i>paying of the</i>] <i>money &c. behoved him, lay on him, was incumbent on him,</i> or <i>obligatory on him.</i> (Msb.)\nلُزُومُ مَا لَا يَلْزَمُ <i>The imposing upon one's self what is not indispensable;</i> or <i>adhering to a mode of construction that is not necessarily to be followed:</i> as in the following instance in the خُطْبَة of the Kámoos: وَبَلَغُوا مِنَ الْمَقَاصِدِ قَاصِيَتَهَا وَمَلَكُوا مِنَ المَحَاسِنِ نَاصِيَتَهَا."
+}

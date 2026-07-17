@@ -1,0 +1,36 @@
+{
+  "rootId": "r1717",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:29:55.134Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Retribution, vengeance, dislike, punishment, or anger",
+  "primaryMeaning": "To avenge or punish/dislike",
+  "quranicRelevance": "Retribution/punishment from God (Intiqam - 'fantaqamna minhum'), avenging wrongdoers, and disliking/resenting ('wa ma naqamoo').",
+  "keyDerivations": [
+    {
+      "lemma": "نَقَمَ",
+      "form": "Form I Verb",
+      "meaning": "To resent, dislike, disapprove, or avenge"
+    },
+    {
+      "lemma": "اِنْتَقَمَ",
+      "form": "Form VIII Verb",
+      "meaning": "To take vengeance, avenge, or punish"
+    },
+    {
+      "lemma": "مُنْتَقِمُونَ",
+      "form": "Noun / Active part. pl.",
+      "meaning": "Avengers, or punishers"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَمَا تَنْقِمُ مِنَّا إِلَّا أَنْ آمَنَّا (7:126): And you do not resent/dislike from us except that we believed (prejudice/hostility)."
+  ],
+  "discardedNoise": [
+    "Obscure idioms on eating meat greedily.",
+    "Sectarian historical revenges."
+  ],
+  "summaryEn": "The root represents retribution and resentment, detailing the moral hostility of the wicked (Naqam) and the divine justice of retribution (Intiqam).",
+  "summaryAr": "يمثل هذا الجذر الانتقام والإنكار، واصفاً المخاصمة والعداء المعنوي للحق (نقم) والعقاب الإلهي العادل للظالمين (انتقام).",
+  "rawText": "اِنْتَقَمْتُ مِنْهُ 8 <i>I took,</i> or <i>executed, vengeance on him,</i> or <i>inflicted penal retribution on him, for that which he had done:</i> (JK:) or <i>I punished him;</i> (S, Msb, K;) as also 🡻نَقَمْتُمِنْهُ, (Msb, K,) and عَلَيهِ, (TA,) aor. ﹻ; (Msb, K;) and نَقِمْتُ. (K.) === See نِقْمَةٌ.\nنَقَمَ عَلَيْهِ 1 <i>He exacted vengeance upon him, punished him:</i> see an ex. voce ابدى in art. بدو. See 8.\nنِقْمَةٌ [and 🡻اِنْتِقَامٌ] <i>Vengeance;</i> or <i>penal retribution.</i> (JK.)"
+}

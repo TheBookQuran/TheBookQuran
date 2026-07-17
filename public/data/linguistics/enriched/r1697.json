@@ -1,0 +1,52 @@
+{
+  "rootId": "r1697",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T00:58:39.998Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Ease, comfort, blessing, soft/smooth, or affirmative",
+  "primaryMeaning": "To be in ease or bless",
+  "quranicRelevance": "Divine favor/blessing (Ni'mah), cattle/livestock (An'am - soft/pliable), and ease/joy (Na'im).",
+  "keyDerivations": [
+    {
+      "lemma": "نِعْمَةٌ / نِعَمٌ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Blessing, favor, benefit, or grace"
+    },
+    {
+      "lemma": "أَنْعَامٌ",
+      "form": "Noun pl.",
+      "meaning": "Cattle, livestock (camels, sheep, goats, cows)"
+    },
+    {
+      "lemma": "نَعِيمٌ",
+      "form": "Noun",
+      "meaning": "Bliss, delight, ease, or luxury"
+    },
+    {
+      "lemma": "أَنْعَمَ",
+      "form": "Form IV Verb",
+      "meaning": "To bestow favor, bless, or show grace"
+    },
+    {
+      "lemma": "نَعَمْ",
+      "form": "Particle",
+      "meaning": "Yes (affirmative)"
+    },
+    {
+      "lemma": "نِعْمَ",
+      "form": "Verb of praise",
+      "meaning": "How excellent! (e.g. 'ni'ma al-mawla')"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "أَنْعَامٌ: Livestock (cattle), called so because of their soft walk or the ease they provide to humans.",
+    "نَاعِمَةٌ (88:8): Joyful, radiant, or soft/delighted faces."
+  ],
+  "discardedNoise": [
+    "Linguistic differences in the pronunciation of (نَعِمَ) vs (نَعُمَ).",
+    "Names of specific desert grasses."
+  ],
+  "summaryEn": "The root denotes ease and favor, representing both physical blessings/livestock (An'am) and the spiritual/eschatological bliss of Paradise (Na'im).",
+  "summaryAr": "يدل هذا الجذر على النعمة واللين، ممثلاً النعم المادية والأنعام، والنعيم المعنوي والأخروي في الجنة (نعيم).",
+  "rawText": "أَنَاعِيمُ , pl. pl. of نَعَمٌ: see a verse cited voce دَانَى.\nأَنْعَمَ عَلَيْهِ بِشَىْءٍِ 4 <i>He conferred, or bestowed, upon him a thing as a favour.</i> See أَحْسَنَ. === أَنْعَمَ عَجْنَهُ <i>He kneaded it well, thoroughly,</i> or <i>soundly.</i> (TA, voce رَيْعٌ.) === أَنْعَمَ الدَّقَّ <i>He bruised</i> or <i>powdered finely:</i> see دَقَّقَ. === أَنْعَمَ طَبْخَهُ <i>He cooked it well;</i> syn. أَجَادَ طَبْخَهُ. (IbrD.) The verb is often used in this sense. === أَنْعَمَ ٱللّٰهُ بِكَ عَيْنًا: see أَبْغَضَ.\nتَنَعَّمَ 5 <i>he enjoyed,</i> or <i>led, an easy, a pleasant, a soft,</i> or <i>a delicate, life, with ampleness of the means of subsistence; a life of ease and plenty.</i> (K.) === تَنَعَّمَ <i>It</i> (a tree) <i>became flourishing and fresh,</i> (TK, art. روى, &c.,) <i>luxuriant, succulent, sappy, soft, tender, and supple.</i> See رَوِىَ. === تَنَعَّمَ <i>i. q.</i> تَمَتَّعَ. (Msb. *)\nعَيْشٌ نَاعِمٌ [<i>A plentiful and easy life.</i> See نَعِمَ عَيْشُهُ.] <i>A pleasant life.</i> (Mgh.) [<i>A soft,</i> or <i>delicate, life.</i>] === نَاعِمٌ <i>Soft,</i> or <i>tender:</i> applied to a plant or tree: (Mgh:) [<i>smooth; sleek.</i> And <i>i. q.</i> مُتَنِّعَمٌ.]\nمُنَعَّلٌ , applied to a horse, white on the forelegs: see أَقْفَزُ.\nنَاْعَمَ 3 see 2.\nنَعَامَةٌ The <i>blackness</i> of night. (S in art. سقط.) see an ex. voce سقْطٌ. === نَعَامَةٌ <i>The ostrich:</i> it sometimes denotes the female. See مَخْزُومٌ and جَراَدٌ. === شاَلَتْ نَعَامَتُهُمْ: see طَائِرٌ, زَأْلٌ, شَالَ, and a verse voce إِمَّا. === اِبْنُ النَّعَامَةِ <i>The shank-bone:</i> and <i>a certain vein in the leg:</i> and <i>the middle,</i> or <i>beaten track, of the road:</i> and <i>the brisk, lively, or sprightly, horse:</i> and <i>the drawer of water</i> (السَّانِى) <i>who is at the head of the well.</i> (T in art. بنى.) === نَعَامَةٌ and نَعَامَتَانِ of a well see زُرْنُوقٌ. === النَّعَائِمُ <i>Nine stars</i> [<i>of Sagittarius</i>], behind الشَّوْلَةُ, <i>four in the Milky Way,</i> [β, γ, δ, and ε,] called النعائمُ الوَارِدَةُ, <i>as though drinking; and four without the Milky Way β, γ, δ, ε,,</i> [c, s, t, and f,] <i>called</i> النعائمُ الصَّادِرَةُ, <i>as though returning from drinking; and the ninth,</i> [ λ,] [<i>not mentioned by some,</i>] <i>high between them: each of the two fours forming the corners of a quadrilateral figure. The twentieth Mansion of the Moon.</i> (El- Kazweenee.)\nنَعَمٌ <i>Pasturing</i> مَال [or <i>cattle</i>]; mostly applied to <i>camels,</i> and <i>neat,</i> and <i>sheep and goats:</i> or applied to <i>all these,</i> and to <i>camels when alone,</i> but neat and sheep or goats when alone are not thus termed; (Msb;) therefore, <i>cattle, consisting of camels</i> or <i>neat</i> or <i>sheep</i> or <i>goats,</i> or <i>all these,</i> or <i>camels alone.</i>\nنَعَمْ <i>Even so; yes; yea.</i> (Msb, &c.) See أَجَلْ and بَجَلْ.\nنَعِمَ عَيْشُهَُ 1 <i>His life was,</i> or <i>became, plentiful and easy:</i> (Msb:) <i>was, or became, good,</i> or <i>pleasant.</i> (Mgh.) See عَوْفٌ. === نَعِمَ, aor. ﹹ, is like فَضِلَ, aor. ﹹ, and حَضِرَ, aor ﹹ. See the latter. === اِنْعِمْ ضَبَاحًا, and عِمْ صَباحًا: see تَرِبَ and صَبَاحٌ. === نَعُمَ, inf. n. نُعُومَةٌ; (S, Msb;) and نَعِمَ; (S;) <i>It was,</i> or <i>became, soft,</i> or <i>tender,</i> (S, Msb,) <i>to the feet.</i> (Msb.)\nنَعِيمٌ <i>Enjoyment;</i> [<i>delight; pleasure;</i>] as also 🡻نَعْمَةٌ, q. v.: (Msb:) <i>plenty and ease.</i> (K.) See نِعْمَةٌ.\nنَعَّمَهُ 2 , (S, Msb, K,) and 🡻نَاعَمَهُ, (S, K,) <i>He</i> (God, S, Msb,) <i>made him to enjoy,</i> or <i>lead, a plentiful, and a pleasant</i> or <i>an easy, and a soft,</i> or <i>delicate, state,</i> or <i>life; a state,</i> or <i>life, of ease and plenty.</i> (S, Msb, K.) === نَعَّمَهُ <i>He nourished well him,</i> or <i>it; pampered him.</i>\nنَعْمَآءُ : see نِعْمَةٌ.\nنَعْمَةٌ <i>subst. of</i> تَنَعُّمٌ (Msb, K) <i>in the sense of</i> تَرَفُّةٌ <i>subst. of</i> تَمَتُّعْ (Msb:) or <i>i. q.</i> === تَنَعُّمٌ: (S: in F's smaller copy, تَنَعِيمٌ, an evident mistake:) i. e. <i>plentifulness, and pleasantness</i> or <i>easiness, and softness</i> or <i>delicacy, of life: ease and plenty.</i> === نَعْمَةٌ <i>A living in</i> [or rather <i>enjoyment of a life of</i>] <i>softness, daintiness,</i> or <i>delicacy,</i> and <i>ease, comfort,</i> or <i>affluence:</i> (KL:) <i>i. q.</i> 🡻نَعِيمٌ; (Msb;) and مُتْعَةٌ: (Jel in xliv. 26:) it is from التَّنَعُّمُ; and 🡻نِعْمَةٌ is from الإِنْعَامُ. (Ksh, cited in Kull, p. 364.) See نِعْمَةٌ: and see تُرْفَةٌ. === نَعْمَةُ الشَّباَبِ [<i>The flourishing freshness, softness, tenderness,</i> or <i>blooming loveliness or graces, of youth.</i> See عَبْعَبٌ.] === نَعْمَةٌ <i>Softness; tenderness; bloom;</i> or <i>flourishing freshness</i> (IbrD;) of a branch; and of youth, or youthfulness. (M, art. ملد; &c.)\nنُعْمٌ contr. of بُؤْسٌ, (S,) [like 🡻نَعْمَآءُ and 🡻نُعْمَى and 🡻نَعْمَةٌ and 🡻نَعِيمٌ:] pl. أَنْعُمٌ. (S.) See نِعْمَةٌ.\nنُعْمَةٌ The act of <i>rejoicing by a thing:</i> and the state of <i>rejoicing in a thing.</i> (KL.)\nنُعْمَى <i>contr. of</i> بُؤْسَى; (S, TA in art. بأس;) and نَعْمَآءُ <i>contr. of</i> بَأَسَآءُ. (TA in that art.) === See نِعْمَةٌ.\nنِعْمَ الرَّجُلُ زَيْدٌ <i>Excellent,</i> or <i>most excellent,</i> or <i>excellent above all, is the man, Zeyd;</i> or [<i>very</i> or] <i>superlatively good,</i> &c. (Msb.) === See بئْسَ.\nنِعْمَةٌ and 🡻نُعْمَى and 🡻نَعْمَآءُ <i>A benefit; benefaction; favour; boon;</i> or <i>good:</i> (S, Msb:) <i>a blessing;</i> [<i>bounty; gratuity;</i>] or <i>what God bestows upon one:</i> and so 🡻نَعِيمٌ: (S:) [<i>grace</i> of God:] and 🡻نَعِيمٌ and 🡻نَعْمَةٌ, with fet-h, [and 🡻نُعْمَى and 🡻نَعْمَآءُ and 🡻نُعْمٌ, <i>ease and plenty,</i>] <i>enjoyment;</i> (Msb;) [<i>welfare; well being; weal:</i>] 🡻نُعْمَى and 🡻نَعْمَآءُ are the <i>contr. of</i> بُؤْسَى and بَأْسَآءُ: (TA, art. بأس:) 🡻نَعْمَآءُبَعْدَ ضَرَّآءَ, in the Kur [xi. 13,] is like health after sickness; and richness, or competence, after want. (Bd.) === نِعْمَةٌ <i>A blessing;</i> (S;) <i>a cause of happiness.</i> (K.) <i>A favour: a benefit; and the like.</i> (S.) === نِعْمَةٌ <i>Wealth,</i> or <i>property.</i> (K.) The first explanations given to it above are assigned in the K, not to this word, but to 🡻نَعِيمٌ and 🡻نُعْمَى. === نِعْمَةٌ with the article seems generally to signify <i>Wealth:</i> and without the article, <i>A benefit, benefaction, favour, boon,</i> or <i>blessing.</i>"
+}

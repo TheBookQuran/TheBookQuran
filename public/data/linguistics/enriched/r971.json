@@ -1,0 +1,52 @@
+{
+  "rootId": "r971",
+  "source": "lanes",
+  "enrichedAt": "2026-06-29T23:52:37.690Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Goodness, sound state, reconciliation, or peace",
+  "primaryMeaning": "To be good, upright, or suitable",
+  "quranicRelevance": "Essential moral term. Mapped into: righteous deeds (Amal Salih), the righteous/pious believers (Salihun), reforming or doing good (Ihsan/Islah), and resolving disputes or making peace/reconciliation (Sulh).",
+  "keyDerivations": [
+    {
+      "lemma": "صَالِحٌ",
+      "form": "Adjective / Noun",
+      "meaning": "Righteous, good, suitable, or honest"
+    },
+    {
+      "lemma": "صَلَحَ / صَلُحَ",
+      "form": "Form I Verb",
+      "meaning": "To be good, upright, or fit"
+    },
+    {
+      "lemma": "أَصْلَحَ",
+      "form": "Form IV Verb",
+      "meaning": "To reform, make amends, do good, or reconcile"
+    },
+    {
+      "lemma": "إِصْلَاحٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Reform, correction, or reconciliation"
+    },
+    {
+      "lemma": "صُلْحٌ",
+      "form": "Noun",
+      "meaning": "Peace, reconciliation, or settlement"
+    },
+    {
+      "lemma": "صَالِحُونَ",
+      "form": "Noun pl.",
+      "meaning": "The righteous or upright ones"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "مَصْلَحَةٌ: Benefit, welfare, or interest (post-classical jurisprudence term, but conceptually linked).",
+    "صُلْحِيٌّ: Relating to peace."
+  ],
+  "discardedNoise": [
+    "Details of specific treaties or political peace contracts.",
+    "Lexicographical arguments on the difference between (صَلُحَ) and (صَلَحَ)."
+  ],
+  "summaryEn": "The root denotes uprightness, suitability, and peace, representing the active pursuit of moral righteousness (Salah) and the restoration of social harmony (Islah).",
+  "summaryAr": "يدل هذا الجذر على الاستقامة والصلاح والسلام، ممثلاً السعي الحثيث نحو البر الأخلاقي (الصلاح) وإصلاح ذات البين وإعادة التناغم الاجتماعي (الإصلاح).",
+  "rawText": "استصلح 10 is the <i>contr. of</i> استفسد: (S, L, K:) [i. e. it signifies <i>He regarded,</i> or <i>esteemed,</i> a thing <i>good, incorrupt, right, just,</i> or <i>the like;</i> as expl. in the TK; and in like manner, a man. === <i>He wished,</i> or <i>desired,</i> a thing <i>to be good, incorrupt, right, just,</i> &c.; as in the TK; and in like manner, a man. === And <i>He sought to render good, incorrupt,</i> &c. === And hence, <i>He treated in such a manner as to render well affected,</i> or <i>obedient.</i>] ___ Also <i>He sought to do good</i> or <i>to act well</i> [إِلَى فُلَانٍ <i>to such a one</i>]. (KL.) === And <i>He sought peace,</i> or <i>concord.</i> (KL.) === And <i>It happened well.</i> (KL.) === See also 1.\nاصطلحا 8 (S, A, K) and اصتلحا, (K,) and 🡻تصالحا (S, A, K) and 🡻اِصَّالَحَا, (S, K,) [the last a var. of تصالحا,] all signify the same, (TA,) and 🡻تصالحالقَوْمُ, and اصطلحوا, (Mgh,) [<i>They two,</i> (i. e. two persons or two parties,) and] <i>the people,</i> or <i>party, made peace,</i> or <i>became at peace</i> or <i>reconciled,</i> [<i>each with the other,</i> and] <i>one with another:</i> (Msb:) [اِصْطِلَاحٌ is the <i>contr. of</i> اِخْتِصَامٌ and] 🡻تَصَالُحٌ is the <i>contr. of</i> تَخَاصُمٌ. (Mgh.) === And اصطلحوا عَلَى أَمْرٍ <i>They</i> (a particular class of persons) <i>agreed together,</i> or <i>among themselves, respecting a</i> particular <i>thing.</i> (ElKhafájee, MF.) === [Hence,] اِصْطِلَاحٌ signifies also The <i>agreement</i> of a people <i>to name a thing by any name turned from the primary application.</i> (KT.) === And [as an inf. n. used in the sense of a pass. part. n., for مُصْطَلَحٌ عَلَيْهِ,] <i>Conventional</i> [or <i>technical</i>] <i>language:</i> and <i>a conventional</i> [or <i>technical</i>] <i>term:</i> opposed to [لُغَةٌ and] تَوْقِيفٌ. (Mz 1st نوع.)\nاصلحهُ 4 , (A, Mgh, Msb, K,) inf. n. إِصْلَاحٌ, (S, A,) and quasi-inf. n. صَلَاحٌ, (L in art. لقح,) said of a man, (A, Msb,) and of God, (TA,) [and of a thing,] <i>He,</i> and <i>it, made,</i> or <i>rendered, it,</i> or <i>him, good, incorrupt, right, just, righteous, virtuous,</i> or <i>honest; constituted it, disposed it, arranged it,</i> or <i>qualified it, well, rightly,</i> or <i>properly; rectified, corrected, redressed,</i> or <i>reformed, it; put it into a good, incorrupt, sound, right,</i> or <i>proper, state;</i> or <i>restored it to such a state; put it to rights,</i> or <i>in a state of order; set it right, set it in order, ordered it, managed it well, cultured it; adjusted, dressed,</i> or <i>trimmed, it; prepared it properly for use; repaired, mended, amended,</i> or <i>improved, it; made it,</i> or <i>him, to thrive; contr. of</i> أَفْسَدَهُ. (S, * K. [And so by implication in the Mgh &c.]) One says, أَصْلَحْتُ القِدْرَ بِالتَّابَلِ [<i>I made good, qualified properly,</i> or <i>seasoned,</i> (<i>the contents of</i>) <i>the cooking-pot with the seeds that are used in cooking</i>]. (Msb in art. تبل.) And أَصْلَحْتُ السِّقَآءَ بِالرُّبِّ [<i>I seasoned the skin with rob,</i> or <i>inspissated juice</i>]. (S in art. رب.) And أَصْلَحْتُ بَيْنَ القَوْمِ [in which الأَمْرَ is understood, so that the meaning is <i>I rectified,</i> or <i>reformed,</i> or <i>amended, the circumstances subsisting between the people,</i> or <i>party;</i> or] <i>I made peace,</i> or <i>I effected a rectification of affairs, an agreement, a harmony, a reconciliation, an accomodation,</i> or <i>an adjustment;</i> [or <i>I adjusted the affair;</i>] <i>between the people,</i> or <i>party.</i> (Msb.) And سَعَى فِى إِصْلاَحِ ذَاتِ البَيْنِ [<i>He laboured in rectifying,</i> or <i>improving, the bad,</i> or <i>the good, state of circumstances,</i> or <i>the disunion</i> or <i>union, subsisting between people</i>]. (A.) One says also, اصلح الدَّابَّةَ, (TA,) and اصلح إِلَى الدَّابَّةِ, (T, A, Mgh, TA,) the latter because اصلح implies the meaning of أَحْسَنَ, (Mgh,) ‡ <i>He acted well to the beast,</i> (T, A, TA,) <i>and put it into a good,</i> or <i>right,</i> or <i>proper, state,</i> or <i>took care of it,</i> or <i>paid frequent attention to it.</i> (A, TA.) And اصلح إِلَيْهِ ‡ <i>He acted well to him, did good to him,</i> or <i>benefited him.</i> (K, TA.) And اصلح [alone] † <i>He did that which was good, right,</i> or <i>just.</i> (Msb.)\nانصلح 7 [quasi-pass. of أَصْلَحَهُ; thus signifying <i>It became rectified,</i> &c.: see تَشَعَّبَ]. (K in art. شعب.)\nاِصْطِلَاحٌ [for مُصْطَلَحٌ عَلَيْهِ: see 8, last sentence].\nاِصْطِلَاحِىٌّ <i>Conventional</i> [or <i>technical</i>] language: opposed to [لُغَوِىٌّ and] تَوْقِيفِىٌّ. (Mz 1st نوع.)\nتصالحا 6 and &c.: see 8, in four places.\nصالحهُ 3 , (A, Msb, K,) inf. n. صَلَاحٌ (S, Msb, K) and مُصَالَحَةٌ, (S, K,) the former of which is made fem. in a verse of Bishr Ibn-Abee-Házim, (TA,) [<i>He made peace,</i> or <i>became at peace</i> or <i>reconciled, with him;</i> or <i>he reconciled himself with him:</i> for] مُصَالَحَةٌ is the <i>contr. of</i> مُخَاصَمَةٌ. (Mgh.) And صالحهُ عَلَى كَذَا <i>He made peace,</i> or <i>reconciliation,</i> [or <i>a compromise,</i>] <i>with him on the condition of such a thing.</i> (MA.) And صالحهُ عَلَى بَعْضِ مَا لَهُ [<i>He compounded with him for part of what was owed to him; he made a compromise with him on the condition of receiving part of what was due to him</i>]; said of a creditor and debtor. (Mgh in art. ضغط.) And صَالَحْتُ بَيْنَ القَوْمِ, inf. n. مُصَالَحَةٌ, <i>I made peace,</i> or <i>a reconciliation, between the people,</i> or <i>party;</i> syn. لَآءَمْتُ. (Msb in art. لأم. [See also 4.])\nصَالِحٌ , (MA, L, Msb, K,) from صَلَحَ; (MA;) and 🡻صَلِيحٌ, (IAar, L, K,) from صَلُحَ; (MA;) and 🡻صِلْحٌ; (K;) applied to a thing, (Msb,) and to a man, (MA,) <i>Good, incorrupt, right, just, righteous, virtuous,</i> or <i>honest;</i> &c.; [see 1; <i>contr. of</i> فَاسِدٌ:] (MA, L, K:) pl. صُلَحَآءُ [accord. to general analogy of صَلِيحٌ, and app. applied only to rational beings, like صَالِحُونَ,] and 🡻صُلُوحٌ [q. v.; this being said by some to be a pl. of صَالِحٌ; and by others, to be originally an inf. n.; like as is said of شُهُودٌ]. (L.) One says رَجُلٌ صَالِحٌ فِى نَفْسِهِ [<i>A man good, incorrupt,</i> &c., <i>in himself</i>], مِنْ قَوْمٍ صُلَحَآءَ [<i>of a people good, incorrupt,</i> &c.]. (L.) And هُوَ عَلَى حَالَةٍ صَالِحَةٍ [<i>He is in a good, right,</i> or <i>proper, state</i> or <i>condition</i>]. (TA.) === [Hence,] صَالِحٌ signifies also † <i>Suitable, fit,</i> or <i>meet:</i> so in the saying, هُوَ صَالِحٌ لِلْوِلَايَةِ † [<i>He is fit for the office of prefect,</i> or <i>the like</i>]. (Msb.) === And ‡ <i>Much, copious,</i> or <i>frequent:</i> one says مَطْرَةٌ صَالِحَةٌ ‡ <i>A copious rain.</i> (Yaakoob, L, TA.) And hence the saying of IJ, أُبْدِلَتِ التَّآءُ مِنَ الوَاوِ إِبْدَالًا صَالِحًا, meaning ‡ [ت <i>is substituted for</i> و] <i>frequently.</i> (TA.) === The ا in صَالِحٌ is [often] omitted in writing [though not in pronunciation] when it is used as a proper name [so that the name is written صلح, or more properly صٰلِحٌ]. (Durrat el-Ghowwás in De Sacy's Anthol. Gram. Ar. p. 66 of the Arabic text.)\nصَالِحَةٌ [a subst. from صَالِحٌ, made so by the affix ة; <i>A good deed</i> or <i>action; an act of beneficence; a benefit</i>]. One says, لَا تُعَدُّ صَالِحَاتُهُ [<i>His good deeds,</i> or <i>beneficent actions, are not to be numbered</i>]. (A, TA.) And أَتَتْنِى صَالِحَةٌ مِنْ فُلَانٍ [<i>A benefit came to me from such a one</i>]. (TA.)\nصَلَاحٌ an inf. n. of صَلَحَ (MA, Mgh, Msb) and of صَلُحَ: (MA:) [used as a simple subst, it signifies <i>Goodness, incorruptness, rightness</i> or <i>rectitude, justness, righteousness, virtue, honesty;</i> &c.: see 1:] <i>contr. of</i> فَسَادٌ; (S, A, Mgh, K;) as also 🡻صُلُوحٌ: (K, TA: [الصَّلُوح in the CK being a mistake for الصُّلُوح:]) accord. to some, it is not used as an attribute of a prophet nor of an apostle, but only of a person inferior to these: accord. to others, however, this restriction is wrong. (MF.) === Also quasi-inf. n. o"
+}

@@ -1,0 +1,26 @@
+{
+  "rootId": "r1818",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:11:50.470Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Idol, pagan image, block, permanent, or solid",
+  "primaryMeaning": "Idol/pagan image",
+  "quranicRelevance": "Avoiding the filth of idols (Awthan - 'al-rijsa mina al-awthani', 'awthanan').",
+  "keyDerivations": [
+    {
+      "lemma": "وَثَنٌ / أَوْثَانٌ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Idol, pagan statue, carved image, stone god, or block"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "إِنَّمَا تَعْبُدُونَ مِنْ دُونِ اللَّهِ أَوْثَانًا وَتَخْلُقُونَ إِفْكًا (29:17): You only worship besides God idols and invent falsehood (critique of fabricated divinities)."
+  ],
+  "discardedNoise": [
+    "Confidence (Withaq) - belonging to w-th-q.",
+    "Solid rock formations."
+  ],
+  "summaryEn": "The root refers to idols (Awthan), designating stone statues as impurity (Rijs) and criticizing those who invent falsehoods to justify worshiping carved blocks.",
+  "summaryAr": "يشير هذا الجذر إلى الأنصاب والأصنام المنحوتة للعبادة (وثن)، واصفاً الأصنام بالرجس المفسد للمجتمعات، ومندداً باختراع آلهة باطلة.",
+  "rawText": "وَثَنٌ <i>An idol:</i> see صَنَمٌ and عَثَنٌ and عَنَنٌ."
+}

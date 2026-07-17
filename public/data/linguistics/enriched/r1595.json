@@ -1,0 +1,27 @@
+{
+  "rootId": "r1595",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:52:16.826Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Small kindnesses, basic household tools, charity tax, flowing water, or easy utility",
+  "primaryMeaning": "Small kindnesses/basic tools",
+  "quranicRelevance": "Preventing small kindnesses (Al-ma'oon - 'wa-yamna'oona al-ma'oona').",
+  "keyDerivations": [
+    {
+      "lemma": "مَاعُونٌ",
+      "form": "Noun",
+      "meaning": "Small kindnesses, basic tools (pots, buckets, salt), minimal charity, or utility items"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَيَمْنَعُونَ الْمَاعُونَ (107:7): And they prevent/refuse small kindnesses (or household assistance to neighbors)."
+  ],
+  "discardedNoise": [
+    "Ma'an (flowing/abundant water) - M-E-N.",
+    "Ma'in (clear spring water) - distinct derivation M-Y-N.",
+    "Tam'un (contemplation) - modern cognitive verb."
+  ],
+  "summaryEn": "The root signifies basic tools or small kindnesses (Ma'un), censuring hypocrites who show off in prayers but refuse to assist neighbors with simple domestic items.",
+  "summaryAr": "يمثل هذا الجذر الشيء القليل النفع، والماعون هو ما يستعيره الجيران كالفأس والقدر والماء والملح والزكاة المفروضة (معن)، ذامّاً البخلاء الذين يمنعون عن الناس أبسط أنواع المساعدة.",
+  "rawText": "أَمْعَنَ 4 <i>He</i> (a horse) <i>went far,</i> (S, Msb, K,) in his run. (S, Msb.) === Hence, أَمْعَنَ فِى الطَّلَبِ <i>He went very far in search:</i> (Msb:) or <i>he went far,</i> or <i>to a great</i> or <i>an extraordinary length, therein.</i> (Mgh.) === امعن فِى الشَّىْءِ, (Ham p. 817,) or فِى الأَمْرِ, (MA, K, Har p. 176,) <i>He went far,</i> (K, Ham, Har,) or <i>deep,</i> or <i>beyond bounds,</i> (MA,) <i>in,</i> or <i>into, the thing,</i> or <i>affair.</i> (Ham, &c.) === أَمْعَنَ لِى بِحَقِّى: see أَذَعْنَ.\nالمَعْنُ <i>The drawing</i> of water."
+}

@@ -1,0 +1,109 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--spacing-max);
+  width: 100%;
+}
+
+.page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  max-width: 100%;
+  margin: 0 auto;
+  /* Use smaller padding on mobile to maximize width, but add top padding to clear sticky toolbar */
+  padding: 3rem var(--spacing-small) var(--spacing-medium) var(--spacing-small);
+  position: relative;
+}
+
+@media only screen and (min-width: 768px) {
+  .page {
+    padding: var(--spacing-mega) var(--spacing-large);
+  }
+}
+
+.line {
+  text-align: center;
+  margin: 0 auto;
+  direction: rtl;
+  /* line-height controls the vertical space between Mushaf lines */
+  line-height: calc(var(--line-height, 1.8) * 0.8) !important;
+  /* Add padding to prevent cut off glyphs */
+  padding: 2px 0;
+}
+
+.mobileInline {
+  display: inline;
+  white-space: normal;
+  /* Allow wrapping on mobile for big text */
+}
+
+@media only screen and (min-width: 768px) {
+  .mobileInline {
+    display: block;
+    white-space: nowrap;
+    /* Restore nowrap for tablet/desktop */
+  }
+}
+
+.verseText {
+  display: flex;
+  flex-wrap: nowrap;
+  direction: rtl;
+  align-items: baseline;
+}
+
+.largeQuranTextLayout {
+  display: inline;
+}
+
+@media only screen and (min-width: 768px) {
+  .largeQuranTextLayout {
+    display: flex;
+  }
+}
+
+/* Kept for special cases/fallbacks per user request */
+.verseTextSpaceBetween {
+  justify-content: space-between !important;
+}
+
+.verseTextCenterAlign {
+  justify-content: center !important;
+}
+
+.fixedWidth {
+  width: var(--line-width, auto);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pageNumber {
+  font-size: var(--font-size-xsmall);
+  color: var(--color-text-muted);
+  font-weight: var(--font-weight-medium);
+  border-top: 1px solid var(--color-border-default, #e5e7eb);
+  padding-top: 0.25rem;
+  width: 100%;
+  text-align: center;
+  margin-top: 0.75rem;
+}
+
+
+
+.activeLine {
+  background-color: var(--color-active-line-bg, rgba(203, 149, 91, 0.08));
+  border-radius: 6px;
+  transition: background-color var(--transition-fast) ease;
+}
+
+.virtuosoScroller {
+  width: 100%;
+  max-width: 100%;
+}
+
+.virtuosoScroller :global([data-viewport-type="window"]) {
+  position: unset !important;
+}

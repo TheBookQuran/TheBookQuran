@@ -1,0 +1,26 @@
+{
+  "rootId": "r2087",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T18:01:00.335Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Neglect, leaving alone without purpose, shepherdless camels, or vanity",
+  "primaryMeaning": "Neglected/without purpose (Suda)",
+  "quranicRelevance": "Left neglected/purposeless (Sudan - 'yutraka sudan').",
+  "keyDerivations": [
+    {
+      "lemma": "سُدًى",
+      "form": "Noun/Adverb",
+      "meaning": "Neglected, left alone without purpose, shepherdless, or useless"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "أَيَحْسَبُ الْإِنْسَانُ أَنْ يُتْرَكَ سُدًى (75:36): Does man think that he will be left neglected/without purpose (without accountability or resurrection)?"
+  ],
+  "discardedNoise": [
+    "Sadd (dam/barrier) - S-D-D.",
+    "Asda' (cracks) - S-D-E."
+  ],
+  "summaryEn": "The root represents being neglected or left without purpose (Sudan), refuting the human assumption that one can live without moral commands or face no resurrection.",
+  "summaryAr": "يمثل هذا الجذر الترك والإهمال بغير فائدة كالماشية تترك بلا راع سدى (سدي)، سائلاً الإنسان مستنكراً ظنه أنه سيعفى من الحساب والبعث (أن يترك سدى).",
+  "rawText": "سدى <i>A bag,</i> or <i>other receptacle, for travellingprovisions</i> or <i>for goods</i> or <i>utensils &c.;</i> syn. وِعَآءٌ. (K.)"
+}

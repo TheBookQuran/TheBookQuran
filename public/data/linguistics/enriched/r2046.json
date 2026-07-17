@@ -1,0 +1,26 @@
+{
+  "rootId": "r2046",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:56:22.540Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Not ceasing, continuing, persisting in an action, or failing to stop",
+  "primaryMeaning": "Not ceasing/continuing",
+  "quranicRelevance": "You will not cease (Tafta'u - 'tafta'u tazkuru').",
+  "keyDerivations": [
+    {
+      "lemma": "فَتِئَ / يَفْتَأُ",
+      "form": "Form I Verb (Auxiliary)",
+      "meaning": "To not cease, continue, go on doing, or keep remembering (always negative context)"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "قَالُوا تَاللَّهِ تَفْتَأُ تَذْكُرُ يُوسُفَ حَتَّىٰ تَكُونَ حَرَضًا (12:85): They said: 'By God, you will not cease remembering/mentioning Joseph until you ruin your health!'"
+  ],
+  "discardedNoise": [
+    "Fata (young man/youth) - F-T-Y.",
+    "Fatwa (juristic ruling) - F-T-W."
+  ],
+  "summaryEn": "The root functions as an auxiliary verb meaning to persist without stopping (Fata'), capturing the family's exasperation at Jacob's endless mourning for Joseph.",
+  "summaryAr": "يمثل هذا الجذر الاستمرار وعدم الانقطاع والدوام على الشيء (فتا)، وارداً في تهكم إخوة يوسف بأبيهم يعقوب لعدم انقطاعه عن ذكره (تالله تفتأ تذكر يوسف).",
+  "rawText": "أَفْتَاَ 4 see the preceding paragraph, in two places.\nمَا فَتِئَ 1 , (Fr, * T, Msb, K,) aor. ﹷ, (Fr, T, Msb;) and ما فَتَأَ, [aor. ﹷ;] (K;) and ما فَتُؤَ, (Fr, * T, K,) aor. ﹹ; (Fr, T;) <i>He did not cease</i> [doing a thing; being incomplete, or non-attributive, verbs]; (T, Msb, K;) as also مَا 🡻أَفْتَأَ; (AZ, T, K;) this last of the dial. of Temeem; (AZ, T, M;) the first of the dial. of Keys and others: (AZ, T:) you say مَا فَتِئْتُ أَذْكُرُهُ, (AZ, T, S, O, Msb, *) or مَا فَتِئْتُ أَفْعَلُ, (M,) and ما فَتَأْتُ, (AZ, T, S, O, M,) aor. ﹷ, inf. n. فَتْءٌ (AZ, T, M) and فُتُوْءٌ; (M;) and ما فَتُؤْتُ, aor. ﹹ; (Fr, O;) and ما 🡻أَفْتَأْتُ; (AZ, T, S, M, O;) <i>I did not cease</i> [<i>remembering him,</i> or <i>doing</i> such a thing]: (AZ, T, S, M, O, Msb: *) these verbs are used only in negative phrases, in this sense; but sometimes the particle of negation is suppressed, it being, however, meant to be understood; (T, S, M;) as in تَٱللّٰهِ تَفْتَأُ تَذْكُرُ يُوسُفَ, (T, S, O, K,) in the Kur [xii. 85], (T, S, O,) meaning مَا تَفْتَأُ, (S, O, K,) thus in all the copies of the K [and in the S and O], but correctly لَا تَفْتَأُ, [i. e. <i>By God, thou wilt not cease remembering Joseph,</i>] accord. to all the grammarians and the expositors of the Kur-án: (TA:) for the oath that is not accompanied by the sign of affirmation denotes negation. (Bd in xii. 85.) === And فَتِئَ عَنْهُ, (O, K,) inf. n. فَتْءٌ, (O,) <i>He forgot it, and abstained,</i> or <i>desisted, from it;</i> (نَسِيَهُ وَٱنْقَدَعَ عَنْهُ, O, and so in some copies of the K; in other copies of the K انقذع or انفذغ; [both of which are evidently mistranscriptions;]) namely, an affair, or event: (O, TA:) or this is used only in negative phrases. (K.) ___ فَتَأَ, as a complete [i. e. an attributive] verb, signifies <i>He stilled, quieted,</i> or <i>made to cease,</i> syn. سَكَّنَ, or, as some say, (TA,) <i>he abated,</i> or <i>allayed,</i> syn. كَسَرَ, <i>and extinguished:</i> thus says Ibn-Málik, as on the authority of Fr; and it is correct: AHei has erred in charging him with having committed a mistake: (K, TA:) for he says that it is a mistranscription for فَثَأَ, with the three-pointed ث: it is mentioned also by IKoot and IKtt: and Fr states that one says, فَتَأْتُهُ عَنِ الأَمْرِ meaning <i>I made him to cease</i> (سَكَّنْتُهُ) <i>from the affair:</i> and فَتَأْتُ النَّارَ meaning <i>I extinguished the fire.</i> (TA.)"
+}

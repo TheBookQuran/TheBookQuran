@@ -1,0 +1,26 @@
+{
+  "rootId": "r2062",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:56:22.540Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Beard, facial whiskers, jawbone, or peeling/barking a tree",
+  "primaryMeaning": "Beard",
+  "quranicRelevance": "My beard (Lihyatee - 'la ta'khuz bilihyatee').",
+  "keyDerivations": [
+    {
+      "lemma": "لِحْيَةٌ",
+      "form": "Noun",
+      "meaning": "Beard, facial hair growing on the chin and jaws"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "قَالَ يَا ابْنَ أُمَّ لَا تَأْخُذْ بِلِحْيَتِي وَلَا بِرَأْسِي (20:94): '[Aaron] said: O son of my mother, do not seize [me] by my beard nor by my head!'"
+  ],
+  "discardedNoise": [
+    "Lahan (melody/musical error) - L-H-N.",
+    "Lahi (playing/distraction) - L-H-W."
+  ],
+  "summaryEn": "The root represents the beard (Lihyah), recording Aaron's plead to Moses not to pull his beard in anger over the golden calf incident.",
+  "summaryAr": "يشير هذا الجذر إلى شعر اللحية النابت على الذقن والخدين، وقشر الشجرة (لحي)، ملتمساً هارون من أخيه موسى أن يترك رأسه ولحيته غضباً.",
+  "rawText": "اِلْتَحَيْتُ اللَّحْمَ عَنِ العَظْمِ 8 [<i>I peeled off the flesh from the bone</i>]. (O, K, in art. سلق.)\nتَلَحَّى 5 , (S, Mgh,) and تلحّى بِعِمَامَتِهِ, (TA, art. عجر,) <i>He wound a part of his turban under his lower jaw:</i> (S, Mgh:) as also تَحَنَّكَ, q. v.\nلَحْىٌ [not لَحًى] The <i>jaw-bone;</i> (Mgh, Msb;) either <i>upper or lower:</i> (Msb:) and, in a man, (Msb,) the <i>part on which the beard grows.</i> (S, Msb, K.) === And sometimes <i>Either lateral portion of the lower jaw:</i> see ذَقَنٌ, and الفَنِيكُ.\nلَوَاحِى الشَّيْبِ , for لَوَائِحُ الشيب, q. v.\nلُحِىَ 1 : see a verse cited voce خَطَبَ. === لَحَاهُ ٱللّٰهُ: see شَرَاهُ.\nلِحَآءٌ <i>Bark;</i> and in particular the <i>bark</i> of a plant, or of a tree, <i>of which ropes &c. are made.</i> === The لِحَآء of the date is [its <i>Pulp, pulpy pericarp,</i> or <i>flesh;</i> i. e.] the <i>part that clothes the</i> نَوَاة [or <i>stone</i>]. (TA.) === لِحَآءُ العِنَبِ [<i>The skin of grapes</i>]. (TA in art. شحم.)\nلِحْيَةُ التَّيْسِ : see ثِيلٌ. === لِحْيَةٌ is sometimes, by a synecdoche, put for the whole <i>person:</i> see a verse cited voce خُنْثٌ.\nمَسْحُ اللُِّحَى : see عَقَّ بِالسَّهْمِ."
+}

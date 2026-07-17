@@ -1,0 +1,31 @@
+{
+  "rootId": "r546",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:13:34.921Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Shoving, repelling violently, pushing away, shouting, or driving",
+  "primaryMeaning": "Shoving/repelling violently",
+  "quranicRelevance": "Shoving the orphan (Yadu'u - 'yadu'u al-yateema'), and shoved violently into Hell ('yuda'oona... da'an').",
+  "keyDerivations": [
+    {
+      "lemma": "دَعَّ / يَدُعُّ",
+      "form": "Form I Verb",
+      "meaning": "To shove, push violently, repel with force, bounce, or drive away"
+    },
+    {
+      "lemma": "دَعٌّ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Violent shoving, pushing, driving away, or harsh expulsion"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "يَوْمَ يُدَعُّونَ إِلَىٰ نَارِ جَهَنَّمَ دَعًّا (52:13): The Day they will be shoved/pushed violently into the fire of Hell (physical violence of judgment)."
+  ],
+  "discardedNoise": [
+    "Calling out (Da'a) - belonging to d-'-w, distinct spelling/meaning.",
+    "Modern wrestling shoves."
+  ],
+  "summaryEn": "The root represents violent shoving (Da'a), linking the societal crime of pushing away (Yadu'u) orphans with the eschatological punishment of being shoved into Hell.",
+  "summaryAr": "يمثل هذا الجذر الدفع الشديد بعنف وفظاظة (دعّ)، رابطاً جريمة طرد وإبعاد يتيم الميراث والضعف (يدعّ اليتيم)، بعقوبة دفع الكفار لجهنم عنفاً.",
+  "rawText": "دَعَّهُ 1 , aor. ﹹ, (S, Z,) inf. n. دَعٌّ, (S, K,) <i>He pushed him, thrust him,</i> or <i>drove him, away; he repelled him:</i> (S:) or <i>he did so harshly, roughly,</i> or <i>violently.</i> (A'Obeyd, K.) Hence, in the Kur [cvii. 2], فَذٰلِكَ الَّذِى يَدُعُّ اليَتِيمَ <i>That is he who pusheth, thrusteth,</i> or <i>driveth, away the orphan:</i> (S:) or, <i>who doth so harshly, roughly,</i> or <i>violently:</i> (Bd, Jel:) or, <i>who treateth the orphan with harshness, roughness,</i> or <i>violence; pushing, thrusting,</i> or <i>driving, away; and chiding with rudeness,</i> or <i>coarseness.</i> (Z, TA.) And in like manner, in the same [lii. 13], يَوْمَ يُدَعُّونَ إِلَى نَارِ جَهَنَّمَ دَعًّا <i>On the day when they shall be pushed,</i> or <i>thrust,</i> or <i>driven, with harshness, roughness,</i> or <i>violence, to the fire of Hell.</i> (A 'Obeyd, Bd, Jel, TA.) And in a trad. of Esh-Shaabee, كَانُوا لَا يُدَعُّونَ عَنْهُ <i>They used not to be driven, nor pushed,</i> or <i>repelled, from it.</i> (TA.)"
+}

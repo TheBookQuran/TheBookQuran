@@ -1,0 +1,26 @@
+{
+  "rootId": "r520",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:06:09.694Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Failure, disappointment, loss, despair, defeat, or void",
+  "primaryMeaning": "Failure/defeat",
+  "quranicRelevance": "Failing/losing completely (Khaba - 'wa qad khaba man hamala thulman', 'wa qad khaba man iftara').",
+  "keyDerivations": [
+    {
+      "lemma": "خَابَ / يَخِيبُ",
+      "form": "Form I Verb",
+      "meaning": "To fail, be disappointed, lose, lose hope, or be defeated"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَخَابَ كُلُّ جَبَّارٍ عَنِيدٍ (14:15): And every obstinate tyrant failed/was defeated (the historical collapse of arrogance)."
+  ],
+  "discardedNoise": [
+    "Modern disappointment counseling models.",
+    "Obscure details of dry wood pieces failing to spark fire (خيبة)."
+  ],
+  "summaryEn": "The root represents total failure (Khaybah), describing the inevitable collapse of oppressors, liars, and tyrants before the judgment of history.",
+  "summaryAr": "يمثل هذا الجذر الخيبة والخسار التام، واصفاً الانهيار والخسار الحتمي للمفترين والظالمين (وقد خاب)، وكسر عروش الجبابرة (وخاب كل جبار).",
+  "rawText": "خيّبهُ 2 , (S, A, Msb, K,) inf. n. تَخْيِيبٌ, (S,) <i>He</i> (God, A, Msb, K, or a man, S) <i>disappointed him;</i> or <i>caused him to be disappointed of at taining what he desired</i> or <i>sought, to be balked, to be unsuccessful,</i> or <i>to fail of attaining his desire:</i> (S, Msb:) <i>he denied him, refused him, prohibited him from attaining,</i> or <i>debarred him from, that which he desired</i> or <i>sought.</i> (A, K.)\nخَائِبٌ part. n. of 1. (Msb, TA.) ___ خَائِبِكَ and بِخَائِبِكَ: see خَآءَ بِكَ in art. خوأ.\nخَابَ 1 , (S, A, Msb, K, &c.,) aor. يَخِيبُ (Msb, K) and يَخُوبُ, (TA,) inf. n. خَيْبَةٌ, (S, Msb, K,) <i>He</i> (a man, S) <i>was disappointed of attaining what he desired</i> or <i>sought; was balked; was unsuccessful; failed of attaining his desire:</i> (S, Msb, K:) <i>he was denied, refused, prohibited from attaining,</i> or <i>debarred from, what he desired</i> or <i>sought.</i> (A, K.) You say, مَنْ هَابَ خَابَ [<i>He who fears will be disappointed</i>]. (A, TA.) And خَابَ سَعْيُهُ وَأَمَلُهُ [<i>His labour, and his hope,</i> or <i>expectation, resulted in disappointment; were disappointed, balked,</i> or <i>frustrated;</i>] <i>he attained not what he sought</i> or <i>desired.</i> (A, TA.) [See also خَيْبَةٌ, below.] === Also <i>He suffered loss.</i> (K.) === And <i>i. q.</i> كَفَرَ [<i>He disbelieved;</i> or <i>be came an unbeliever,</i> or <i>infidel;</i> &c.]. (K.)\nخَيْبَةٌ inf. n. of 1 [q. v.]. (S, Msb, K.) It is said in a prov., (S, Msb, K,) الهَيْبَةٌ خَيْبَةٌ [<i>Fear is</i> a cause of <i>disappointment</i>]. (S, A, Msb, K.) And one says, خَيْبَةً لِزَيْدٍ [May God send <i>dis appointment to Zeyd</i>], and خَيْبَةٌ لِزَيْدٍ [<i>Disappointment</i> be <i>to,</i> or befall, <i>Zeyd</i>]: (S, K:) خيبة in the former instance being in the accus. case as governed by a verb understood; and in the latter, in the nom. case as an inchoative: (S:) each being a form of imprecation. (K.)\nقَدْحٌ خَيَّابٌ ‡ [<i>An endeavour to produce fire</i> with a زَنْد] <i>that does not produce fire</i> (لَايُورِى). (A, K. * [In some copies of the K, for قَدْح, we find قِدْح. Golius explains خَيَّابٌ as meaning <i>ignitabulum fallens, quod non excudit semina ignis:</i> but I cannot anywhere find قَدْحٌ or قِدْحٌ in the sense which he assigns to one of these words, which is that of مِقْدَحَةٌ &c.]) === In the following verse, quoted by Th, <center> <h3> اُسْكُتْ وَلَا تَنْطِقْ فَأَنْتَ خَيَّابْ </h3> <h3> كُلُّكَ ذُو عَيْبٍ وَأَنْتَ عَيَّابٌ </h3> </center> حيّاب may be [an epithet] of the measure فَعَّال from الخَيْبَةُ; [so that the meaning may be † <i>Be thou silent, and speak not, for thou art habitually unsuccessful; thou art altogether vitious,</i> or <i>faulty, and thou art a great imputer of vices,</i> or <i>faults, to others;</i>] or the person there men tioned may be meant to be likened to the قدح above mentioned. (TA.) === One says also, سَعْيُهُ فِى خَيَّابِ بْنِ هَيَّابٍ ‡ <i>His labour</i> [has ended, or ends, or will end,] <i>in loss.</i> (A, K.)\nقِدْحٌ أَخْيَبُ † <i>An arrow of those employed in the game called</i> المَيْسِر, <i>to which no lot,</i> or <i>portion, pertains:</i> for there are three such arrows; namely, the مَنِيح, the سَفِيح, and the وَغْد: occurring in a trad. of 'Alee. (TA.)\nوَقَعُوا فِى وَادِى تُخُيِّبَ , (Ks, S, A, K, but in the last وَقَعَ,) and تُخَيِّبَ, (A, K,) the last word being imperfectly decl. [in each of these instances], (Ks, S, A, K,) meaning فِى البَاطِلِ [i. e. <i>They fell into that which was vain, unreal, nought, futile,</i> or <i>the like,</i> and consequently, <i>into disappointment</i>], (Ks, S, K,) or فى بَاطِلٍ [<i>into a state of things that was vain,</i> &c.]. (A.)"
+}

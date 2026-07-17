@@ -1,0 +1,26 @@
+{
+  "rootId": "r1556",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:52:16.826Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Strength, might, craft, plotting, punishment, or severe retribution",
+  "primaryMeaning": "Severe strength/retribution",
+  "quranicRelevance": "Severe in strength/might (Al-mihal - 'shadedu al-mihali').",
+  "keyDerivations": [
+    {
+      "lemma": "مِحَالٌ",
+      "form": "Noun",
+      "meaning": "Might, power, punishment, craft, plotting, or severe retribution"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَهُوَ شَدِيدُ الْمِحَالِ (13:13): And He is severe in might/strength (or plotting/retribution against disbelievers)."
+  ],
+  "discardedNoise": [
+    "Mahall (place/location) - distinct root M-H-L (different letter form).",
+    "Mihal (drought years) - common classical meaning but secondary here."
+  ],
+  "summaryEn": "The root refers to absolute might or retribution (Mihal), highlighting God's severe power to punish mockers who dispute His signs.",
+  "summaryAr": "تشير مادة هذا الجذر إلى القوة والقدرة الشديدة والمكر بالعصاة وعقوبتهم بما يستحقون (محل)، واصفاً بأس الله الشديد بالـ (محال) ضد المعاندين.",
+  "rawText": "أَمْحَلَتِ النُّجُومُ 4 <i>The stars set aurorally and brought no rain.</i> (S, K * in art. خوى.)\nتَمَحَّلْتُ مَالًا بِغَيْرِ ثَمَنٍ 5 <i>I laboured to acquire property without price:</i> (Msb:) or, accord. to Az, تَمَحَّلَ مَالًا means <i>he laboured,</i> and <i>exercised art</i> or <i>management, in seeking</i> [<i>to acquire</i>] <i>property.</i> (TA.) See also تَعَلَّثَ.\nلَبَنٌ مُمَحَّلٌ <i>Sour milk upon which much fresh is milked:</i> see قَارِصٌ.\nمَحَالَةٌ : see art. حول; and see also فَوْهَآءُ voce أَفْوَهُ, and فَوْقَآءُ voce أَفْوَقُ, and قَبٌّ.\nمَحْلٌ <i>Drought,</i> or <i>suspension of rain,</i> (S, K, Msb in art. جدب,) <i>and dryness of the earth</i> (S, Msb ubi suprà) <i>depriving it of herbage;</i> (S, TA;) and <i>i. q.</i> جَدْبٌ. (K.)\nمُتَمَاحِلٌ : see رَدَاحٌ."
+}

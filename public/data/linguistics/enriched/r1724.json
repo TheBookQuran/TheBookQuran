@@ -1,0 +1,26 @@
+{
+  "rootId": "r1724",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:21:37.831Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Turning back, retreating on heels, recoil, escape, or fail",
+  "primaryMeaning": "Retreating/recoiling on one's heels",
+  "quranicRelevance": "Recoiling on heels (Nakasa - 'nakasa 'ala 'aqibayhi', 'tankisoon').",
+  "keyDerivations": [
+    {
+      "lemma": "نَكَصَ / يَنْكُصُ",
+      "form": "Form I Verb",
+      "meaning": "To retreat, recoil on one's heels, turn back in fear, run away, or double back"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فَلَمَّا تَرَاءَتِ الْفِئَتَانِ نَكَصَ عَلَىٰ عَقِبَيْهِ وَقَالَ إِنِّي بَرِيءٌ مِنْكُمْ (8:48): But when the two forces came in sight of each other, he (Satan) recoiled/turned back on his heels and said: 'Indeed, I am disassociated from you' (Satan fleeing Badr)."
+  ],
+  "discardedNoise": [
+    "Breaking promises.",
+    "Retreating signals of military tanks."
+  ],
+  "summaryEn": "The root represents recoiling and retreating (Nokoos), detailing Satan's sudden flight and retreat on his heels at Badr, and pagans turning back from listening to verses.",
+  "summaryAr": "يمثل هذا الجذر الرجوع القهقري للخلف والارتداد السريع فزعاً (نكص)، مصوراً فرار الشيطان متراجعاً على عقبيه ببدر، وإعراض الكفار عن الآيات.",
+  "rawText": "إِنْتَكَصَ 8 see above.\nحَظُّهُ نَاقِصٌ وَجَدُّهُ نَاكصٌ ‡ [<i>His lot,</i> or <i>portion, is decreasing,</i> or <i>deficient, and his good fortune is receding</i>]. (A, TA.)\nمَنْكَصٌ , (O, B, K,) like مَقْعَدٌ, (TA,) [in the CK, erroneously, مُنَكَّص,] <i>A place to which one removes, withdraws,</i> or <i>retires afar off,</i> syn. مُتَنَحًّى. (O, B, K.) El-Aashà says, praising 'Alkamah Ibn-'Olátheh, <center> <h3> أَعَلْقَمُ قَدْ جَبَرَتْنِى الأُمُورُ </h3> <h3> إِلَيْكَ وَمَا كَانَ لِى مَنْكَصُ </h3> </center> [<i>O 'Alkamah, affairs have compelled me to have recourse to thee, and there was not for me any place to which to retire.</i> (TA.)\nنَكَصَ عَنِ الأَمْرِ 1 , (A, K,) [aor. ﹻ, and sometimes ﹹ, as will be shown below,] inf. n. نُكُوصٌ (S, IF, A, Msb, K) and نَكُصٌ (A, K) and مَنْكَصٌ (K) and نَكَصَانٌ, (MA,) <i>He receded, retired,</i> or <i>drew back from the thing,</i> or <i>affair, refrained, forbore, abstained,</i> or <i>desisted, from it; recoiled from it, shrank from it,</i> or <i>drew back from it in awe</i> or <i>fear;</i> (S, IF, A, Msb, K;) as also نَكَثَ عَنْهُ. (Aboo-Turáb, TA.) You say also, نَكَصَ عَلَى عَقِبَيْهِ, (S, Msb, K,) or على عَقِبِهِ, (A,) aor. ﹹ (S, Msb) and ﹻ, (S,) or the latter only, (Sgh, TA,) or the former is allowable, (Zj, TA,) <i>He turned back from a thing to which he had applied himself;</i> (IDrd, S, * A, * Msb, * K, TA;) meaning a good thing; and sometimes an evil thing; (IDrd, TA;) or meaning particularly a good thing; or extr. with respect to an evil thing. (K.) [See the Kur, xxiii. 68.] Hence 🡻انتكص [as syn. with نكص], though we have not heard it. (Mgh.)"
+}

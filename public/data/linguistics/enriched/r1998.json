@@ -1,0 +1,32 @@
+{
+  "rootId": "r1998",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:05:27.741Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Inspiration, rapid sign, revealing, or whispering",
+  "primaryMeaning": "To inspire or reveal",
+  "quranicRelevance": "Divine revelation (Wahy) to prophets, natural instinct/inspiration (e.g. to bees, Moses' mother), and whispering of devils ('yoohna').",
+  "keyDerivations": [
+    {
+      "lemma": "وَحْيٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Revelation, inspiration, or sign"
+    },
+    {
+      "lemma": "أَوْحَى",
+      "form": "Form IV Verb",
+      "meaning": "To reveal, inspire, point, or whisper"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "أَوْحَى إِلَيْهِمْ أَنْ سَبِّحُوا (19:11): He signaled/indicated to them to glorify God.",
+    "يُوحِي بَعْضُهُمْ إِلَى بَعْضٍ (6:112): Whispering/suggesting to one another (devils)."
+  ],
+  "discardedNoise": [
+    "Writing or inscriptions on stone (وحي).",
+    "Obscure details of natural insect sounds."
+  ],
+  "summaryEn": "The root denotes quick indication and revelation, representing divine communication to prophets (Wahy), animal instincts, and malicious whispers.",
+  "summaryAr": "يدل هذا الجذر على الإشارة السريعة والوحي، ممثلاً الاتصال الإلهي بالأنبياء (وحي)، والغرائز الحيوانية، والوسوسة الشيطانية.",
+  "rawText": "أَوْحَى إِلَيْهِ 4 <i>He</i> (God) <i>revealed to him;</i> or <i>spake,</i> or <i>made known, to him by revelation</i> === Also, <i>He suggested to him;</i> or <i>put into his mind.</i> (Mughnee voce أَنْ.)\nالوَحَآءَ الوَحَآءَ [Make thou] <i>haste;</i> or <i>haste to be first,</i> or <i>before,</i> or <i>beforehand: haste;</i> &c. (S, TA.)\nفِى أَوْحَى مُدَّةٍ <i>In the shortest period:</i> see an ex. in the first paragraph of art. ثقف.\nوَحِىٌّ <i>Hasty;</i> (K;) <i>quick;</i> (S, Mgh, Msb, K; applied in this sense to death. (S, Mgh, Msb.)"
+}

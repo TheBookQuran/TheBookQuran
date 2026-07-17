@@ -1,0 +1,26 @@
+{
+  "rootId": "r919",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T18:16:55.520Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Smoke-free flame, burning heat, flame of fire, or sparks",
+  "primaryMeaning": "Flame of fire (Shawaz)",
+  "quranicRelevance": "A flame of fire (Shuwazun - 'yursalu 'alaykuma shuwazun').",
+  "keyDerivations": [
+    {
+      "lemma": "شُوَاظٌ",
+      "form": "Noun",
+      "meaning": "Flame of fire, smoke-free hot flame, or burning heat"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِنْ نَارٍ وَنُحَاسٌ فَلَا تَنْتَصِرَانِ (55:35): There will be sent upon you both a flame of fire and smoke/copper, and you will not defend yourselves."
+  ],
+  "discardedNoise": [
+    "Sheeyah (flaw/spot) - spelling confusion.",
+    "Shawa (to grill) - Sh-W-Y."
+  ],
+  "summaryEn": "The root refers to a pure, smoke-free flame of fire or intense burning heat (Shuwaz), sent down as an inescapable apocalyptic punishment upon humans and jinn who rebel against God.",
+  "summaryAr": "يمثل هذا الجذر لهب النار الخالص الذي لا دخان فيه، والحر اللافح الشديد (شوظ)، متوعداً الإنس والجن بعقوبة مرسلة من شواظ نار ونحاس مذاب.",
+  "rawText": "شُوَاظٌ and شِوَاظٌ, (S, K, &c., [but in one copy of the S, I find only the former, which is the more common,]) occurring in the Kur [lv. 35], where Ibn-Ketheer read شِوَاظٌ, (TA,) <i>Flame</i> (S, Bd, Jel, K) <i>without smoke:</i> (S, Jel, K:) or <i>smoke</i> of fire: and <i>heat</i> of fire: (ISh, K:) and <i>heat</i> of the sun: (K, TA:) or <i>a piece of fire in which is no smoke:</i> or <i>flame of fire:</i> or only <i>of fire and something mixed therewith.</i> (L.) === [And hence,] ‡ <i>Vehemence of thirst:</i> (K, TA:) or simply, <i>thirst.</i> (A, TA.) You say, جَمَلٌ بِهِ شواظٌ ‡ <i>A thirsting camel.</i> (A, TA.) === And ‡ <i>Clamour.</i> (K, TA.)"
+}

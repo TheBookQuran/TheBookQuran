@@ -1,0 +1,26 @@
+{
+  "rootId": "r1453",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:21:37.831Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Blind from birth, blind state, obscure, or dark",
+  "primaryMeaning": "Blind from birth",
+  "quranicRelevance": "Jesus healing the blind from birth (Akmah - 'al-akmaha wal-abrasa').",
+  "keyDerivations": [
+    {
+      "lemma": "أَكْمَهُ",
+      "form": "Adjective (singular)",
+      "meaning": "Blind from birth, congenital blindness, or one born without sight"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَأُبْرِئُ الْأَكْمَهَ وَالْأَبْرَصَ وَأُحْيِي الْمَوْتَىٰ بِإِذْنِ اللَّهِ (3:49): And I heal the blind from birth and the leper, and give life to the dead by permission of God (Jesus' biological miracles)."
+  ],
+  "discardedNoise": [
+    "Obscurity of paths in dark nights (Kamah).",
+    "Staring blankly in surprise."
+  ],
+  "summaryEn": "The root represents congenital blindness (Kamah), detailing Jesus' miracle of restoring sight to those born completely blind (Akmah) by divine decree.",
+  "summaryAr": "يمثل هذا الجذر العمى الخلقي الملازم للمولود من بطن أمه (كمه)، مخلداً إعجاز عيسى الطبي بشفاء المولود أعمى (الأكمه) بإذن الله.",
+  "rawText": "أَرْضٌ كَمْهَآءٌ <i>i. q.</i> مُغِمَّةٌ and مِغَمَّةٌ. (TA in art. غم.)"
+}

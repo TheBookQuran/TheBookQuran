@@ -1,0 +1,42 @@
+{
+  "rootId": "r1801",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:20:57.876Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Humility, ease, meanness, gentleness, or lowliness",
+  "primaryMeaning": "Gentle ease or meanness/humiliation",
+  "quranicRelevance": "Walking with gentleness/humility (Hawn - 'yamshoona 'ala al-ardhi hawnan'), and humiliating punishment (Hoon / Muheen).",
+  "keyDerivations": [
+    {
+      "lemma": "هَوْنٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Gentleness, ease, dignity, or humility"
+    },
+    {
+      "lemma": "هَوَانٌ / هُونٌ",
+      "form": "Noun",
+      "meaning": "Disgrace, humiliation, meanness, or contempt"
+    },
+    {
+      "lemma": "أَهَانَ",
+      "form": "Form IV Verb",
+      "meaning": "To humiliate, despise, or treat with contempt"
+    },
+    {
+      "lemma": "مُهِينٌ",
+      "form": "Adjective / Active part.",
+      "meaning": "Humiliating, degrading, or disgraceful"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "عَلَى هُونٍ أَمْ يَدُسُّهُ فِي التُّرَابِ (16:59): With disgrace/shame or bury it in the dust (of female infanticide).",
+    "يَمْشُونَ عَلَى الأَرْضِ هَوْنًا: They walk upon the earth with gentleness/humility."
+  ],
+  "discardedNoise": [
+    "Post-classical idioms on easy solutions.",
+    "Specific details of social classes."
+  ],
+  "summaryEn": "The root holds branches of gentle dignity (Hawn) and severe disgrace (Hoon), describing the walk of believers and the humiliating punishment of Hell (Muheen).",
+  "summaryAr": "يحمل هذا الجذر معاني اللين والوقار (هَوْن) والذل والهوان (هُون)، واصفاً مشي عباد الرحمن وعذاب الكافرين المخزي (مهين).",
+  "rawText": "أَهَاهَهُ 4 , and 🡻اِسْتَهَانَبِهِ, and 🡻تَهَاوَنَبِهِ, <i>He held him in light,</i> or <i>little,</i> or <i>mean, estimation, or in contempt; despised him; made light of him</i> or <i>it.</i> (S, K, &c.) === أَهَانَهُ <i>He lowered,</i> or <i>abased, him; debased him; rendered him abject, vile, mean, paltry, contemptible, despicable, or ignominious.</i>\nأَهْوَنُ in the sense of هَيِّنٌ: see أَكْبَرُ. See also an ex. voce بَصِيرَةٌ; and another voce بَعْرٌ.\nإِسْتَهْوَنَ 10 see 4.\nبَعِيرٌ مُهَانٌ عَلَى أَهْلِهِ [<i>A camel held in mean estimation by his owner</i>]. (TA, art. دفع.)\nتَهَاْوَنَ 6 see 4.\nعلى هِيْنَتَكِ <i>at their ease.</i>\nهَانَ 1 , inf. n. هَوَانٌ and هُونٌ (Msb, K) and مَهَانَةٌ, (K,) <i>He,</i> or <i>it, was,</i> or <i>became, low, base, vile, abject, mean, paltry, contemptible, despicable, ignominious, inglorious,</i> and <i>weak;</i> syn. ذَلَّ, (Msb, K,) and حَقُرَ, (Msb,) and ضَعُفَ. (TA.) === هَانَ عَلَيْهِ [<i>It was of light estimation to him</i>] <i>It</i> (a thing) <i>was</i> [<i>easy and</i>] <i>light to him.</i> (TA.) === هَانَ also, <i>He,</i> or <i>it, was,</i> or <i>became, gentle,</i> and <i>easy.</i> (Msb.)\nهَوَّنَهُ عَلَيْهِ 2 <i>He</i> (God) <i>made it easy and light to him.</i> (K, * TA.) === هَوِّنِى الأَمْرَ وَلاَ تَحْزَنِيى لَهُ [<i>Make thou the case,</i> or <i>affair, light,</i> or <i>easy;</i> i. e., <i>regard it lightly; and do not grieve for it</i>]. (TA, art. خفض.)\nهَيِّنٌ : see هَيْنٌ.\nهَيْنٌ and 🡻هَيِّنٌ <i>Easy:</i> (S, Msb, K:) and the latter <i>of light estimation, paltry, despicable.</i> (K, * TA.)"
+}

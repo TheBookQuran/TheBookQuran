@@ -1,0 +1,37 @@
+{
+  "rootId": "r612",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:29:55.134Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Waiting, expectation, delay, trap, or watching",
+  "primaryMeaning": "To wait or watch/expect",
+  "quranicRelevance": "Waiting/holding back (Tarabbus - 'fatarabbasoo hatta ya'tiya Allahu bi-amrihi'), waiting period of divorced women (three menstrual cycles), and expecting evil for others (Mutarabbisoon).",
+  "keyDerivations": [
+    {
+      "lemma": "تَرَبَّصَ",
+      "form": "Form V Verb",
+      "meaning": "To wait, expect, tarry, watch for, or look for trouble"
+    },
+    {
+      "lemma": "تَرَبُّصٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Waiting, waiting period, or expectation"
+    },
+    {
+      "lemma": "مُتَرَبِّصُونَ",
+      "form": "Noun / Active part. pl.",
+      "meaning": "Waiting ones, or those who expect/lurk"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "تَرَبُّصُ ثَلَاثَةِ قُرُوءٍ (2:228): Waiting period of three monthly courses (prescribed divorce wait).",
+    "قُلْ تَرَبَّصُوا فَإِنِّي مَعَكُمْ مِنَ المُتَرَبِّصِينَ: Say, wait, for indeed I am with you among those who wait."
+  ],
+  "discardedNoise": [
+    "Lurking of predators in animal hunting.",
+    "Market speculations of price dynamics."
+  ],
+  "summaryEn": "The root represents expectant waiting, covering the legal post-divorce waiting period (Tarabbus) and the hostile expectations of enemies.",
+  "summaryAr": "يمثل هذا الجذر الانتظار والتربص، مغطياً العدة الشرعية للمطلقة (تربص)، وتربص الأعداء وتآمرهم للدوائر.",
+  "rawText": "تربّص 5 <i>He expected;</i> or <i>awaited:</i> (S:) <i>he tarried;</i> or <i>tarried expecting.</i> (IAth.) You say تربّص الأَمْرَ <i>He looked for, expected, awaited,</i> or <i>waited for, the thing,</i> or <i>event.</i> (Msb.) And تربّص بِهِ الشَّىْءَ, (M,) or الأَمْرَ, (Msb,) <i>He looked for, expected, awaited,</i> or <i>waited for, the thing,</i> or <i>event, to befall him,</i> or <i>betide him.</i> (M, Msb.) It is said in the Kur [ix. 52], هَلْ تَرَبَّصُونَ بِنَا إِلَّا إِحْدَى ٱلْحُسْنَيَيْنِ [<i>Do ye look for,</i> &c., aught <i>save one of the two best things</i> (namely victory or martyrdom) <i>to betide us?</i>]. (M.) And a poet says, <center> <h3> تَرَبَّصْ بِهَا رَيْبَ المَنُونِ لَعَلَّهَا </h3> <h3> تُطَلَّقُ يَوْمًا أَوْ يَمُوتُ حَلِيلُهَا </h3> </center> [<i>Wait thou for the vicissitudes of fortune to befall her: perhaps she may be divorced some day,</i> or <i>her husband may die</i>]. (TA.) You say also, تربّص بِسِلْعَتِهِ الغَلَآءَ [<i>He looked for,</i> &c., a time of <i>dearness for his commodity,</i> or <i>article of merchandise</i>]. (A.) And, [elliptically,) تربّص بِفُلَانٍ, (K,) or بِالشَّىْءِ; (M;) and 🡻رَبَصَبِهِ, (M, A, K,) aor. ﹹ, (TK,) inf. n. رَبْصٌ; (M, A, K;) <i>He looked for, expected, awaited,</i> or <i>waited for,</i> [<i>something</i>] good or evil <i>to befall,</i> or <i>betide,</i> (M, A, K,) <i>such a one,</i> (A, K,) or <i>the thing:</i> (M:) or تربًّ بِالشَّىْءَ signifies <i>he looked for, expected, awaited,</i> or <i>waited for, a day for the thing.</i> (Lth.)\nرَبَصَ بِفُلَانٍ 1 , or بِالشَّىْءِ: see 5. ___ رَبَصَنِى (K) <i>A thing,</i> or <i>an affair,</i> or <i>an event, put me in expectation.</i> (TA.)\nرُبْصَةٌ <i>An expecting; an awaiting; a waiting:</i> (AHát, S, A, Msb, K:) <i>a tarrying;</i> or <i>tarrying in expectation.</i> (M.) You say, لِى فِى مَتَاعِى رُبْصَةٌ [<i>I have</i> to endure <i>an expecting,</i> &c., <i>with respect to my goods,</i> or <i>commodities;</i> app. meaning, I have to wait for a favourable opportunity to sell them]. (S, A.) And لِى بِالبَصْرَةِ رُبْصَةٌ [<i>I have</i> to endure <i>an expecting,</i> or <i>a waiting, in ElBasrah</i>]. (AHát, A.) And لِى عَلَى هٰذَا الأَمْرِ رُبْصَةٌ [<i>I have</i> to endure <i>a tarrying,</i> or <i>a tarrying in expectation, for,</i> or <i>on account of, this thing,</i> or <i>affair</i>]. (M.) === Also The <i>period that is assigned to a husband when he has been pronounced incapable of sexual intercourse with his wife; so that if he go in to her</i> [<i>it is well with him, and he remains her husband</i>]; <i>but if not, a separation is made between them:</i> so in the saying, أَقَامَتِ ٱلْمَرْأَةُ رُبْصَتَهَا فِى بَيْتِ زَوْجِهَا [<i>The woman abode during the period so assigned to her husband in the house,</i> or <i>tent, of her husband</i>]. (ISk, K.) [In like manner رُبْضَةٌ (perhaps a mistranscription) is explained in the A and TA in art. ربض: and the period is there said to be a year.]\nمَرْبُوصٌ , applied to a man, (K,) <i>Put in expectation.</i> (TK.)\nمُتَرَبِّصُ One <i>who withholds,</i> or <i>collects and withholds,</i> wheat or the like, <i>waiting for a time of dearness;</i> syn. مُحْتَكرٌ. (S.)"
+}

@@ -1,0 +1,53 @@
+{
+  "rootId": "r831",
+  "source": "lanes",
+  "enrichedAt": "2026-06-29T23:32:01.656Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Loftiness, height, or designation",
+  "primaryMeaning": "To rise, be high, or to name",
+  "quranicRelevance": "Associated with the physical and conceptual heights, most prominently (Sama') referring to the sky or heavens. It is also the source of (Ism), representing names or attributes, notably the Divine Names of Allah, and (Samiyy) meaning namesake or equal.",
+  "keyDerivations": [
+    {
+      "lemma": "سَمَاءٌ",
+      "form": "Noun",
+      "meaning": "Sky, heaven, or rain"
+    },
+    {
+      "lemma": "اِسْمٌ",
+      "form": "Noun",
+      "meaning": "Name, designation, or attribute"
+    },
+    {
+      "lemma": "سَمِيٌّ",
+      "form": "Noun / Adjective",
+      "meaning": "Namesake, equal, or worthy of the name"
+    },
+    {
+      "lemma": "سَمَا",
+      "form": "Form I Verb",
+      "meaning": "To rise, ascend, or be high"
+    },
+    {
+      "lemma": "أَسْمَى",
+      "form": "Form IV Verb",
+      "meaning": "To raise, elevate, or to name"
+    },
+    {
+      "lemma": "تَسَمَّى",
+      "form": "Form V Verb",
+      "meaning": "To name oneself, or be named"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "السَّمَاوَة: The form, figure, or distant aspect of a thing.",
+    "اسْتَمَى (Form VIII): A hunter wearing protective socks to hunt gazelles in extreme heat."
+  ],
+  "discardedNoise": [
+    "Detailed dialectal variants of the word name such as (سِم، سُم، سمًا).",
+    "Testing a she-camel for pregnancy after fourteen nights.",
+    "Es-Semáweh, a well-known desert region."
+  ],
+  "summaryEn": "The root relates to height and elevation, which conceptually links the physical sky with the act of naming, as a name elevates a thing into recognition.",
+  "summaryAr": "يرتبط هذا الجذر بالارتفاع والعلو، وهو ما يربط مفهومياً بين السماء المادية وفعل التسمية، حيث يرفع الاسم الشيء ويجعله معروفاً.",
+  "rawText": "استسمى 10 [or استسمى فُلَانًا, the word فلانا having app. been inadvertently omitted by a copyist,] <i>He asked,</i> or <i>demanded, his</i> [or <i>such a one's</i>] <i>name.</i> (TA.)\nاستمى 8 <i>He</i> (a hunter, or sportsman, [الصّاعِدُ in the CK being a mistranscription for الصَّائِدُ,]) <i>attired himself with the socks,</i> or <i>stockings, called</i> مِسْمَاة, (M, K, TA,) <i>to protect himself from the heat of the burning ground,</i> (TA,) <i>for the hunting of gazelles, in the time of heat.</i> (M.) And (M, in the K “ or ”) استماهُ <i>He asked of him the loan of the socks,</i> or <i>stockings, above named, for that purpose,</i> (M, K, *) i. e. <i>for the hunting of gazelles at midday.</i> (TA.) And استمى, (M, CK,) or استمى الظِّبَآءَ, (so in some copies of the K and in the TA,) <i>He sought,</i> or <i>pursued, the gazelles in their caves,</i> or <i>hiding-places,</i> (فَى غِيرَانِهَا, M, and so in copies of the K, by the غِيرَان being meant the كُنُس, M,) or <i>in what was not their time,</i> or <i>season,</i> (فِى غَيْرِ ٱنِهَا, thus in some copies of the K,) <i>at the auroral rising of Canopus</i> (سُهَيْل [which rose aurorally, in Central Arabia, about the commencement of the era of the Flight, on the 4th of August, O. S.]): (M, K:) so says IAar. (M.) [Freytag says, on the authority of scholia to the Deewán of Jereer, as follows: In the time of the greatest heat, they drive out a wild animal repeatedly from its hiding-place, permitting it to return thither at night, when, thus disturbed, it does not issue from its place; in order that they may be able to strike it.] === And <i>He hunted,</i> or <i>chased, wild animals.</i> (M.) === See also 1, latter part, in two places. === And see 4. ___ اِسْتَمَيْتُهُ also signifies <i>I made him the object of a visit:</i> or <i>I perceived in him good,</i> or <i>goodness, by a right opinion formed from its outward signs.</i> (K.) === And استماهُ <i>He chose it, took it in preference,</i> or <i>selected it.</i> (IAar, L voce اِقْتَرَحَ.) === And IAar mentions the saying, البَكْرَةُ مِنَ الإِبِلِ تُسْتَمَى بَعْدَ أَرْبَعَ عَشْرَةَ لَيْلَةً أَوْبَعْدَ إِحْدَى وَعِشْرِينَ, as meaning [<i>The youthful she-camel</i>] <i>is tested for the purpose of discovering whether or not she be pregnant</i> [<i>after fourteen nights or after one and twenty</i>]: but Th disallows this, and says that the word is تُسْتَمْنَى, from المُنْيَةُ, which means “ the period by the end of which one knows whether or not the she-camel is pregnant. ” (M.)\nاسماهُ 4 <i>He raised, upraised, uplifted, upreared, exalted,</i> or <i>elevated, him,</i> or <i>it;</i> as also 🡻سَمَابِهِ [lit. <i>he rose,</i> &c., <i>with him,</i> or <i>it</i>]. (M, K.) === أَسْمَيْتُهُ مِنْ بَلَدٍ <i>I made him to go up,</i> or <i>away, from a town,</i> or <i>country.</i> (TA.) === اسمانا, (TA,) or 🡻اِسْتَمَانَا, (M,) <i>He,</i> or <i>it, incited us to hunt,</i> or <i>chase:</i> so says Th. (M, TA.) ___ Also <i>He looked at,</i> or <i>towards, his,</i> or <i>its</i> سَمَاوَة [expl. immediately before the mention of this phrase in the M as meaning the <i>form,</i> or <i>figure, seen from a distance,</i> and the <i>aspect,</i> of anything]. (M, TA.) ___ And اسمى <i>He</i> (a man) <i>took the direction of,</i> (S,) or <i>came to,</i> (M,) <i>Es-Semáweh</i> (السَّمَاوَة, S, M) <i>a certain water in the desert</i> (البَادِيَة, M) or <i>a place between El-Koofeh and Syria,</i> (K,) <i>a well-known desert.</i> (TA.) ___ See also 2.\nاِسْمٌ , (S, M, Msb, K,) with the conjunctive ا, [i. e. written ٱسْمٌ,] but this is made disjunctive by poetic license [as well as when the word commences a sentence], (S,) usually with kesr [when the | is disjunctive], (Lh, M, TA,) and اُسْمٌ, (S, M, K,) of the dial. of Benoo-'Amr-Ibn-Temeem and of Kudá'ah, (M, TA,) mentioned by IAar, (TA,) and 🡻سِمٌ and 🡻سُمٌ (S, M, K) and 🡻سَمٌ, (K,) and 🡻سُمًا (M, K) and 🡻سِمًا and 🡻سَمًا, (K,) [The <i>name</i> of a thing; i. e.] <i>a sign</i> [<i>such as may be uttered or written</i>] <i>conveying knowledge</i> of a thing; syn. عَلَامَةٌ: and <i>a word applied to denote a substance</i> or <i>an accident</i> or <i>attribute, for the purpose of distinction:</i> (M, K:) [or <i>a substantive in the proper sense of this term,</i> i. e. <i>a real substantive;</i> and <i>a substance in a tropical sense of this term,</i> i. e. <i>an ideal substantive:</i>] as expl. by El-Munáwee, in the “ Towkeef, ” the اسم is <i>that which denotes a meaning in itself unconnected with any of the three times</i> [<i>past and present and future</i>]: <i>if denoting what subsists by itself, it is termed</i> اِسْمُ عَيْنٍ; and <i>if denoting what does not subsist by itself,</i> [i. e. <i>an accident</i> or <i>attribute,</i>] <i>whether existent, as</i> العِلْمُ [i. e. <i>knowledge</i>], <i>or non-existent, as</i> الجَهْلُ [i. e. <i>ignorance</i>], <i>it is termed</i> اِسْمُ مَعْنًى: (TA:) the pl. is أَسْمَآءٌ [a pl. of pauc.] and أَسْمَاوَاتٌ, (S, M, K,) the latter said by Lh to be a pl. of اِسْمٌ, but it is rather a pl. of أَسْمَآءٌ, for otherwise there is no way of accounting for it, (M,) and أَسَامٍ (S, M, K) and أَسَامِىُّ (M, K) are [likewise] pls. of أَسْمَآءٌ: (K, * TA:) the word ٱسْمٌ [i. e. اِسْمٌ or اُسْمٌ] is derived from سَمَوْتُ, (S, TA,) or from السُّمُوُّ, (Msb, Er-Rághib, TA,) because the اسم is a means of raising into notice the thing denoted thereby, and making it known: (S, * Er-Rághib, TA:) it is of the measure اِفْعٌ [or اُفْعٌ, accord. to different dialects], the last radical, و, being wanting in it, (S, Msb, TA,) and the hemzeh [or rather |] being prefixed by way of compensation for it, accord to a general rule; (Msb, TA;) for it is originally سِمْوٌ (S, Msb, Er-Rághib, TA) or سُمْوٌ, (S, Msb, TA,) its pl. being أَسْمَآءٌ, and its dim. being 🡻سُمَىٌّ [originally سَمَيْوٌ]: (S, Msb, Er-Rághib, * TA:) some of the Koofees hold that it is from الوَسْمُ, meaning العَلَامَةُ, the و, which is the primal radical, being rejected, and the hemzeh [or |] being substituted for it, so that its measure is اِعْلٌ [or اُعْلٌ]; but this is a weak opinion, for, were it so, the dim. would be وَسَيْمٌ and the pl. would be أَوْسَامٌ. (Msb, TA.) One says, اِسْمُ هٰذَا كَذَا [<i>The name of this is thus,</i> or <i>such a word</i>]; and if you will you may say, اُسْمُ هٰذا كذا; and in like manner, 🡻سِمُهُ and 🡻سُمُهُ: Lh says that اِسْمُهُ فُلَانٌ [<i>His name is Such a one</i>] is the [common] phrase of the Arabs; and he mentions اُسْمُهُ فُلَانٌ as heard from [the tribe of] Benoo-'Amr-Ibn-Temeem: and Ks cites, as heard from some of [the tribe of] Benoo-Kudá'ah, the saying, <center> <h3> بِٱسْمِ ٱلَّذِى فِى كُلِّ سُورَةٍ 🡻سُمُهْ </h3> </center> [<i>In the name of Him whose name is in every chapter of the Kur-án</i>], and 🡻سِمُهْ as heard from others, not of Kudá'ah. (M.) سِرْ عَلَى ٱسْمِ ٱللّٰهِ is an elliptical phrase [for سِرْ مُعْتَمِدًا عَلَى ذِكْرِ ٱسْمِ ٱللّٰهِ <i>Journey thou relying upon the mention of the name of God</i>]. (IJ, M in art. دل: see دَلِيلٌ.) === [Hence,] ٱسْمٌ signifies also † <i>Fame, renown, report,</i> or <i>reputation,</i> of a person: (TA:) and so 🡻سُمًا, <i>in relation to good,</i> (K, TA,) not to evil; mentioned by Az. (TA.) One says, ذَهَبَ ٱسْمُهُ فِى النَّاسِ, i. e. <i>His fame</i> &c. [<i>went,</i> or <i>spread, among mankind,</i> or <i>the people</i>]. (TA.)\nاِسْمِىٌّ [<i>Of,</i> or <i>relating to, a name</i> or <i>noun</i> or <i>substantive;</i>] rel. n. from اِسْمٌ; as also 🡻سِمَوِىٌّ and 🡻سُمَوِىٌّ. (S, TA.) [Hence, جُمْلَةٌ ٱسْمِيَّةٌ <i>A nominal proposition</i> or <i>phrase;</i> as distinguished from فِعْليَّةٌ, or verbal.]\nاِسْمِيَّةٌ The <i>quality of a name</i> or <i>noun</i> or <i>substantive.</i>]\nتسمّى 5 [expl. by Golius, first, as meaning <i>Altus fuit, eminuit;</i> like سَمَا; but for this he names no authority, and I find none for it. ___ ] <i>He named himself.</i> (KL.) === تسمّى بِزَيْدٍ <i>He was named Zeyd:</i> (S, * M, * Msb, K: *) تسمّى بِكَذَا means <i>S"
+}

@@ -1,0 +1,42 @@
+{
+  "rootId": "r1422",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:09:34.147Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Generosity, honor, nobility, or grape",
+  "primaryMeaning": "To be noble or generous",
+  "quranicRelevance": "God's nobility (al-Kareem), noble messengers/angels, and honorable position.",
+  "keyDerivations": [
+    {
+      "lemma": "كَرِيمٌ",
+      "form": "Adjective",
+      "meaning": "Noble, generous, honorable, or precious"
+    },
+    {
+      "lemma": "أَكْرَمَ",
+      "form": "Form IV Verb",
+      "meaning": "To honor, exalt, or treat generously"
+    },
+    {
+      "lemma": "الأَكْرَمُ",
+      "form": "Adjective superlative",
+      "meaning": "The Most Generous / Honorable (attribute of God)"
+    },
+    {
+      "lemma": "إِكْرَامٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Honoring, exalting, or majesty"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "ذُو الجَلَالِ وَالإِكْرَامِ: Possessor of Majesty and Honor.",
+    "قُرْآنٌ كَرِيمٌ: A noble/precious Quran."
+  ],
+  "discardedNoise": [
+    "The vine or grapes (كَرْم) - common noun use.",
+    "Obscure details on genealogical pride."
+  ],
+  "summaryEn": "The root refers to honor and generosity, highlighting God's absolute nobility (Kareem) and the honoring of human dignity.",
+  "summaryAr": "تشير هذا الجذر إلى الكرم والشرف، مسلطاً الضوء على الجود والنزاهة الإلهية (كريم) وتكريم الإنسان.",
+  "rawText": "أَرْضٌ مَكْرُمَةٌ and 🡻كَرَمٌ ‡ <i>Generous, good, land:</i> (K, TA:) [<i>good and fertile land:</i>] or <i>dunged and tilled land.</i> (TA.) And أَرْضٌ مَكْرُمَةٌ لِلنَّبَاثِ ‡ <i>Land producing good herbage</i> or <i>plants.</i> (S, TA. [In some copies of the S, <i>good for herbage</i> or <i>plants.</i>])\nأَكْرَمَهُ 4 <i>He treated him with honour,</i> or <i>courtesy.</i> === أَكْرَمَ, and 🡻اِسْتَكْرَمَ, <i>He found a generous horse</i> (فَرَسًا كَرِيمًا). (TA in art. ربط.) See رَبَطَ. === أَكْرَمْتُ عَنْهُ عِرْضِى <i>I preserved myself from it.</i> (S in art. عرض. See also 2.)\nأَكْرَمُ in the sense of كَرِيمٌ, as in أَكْرَمُهُمْ أَبًا: see بَيَاضٌ.\nإِبْنُ الكَرْمِ <i>The</i> قِطْف [i. e. <i>grape,</i> or <i>bunch of grapes</i>]. (T in art. بنى.)\nالكُرْكُمُ الصَّغِيرُ : see العُرُوقُ الصُّفْرُ.\nاِسْتَكْرَمَ الشَّىْءَ 10 : see 10 in art. فره. === See also 4.\nتَكَاْرَمَ 6 see 5.\nتَكَرَّمَ عَنْهُ 5 , and 🡻تَكَارَمَ, <i>He shunned it; avoided it; kept,</i> or <i>removed, himself far from it;</i> or <i>preserved himself from it;</i> (K;) for in stance, from foul speech. (TA in art. دقع.) === تَكَرَّمَ <i>He affected,</i> or <i>constrained himself, to be generous.</i> (S.)\nتَكْرِمَةٌ , <i>syn. with</i> تَكْرِيمٌ; (Mgh;) subst. from كَرَّمْتُهُ; as also 🡻كَرَامَةٌ. (Msb.)\nحُبًّا وَكَرَامَةٌ , <i>see</i> حُبٌّ. === لَا وَلَا كَرَامَةً <i>No; nor a jar-cover:</i> i. e., <i>No:</i> (<i>I will not give thee,</i> or <i>I will not do, what thou requirest,</i>) <i>nor anything else.</i> See حُبٌّ; and see تَكْرِمَة. === كَراَمَةٌ, the kind of miracle so called: pl. كَرَامَاتٌ; like the term χαρίσματα as used by St. Paul in 1 Cor. xii. 9: it may be well rendered <i>thaumaturgy:</i> and صاَحِبُ كَراَمَاتٍ <i>a thaumaturgus,</i> or <i>thaumaturgist:</i> see مُعْجِزَهٌ, and قَرَاسَةٌ.\nذُو الجَلَالِ وَالإِكْرَامِ (Kur, lv. 27) <i>Possessed of majesty,</i> or <i>greatness, and bounty:</i> (Jel:) or, <i>of absolute independence and universal bounty.</i> (Bd.)\nكَرَمٌ in a horse, &c., <i>generous quality.</i> See حَسَبٌ; and see كَرِيمٌ, and مَكْرُمَةٌ, and شَرِيفٌ.\nكَرُمَ 1 , inf. n. كَرَمٌ, <i>It</i> (a thing) <i>was,</i> or <i>became, highly esteemed</i> or <i>prized</i> or <i>valued; excellent, precious, valuable,</i> or <i>rare:</i> (Msb:) followed by عَلَيْهِ: see 1 in art. فجع. === كَرُمَتْ أَرْضُهُ <i>His land yielded increase of its seed-produce,</i> (ISh, K,) <i>and its soil became good,</i> (ISh,) <i>being manured;</i> (ISh, K;) [or <i>it was,</i> or <i>became, generous,</i> or <i>good;</i> i. e., <i>productive,</i> or <i>fertile</i>]. === كَرُمْتُ عَلَيْهِ, (S, K, art. عز,) <i>I exceeded him in generosity,</i> or <i>nobleness.</i> (TK, voce عَزٌّ.)\nكَرِيمٌ <i>Generous; liberal; honourable: noble; high-born; contr. of</i> لَئِيمٌ. (K, &c.) === [A <i>generous,</i> a <i>noble,</i> a <i>high-bred,</i> a <i>well-born,</i> or an <i>excellent,</i> horse, &c.; <i>of generous, high,</i> or <i>good, breed</i> or <i>quality.</i>] === A thing <i>highly esteemed</i> or <i>prized</i> or <i>valued; excellent, precious, valuable,</i> or <i>rare.</i> (Msb.) === [أَرْضٌ كَرِيمَةٌ <i>Productive land.</i> See كَرُمَتْ أَرْضُهُ.] === بَعِيرٌ كَرِيمٌ عَلَى أَهْلِهِ [<i>A camel held in high estimation by his owner</i>]. (TA in art. دفع.) === [وَجْهُ ٱللّٰهِ الكَرِيمُ means <i>The glorious face of God:</i> see an ex. voce سُبْحَةٌ.] === كَراَئِمُ المَالِ (TA) or الأَمْوَالِ (Mgh, Msb) <i>Such as are held in high estimation, precious,</i> or <i>excellent, of cattle</i> or <i>other possessions;</i> (Mgh, Msb, TA;) the <i>choice,</i> or <i>best, thereof.</i> (Mgh, Msb.)\nكَرَّمَهُ عَلَىَّ 2 [<i>He honoured him above me</i>]. (Kur, xvii. 64). === كَرَّمَهُ عَنْ كَذَا [<i>He preserved him from such a thing</i>]: see an ex. in a verse cited in art. عل (conj. 3): and see, here, 4 and 5. === كَرَّمَ <i>He highly regarded</i> a horse or the like. === See تَكْرِمَةٌ.\nمَكْرَمَةٌ <i>A means.</i> or <i>cause, of attaining honour.</i> (Mgh, Msb.)\nمَكْرُمٌ : see أَلُوكٌ and يُسْرٌ.\nمَكْرُمَةٌ <i>A generous,</i> or <i>honourable, quality</i> or <i>action.</i> (Msb, &c.) === عَلِىَ فِى المَكَارِمِ [<i>He became eminent in generous,</i> or <i>honourable, actions</i> or <i>practices</i> or <i>qualities</i> or <i>dispositions</i>]. (Msb in art. علو.) === مَكَارِمُ may often be rendered <i>Excellencies.</i>"
+}

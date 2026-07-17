@@ -1,0 +1,26 @@
+{
+  "rootId": "r628",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T18:03:45.341Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Pure wine, choice nectar, sealed vintage, fine drink, or aromatic fluid",
+  "primaryMeaning": "Pure wine/choice nectar",
+  "quranicRelevance": "Of sealed pure wine (Raheeqin - 'min raheeqin makhtoomin').",
+  "keyDerivations": [
+    {
+      "lemma": "رَحِيقٌ",
+      "form": "Noun",
+      "meaning": "Pure wine, choice nectar, premium sealed drink, or aromatic beverage"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "يُسْقَوْنَ مِنْ رَحِيقٍ مَخْتُومٍ (83:25): They will be given to drink of sealed, pure choice wine."
+  ],
+  "discardedNoise": [
+    "Raheeq (flower nectar collected by honeybees) - modern biological definition.",
+    "Rahiq (delicate/soft profile)."
+  ],
+  "summaryEn": "The root denotes a pure, high-quality drink or nectar (Raheeq), describing the sealed, premium beverages prepared for the righteous in Paradise.",
+  "summaryAr": "يشير هذا الجذر إلى الخمر الصافية الطيبة الخالية من الغش والكدورة والشراب المختوم النفيس (رحق)، واصفاً شراب الأبرار في الجنة بالرحيق المختوم.",
+  "rawText": "رَحِيقٌ <i>Wine:</i> (A 'Obeyd, K:) or the <i>choicest of wine:</i> (S, TA:) or the <i>sweetest of wine:</i> or the <i>most excellent thereof:</i> (K:) or the <i>oldest and most excellent thereof:</i> (M, TA:) or <i>unadulterated wine:</i> (Zj, TA:) or <i>wine that is easy to swallow:</i> (TA:) or <i>pure wine:</i> or <i>clear wine:</i> as also 🡻رُحَاقٌ: (K:) in all of these senses the former word has been explained as used in the Kur lxxxiii. 25: (TA:) and ↓ the latter occurs as syn. with the former in chaste poetry. (IDrd.) === Also <i>A sort of perfume.</i> (K.) === And <i>Honey.</i> (O, TA.) === [And it is used as an epithet.] You say مِسْكٌ رَحِيقٌ ‡ <i>Unadulterated musk.</i> (TA.) And حَسَبٌ رَحِيقٌ ‡ <i>Pure,</i> or <i>genuine, grounds of pretension to respect.</i> (TA.)\nرُحَاقٌ : see what follows, in two places."
+}

@@ -1,0 +1,32 @@
+{
+  "rootId": "r1952",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:29:55.134Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Settling down, dwelling, returning, matching, or bearing",
+  "primaryMeaning": "To settle in a dwelling or return/bear",
+  "quranicRelevance": "Providing a dwelling/settling someone (Bawwa'a - 'bawwa'na li-ibrahima'), and returning with/bearing a burden (Baa'a - 'wa ba'oo bi-ghadhabin').",
+  "keyDerivations": [
+    {
+      "lemma": "بَوَّأَ",
+      "form": "Form II Verb",
+      "meaning": "To settle, establish, assign a place, or lodge"
+    },
+    {
+      "lemma": "بَاءَ",
+      "form": "Form I Verb",
+      "meaning": "To return (with), incur, bear, or draw upon oneself"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَبَاءُوا بِغَضَبٍ مِنَ اللَّهِ: And they returned with/incurred wrath from God (bearing a moral liability).",
+    "أَنْ تَبُوءَ بِإِثْمِي (5:29): That you bear/incur my sin (and your sin)."
+  ],
+  "discardedNoise": [
+    "Matching equal values in blood revenge (بواء).",
+    "Obscure details of camel skin tents."
+  ],
+  "summaryEn": "The root denotes lodging and bearing liability, describing the settling of peoples in lands (Bawwa'a) and the incurrence of spiritual wrath (Baa'a).",
+  "summaryAr": "يدل هذا الجذر على المباءة وتحمل المسؤولية، واصفاً إسكان وتمكين العباد (بوّأ) وتحمل الذنوب والغضب الأخروي (باء).",
+  "rawText": "جُوْزُ بَوَّا , also written جَوْزُ بَوَّى: see art. جوز. ___ خَيْرُ بَوَّآءُ: see art. خير."
+}

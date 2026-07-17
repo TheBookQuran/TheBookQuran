@@ -1,0 +1,53 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+
+# Morphology source data (large static file, re-downloadable)
+# Source URL: https://corpus.quran.com/download (quranic-corpus-morphology-0.4.txt)
+# Mirror URL: https://github.com/cltk/arabic_morphology_quranic-corpus
+# Used by: scripts/regenerate-roots.mjs
+# data/morphology/
+
+# Data backup files created by regeneration scripts
+public/data/linguistics/*.bak.*
+
+# Temporary SQLite workspace (used during one-time Lane extraction)
+.tmp-sqlite/
+
+# Build outputs
+dist/
+.next/
+out/
+build/
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs/
+*.log
+.env*
+
+# AI Agent Specific Folders
+.agents/
+.impeccable/
+.ai-audits/
+docs/
+playwright-report/
+test-results/
+

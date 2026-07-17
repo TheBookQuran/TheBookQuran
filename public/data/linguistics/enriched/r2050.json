@@ -1,0 +1,31 @@
+{
+  "rootId": "r2050",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:07:33.756Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Black sticky mud, warm water, protection, in-law, or defend",
+  "primaryMeaning": "Black mud or warm/hot water",
+  "quranicRelevance": "Creation from black sticky mud (Hama' - 'min hama-in masnoonin'), and sun setting in muddy/warm spring ('hamee-atin').",
+  "keyDerivations": [
+    {
+      "lemma": "حَمَأٌ / حَمَإٍ",
+      "form": "Noun",
+      "meaning": "Black sticky mud, clay paste, or dark soil"
+    },
+    {
+      "lemma": "حَمِئَةٌ",
+      "form": "Adjective (fem.)",
+      "meaning": "Muddy, hot, warm, or dark spring"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "حَتَّىٰ إِذَا بَلَغَ مَغْرِبَ الشَّمْسِ وَجَدَهَا تَغْرُبُ فِي عَيْنٍ حَمِئَةٍ (18:86): Until when he (Dhu al-Qarnayn) reached the setting of the sun, he found it setting in a muddy/warm spring."
+  ],
+  "discardedNoise": [
+    "In-law family relationships (Hama) - spelling overlap.",
+    "National defense forces (Himayah)."
+  ],
+  "summaryEn": "The root represents dark sticky mud, applied to the physical clay components of Adam's body (Hama' Masnun) and the dark muddy spring of Dhu al-Qarnayn's horizon.",
+  "summaryAr": "يمثل هذا الجذر الطين الأسود المنتن والحرارة والماء الكدر، واصفاً المادة الطينية لخلق آدم (حمأ مسنون)، والعين الطينية الحارة لغروب الشمس أفقياً.",
+  "rawText": "احمأ البِئْرَ 4 , (ISk, S, K,) inf. n. إِحْمَآءٌ, (ISk, S,) <i>He threw</i> حَمْأَة [or <i>black, fetid mud</i>] <i>into the well.</i> (ISk, S, K.) === See also 1.\nحَمَأٌ : see حَمْءٌ: ___ and see also what next follows.\nحَمَأَ البِئْرَ 1 , (S, K,) aor. ﹷ, (K,) inf. n. حَمْءٌ, (S,) <i>He cleansed the well of its</i> حَمْأَة [or <i>black, fetid mud</i>]. (S, K.) In the T, this signification is assigned to 🡻احمأالبئر; and the signification assigned below to the latter is given to حمأ: but As says that he does not find this authorized by usage. (TA.) ___ حَمِئَ, aor. ﹷ, inf. n. حَمْءٌ and حَمَأٌ, <i>It</i> (water) <i>was,</i> or <i>became, mixed with black, fetid mud, and so rendered turbid,</i> (K, TA,) <i>and altered in odour.</i> (TA.) And حَمِئَتِ البِئْرُ, inf. n. حَمَأٌ, <i>The well had in it black</i> [<i>fetid</i>] <i>mud</i> (S, Msb) <i>in abundance:</i> (S:) and the like is also said of a spring. (TA.) ___ حَمِئَ عَلَيْهِ <i>He was angry with him;</i> (El-Umawee, S, K;) as also حَمِىَ. (Lh, TA.)\nحَمِئُ العَيْنِ A man <i>of an evil eye,</i> (Fr, K,) <i>who injures with his eye him whom he sees and admires:</i> no verb belonging to it has been heard. (Fr, TA.) ___ حَمِئَةٌ A well (بِئْر) or a spring (عَيْن) <i>foul with black, fetid mud.</i> (TA.)\nحَمْءٌ and حَمٌ and حَمُو [only used as a prefixed n. governing the gen. case (see حَمٌ in art. حمو)] and حَمًا (S, Msb, K) and 🡻حَمَأٌ (K) A woman's <i>husband's father;</i> (IF, Msb, K;) and a man's <i>wife's father:</i> (IF, Msb:) or a man's <i>wife's father</i> or <i>wife's brother</i> or <i>wife's paternal uncle:</i> (M, Msb:) or <i>any one of</i> a woman's <i>husband's</i> [<i>male</i>] <i>relations,</i> (S, O, K,) as the <i>brother</i> and the <i>father</i> (S, O) and the <i>paternal uncle;</i> (O, TA;) and <i>of</i> a man's <i>wife's relations:</i> (K:) pl. أَحْمَآءٌ: (S, K:) the fem. is حَمَاْةٌ. (TA.) ___ See also حَمْأَةٌ.\nحَمْأَةٌ (S, Msb, K) and 🡻حَمَأٌ, (S, K,) but accord. to some, the latter is the pl. [or rather quasipl. n.] of the former; and sometimes, by poetic license, it is written 🡻حَمْءٌ; (TA;) <i>Black mud:</i> (S, Msb:) or <i>black fetid mud.</i> (K.) ___ Also, the former, <i>A certain plant,</i> (K,) <i>that grows in Nejd, in the sands, and in plain,</i> or <i>soft, land.</i> (TA.)"
+}

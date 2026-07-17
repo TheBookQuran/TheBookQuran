@@ -1,0 +1,31 @@
+{
+  "rootId": "r1415",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:14:55.732Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Laboring, striving hard, straining, working to exhaust, or scratch",
+  "primaryMeaning": "Laboring/striving hard to meet one's Lord",
+  "quranicRelevance": "Man laboring toward his Lord (Kadih - 'in-naka kadihon', 'kadhan').",
+  "keyDerivations": [
+    {
+      "lemma": "كَدَحَ / يَكْدَحُ",
+      "form": "Form I Verb",
+      "meaning": "To labor, strive hard, strain, work to exhaustion, exert force, or toil"
+    },
+    {
+      "lemma": "كَدْحٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Hard labor, striving, physical toil, or persistent struggle"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "يَا أَيُّهَا الْإِنْسَانُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا فَمُلَاقِيهِ (84:6): O mankind, indeed you are laboring/striving toward your Lord with a persistent labor, and you will meet Him (inevitable human struggle)."
+  ],
+  "discardedNoise": [
+    "Physical skin scratches (Kadh) from thorns.",
+    "Working overtime in factory logs."
+  ],
+  "summaryEn": "The root represents relentless human labor and struggle (Kadh), summarizing the human condition on earth as a constant struggle leading to a meeting with the Creator.",
+  "summaryAr": "يمثل هذا الجذر السعي الحثيث والجهد البدني المجهد الكادح (كدح)، واصفاً رحلة الإنسان الأرضية بكدح مستمر ونصب يفضي به إلى لقاء ديانه يوم الحساب.",
+  "rawText": "إِنَّكَ كَادِحٌ إِلَى رَبِّكَ , [Kur lxxxiv. 6,] <i>Verily thou workest,</i> or <i>labourest,</i> (S,) or, <i>workest for thyself good</i> or <i>evil,</i> (TA,) or, <i>strivest,</i> or <i>labourest, in thy work until</i> the meeting of <i>thy Lord,</i> i. e., until death. (Jel.)\nتكدّح 5 <i>It</i> (the skin) <i>became scratched,</i> or <i>lacerated, much,</i> or <i>many times,</i> or <i>in many places.</i> (S, K.) === وَقَعَ مِنَ السَّطْحِ فَتَكَدَّحَ <i>He fell from the flat top,</i> or <i>roof,</i> of the house, <i>and became much broken</i> [<i>in his skin</i>]. (L.)\nحِمَارٌ مُكَدَّحٌ <i>An ass much lacerated by the bites of other asses.</i> (S, K.) A wild ass is termed مكدّح because he is lacerated by the bites of other asses. (A'Obeyd.)\nكَدَحَ 1 , aor. ﹷ, (inf. n. كَدْحٌ, S,) <i>He worked</i> or <i>wrought; laboured; employed himself actively;</i> syn. سَعَى; (S, K;) and عَمِلَ: (S:) <i>he wrought for himself good</i> or <i>evil:</i> (K:) <i>he was eager, and strove, laboured,</i> or <i>exerted himself, and wearied himself, in work, in the affairs relating to the present world and in those relating to the world to come:</i> (Zj:) <i>he toiled,</i> or <i>laboured hard.</i> (S, K.) هُوَ يَكْدَحُ فِى كَذَا <i>He toils,</i> or <i>labours hard, in such a thing,</i> or <i>affair.</i> (S.) === كَدَحَ لِعِيَالِهِ, and 🡻اكتدح, <i>He sought, sought after,</i> or <i>sought to gain, sustenance;</i> or <i>he gained, acquired,</i> or <i>earned; for his family,</i> or <i>household;</i> syn. كَسَبَ, (S, K,) or اكتسب. (L.) ___ كَدَحَ وَجْهَهُ <i>It</i> (a thing, S) <i>scratched,</i> or <i>lacerated, his face:</i> (S, K:) or <i>did to his face that which disfigured it,</i> or <i>rendered it ugly</i> or <i>unseemly:</i> as also 🡻كدّحهُ, (K,) inf. n. تَكْدِيحٌ: (TA:) or كدّح, inf. n. تكديح, signifies <i>it scratched,</i> or <i>lacerated, much,</i> or <i>many times,</i> or <i>in many places:</i> (S:) also [so in the L; but in the K, or] كَدَحَ in the phrase كَدَحَ وَجْهَهُ signifies أَفْسَدَ; (K;) you say كَدَحَ وَجْهَ أَمْرِهِ, meaning <i>he marred his affair.</i> (L.) === كَدَحَ رَأْسَهُ <i>He separated his hair</i> with a comb. (K.)\nكَدَّحَ 2 see 1.\nكَدْحٌ <i>A scratch,</i> or <i>laceration, of the skin; i. q.</i> خَدْشٌ: (S, K:) or a كَدْح is <i>more</i> (or <i>larger,</i> L) <i>than a</i> خَدْش: (S:) <i>any mark made by scratching</i> or <i>biting:</i> (IAth:) pl. كُدُوحٌ. (S, K.) Ex. بِهِ كَدْحٌ, (S, K,) and كُدُوحٌ, (S,) <i>He has upon him a scratch, &c.</i> (S, K.)"
+}

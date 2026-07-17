@@ -1,0 +1,31 @@
+{
+  "rootId": "r1300",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:52:53.400Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Understanding, comprehension, making someone perceive, or intellectual grasping",
+  "primaryMeaning": "Understanding/comprehending",
+  "quranicRelevance": "We made Solomon understand it (Fahhamnaha - 'fahhamnaha').",
+  "keyDerivations": [
+    {
+      "lemma": "فَهِمَ / يَفْهَمُ",
+      "form": "Form I Verb",
+      "meaning": "To understand, grasp mentally, or comprehend"
+    },
+    {
+      "lemma": "فَهَّمَ / يُفَهِّمُ",
+      "form": "Form II Verb",
+      "meaning": "To cause to understand, teach, or make perceive"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فَفَهَّمْنَاهَا سُلَيْمَانَ ۚ وَكُلًّا آتَيْنَا حُكْمًا وَعِلْمًا (21:79): So We gave understanding of it (the case) to Solomon, and to each We gave judgment and knowledge."
+  ],
+  "discardedNoise": [
+    "Fahm (charcoal) - confused spelling F-H-M vs. F-H'-M.",
+    "Fahem (polite/gentleman) - colloquial."
+  ],
+  "summaryEn": "The root signifies mental comprehension and insight (Fahm), highlighting the divine wisdom and legal understanding granted specifically to Solomon to resolve a sheep herding dispute.",
+  "summaryAr": "يمثل هذا الجذر الإدراك العقلي وحسن الفطانة ومعرفة مقاصد الأمور (فهم)، مبيناً الفهم والحكمة القضائية الخاصة التي وهبها الله لسليمان لحل خصومة الغنم.",
+  "rawText": "أَفْهَمْتُهُ 4 and 🡻فَهَّمْتُهُ, (S, Msb, K, TA,) inf. n. of the latter تَفْهِيمٌ, (S, TA,) <i>I made him to understand,</i> or <i>know,</i> a thing; (S, * Msb, * K, * TA;) syn. جَعَلْتُهُ يَفْهَمُهُ. (TA.)\nانفهم 7 , (K, TA,) as quasi-pass. of فَهَّمَهُ, inf. n. تَفْهِيمٌ, [or of أَفْهَمَهُ, i. e. as meaning <i>He was made to understand,</i> or <i>know,</i>] (TA,) is an incorrect word, (K, TA.)\nاِسْتَفْهَمَنِى الشَّىْءَ 10 <i>He sought,</i> or <i>desired, of me, the understanding of the thing</i> [i. e., <i>that he might be made to understand it</i>]; (S, * K, * TA;) syn. طَلَبَ مِنِّى فَهْمَهُ. (TA.)\nتفهّمهُ 5 <i>He understood it,</i> or <i>knew it,</i> (فَهِمَهُ,) <i>one thing</i> [or <i>one particular thereof</i>] <i>after another;</i> (S, K;) namely, speech, or language. (S.) === [And <i>He endeavoured to understand it.</i> (See its inf. n. as used in the former half of the second paragraph of art. دبر.)] And 🡻التَّفَاهُمُ signifies the same as التَّفَهُّمُ [app. as meaning <i>The endeavouring to understand;</i> or <i>the affecting,</i> or <i>pretending, to understand</i>]. (TA.)\nتَفَاْهَمَ 6 see what next precedes.\nفَاهِمٌ [act. part. n. of فَهِمَ; <i>Understanding,</i> or <i>knowing,</i> a thing].\nفَهِمٌ , an epithet applied to a man, (S,) <i>Quick of understanding;</i> syn. سَرِيعُ الفَهْمِ. (K.)\nفَهِمَهُ 1 , aor. ﹷ, inf. n. فَهْمٌ (S, Msb, K, &c.) and فَهَمٌ, (Msb, K,) which is the more chaste, (K,) but the former is a dial. var. [more] extensively obtaining, or, as some say, it is a subst. used as an inf. n., (Msb,) and فَهَامِيَةٌ (S, K) and فَهَامَةٌ and فِهَامَةٌ, (K,) <i>He understood it,</i> or <i>knew it with the mind; he apprehended its meaning;</i> syn. عَقَلَهُ, (JK,) and عَلِمَهُ (S, Msb, K) and عَرَفَهُ بِالقَلْبِ. (K.) And فَهِمَ عَنْهُ [<i>He understood what he</i> (another) <i>said</i>]. (A in art. خرس; &c.) [See also فَهْمٌ below.] === فَهُمَ, meaning <i>He was,</i> or <i>became, such as is termed</i> فَهِيم [i. e. <i>one having much understanding</i>], is like عَلُمَ, meaning “ he was, or became, such as is termed عَلِيم. ” (TA.)\nفَهِيمٌ <i>Having much understanding;</i> syn. كَثِيرُ الفَهْمِ; an intensive epithet; like 🡻فَهَّامَةٌ [except that the latter is doubly intensive]. (TA.)\nفَهَّامَةٌ : see what next precedes.\nفَهَّمَ 2 see what next follows.\nفَهْمٌ is an inf. n. of 1, (S, Msb, K, &c.,) or a subst. used as an inf. n.: (Msb:) [see 1, first sentence:] it is expl. as signifying The <i>conception of the meaning from the word,</i> or <i>expression:</i> or the <i>quickness of the transition of the mind from extrinsic to other</i> [i. e. <i>intrinsic</i>] <i>things:</i> or <i>a condition of the mind whereby it ascertains what is approvable:</i> or, as in the “ Ahkám ” of El- Ámidee, <i>excellence of intelligence in respect of its readiness to apprehend quickly subjects of inquiry that present themselves to it.</i> (TA.)\nمَفْهُومٌ [pass. part. n. of فَهِمَ; <i>Understood,</i> or <i>known.</i> === And hence, لَفْظٍ مَفْهُومٌ <i>The acceptation of a word</i> or <i>an expression;</i> i. e. <i>the meaning,</i> or <i>sense, in which it is understood:</i> see also مَعْنًى, in art. عنى]."
+}

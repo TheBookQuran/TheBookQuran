@@ -1,0 +1,26 @@
+{
+  "rootId": "r1444",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:56:55.064Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Frowning, showing the teeth, distorted lips in pain, or grimacing under intense heat",
+  "primaryMeaning": "Frowning/grimacing in pain",
+  "quranicRelevance": "They will grin/grimace (Kalihon - 'kalihona').",
+  "keyDerivations": [
+    {
+      "lemma": "كَلَحَ / يَكْلَحُ (Participle: كَالِح)",
+      "form": "Form I Verb",
+      "meaning": "To look grim, show the teeth with contracted lips, or grimace in severe pain"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "تَلْفَحُ وُجُوهَهُمُ النَّارُ وَهُمْ فِيهَا كَالِحُونَ (23:104): The Fire will scorch their faces, and they therein will be grinning/grimacing (with contracted lips exposing their teeth)."
+  ],
+  "discardedNoise": [
+    "Kalah (barrenness of desert).",
+    "Kalha (black stain)."
+  ],
+  "summaryEn": "The root denotes facial distortion and grimacing due to physical agony (Kalh), illustrating the severe torment of Hell where fire contracts the lips of the damned.",
+  "summaryAr": "يمثل هذا الجذر تكشر الوجه وتقلص الشفتين عن الأسنان عند احتراق الجلد والعذاب الشديد (كلح)، واصفاً بؤس وجوه أهل النار وقد شوهتها النار الكالحة.",
+  "rawText": "أَكْلَحَهُ 4 <i>He</i> (or <i>it,</i> L) <i>made him to grin,</i> or <i>display his teeth, frowning,</i> or <i>contracting his face,</i> or <i>looking sternly, austerely,</i> or <i>morosely.</i> (L, K.) === See 1.\nبَلَآءٌ مُكْلِحٌ <i>A trial,</i> or <i>an affliction, which, by its severity, makes men grin and frown.</i> (L, from a trad.)\nتكلّح 5 ‡ <i>He smiled:</i> see 1. (K.) === Hence, (TA,) تكلّح البَرْقُ ‡ <i>The lightning flashed in continued succession:</i> (S, L, K:) also, <i>it continued, and became concealed, in a white cloud.</i> (L.)\nكلّح وَجْهَهُ 2 <i>He contracted his face much.</i> (A.)\nكَالِحٌ , act. part. n. of 1. === Also, <i>Having the lip withdrawn from the teeth.</i> (Zj, L.) So in the Kur xxiii. 106, accord. to Zj. (L.) ___ دَهْرٌ كَالِحٌ ‡ <i>Severe, distressing,</i> or <i>afflictive, fortune,</i> or <i>time;</i> (S, K;) as also 🡻كُلَاحٌ. (TA.)\nكَلَاحِ : see كُلَاحٌ.\nكَلَحَ 1 , aor. ﹷ, inf. n. كُلُوحٌ and كُلَاحٌ; (S, K;) and 🡻تلكّح, and 🡻اكلح, (K,) and 🡻اكلوّح; (A;) <i>He</i> (a man, S) <i>grinned,</i> or <i>displayed his teeth,</i> (M, rendered in the S and K by تَكَشَّرَ), <i>frowning,</i> or <i>contracting his face,</i> or <i>looking sternly, austerely,</i> or <i>morosely.</i> (S, M, K.) === كَلَحَ فِى وَجْهِهِ <i>He frightened him;</i> namely a child, and a madman. (A.)\nكَلَحَةٌ ‡ The <i>mouth and parts around it.</i> So in the phrase مَا أَقْبَحَ كَلَحَتَهُ <i>How ugly is his mouth with the parts around it!</i> (S, K.)\nكَوْلَحٌ <i>Foul, unseemly,</i> or <i>ugly;</i> syn. قَبِيحٌ: (K;) an epithet applied to a man. (TA.)\nكُلَاحٌ (S, K) and 🡻كَلَاحِ, the latter [indecl.] like قَطَامِ, (K,) ‡ <i>A year of dearth, scarcity, drought, sterility,</i> or <i>barrenness.</i> (S, K.) You say أَصَابَتْهُمْ سَنَةٌ كُلَاحٌ <i>A year of dearth, &c., befell them.</i> (TA.) See كَالِحٌ.\nمُكَالَحَةٌ 3 [inf. n. of كالحهُ <i>He contended with him for superiority in strength;</i>] <i>i. q.</i> مُشَادَّةٌ. (S.) [And so مُجَالَحَةٌ.]"
+}

@@ -1,0 +1,26 @@
+{
+  "rootId": "r1693",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:07:33.756Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Ewe, female sheep, white antelope, clarity, or soft land",
+  "primaryMeaning": "Ewe/female sheep",
+  "quranicRelevance": "David's parable of ewes (Na'jah - 'lahu tis'un wa tis'oona na'jatan').",
+  "keyDerivations": [
+    {
+      "lemma": "نَعْجَةٌ / نِعَاجٌ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Ewe, female sheep, or female antelope"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "إِنَّ هَٰذَا أَخِي لَهُ تِسْعٌ وَتِسْعُونَ نَعْجَةً وَلِيَ نعْجَةٌ وَاحِدَةٌ (38:23): Indeed, this is my brother; he has ninety-nine ewes/female sheep, while I have one ewe (parable of greed and relative wealth)."
+  ],
+  "discardedNoise": [
+    "White sand deserts (Na'jah).",
+    "Modern veterinary catalogs of sheep breeding."
+  ],
+  "summaryEn": "The root refers to ewes (Na'jah), serving as a legal and moral metaphor in the dispute presented to David to criticize monopolies and greed.",
+  "summaryAr": "يشير هذا الجذر إلى أنثى الضأن والنعاج (نعجة)، مستخدماً إياها في خصومة الملكين أمام داود كرمز معنوي لنقد الاحتكار والظلم المجتمعي.",
+  "rawText": "أَنْعَجَ القَوْمُ 4 <i>The people's camels became fat.</i> (S, K.)\nأَنْعَجُ : see نَعِجٌ.\nنَاعِجٌ A camel <i>of beautiful colour, and highly esteemed.</i> (TA.) نَاعِجَةٌ A she-camel <i>of beautiful colour:</i> (TA:) or a <i>white</i> she-camel, (S, K,) <i>of generous race:</i> (TA:) a <i>swift</i> she-camel: a she-camel <i>upon which one hunts wild cows:</i> (S, K:) such is <i>of the kind called</i> مَهْرِيَّةٌ: (IJ:) or one that is <i>light,</i> or <i>active:</i> (TA:) pl. نَوَاعِجُ. (S.) === نَاعِجَةٌ also A woman <i>of beautiful complexion,</i> or <i>colour.</i> (TA.) ___ أَرْضٌ نَاعِجَةٌ <i>Plain,</i> or <i>even, land,</i> (S, K,) <i>fertile, and producing the kind of tree called</i> رِمْث. (Aboo-Kheyreh.)\nنَعَجَ 1 , aor. ﹹ, inf. n. نَعَجٌ (S, K) and نُعُوجٌ, (K,) a verb similar to طَلَبٌ, (S, K,) aor. ﹹ, inf. n. طَلَبٌ; (S;) so in the handwriting of J; (IB;) or, with reference to a colour, نَعِجَ, aor. ﹷ, inf. n. نَعَجٌ, a verb like صَخِبَ, aor. ﹷ, inf. n. صَخَبٌ: (accord-to an insertion in a copy of the S read to IB, TA, [and so in one of M. Fresnel's copies of the S, and in a copy in my possession, and so in the L, in which both forms of the verb are given,]) <i>He,</i> or <i>it,</i> [a colour,] <i>was of a clear,</i> or <i>pure white.</i> (S, L, K.) ___ نَعِجَ, aor. ﹷ, inf. n. نَعَجٌ, <i>He</i> (a man, Az, or a camel, S) <i>became fat:</i> (T, S, K:) said by AA to occur in a poem of Dhu-r-Rummeh, but not found in his poetry by Sh, who deems it strange: Az, however, confirms it by the authority of an Arab of the desert; and adds, that it signifies <i>he</i> (a man) <i>became fat and in good condition: and he increased, and became swollen,</i> or <i>inflated: and</i> نَهِجَ is said to signify the same. (TA.) === نَعِجَ, aor. ﹷ, inf. n. نَعَجٌ, <i>He</i> (a man, S) <i>became heavy in the stomach</i> (القَلْب) <i>from eating mutton.</i> (S, K.) ___ نَعَجَتْ فِى سَيْرِهَا, (inf. n. نَعْجٌ, L.) <i>She</i> (a camel) <i>was quick,</i> or <i>swift, in her pace:</i> (S, L:) she went with a certain pace: (L:) a dial. form of مَعَجَتْ. (S.)\nنَعِجٌ [and 🡻أَنْعَجُ] <i>Of a pure white colour:</i> (L:) [pl. of the latter نُعْجٌ]. === نِسَآءٌ نُعْجُ المَحَاجِرِ دُعْجُ النَّوَاظِرِ [<i>Women of a clear white colour in the parts around the eyes; intensely black and wide, in the eyes</i>]. (A.) ___ نَعِجٌ A man <i>heavy in the stomach</i> (القَلْب) <i>from eating mutton:</i> pl. نَعِجُونَ. (S, TA.)\nنَعْجَةٌ , (S, K,) and 🡻نِعْجَةٌ, accord. to a reading of El-Hasan, وَلِى نِعْجَةٌ وَاحِدَةٌ, [Kur, xxxviii. 22,] (TA,) <i>A ewe;</i> the <i>female of the sheep:</i> (L, K:) also, the <i>female of the wild bull:</i> and, <i>of the gazelle:</i> and, <i>of the wild sheep:</i> (TA:) [but see below:] pl. نِعَاجٌ and نَعَجَاتٌ. (S, K.) === نَعْجَةُ الرَّمْلِ <i>The</i> [<i>wild</i>] <i>cow:</i> pl. نِعَاجُ الرَّمْلِ: no other wild animal but the cow (accord. to A 'Obeyd, S,) is thus called: (S, K:) [but see above]. The Arabs speak of gazelles as though they were goats, terming the male تَيْسٌ; and of wild bulls or cows as though they were sheep, terming the female نَعْجَةٌ. (AAF.) === Also نَعْجَةٌ ‡ <i>A woman;</i> as likewise شَاةٌ. (TA.)\nنِعْجَةٌ : see نَعْجَةٌ."
+}

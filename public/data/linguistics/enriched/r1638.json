@@ -1,0 +1,26 @@
+{
+  "rootId": "r1638",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:21:37.831Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Gushing, bubbling spring, flowing water, source, or arrow wood",
+  "primaryMeaning": "Gushing/bubbling spring water",
+  "quranicRelevance": "Spring gushing from ground (Yanbu'a - 'tafjura lana... yanboo'an'), and Paradise springs ('yanabee'a').",
+  "keyDerivations": [
+    {
+      "lemma": "يَنْبُوعٌ / يَنَابِيعُ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Spring, fountain, gushing water source, aquifer, or origin"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "أَلَمْ تَرَ أَنَّ اللَّهَ أَنْزَلَ مِنَ السَّمَاءِ مَاءً فَسَلَكَهُ يَنَابِيعَ فِي الْأَرْضِ (39:21): Do you not see that God sends down rain from the sky and guides it into springs/aquifers in the earth?"
+  ],
+  "discardedNoise": [
+    "Arrow wood trees (Naba') in historic weaponry manuals.",
+    "News report bulletins (Naba') - spelling shift (belongs to n-b-a with hamza)."
+  ],
+  "summaryEn": "The root represents gushing water sources (Yanbu'), detailing the hydrology of rain-fed underground aquifers/springs and the Meccan demands for miraculous spring production.",
+  "summaryAr": "يمثل هذا الجذر خروج الماء من الأرض ونبعه متدفقاً (نبع)، واصفاً شبكات ينابيع المياه الجوفية الأرضية، وطلب المشركين تفجير ينبوع بمكة.",
+  "rawText": "أَنْبَعَ 4 <i>He</i> (God) <i>made,</i> or <i>caused,</i> water <i>to issue.</i> (Msb.)\nانْبَعُ , irregularly formed from the augmented verb أَنْبَعَ: see an ex. in a couplet cited voce سَقَى.\nنَبَعَ 1 <i>It</i> (water) <i>welled,</i> or <i>issued forth.</i> === نَبَعَ عَلَيْهِمْ: see نَبَأَ عليهم.\nنَبْعٌ <i>The tree so-called:</i> see an ex. of its n. un. in a verse cited voce تَحَوَّفَ and تَخَوَّفَ. === نَبْعٌ: see شَوْحَطٌ and شِرْيَانٌ and فَتْحٌ. === نَبْعَانِ The <i>two shafts</i> of a cart: so called because they were commonly made of wood of the tree called نَبْع: see رَادَّةٌ."
+}

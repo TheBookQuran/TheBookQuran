@@ -1,0 +1,26 @@
+{
+  "rootId": "r181",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:21:37.831Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Overturning, scattered, turning upside down, ransack, or search",
+  "primaryMeaning": "Overturning/scattering",
+  "quranicRelevance": "Graves overturned at Resurrection (Bu'thirat - 'ithal-qubooru bu'thirat', 'bu'thira ma feel-quboori').",
+  "keyDerivations": [
+    {
+      "lemma": "بَعْثَرَ / يُبَعْثِرُ",
+      "form": "Quadriliteral Verb",
+      "meaning": "To overturn, scatter, turn upside down, ransack, extract contents, or search inside out"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَإِذَا الْقُبُورُ بُعْثِرَتْ (82:4): And when the graves are overturned/turned inside out (the physical evacuation of the dead)."
+  ],
+  "discardedNoise": [
+    "Scattering office papers on a desk.",
+    "Ransacking house drawers."
+  ],
+  "summaryEn": "The root represents turning inside out and scattering (Ba'tharah), detailing the physical evacuation of graves (Bu'thirat) to bring forth the dead for judgment.",
+  "summaryAr": "يمثل هذا الجذر قلب الشيء رأساً على عقب واستخراج ما في باطنه نثراً (بعثرة)، مصوراً إخراج الموتى من باطن القبور وبعثرتها يوم البعث.",
+  "rawText": "بعثر\nبَعْثَرَ , [inf. n. بَعْثَرَةٌ,] <i>He took, drew,</i> or <i>pulled,</i> a thing <i>out,</i> or <i>forth, and uncovered</i> it, <i>laid</i> it <i>open,</i> or <i>exposed</i> it; (S, K;) as also بَحْثَرَ: (S:) <i>he raised</i> what was in a thing, (S, K,) <i>and caused</i> it <i>to come forth.</i> (S.) Hence, in the Kur [c. 9], إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ <i>When that which is in the graves is raised, and caused to come forth:</i> (AO, S:) [see also بَحْثَرَ:] or the meaning is, <i>when the dust,</i> or <i>earth, in the graves is turned over, and the dead in them are raised:</i> (Zj:) or <i>when what is in the graves,</i> of gold and silver, <i>comes forth;</i> after which the dead are to come forth. (Fr.) === Also <i>He examined; he searched.</i> (K.) === <i>He searched for,</i> or <i>after,</i> or <i>into,</i> news, or tidings. (TA.) === <i>He scattered,</i> or <i>dispersed,</i> a thing, <i>and turned</i> it <i>over, one part upon another:</i> (K:) <i>he scattered,</i> or <i>dispersed,</i> his household goods, or his commodities, (Fr, S,) <i>and turned</i> them <i>over, one upon another;</i> (Fr, Zj, S;) as also بَحْثَرَ, (Fr, S,) and بَغْثَرَ. (Yaakoob.) === <i>He demolished</i> a watering-trough or tank, <i>and turned</i> it <i>upside-down.</i> (AO, S, K.)"
+}

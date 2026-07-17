@@ -1,0 +1,26 @@
+{
+  "rootId": "r1086",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:01:45.660Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Corruption, spreading mischief, acting wickedly, or decay",
+  "primaryMeaning": "Spreading mischief/acting wickedly",
+  "quranicRelevance": "Behaving corruptly/wickedly on earth (Ta'thaw - 'wa la ta'thaw fil-ardhi mufsideen').",
+  "keyDerivations": [
+    {
+      "lemma": "عَثِيَ / يَعْثَى",
+      "form": "Form I Verb",
+      "meaning": "To act wickedly, spread corruption, ruin, or behave corruptly/proudly"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَلَا تَعْثَوْا فِي الْأَرْضِ مُفْسِدِينَ (2:60): And do not act wickedly/spread corruption in the land (command to Israel and Thamud to avoid looting/destruction)."
+  ],
+  "discardedNoise": [
+    "Damp decay of wood.",
+    "Old age skin wrinkling terms."
+  ],
+  "summaryEn": "The root denotes active corruption (Atha), serving as a standard warning to communities to avoid destabilizing and looting the earth.",
+  "summaryAr": "يدل هذا الجذر على الإفساد الحركي النشط والتخريب (عثى)، ناهياً الأمم والخلائق عن نهب وتدمير مقومات الأرض (ولا تعثوا في الأرض مفسدين).",
+  "rawText": "أَعْثَى <i>Having much hair;</i> (S, K;) sometimes applied in this sense to a man. (S.) And <i>Having a thick beard.</i> (TA.) === And The <i>male hyena;</i> (S, K;) as also 🡻عِثْيَانٌ: (S:) and [the fem.] عَثْوَآءُ the <i>female hyena;</i> (S, K;) because of the abundance of her hair: (S:) and [the pl.] عُثْوٌ, and عُثْىٌ, <i>a number of hyenas together.</i> (TA.) === [The fem.] عَثْوَآءُ is also an appellation applied to <i>An old woman.</i> (S, TA.) === And the masc. signifies also <i>Thick, gross,</i> or <i>coarse, in size.</i> (TA.) === And <i>Foolish,</i> or <i>stupid,</i> (S, K,) <i>heavy,</i> or <i>dull.</i> (S.) === And One <i>whose colour inclines to blackness.</i> (K.) === And <i>A colour</i> [itself] <i>that inclines to blackness:</i> (K, TA:) or, accord. to the M, العثى [perhaps a mistranscription] signifies <i>a colour inclining to blackness, with abundance of hair.</i> (TA.)\nعَاثٍ <i>Acting corruptly;</i> or <i>making,</i> or <i>doing, mischief.</i> (Msb. [See 1.])\nعَثَا 1 , aor. يَعْثُو, (S, Msb, K,) inf. n. عُثُوٌّ, (K, TA,) [accord. to the CK عَثْوٌ, but] like سُمُوٌّ; (TA;) and عَثِىَ, aor. يَعْثَى, (S, Msb, K,) which is of the dial. of El-Hijáz, and of which the inf. n. is عَثًا; (TA;) and عَثَى, aor. يَعْثَى and يَعْثِى; inf. n. عُثِىٌّ and عِثِىٌّ and عَثَيَانٌ; (K, TA;) <i>He acted corruptly;</i> or <i>made,</i> or <i>did, mischief:</i> (S, Msb, K:) or <i>did so in the utmost degree:</i> (TA:) فِى الأَرْضِ [<i>in the earth</i>]: (S, TA:) the aor. of one of the dial. vars. occurs in the Kur ii. 57; &c.: some say that عثا, aor. يعثا, [or عِثَى, aor. يَعْثَى,] is formed by transposition from عَاثَ, aor. يَعِيثُ: (TA:) accord. to Er-Rághib, عَيْثٌ and عُثِىٌّ, or عِثِىٌّ, and عُثُوٌّ are nearly alike; but عَيْثٌ is mostly used in relation to that which is perceived by sense; and عثىّ and عثوّ, in relation to that which is perceived by the [mind or] judgment: some say that عثوّ [as also عثىّ] is the <i>acting wrongfully, injuriously,</i> or <i>unjustly;</i> and sometimes does not involve the acting corruptly: (MF and TA in art. عيث:) Lh says that عَثِىَ is of the dial. of El-Hijáz, and is the [more] approved form; and عاث is of the dial. of the Benoo-Temeem. (TA in that art.) === And عَثِىَ, aor. يَعْثَى, inf.n. عَثًا, said of the hair of the head, <i>It was,</i> or <i>became, dry and matted, and was long left uncombed.</i> (TA.)\nعَثْوَةٌ <i>A long</i> لِمَّة [or <i>quantity of hair descending below the ear</i> or <i>to the shoulder</i>]: (K:) pl. عُثًى, like رُبًى; (so in some copies of the K;) or عُثَّى, like رُبَّى; (so in other copies;) or عِثًى; like رِبًى; (so in my MS. copy of the K; [app. taken from the TA; the first of which (i. e. عُثًى) I hold to be the right; (see the paragraph next preceding this;) though SM says what here follows;]) it is correctly عِثى, like إِلى; agreeably with what is said in the M, i. e. that العِثَى signifies اللِّمَمُ الطِّوَالُ. (TA.)\nعُثًى <i>Hair:</i> this is its primary signification. (TA.) [See the next paragraph.] === And, metaphorically, ‡ <i>Such as is straggling, of plants,</i> or <i>herbage; as the</i> نَصِىّ, <i>and the</i> بُهْمَى, <i>and the</i> صِلِّيَان. (TA.) And [hence] one says, شَابَ عُثَى الأَرْضِ † <i>The plants,</i> or <i>herbage, of the earth, dried up,</i> or <i>became yellow:</i> (K:) so in the Tekmileh, and so says ISk. (TA.)\nعُثْوَةٌ The <i>state of the hair of the head when it has become dry and matted, and has been long left uncombed.</i> (TA.)\nعِثْيَانٌ : see أَعْثَى."
+}

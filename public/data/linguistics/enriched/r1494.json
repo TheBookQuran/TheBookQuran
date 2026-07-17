@@ -1,0 +1,26 @@
+{
+  "rootId": "r1494",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:56:55.064Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Stickiness, adhesiveness, cohesion, firm attachment, or narrowness/difficulty",
+  "primaryMeaning": "Sticky/adhesive clay",
+  "quranicRelevance": "From sticky clay (Lazibin - 'teenin lazibin').",
+  "keyDerivations": [
+    {
+      "lemma": "لَازِبٌ",
+      "form": "Adjective",
+      "meaning": "Sticky, adhesive, cohesive, firm, or tightly holding clay"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "إِنَّا خَلَقْنَاهُمْ مِنْ طِينٍ لَازِبٍ (37:11): Indeed, We created them from a sticky, cohesive clay."
+  ],
+  "discardedNoise": [
+    "Laseeq (sticking to) - confused L-S-Q.",
+    "Drought years (Lazahb)."
+  ],
+  "summaryEn": "The root represents cohesive stickiness (Lazb), describing the raw physical material (adhesive clay) from which humanity was created.",
+  "summaryAr": "يمثل هذا الجذر اللزوجة والتماسك والالتصاق والصعوبة (لزب)، واصفاً المادة الطينية المتلاحمة اللزجة التي خُلق منها البشر أول مرة.",
+  "rawText": "تلازب التَّمْرُ 6 <i>The dates stuck together.</i> (L, art. نضح.)\nلَازِبٌ <i>Adhering,</i> or <i>adhesive,</i> or <i>cohesive,</i> clay or mud. (S.) === <i>Being,</i> or <i>remaining, fixed, settled, firm,</i> or <i>constant.</i> (S.) === صَارَ الشَّىْءُ ضَرْبَةَ لَازِبٍ <i>The thing became fixed, settled, firm,</i> or <i>constant,</i> (S, K,) <i>and severe:</i> (TA:) [or, <i>a constant infliction:</i>] or, <i>indispensable,</i> or <i>necessary:</i> i. e., <i>the blow of a sword that sticks,</i> or <i>remains fixed,</i> [<i>in the wound</i>]. (Aboo-Bekr, cited in the TA.) لازب is here the same as لازم: (K:) the latter is the original word; the م being changed into ب; and is also used in this phrase: (TA:) but لازب, in this in- stance, is the more chaste. (S.) En-Nábighah says, <center> <h3> فَلَا تَحْسِبُونَ الخَيْرَ لَا شَرَّ بَعْدَهُ </h3> <h3> وَلَا تَحْسِبُونَ الشَّرَّ ضَرْبَةَ لَازِبِ </h3> </center> [<i>Then think ye not that good shall have no evil after it, nor think ye that evil shall be a constant infliction</i>]. (S.) Sgh says, of the conversion of رِوَاغَةٌ into رِيَاغَةٌ, or of و into ى because of kesreh before it, هٰذَا القَلْبُ لَيْسَ بِضَرْبٍ لَازِبٍ [<i>This conversion is not a necessary sort.</i>] (TA in art. روغ.)\nلَزَبٌ immediately following عَزَبٌ, (in the CK, غَرَبٌ,) [meaning a man “ who has no wife, ”] is an imitative sequent [used by way of pleonasm and corroboration]. (K.) So likewise لَزَبَةٌ after عَزَبَةٌ. (Ibn-Buzruj.)\nلَزَبَ 1 , aor. ﹹ, inf. n. لُزُوبٌ, <i>It was,</i> or <i>remained, fixed, settled, firm,</i> or <i>constant.</i> (K.) === لَزَبَ, aor. and inf. n. as above, <i>It</i> (mud &c., S) <i>adhered, clave,</i> or <i>stuck.</i> (S, K.) === لَزُبَ, aor. ﹹ, inf. n. لَزْبٌ and لُزُوبٌ, [<i>It became commixed,</i> or <i>commingled: it intermixed;</i> or <i>it became contracted;</i>] <i>one part of it entered into another.</i> (K.) === لَزَبَ and لَزُبَ <i>It</i> (mud) <i>cohered, and became hard.</i> (K.) === لَزَبَ, aor. and inf. n. as at first, <i>It was a time of drought, of no rain.</i> (K.) ___ لَزَبَتْهُ العَقْرَبُ i. q. لَسَبَتْهُ; <i>The scorpion stung him.</i> (Kr, K.)\nلَزِبٌ <i>Little in quantity</i> or <i>number:</i> pl. لِزَابٌ. (K.) E. g. مَاءٌ لَزِبٌ <i>Little water.</i> (TA.)\nلَزْبٌ <i>Strait; narrow; difficult.</i> E. g. عَيْشٌ لَزْبٌ <i>A strait,</i> or <i>difficult life.</i> (TA.)\nلَزْبَةٌ <i>Adversity; difficulty; distress;</i> (S, K;) <i>drought:</i> (S:) pl. لِزَبٌ (IJ, K: in the CK لَزْبٌ) and لَزْبَاتٌ: (S, K:) the latter with the ز quiescent, because it is [originally] an epithet. (S.) E. g. أَصَابَتْهُمْ لَزْبَةٌ <i>Distress and drought befell them.</i> (S.) === سَنَةٌ لَزْبَةٌ A <i>severe year; a year of drought.</i> (TA.)\nلِزْبٌ A <i>narrow</i> road, or way. (K.)\nمِلْزَابٌ <i>Very avaricious; tenacious,</i> or <i>niggardly:</i> (S, K:) pl. مَلَازِيبُ. (S.)"
+}

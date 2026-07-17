@@ -1,0 +1,26 @@
+{
+  "rootId": "r832",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:06:09.694Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Ear of corn, spike, seed-head, green stem, or flow",
+  "primaryMeaning": "Ear of corn/grain",
+  "quranicRelevance": "Seven green ears of grain in Joseph's dream or charity parable (Sanabil - 'sab'a sanabila', 'sab'i sunbulatin').",
+  "keyDerivations": [
+    {
+      "lemma": "سُنْبُلَةٌ / سُنْبُلَاتٌ / سَنَابِلُ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Ear of grain, ear of corn, spike, or seed-head of wheat"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "كَمَثَلِ حَبَّةٍ أَنْبَتَتْ سَبْعَ سَنَابِلَ فِي كُلِّ سُنْبُلَةٍ مِائَةُ حَبَّةٍ (2:261): Like a grain which grows seven ears; in each ear is a hundred grains (charity yield math)."
+  ],
+  "discardedNoise": [
+    "The constellation Virgo (السنبلة) in astronomy books.",
+    "Green stem descriptions of flowers."
+  ],
+  "summaryEn": "The root represents grain seed-heads (Sanabil), illustrating the exponential growth of charity and detailing Pharaoh's famine warning dream.",
+  "summaryAr": "يمثل هذا الجذر سنبلة الحبوب (سنبلة)، مصوراً المضاعفة الهائلة لثواب الإنفاق والصدقات (سبع سنابل)، ورؤيا يوسف لسبع سنابل الخضر.",
+  "rawText": "سنبل\nسَنْبَلَ الزَّرْعُ <i>The seed-produce put forth its</i> سُنْبُل [or <i>ears</i>]; (M, K;) as also أَسْبَلَ [q. v.]: the former of the dial. of Temeem, and the latter of that of El-Hijáz. (TA.) ___ سَنْبَلَ ثَوْبَهُ, (K,) inf. n. سَنْبَلَةٌ, (TA,) <i>He</i> (a man) <i>dragged a shirt of his garment behind him;</i> so says Khálid Ibn-Jembeh: (TA:) or <i>he dragged his garment behind him</i> or <i>before him.</i> (K.)\nسَنْبَلَةٌ The [<i>kind of trees called</i>] عِضَاه [q. v.]. (Fr, K.) [It is said in the TA that the ن in this word is augmentative: but the same is held by some to be the case in other words mentioned in this art.]\nسُنْبُلٌ [<i>Ears</i> of corn: n. un. with ة: pl. سَنَابِلُ and سُنْبُلَاتٌ, the latter pl. occurring in the Kur xii. 43 and 46: it is said in the M, in art. سنبل, that سُنْبُلَةٌ signifies <i>one of the</i> سُنْبُل <i>of</i> زَرْع; in the K, in this art., that it signifies <i>one of the</i> سَنَابِل <i>of</i> زَرْع: see سَبَلٌ]. السُّنْبُلَةُ is also the name of <i>A certain sign of the Zodiac</i> [i.e. <i>Virgo</i>]; (K, TA;) <i>the sixth sign; the third of the summer signs:</i> (TA:) [or <i>Spica Virginis;</i>] <i>a certain star in Virgo.</i> (Kzw.) [See, again, سَبَلٌ.] === Also <i>A certain perfume;</i> (M;) <i>a certain plant of sweet odour, also called</i> سُنْبُلُ العَصَافِيرِ, (K,) <i>and</i> الرّيْحَانُ الهِنْدِىُّ; (TA;) [<i>spikenard,</i> called in the present day السُّنْبُلُ الهِنْدِىُّ;] <i>the best whereof is the</i> سُورِىّ, (K,) <i>what is brought from</i> سُور [or سُورَى?], <i>a town,</i> or <i>district, of El-'Irák;</i> (TA;) <i>and the weakest is the</i> هِنْدِىّ: <i>it is an aperient; a discutient of flatulences;</i> (K, * TA;) <i>strengthening to the brain and the spleen and the kidneys and the bowels; and diuretic; and has the property of arresting the excessive flow of blood from the womb.</i> (K, TA. [Mentioned also voce سَبَلٌ, as called سُنْبُلُ الطِّيبِ.]) السُّنْبُلُ الرُّمِىُّ [also signifies <i>Spikenard,</i> or perhaps <i>a variety thereof;</i>] <i>i. q.</i> النَّارِدِينُ.(K.)\nقَمِيصٌ سُنْبُلَانِىٌّ <i>A shirt ample in length,</i> or <i>reaching to,</i> or <i>towards, the ground:</i> or so called in relation to a town, or district, in the Greek Empire. ('Abd-El-Wahháb El-Ghana wee, K, TA.)"
+}

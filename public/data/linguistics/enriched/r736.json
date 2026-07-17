@@ -1,0 +1,31 @@
+{
+  "rootId": "r736",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:44:39.226Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Provision, journey food, supply, equipping, or support",
+  "primaryMeaning": "Provision/journey food",
+  "quranicRelevance": "Taking provisions for Hajj (Tazawwadoo - 'wa-tazawwadoo', 'al-zadi').",
+  "keyDerivations": [
+    {
+      "lemma": "زَادٌ",
+      "form": "Noun",
+      "meaning": "Provision, travel food, supplies, logistics, or basic needs"
+    },
+    {
+      "lemma": "تَزَوَّدَ / يَتَزَوَّدُ",
+      "form": "Form V Verb",
+      "meaning": "To take provisions, gather travel supplies, pack, or equip oneself"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَتَزَوَّدُوا فَإِنَّ خَيْرَ الزَّادِ التَّقْوَىٰ (2:197): And take provisions (for the Hajj journey), but indeed, the best provision is piety (Taqwa)."
+  ],
+  "discardedNoise": [
+    "Adding features to software (Zeyadah) - spelling shift.",
+    "Military supply tracks."
+  ],
+  "summaryEn": "The root represents journey provisions (Zad), ordering pilgrims to bring actual supplies to avoid begging and comparing physical supplies to the spiritual provision of piety.",
+  "summaryAr": "يمثل هذا الجذر إعداد الطعام والزاد لقطع المسافات والأسفار (زود)، آمراً حجاج بيت الله بالاستغناء الذاتي بالزاد، ومعلياً قيمة التقوى كخير زاد.",
+  "rawText": "أَزْوَدَ 4 see 2, in two places.\nتزوّد 5 [<i>He became furnished,</i> or <i>he furnished himself, with provisions for travelling</i> or <i>for a fixed residence;</i>] <i>he took,</i> or <i>prepared, for himself provisions</i> (S, * KL, TA) <i>for travelling</i> or <i>for a fixed residence:</i> (TA: [Golius makes it to be trans. by means of بِ as on the authority of the KL; in which the only explanation, as that of the inf. n., is توشه برگرفتن:]) and <i>he chose</i> a thing <i>as</i> زَاد [or <i>provision</i>] <i>for himself.</i> (Har p. 92.) You say, تَزَوَّدَ مِنَّا فُلَانٌ [<i>Such a one was furnished,</i> or <i>such a one furnished himself, with provisions from us</i>]. (A.) And تزوّد لِسَفَرِهِ [<i>He was furnished,</i> or <i>he furnished himself, with provisions for his journey</i>]. (Msb.) And see another ex. voce زَادٌ. You say also, تَزَوَّدَ مِنَ الدُّنْيَا لِلْآخِرَةِ ‡ [<i>Take thou provisions from the present world,</i> i. e. <i>make thou provision in it, for the world to come</i>]. (A, TA.) And تَزَوَّدَ مِنَ الأَمِيرِ كِتَابًا لِعَامِلِهِ ‡ [<i>He provided himself with a letter from the commander,</i> or <i>governor,</i> or <i>prince, to his prefect</i>]. (A, TA.) And تَزَوَّدَ مِنِّى طَعْنَةً بَيْنَ أُذُنَيْهِ ‡ [<i>He got from me a stab,</i> or <i>spear-wound,</i> or <i>the like, between his ears</i>]. (A, TA.)\nزوّدهُ 2 , (S, Msb, K,) inf. n. تَزْوِيدٌ; (KL;) as also 🡻ازداهُ, (K,) inf. n. إِزْوَادٌ; (TA;) and 🡻زَادَهُ, inf. n. زَوْدٌ; (MF;) <i>He furnished him with,</i> or <i>gave him, provisions</i> (S, Msb, K, * KL) <i>for travelling</i> [or <i>for a fixed residence</i>]. (S, Msb.) [It is doubly trans.:] you say, زَوَّدَهُمْ مِلْءَ المَزَاوِدِ [<i>He furnished them with what filled the provision-bags for travelling-provision</i>]: (A:) and زوّدهُ الزَّيْتُ [<i>He furnished him with olive-oil for travelling-provision</i>]. (S in art. زيت.) And Aboo-Khirásh says, <center> <h3> وَقَدْ يَأْتِيكَ بِالأَخْبَارِ مَنْ لَا </h3> <h3> تُجَهِّزُ بِالحِذَآءِ وَلَا 🡻تُزِيدُ </h3> </center> [<i>And sometimes,</i> or <i>often, he will bring thee tidings whom thou wilt not furnish with the sandal nor furnish with travelling-provisions</i>]. (TA.) === [Hence,] زَوَّدْتُهُ كِتَابًا ‡ [<i>I provided him with a letter</i>]. (A, TA.)\nزَادٌ <i>Provisions,</i> or <i>a stock of provisions, for travelling</i> (S, L, Msb, TA) and <i>for a fixed residence:</i> (L, TA:) pl. أَزْوَادٌ (L, Msb) and أَزْوِدَةٌ; the latter anomalous. (L.) === And hence, as being likened thereto, ‡ <i>Any deed,</i> or <i>acquirement,</i> whether <i>good</i> or <i>evil, whereby one becomes changed in state,</i> or <i>condition;</i> (L;) [or rather, <i>whereby one provides for a change of state,</i> or <i>condition, like as a traveller provides for a journey.</i>] It is said in the Kur [ii. 193], 🡻وَتَزَوَّدُوافَإِنَّ خَيْرَ الزَّادِ التَّقْوَى (L) meaning, [as is implied in the L, ‡ <i>And make ye provision; but verily the best acquirement whereby to provide for a change of state,</i> or <i>condition, is fear</i> of God, or <i>piety:</i> or the meaning is] <i>and prepare ye provisions for your journey; and verily the best provision is that whereby one provides against begging from others, &c.</i> (Jel.) === [It is also said to be used as meaning † <i>Salutation and the returning of a greeting.</i> (De Sacy's Chrest. Ar., ii. 415, q. v.)]\nزَادَ 1 , aor. يَزُودُ, (L,) inf. n. زَوْدٌ, (L, K,) <i>He laid in a stock of provisions for travelling</i> or <i>for a fixed residence;</i> syn. أَسَّسَ زَادًا: (L, K:) or زَادَهُ is <i>syn. with</i> زَوَّدَهُ; q. v.; and this is what is meant in the K by تَأْسِيسُ الزَّادِ as the explanation of الزَّوْدُ. (MF.)\nمَزَادٌ : see مَزَادَةٌ.\nمَزَادَةٌ [<i>A leathern water-bag, one of a pair which is borne by a camel or other beast;;</i>] the <i>half</i> (شَطْر) <i>of a</i> رَاوِيَة: pl. مَزَائِدُ; [regularly مَزَاوِدُ; or the medial radical is ى and therefore the reg. pl. is مَزَايِدُ;] and sometimes they said 🡻مَزَادٌ, [a coll. gen. n.,] without ة: [accord. to some,] it is of the measure مَفْعَلَةٌ, [originally مَزْوَدَةٌ,] from الزَّادُ, because one furnishes himself with water in it for travelling-provision: (Msb:) [and therefore it is mentioned in this art.:] but this is a mistake. (TA in art. زيد, q. v.)\nمِزْوَدٌ <i>A bag,</i> or <i>other receptacle,</i> (S, * Msb, K, TA,) <i>for travelling-provisions,</i> (S, K, TA,) or <i>for dates, made of leather:</i> (Msb:) pl. مَزَاوِدُ. (S, A, Msb, K.) === [Hence,] رِقَابُ المَزَاوِدِ [lit. <i>The necks of provision-bags;</i>] a nickname applied to <i>the</i> عَجَم [or <i>Persians,</i> or <i>foreigners</i> in general,] (S, K) by the Arabs. (S.) [See art. رقب.]"
+}

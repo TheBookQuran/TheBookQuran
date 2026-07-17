@@ -1,0 +1,36 @@
+{
+  "rootId": "r1942",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:09:34.147Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Forgetfulness, neglecting, or custom",
+  "primaryMeaning": "To forget",
+  "quranicRelevance": "Forgetting covenants, neglecting guidance, and being forgotten by God.",
+  "keyDerivations": [
+    {
+      "lemma": "نَسِيَ",
+      "form": "Form I Verb",
+      "meaning": "To forget, neglect, or omit"
+    },
+    {
+      "lemma": "أَنْسَى",
+      "form": "Form IV Verb",
+      "meaning": "To cause to forget"
+    },
+    {
+      "lemma": "نِسْيَانٌ",
+      "form": "Noun",
+      "meaning": "Forgetfulness, or oblivion"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فَنَسِيَ وَلَمْ نَجِدْ لَهُ عَزْمًا (20:115): But he forgot/neglected, and We found not in him determination (of Adam)."
+  ],
+  "discardedNoise": [
+    "Postponing a sacred month (النسيء) - distinct root etymology (n-s-a).",
+    "Linguistic differences in the root letters."
+  ],
+  "summaryEn": "The root denotes forgetfulness and omission, describing human error in forgetting covenants and the spiritual state of oblivion.",
+  "summaryAr": "يدل هذا الجذر على النسيان والإهمال، واصفاً السهو البشري في نسيان المواثيق وحال الغفلة والذهول.",
+  "rawText": "نسى 1 , aor. ﹻ, (Mgh, Msb,) inf. n. نَشْفٌ, (Msb,) <i>He took</i> [or <i>absorbed</i>] <i>the water from the ground,</i> (Mgh, Msb,) or <i>from a pool,</i> (Mgh,) <i>with a piece of rag</i> or <i>some other thing</i> (Mgh, Msb) <i>of a similar kind.</i> (Msb.)"
+}

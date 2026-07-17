@@ -1,0 +1,52 @@
+{
+  "rootId": "r331",
+  "source": "lanes",
+  "enrichedAt": "2026-06-29T23:49:55.978Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Concealing, veiling, covering, or paradise/spirit",
+  "primaryMeaning": "To conceal, cover, or veil",
+  "quranicRelevance": "Very frequent. Denotes: a garden/paradise (Jannah) because it is covered with trees, the fetus (Janeen) hidden in the womb, the invisible spirits (Jinn, Jan), and madness or being possessed (Janoon).",
+  "keyDerivations": [
+    {
+      "lemma": "جَنَّةٌ / جَنَّاتٌ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Garden, paradise"
+    },
+    {
+      "lemma": "جِنٌّ / جَانٌّ",
+      "form": "Noun",
+      "meaning": "Invisible spirits, Jinn"
+    },
+    {
+      "lemma": "جَنَّ",
+      "form": "Form I Verb",
+      "meaning": "To cover, veil, or grow dark (e.g., 'falammā janna 'alayhi al-layl')"
+    },
+    {
+      "lemma": "جَنِينٌ / أَجِنَّةٌ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Embryo, fetus"
+    },
+    {
+      "lemma": "مَجْنُونٌ",
+      "form": "Noun / Passive part.",
+      "meaning": "Mad, insane, or possessed"
+    },
+    {
+      "lemma": "جُنَّةٌ",
+      "form": "Noun",
+      "meaning": "Shield, protection, or screen ('ittakhadhoo aymanahum junnah')"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "جُنُونٌ: Madness, insanity, or spirit possession.",
+    "اسْتَجَنَّ (Form X Verb): To shield oneself, or seek concealment."
+  ],
+  "discardedNoise": [
+    "Detailed descriptions of specific kinds of madness or graves.",
+    "Camels having a specific type of hide pattern."
+  ],
+  "summaryEn": "The root means to cover and conceal, linking the physical cover of gardens (Jannah) with the hidden fetus (Janeen), invisible spirits (Jinn), and madness (Majnun).",
+  "summaryAr": "يعني هذا الجذر التغطية والستر، رابطاً بين غطاء البساتين والأشجار (الجنة) وبين الجنين المستتر في الرحم، والمخلوقات غير المرئية (الجن)، والجنون (مجنون).",
+  "rawText": "أَجِنَّكَ كَذَا <i>i. q.</i> مِنْ أَجْلِ أَنَّكَ [<i>Because that thou art thus</i>]; (S, K;) from which it is contracted by suppressing the ل and ا and transferring the kesreh of the ل to the ا (S.) A poet says, <center> <h3> أَجِنَّكِ عِنْدِى أَحْسَنُ النَّاسِ كُلِّهِمْ </h3> </center> [<i>Because that thou art in my estimation the goodliest of all mankind</i>]. (S.) The مِنْ is omitted as in the phrase فَعَلْتُهُ أَجْلَكَ for مِنْ أَجْلِكَ. (Ks, TA.)\nأَجْنَنَ 4 see 1, in four places: ___ and see 8. ___ Also اجنّهُ <i>He</i> (God) <i>caused him to be,</i> or <i>become,</i> مَجْنُون [originally signifying <i>possessed by a</i> جِنِّىّ, or <i>by</i> جِنّ; and hence generally meaning <i>bereft of reason;</i> or <i>mad, insane, unsound in mind</i> or <i>intellect,</i> or <i>wanting therein</i>]. (S, Msb, K.) [And so, vulgarly, 🡻جنّنهُ, whoever, or whatever, be the agent.] === ما اجنّهُ [<i>How mad,</i> or <i>insane,</i> &c., <i>is he!</i>] is anomalous, (Th, S,) being formed from a verb of the pass. form, namely, جُنَّ; (Th, TA;) for of the مَضْرُوب one should not say, مَا أَضْرَبَهُ; nor of the مَسْلُول should one say, مَا أَسَلَّهُ: (S:) Sb says that the verb of wonder is used in this case because it denotes want of intellect [which admits of degrees]. (TA.) ___ اجنّ also signifies وَقَعَ فِى مَجَنَّةٍ [app. meaning <i>He fell into,</i> or <i>upon, a place containing,</i> or <i>abounding with,</i> جِنّ]. (TA.)\nأَرْضٌ مَتَجَنِّنَةٌ ‡ <i>Land having much herbage, so that it extends in every way.</i> (K, TA.)\nإِسْتَجْنَنَ 10 see 8, in two places: ___ and see also 1. ___ اِسْتِجْنَانٌ is also syn. with اِسْتِطْرَابٌ; (S, K;) استجنّهُ meaning استطربهُ, i. e. <i>He excited him to mirth, joy, gladness,</i> or <i>sport.</i> (TK.)\nاجتنّ 8 , (accord, to the S,) or 🡻اجنّ, (accord. to the K,) <i>He was,</i> or <i>became, veiled, concealed, hidden, covered,</i> or <i>protected,</i> or <i>he veiled, concealed, hid, covered,</i> or <i>protected, himself,</i> (S, K,) عَنْهُ <i>from him,</i> or <i>it;</i> (K;) as also 🡻استجن. (S, K.) You say, 🡻استجنبِجُنَّةٍ <i>He was,</i> or <i>became, veiled,</i> &c., or <i>he veiled himself,</i> &c., <i>by a thing whereby he was veiled,</i> &c. (S.)\nتَجَانَّ 6 and : see 1: === and see also 5.\nتَجَنَّنَ 5 see 1, in two places. === تجنّن عَلَيْهِ, and 🡻تَجَانَنَ, (S, K,) and 🡻تَجَانَّ, (S,) <i>He feigned himself</i> مَجْنُون [i. e. <i>possessed by a</i> جِنِّىّ, or <i>by</i> جِنّ; and hence generally meaning <i>bereft of reason;</i> or <i>mad, insane,</i> &c.;] <i>to him;</i> (S, K;) not being really so. (TA.)\nتَجْنِينٌ [an inf. n. used as a simple subst.,] <i>What is said by the</i> جِنّ [or <i>genii</i>]: or, accord. to Es-Sukkaree, <i>strange, uncouth speech</i> or <i>language, difficult to be understood.</i> (TA.)\nجَانٌّ : see جِنٌّ. === Also <i>A white serpent:</i> (Lth, S, Msb:) or <i>a small white serpent:</i> (Mgh:) or <i>a great serpent:</i> (Zj, TA:) or <i>a species of serpent</i> (AA, M, K) <i>having black-bordered eyes,</i> (M, K,) <i>inclining to yellow,</i> (M, TA,) <i>harmless, and abounding in houses:</i> (M, K:) pl. جَوَانُّ, (AA, TA,) or جِنَّانٌ. (TA.)\nجَنَانٌ : see جِنٌّ, first sentence, in two places: ___ and see the same in the latter part of the paragraph. === Also <i>A garment:</i> (K:) or <i>a garment that conceals one;</i> as in the saying, مَا عَلَىَّ جَنَانٌ إِلَّا مَا تَرَى [<i>There is not upon me a garment that conceals me save what thou seest</i>]. (S.) [See also جَنَنٌ.] === The حَرِيم [or <i>surrounding adjuncts,</i> or <i>appertenances and conveniences,</i>] (K, TA) of a house; because concealing the house. (TA.) === The <i>interior</i> of a thing that one does not see; (K;) because concealed from the eye. (TA.) === The <i>heart;</i> (T, S, M, Msb, K;) because concealed in the bosom; (T, M;) or because it holds things in memory: (M, TA:) or <i>its</i> رُوع [i. e. the <i>heart's core,</i> or the <i>mind,</i> or <i>understanding,</i> or <i>intellect</i>]; (K;) which is more deeply hidden: (TA:) and (sometimes, TA) the <i>soul,</i> or <i>spirit;</i> (IDrd, K;) because the body conceals it: (IDrd, TA:) pl. أَجْنَانٌ. (IJ, K.) You say, مَا يَسْتَقِرُّ جَنَانُهُ مِنَ الفَزَعِ [<i>His heart does not rest in its place by reason of fright</i>]. (TA.) === <i>A secret and bad action.</i> (TA. [Before the word rendered “ secret ” is another epithet, which is illegible.])\nجَنَنٌ <i>A grave;</i> (S, K;) because it conceals the dead: (TA:) and so 🡻جَنِينٌ, of the measure فَعيلٌ in the sense of the measure فَاعِلٌ. (Er-Rághib, TA.) === <i>Grave-clothing;</i> (K;) for the same reason. (TA.) === <i>A garment that conceals the body.</i> (TA.) [See also جَنَانٌ.] ___ <i>A dead body;</i> (S, K;) because concealed in the grave; the word being of the measure فَعَلٌ in the sense of the measure مَفْعُولٌ, like نَفَضٌ in the sense of مَنْفُوضٌ. (TA.)\nجَنُنٌ : see جُنُونٌ.\nجَنِينٌ Anything <i>veiled, concealed, hidden,</i> or <i>covered:</i> (K:) applied as an epithet even to rancour, or malice. (TA.) === <i>Buried; deposited in a grave.</i> (IDrd, S.) === <i>An embryo; a fœtus; the child,</i> or <i>young, in the belly;</i> (S Msb, K;) [i. e.,] <i>in the womb:</i> (Mgh:) pl. أَجِنَّةٌ (S, Msb, K) and أَجْنُنٌ. (ISd, K.) === And the former of these pls., <i>Waters choked up with earth.</i> (TA.) ___ See also جَنَنٌ. === Also The <i>vulva.</i> (TA.)\nجَنِينَةٌ , accord. to the copies of the K, but in the M 🡻جِنِّيَّةٌ, (TA,) <i>A</i> [<i>garment of the kind called</i>] مِطْرَف, (K, TA,) <i>of a round form,</i> (TA,) <i>like the</i> طَيْلَسَان, (K, TA,) <i>worn by women:</i> (TA:) in the T, said to be <i>certain well-known garments.</i> (TA.)\nجَنَّةٌ <i>A</i> [<i>garden, such as is called</i>] بُسْتَان: (S, Mgh:) or <i>a garden,</i> or <i>walled garden,</i> (حَدِيقَة, Msb, K,) <i>of trees,</i> or <i>of palm-trees,</i> (Msb,) or <i>of palms and other trees:</i> (K:) or only <i>if containing palm-trees and grape-vines;</i> otherwise, if containing trees, called حديقة: (Aboo-'Alee in the Tedhkireh, TA:) or <i>any</i> بستان <i>having trees by which the ground is concealed:</i> and sometimes <i>concealing trees:</i> (Er-Rághib, TA:) and <i>palm-trees:</i> (S:) or <i>tall palm-trees:</i> (Mgh:) or <i>shadowing trees;</i> because of the tangling, or luxuriousness of their branches; as though concealing at once what is beneath them: then <i>a</i> بستان; because of its dense and shadowing trees: (Bd in ii. 23:) or <i>a</i> بستان <i>of palms and other trees, dense, and shadowing by the tangling,</i> or <i>luxuriousness, and denseness, of their branches;</i> as though it were originally the inf. n. of un. of جَنَّهُ, and meaning “ a single act of veiling ” or “ concealing ” &c.: (Ksh ib.:) then, with the article ال, [<i>Paradise,</i>] <i>the abode of recompense;</i> because of the جِنَان therein; (Ksh and Bd ib.;) or because the various delights prepared therein for mankind are concealed in the present state of existence: (Bd ib.:) [and] hence الجَنَّاتُ [<i>the gardens</i> of Paradise], (so in a copy of the S,) or جَنَّاتُ عَدْنٍ [<i>the gardens of continual abode</i>]: (so in another copy of the S:) [for] the pl. of جَنَّةٌ is أَجِنَّةٌ (Mgh, Msb, K) and جِنَيْنَة (Msb, TA) and جُنَّةٌ, but this last is strange. (MF, TA.) [Dim. 🡻جُنَيْنَةٌ, vulgarly pronounced جِنَيْنَة, and applied to <i>A garden;</i> as though it were <i>a little Paradise.</i>]\nجَنَّنَ 2 see 4.\nجَنَّهُ 1 , (S, Mgh, K,) aor. ﹹ, (Mgh, TA,) inf. n. جَنٌّ, (TA,) <i>It veiled, concealed, hid, covered,</i> or <i>protected, him;</i> (S, Mgh, K;) said of the night; (S, K;) as also جَنَّ عَلَيْهِ, (S, Msb, K,) aor. ﹹ, (S, Msb,) inf. n. جُنُونٌ, (S,) or جَنٌّ, (K,) or both; (TA;) so in the Kur vi. 76, meaning <i>it veiled him, concealed him,</i> or <i>covered him, with its darkness;</i> (Bd;) and 🡻اجنّهُ: (S, Msb, K:) or this last signifies <i>he,</i> or <i>it, made,</i> or <i>prepared, for him,</i> or <i>gave him, that which should veil him, conceal him,</i> &c. : a"
+}

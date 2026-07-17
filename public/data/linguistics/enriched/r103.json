@@ -1,0 +1,26 @@
+{
+  "rootId": "r103",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:52:53.400Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Mankind, all created beings, or creatures walking upon the earth",
+  "primaryMeaning": "Created beings/creatures",
+  "quranicRelevance": "The earth set for all creatures (Al-anam - 'wada'aha lil-anami').",
+  "keyDerivations": [
+    {
+      "lemma": "أَنَامٌ",
+      "form": "Noun",
+      "meaning": "Mankind, all living creatures, or created beings on earth"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَالْأَرْضَ وَضَعَهَا لِلْأَنَامِ (55:10): And the earth He set/laid out for all living creatures."
+  ],
+  "discardedNoise": [
+    "Anama (to sleep) - different verbal root derivation.",
+    "Anemone flowers."
+  ],
+  "summaryEn": "The root refers to created beings and mankind (Anam), emphasizing God's layout of the earth as a habitable sphere for all living creatures.",
+  "summaryAr": "تشير مادة هذا الجذر إلى الأنام وهم الخلق والناس أو كل ذي روح يدب على الأرض (أنام)، واصفاً تهيئة الأرض وجعلها صالحة لجميع الكائنات الحية.",
+  "rawText": "الأَنَامُ (T, M, Msb, K) and 🡻الآنَامُ (K) and 🡻الأَنِيمُ, (M, K,) the last allowable in poetry, (M,) <i>i. q.</i> الخَلْقُ; (M, K, and Bd and Jel in lv. 9;) i. e. [<i>Mankind;</i> for such is the general meaning of الخَلْقُ, or] <i>mankind and the jinn</i> (or <i>genii</i>) <i>and others:</i> (Jel ubi suprà:) or <i>the jinn and mankind:</i> (T, Msb, K:) or <i>what are on the face of the earth of all that are termed</i> الخَلْق [or <i>created beings</i>]: (Lth, T, Msb:) or <i>all that is on the face of the earth:</i> (K:) or <i>everything having a</i> رُوح [i. e. <i>soul,</i> or <i>spirit</i>]: (Bd ubi suprà:) or <i>every one who is subject to sleep.</i> (TA [as though it were derived from النَّوْمُ.]) الانام is not mentioned by J, though occurring in the Kur-án. (TA.)\nالأَنِيمُ : see above.\nالآنَامُ : see above."
+}

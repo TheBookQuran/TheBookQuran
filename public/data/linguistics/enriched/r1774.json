@@ -1,0 +1,31 @@
+{
+  "rootId": "r1774",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:11:50.470Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Defeating, routing, chasing away, valley, hollow, or press",
+  "primaryMeaning": "Defeating/routing",
+  "quranicRelevance": "Routing armies of disbelief (Mahzoom - 'sayuhzamu al-jam'u', 'jundun... mahzoomun').",
+  "keyDerivations": [
+    {
+      "lemma": "هَزَمَ / يَهْزِمُ",
+      "form": "Form I Verb",
+      "meaning": "To defeat, route, conquer, crush, or disperse a force"
+    },
+    {
+      "lemma": "مَهْزُومٌ",
+      "form": "Adjective / Passive part.",
+      "meaning": "Defeated, routed, dispersed, or crushed"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "جُنْدٌ مَا هُنَالِكَ مَهْزُومٌ مِنَ الْأَحْزَابِ (38:11): (They are but) a defeated army of the factions there (prophecy of Mecca's military defeat)."
+  ],
+  "discardedNoise": [
+    "Pressing hollows in soft leather shoes.",
+    "The historical well of Zamzam (Hazmat Jibreel) in post-canonical logs."
+  ],
+  "summaryEn": "The root represents military defeat (Hazm), predicting the eventual rout (Mahzoom) of pagan coalitions and celebrating historical victories over oppressors.",
+  "summaryAr": "يمثل هذا الجذر الكسر والفرار والدحر العسكري (هزم)، متنبئاً بكسر حشود قريش والأحزاب أمام قوة الإيمان (سيهزم الجمع - جند ما هنالك مهزوم).",
+  "rawText": "اِنْهَزَمَ 7 <i>It</i> (an army) <i>was routed, discomfited, defeated,</i> or <i>put to flight.</i> (K, &c.) See حَاصَ, in art. حيص; and اِنْحَازَ, in art. حوز; from both of which it is distinguished.\nمَهْزُومُ الصَّدْرِ <i>Depressed of breast,</i> i. e., apparently, <i>illiberal, niggardly:</i> see حَوْضٌ.\nهَزْمَةٌ The [<i>purring,</i> or] <i>sound of the throat</i> of a cat. (TA.) === The <i>pit between the two collar-bones.</i> (TA, art. ترب.) === [The <i>pit</i> above a horse's eye.] (K, voce وَقْبٌ.) See also خُنْعُبَةٌ, and قَلْتَةٌ: and see عُقْمٌ, where it seems to mean <i>a stricture:</i> it generally and properly signifies <i>a depression,</i> or <i>dint:</i> or <i>a pit,</i> or <i>small hollow, resembling a dint:</i> see also غَيْبٌ."
+}

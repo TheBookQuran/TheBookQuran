@@ -1,0 +1,52 @@
+{
+  "rootId": "r26",
+  "source": "lanes",
+  "enrichedAt": "2026-06-29T23:47:48.448Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Delaying, postponing, the end, or the hereafter",
+  "primaryMeaning": "To delay or be behind",
+  "quranicRelevance": "Extremely frequent. Used for: the Hereafter/Afterlife (al-Akhirah), the latter or last (al-Akhar), delaying or postponing events/punishment (ta'khir), and the descendants or subsequent generations (al-Akhireen).",
+  "keyDerivations": [
+    {
+      "lemma": "آخِرٌ",
+      "form": "Adjective / Noun",
+      "meaning": "Last, end, or latter"
+    },
+    {
+      "lemma": "الآخِرَةٌ",
+      "form": "Noun",
+      "meaning": "The Hereafter, or life after death"
+    },
+    {
+      "lemma": "آخَرُ",
+      "form": "Adjective",
+      "meaning": "Other, or another"
+    },
+    {
+      "lemma": "أَخَّرَ",
+      "form": "Form II Verb",
+      "meaning": "To delay, postpone, or defer"
+    },
+    {
+      "lemma": "اسْتَأْخَرَ",
+      "form": "Form X Verb",
+      "meaning": "To lag behind, remain behind, or seek delay"
+    },
+    {
+      "lemma": "الآخِرُونَ",
+      "form": "Noun pl.",
+      "meaning": "The later generations, or those who come after"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "أُخْرَى: Other, another, or second (fem.).",
+    "أُخُرٌ: The back parts of a thing."
+  ],
+  "discardedNoise": [
+    "Camels' pack-saddles and their back-straps.",
+    "Grammatical details on the declension of (أُخَر)."
+  ],
+  "summaryEn": "The root denotes being at the end or delaying, forming the base for the Quranic concept of the Hereafter (al-Akhirah) and the temporal deferral of events.",
+  "summaryAr": "يدل هذا الجذر على التأخر والنهاية، وهو الأساس لمفهوم الآخرة واليوم الآخر في القرآن، وكذلك التأجيل الزمني للوعيد والعقاب.",
+  "rawText": "أخّر 2 , (S, K, &c.,) inf. n. تَأْخِيرٌ, (K,) is trans. (S, K, &c.) and intrans.: (K:) as a trans. verb it signifies <i>He made to go back</i> or <i>backwards, to recede, retreat, retire,</i> or <i>retrograde: he put,</i> or <i>drove, back: he put,</i> or <i>placed, behind,</i> or <i>after; back,</i> or <i>backward: he made to be behind,</i> or <i>posterior,</i> or <i>last: he made to remain behind, hold back, hang back,</i> or <i>lag behind: he kept,</i> or <i>held, back: he postponed, put off, procrastinated, deferred, delayed,</i> or <i>retarded: he made backward,</i> or <i>late: contr. of</i> قَدَّمَ. (Msb, TA.) === أَخَّرَنِى إِلَى مُدَّةٍ <i>He granted me a delay,</i> or <i>postponement, to a certain term,</i> or <i>period.</i> (TA in art. اجل.) ___ For its significations as an intrans. verb, see 5, in two places.\nأَخَرَةً and بِأَخَرَةٍ: see آخِرٌ, in five places.\nأَخِرٌ [an epithet variously explained]. One says, in reviling, (S, TA,) but not when the object is a female, (TA,) أَبْعَدَ اَللّٰهُ الأَخِرَ, (Th, S, A, &c.,) and 🡻الآخِرَ (M, &c.,) or this latter is wrong, (Meshárik of 'Iyád, Mgh, Msb,) as is also 🡻الآخَرَ, (Meshárik of 'Iyád,) meaning ‡ <i>May God alienate,</i> or <i>estrange, from good,</i> or <i>prosperity,</i> or <i>may God curse, him who is absent from us,</i> (A, Msb, TA,) <i>distant,</i> or <i>remote:</i> (A, Msb:) or <i>the outcast; the alienated:</i> (Msb:) or <i>him who is put back,</i> and <i>cast away:</i> so says Sh: or, accord. to ISh, <i>him who is put back, and remote from good:</i> and he adds, I think that 🡻الأَخِير is meant: (L:) or <i>the base fellow :</i> or <i>the most ignoble:</i> or <i>the miserable wretch:</i> (Et-Tedmuree and others:) or <i>the last speaker:</i> (Nawádir of Th:) or الاخر is here a metonymy for <i>the devil:</i> (Lb:) it is a word used [for the reason explained voce أَبْعَدُ] in relating what has been said by one of two persons cursing each other, to the other; (Expositions of the Fs;) and the phrase above mentioned is meant to imply a prayer for those who are present [by its contrasting them with the person to whom it directly applies]. (A.) One also says, لَا مَرْحَبًا بِالْأَخِرِ, [alluding to a particular person,] meaning [<i>May the place,</i> or <i>land, not be ample,</i> or <i>spacious,</i> or <i>roomy,] to the remote from good.</i> (TA.) It is said in a trad. of Mázin, إِنَّ الأَخِرَقَدْ زَنَى <i>Verily the outcast,</i> (Mgh, Msb,) or <i>he who is remote, and held back, from good,</i>, (Mgh, * TA,) <i>hath committed adultery,</i> or <i>fornication:</i> the speaker meaning himself; (Mgh, Msb;) as though he were an outcast. (Msb.) And in another trad. it is said, المَسْأَلَةُ أَخِرُ كَسْبِ المَرْءِ <i>Begging is the most ignoble</i> [mode of] <i>gain of man:</i> but El-Khattábee relates it with medd, [i. e. 🡻آخِرُ,] explaining it as meaning <i>begging is the last thing whereby man seeks sustenance</i> when unable to gain [by other means]. (TA.)\nأَخِيرٌ and أَخِيرًا: see آخِرٌ, in five places. See also أَخِرٌ.\nأُخَرَةً and بِأُخَرَةٍ: see آخِرٌ.\nأُخَيْرَى dim. of أُخْرَى, fem. of آخَرُ, q. v. (S.)\nأُخُرٌ The <i>back, hinder,</i> or <i>latter, part:</i> the <i>hindermost,</i> or <i>last, part: contr. of</i> قُدُمٌ. (K.) [See also مُؤَخَّرٌ; from which it appears to be distinguished by its being used only adverbially, or with a preposition: and see آخِرٌ.] You say, شُقَّ ثَوْبُهُ أُخُرًا, and مِنْ أُخُرٍ, (S, K, *) <i>His garment was rent,</i> or <i>slit, in its back,</i> or <i>hinder, part,</i> (S,) or <i>behind.</i> (K.) And تَأَخَّرَ أُخُرًا [<i>He retired backwards</i>]. (A.) And جَآءِ أُخُرًا: see آخِرٌ, in two places.\nأُخْرَاةٌ : see آخَرُ, of which it is the fem.: and see also آخِرٌ.\nأُخْرَاةٌ another fem. of آخَرُ. (K.)\nأُخْرَةً and بِأُخْرَةٍ: see آخِرً.\nأُخْرَوِىٌّ and أُخْرَاوِىُّ <i>Relating to the other state of existence,</i> or <i>the world to come.</i>]\nأُخْرِيَّا and إِخْرِيَّا and إِخِرِيَّا: see آخِرٌ.\nأُوَيْخِرُ dim. of آخَرُ, q. v. (TA.)\nإِسْتَاْخَرَ 10 see 5, in three places.\nالمُؤَخِّرُ a name of God, [<i>The Postponer,</i> or <i>Delayer;</i>] <i>He who postpones,</i> or <i>delays, things, and puts them in their places:</i> [or <i>He who puts,</i> or <i>keeps, back,</i> or <i>backward:</i> or <i>He who degrades:</i>] contr. <i>of</i> المُقَدِّمُ. (TA.) === مُؤَخِّرُ الَّرحْلِ, and مُؤَخِّرَتُهُ: see آخِرٌ.\nالمُسْأْخِرِينَ in the Kur xv. 24 is said by Th to mean <i>Those who come</i> to the mosque <i>after others,</i> or <i>late:</i> (TA:) or it means <i>those who are later in birth and death:</i> or <i>those who have not yet come forth from the loins of men:</i> or <i>those who are late,</i> or <i>backward, in adopting the Muslim religion and in fighting against unbelievers and in obedience.</i> (Bd.)\nآخَرُ a subst., of the measure أَفْعَلُ, but implying the meaning of an epithet, (S,) from أَخَّرَ in the sense of تَأَخَّرَ, (TA,) <i>Another;</i> the <i>other; a thing</i> [or <i>person</i>] <i>other than the former</i> or <i>first;</i> (L;) <i>i. q.</i> غَيْرٌ; (K;) as in the phrases, رَجُلٌ آخَرُ <i>another man,</i> and ثَوْبٌ آخَرُ <i>another garment</i> or <i>piece of cloth:</i> (TA:) or <i>one of two things</i> [or <i>persons</i>]; (S, Sgh, Msb;) as when you say, جَآءَ القَوْمُ فَوَاحِدٌ يَفْعَلُ كَذَا وَآخَرُ كَذَا <i>The people came, and one was doing thus, and one</i> [i. e. <i>another] thus:</i> (Sgh, Msb:) originally meaning <i>more backward:</i> (TA:) fem. 🡻أُخْرَى (S, Msb, K) and 🡻أُخْرَاةٌ; (K) which latter is not well known: (MF:) pl. masc. آخَرُونَ and أُخَرُ; (S, K;) [the latter irreg. as such;] and, applied to irrational things, أَوَاخِرُ, like as أَفَاضِلُ is pl. of أَفْضَلُ: (Msb:) and pl. fem. إُخْرَيَاتٌ and إُخَرُ; (S, Msb, K;) which latter is imperfectly decl.; for an epithet of the measure أَفْعَلُ which is accompanied by مِنْ has no [dual nor] pl. nor fem. as long as it is indeterminate; but when it has the article ال prefixed to it, or is itself prefixed to another noun which it governs in the gen. case, it has a dual and a pl. and a fem.; but it is not so with آخَرُ; for it has a fem. [and dual] and pl. without مِنْ and without the article ال and without its being prefixed to another noun: you say, مَرَرْتُ بِرَخُلٍ آخَرَ, and بِرِجَالٍ أُخَرَ and آخَرِينَ, and بِاٌمْرَأَةٍ, and بِنِسْوَةٍ [<i>I passed by another man,</i> and <i>by other men,</i> and <i>by another woman,</i> and <i>by other women;</i>] therefore, as it [namely إُخَرُ] is thus made to deviate from its original form, [i. e. آخَرُ, (I' Ak p. 287,) which is of a class of words used, when indeterminate, alike as sing. and dual and pl.,] and is [essentially and originally] an epithet, it is imperfectly decl., though a pl.: but when you name thereby a man, it is perfectly decl., when inderminate, accord. to Akh, or imperfectly decl. accord. to Sb. (S, L.) The dim. of آخَرُ is 🡻أُوَيْخِرُ; the ا with the ء suppressed following the same rule as the ا in ضَارِبٌ: (TA:) and the dim. of إُخْرَى is 🡻أُخَيْرَى. (S.) See also الأُخْرَى voce آخِرٌ. === لَا أَفْعَلُهُ أُخْرَى اللَّيَالِى, (S, K,) or اخرى المَنُونِ, (K,) means <i>I will not do it ever:</i> (S, K:) or the latter, <i>I will not do it to the end of time.</i> (S.) And أُخْرَى القَوْمِ, <i>The last of the people.</i> (S, K.) One says, جَآءَ فِى أُخْرَى القَوْمِ <i>He came among the last of the people.</i> (TA.) And جَآءِ فِى أُخْرَيَاتِ النَّاسِ <i>He came among those who were the last of the people.</i> (S, A, K.) [See also آخِرٌ.] === In أَبْعَدَ اللّٰهُ الآخَرَ, the last word is a mistake for الأَخِرَ q. v. (Meshárik of 'Iyád.)\nآخِرٌ , (S, Msb, K,) an epithet, of the measure فَاعِلٌ, (S,) and 🡻أَخِيرٌ, (S, Msb,) The <i>last; aftermost; hindmost:</i> and the <i>latter; after; hinder:</i> and [as a subst.] the <i>end: contr. of</i> أَوَّلُ: [or <i>of</i> أَوَّلٌ when used as a subst.:] (A, Msb, K:) or <i>of</i> مُتَقَدِّمٌ: (Lth, Msb:) or what is <i>after the first</i> or <i>former:"
+}

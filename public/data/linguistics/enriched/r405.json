@@ -1,0 +1,32 @@
+{
+  "rootId": "r405",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:25:04.476Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Prohibiting, restricting, fencing, enclosing, block, or ban",
+  "primaryMeaning": "Prohibiting/restricting or dry fencing",
+  "quranicRelevance": "God's gifts never restricted (Mahthooran - 'ghayra mahthoorin'), and dry fence debris ('al-muhtathiri').",
+  "keyDerivations": [
+    {
+      "lemma": "مَحْظُورٌ",
+      "form": "Adjective / Passive part.",
+      "meaning": "Prohibited, restricted, barred, shut off, blocked, or banned"
+    },
+    {
+      "lemma": "مُحْتَظِرٌ",
+      "form": "Noun / Active part. (Form VIII)",
+      "meaning": "Builder of a dry fence/enclosure, shepherd building brushwood pens, or dry-fencer"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَمَا كَانَ عَطَاءُ رَبِّكَ مَحْظُورًا (17:20): And the gift of your Lord is never restricted/blocked (open to all on earth).",
+    "فَكَانُوا كَهَشِيمِ الْمُحْتَظِرِ (54:31): And they became like the dry, broken straw of a sheepfold builder (absolute structural ruin)."
+  ],
+  "discardedNoise": [
+    "Modern political trade bans.",
+    "Fenced chicken farms."
+  ],
+  "summaryEn": "The root represents fencing and restriction (Hazr), comparing the crushed Thamud to a fencer's dry chaff (Muhtathir) and declaring God's worldly gifts unrestricted.",
+  "summaryAr": "يمثل هذا الجذر بناء حظيرة الشجر الشائك والمنع والتحجير (حظر)، واصفاً هلاك ثمود كحطام حظائر المواشي اليابسة، ومقرراً عالمية العطاء الدنيوي.",
+  "rawText": "أَحْظَرَ 4 see 1.\nإِحْتَظَرَ 8 see 1, in two places. === Also احتظر بِهِ † <i>He protected,</i> or <i>defended, himself by means of him,</i> or <i>it.</i> (TA.)\nحَظَرَهُ 1 , (Msb, K,) and حَظَرَ عَلَيْهِ, (K,) aor. ﹹ, (Msb,) inf. n. حَظْرٌ (S, A, Msb) and حِظَارٌ, (TA,) <i>He forbade it; prohibited it; interdicted it.</i> (S, A, Msb, K.) The Arabs say, لَا حِظَارَ عَلَى الأَسْمَآءِ <i>There is no prohibition against names;</i> i. e., no one is forbidden to be named, or to name himself, as he pleases. (TA.) === حَظَرَ الشَّىْءَ عَلَيْهِ <i>It</i> (anything intervening) <i>debarred the thing from him.</i> (L.) And حُظِرَ عَلَيْهِ كَذَا <i>Such a thing was debarred from him,</i> by something intervening. (A.) === Also حَظَرَهُ, (Msb, K,) inf. n. حَظْرٌ, (Mgh,) <i>He took it to,</i> or <i>for, himself;</i> (Mgh, Msb, K, TA;) as though he withheld it from others. (TA.) === And حَظَرَ, (K,) aor. ﹹ, inf. n. حَظْرٌ, (TA,) <i>He confined cattle in a</i> حَظِيرَة. (K.) And حَظَرَ عَلَى نَعَمِهِ <i>He confined his cattle in a</i> حَظَار. (Az.) === And حَظَرَ, (K,) [aor. app. as above,] inf. n. حَظْرٌ; (TA;) 🡻احتظر; (A, Msb, K;) <i>He made a</i> حَظِيرَة: (A, Msb, K:) or the former, (Mgh,) or 🡻احظر inf. n. إِحْظَارٌ, (TA,) <i>he made a</i> حظيرة <i>for another:</i> and 🡻احتظر <i>he made a</i> حظيرة <i>for himself.</i> (Mgh, TA.)\nحَظِرٌ <i>Trees with which a</i> حَظِيرَة <i>is made.</i> (A, K.) === And <i>Fresh thorns.</i> (K.) وَقَعَ فِى الحَظِرِ الرَّطْبِ † <i>He fell into that to which he was not equal,</i> (K, TA,) is a prov., originating from the fact of the Arabs' collecting fresh thorns, and making of them enclosures, into which a man sometimes falls so that he becomes caught therein. (TA.) And جَآءَ بِالحَظِرِ الرَّطْبِ ‡ <i>He came with,</i> or <i>brought, a large number of cattle, and of men:</i> or <i>an odious lie:</i> (K:) [or <i>calumny,</i> or <i>slander,</i> and <i>falsehood:</i>] is said of a calumniator, or slanderer, and liar, who kindles by his calumnies the fire of enmity, and makes it to burn up. (A.) And أَوْقَدَ فِى الحَظِرِ الرَّطْبِ ‡ <i>He uttered calumny,</i> or <i>slander:</i> (K:) or <i>he went about with calumny,</i> or <i>slander, and foul conduct.</i> (TA.)\nحَظِيرَةٌ <i>An enclosure</i> of a thing, <i>of wood,</i> or <i>of canes</i> or <i>reeds:</i> (K:) [<i>a kind of pen</i>:] <i>an enclosure for camels,</i> (S, Mgh,) <i>made of trees, to protect them from the cold and wind;</i> (S;) as also 🡻حِظَارٌ: (S, K:) <i>an enclosure for sheep or goats, &c., made of trees, to confine and protect them:</i> pl. حَظَائِرُ and حِظَارٌ: (Msb:) Az heard the Arabs apply the term 🡻حَظَارٌ, with fet-h [to the ح, to <i>a wall made of trees placed one upon another to form a protection for camels or sheep or goats from the cold of the north wind in winter.</i> (TA.) The pl. حَظَائرُ is met. applied, by the poet El-Marrár Ibn-Munkidh, to ‡ [<i>Enclosures of</i>] <i>palm-trees.</i> (TA.) [Hence,] حَظِيرَةٌ القُدْسِ † <i>Paradise:</i> (K:) occurring in a trad. (TA.) And هَوَ نَكِدُ الحَظِيرَةِ ‡ <i>He is a person of little good,</i> or <i>of no good:</i> (S, K:) or <i>niggardly, tenacious, penurious,</i> or <i>avaricious.</i> (A.) === Also <i>A place in which dates are dried:</i> (K:) of the dial. of Nejd: as also حَضِيرَةٌ and حَصِيرَةٌ. (TA.)\nحَظَّرَ 2 [حظّر, inf. n. تَحْظِيرٌ, app. signifies <i>He made a limit of separation,</i> or <i>the like.</i> For] زَمَنُ التَّحْظِيرِ (used as an era, Mgh) points to what 'Omar did, in dividing Wádi-l-Kurà among the Muslims and Benoo-'Odhrah, after the expulsion of the Jews: (Mgh, K, TA:) as though he assigned to every one a limit of separation. (TA.)\nحِظَارٌ (Sh, T, K) and حَظَارٌ (T, K) <i>i. q.</i> حَائِطٌ [<i>A wall,</i> or <i>wall of enclosure,</i> &c.]: (Sh, T, K:) and <i>anything intervening between a person and a thing,</i> or <i>between two things, and forming a barrier, and obstruction, a partition,</i> or <i>a fence.</i> (TA.) See also the next paragraph, in two places.\nمَحْظُورٌ <i>Forbidden; prohibited; interdicted:</i> (S, Mgh, K:) <i>confined to one class of men, exclusively of others;</i> thus in the Kur xvii. 21. (K.)\nمُحْتَظَرٌ : see what next follows.\nمُحْتَظِرٌ <i>A maker of a</i> حَظِيرَة. (S, Msb.) In the Kur liv. 31, some read, كَهَشِيمِ المُحْتَظِرِ; and others, 🡻المُحْتَظَرِ: (S, TA:) the former meaning <i>Like the dry fragments of plants,</i> or <i>trees, which the maker of a</i> حظيرة <i>collects:</i> the latter, <i>like the dry fragments of plants,</i> or <i>trees, of a</i> حظيرة. (TA.)"
+}

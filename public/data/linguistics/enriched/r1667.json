@@ -1,0 +1,31 @@
+{
+  "rootId": "r1667",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:01:45.660Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Scattering, blowing away, winnowing, pulverizing, or wind-blow",
+  "primaryMeaning": "Pulverizing/scattering (dust)",
+  "quranicRelevance": "Pulverizing mountains into scattered dust (Nasf - 'yansifuha rabbee nasfan'), and throwing calf ashes into the sea ('lanansifannahu fiy al-yammi').",
+  "keyDerivations": [
+    {
+      "lemma": "نَسَفَ / يَنْسُفُ",
+      "form": "Form I Verb",
+      "meaning": "To pulverize, scatter, blow away, winnow, or reduce to dust"
+    },
+    {
+      "lemma": "نَسْفٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Pulverization, scattering, or blowing away"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَيَسْأَلُونَكَ عَنِ الْجِبَالِ فَقُلْ يَنْسُفُهَا رَبِّي نَسْفًا (18:105): And they ask you about the mountains; say, 'My Lord will pulverize them into scattered dust' (apocalyptic leveling)."
+  ],
+  "discardedNoise": [
+    "Exploding dynamite (Nasif) in modern mining.",
+    "Obscure details of bird beak seed-cleaning."
+  ],
+  "summaryEn": "The root represents absolute pulverization (Nasf), applied to the destruction of the golden calf (thrown as ash into water) and the eschatological leveling of mountains.",
+  "summaryAr": "يدل هذا الجذر على التفتيت والنسف والتذرية بالريح، واصفاً سحق الجبال وتحويلها لرماد متطاير يوم القيامة (ينسفها)، ونسف ذرات العجل في البحر.",
+  "rawText": "إِنْتَسَفَ 8 see 1.\nمِنْسَفٌ <i>A vessel</i> (وِعَآء) <i>in which dates</i> [<i>and grain are shaken to remove the dust, &c.</i> (TA in art. نفض.)\nنَسَفَتْهُ الرِّيحُ 1 , (Mgh, Msb, TA,) aor. ﹻ, (TA,) inf. n. نَسْفٌ; (Msb, TA;) and 🡻اِنْتَسَفَتْهُ, (TA,) <i>The wind carried it away;</i> (TA;) <i>i. q.</i> ذَرَتْهُ [q. v.]; (Mgh;) namely, dust. (Mgh, Msb.)"
+}

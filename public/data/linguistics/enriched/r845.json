@@ -1,0 +1,26 @@
+{
+  "rootId": "r845",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T18:07:39.528Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Courtyard, open space, domain, tourism, travel, wandering, or flowing water",
+  "primaryMeaning": "Courtyard/open space (Sahah)",
+  "quranicRelevance": "In their courtyard/territory (Sahatihim - 'faza nazala bi-sahatihim').",
+  "keyDerivations": [
+    {
+      "lemma": "سَاحَةٌ",
+      "form": "Noun (Plural: سُوح / سَاحَات)",
+      "meaning": "Courtyard, open space in front of homes, or domain/territory"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فَإِذَا نَزَلَ بِسَاحَتِهِمْ فَسَاءَ صَبَاحُ الْمُنْذَرِينَ (37:177): Then when it (punishment) descends in their courtyard/domain, evil will be the morning of those warned."
+  ],
+  "discardedNoise": [
+    "Siyahah (tourism/vacation) - modern travel industry.",
+    "Sayih (traveling monk) - related via S-Y-H."
+  ],
+  "summaryEn": "The root refers to an open courtyard in front of houses or a territory (Sahah), metaphorically describing the descent of divine punishment directly upon the home soil of deniers.",
+  "summaryAr": "يمثل هذا الجذر الفناء الواسع المفتوح أمام البيوت وساحة الحرب ومحل نزول القوم (سوح)، مصوراً بغتة العذاب ونزوله في عقر دارهم وأرضهم (بساحتهم).",
+  "rawText": "سَاحٌ [originally سَوَحٌ]: see what follows.\nسَاحَةٌ [originally سَوَحَةٌ] The <i>court,</i> or <i>open area,</i> of a house; i. e. <i>a spacious vacant part</i> or <i>portion</i> thereof, <i>in which is no building;</i> (Msb voce عَرْصَةٌ;) <i>a part</i> of a house <i>in which is no building nor roof:</i> (Har p. 33:) its بَاحَة: (S:) or its <i>yard;</i> i. e. <i>a spacious place in front</i> of a house: (Msb in the present art.:) or <i>a wide,</i> or <i>spacious, place, among the dwellings of a tribe:</i> and <i>a side, region, quarter,</i> or <i>tract;</i> or <i>a lateral,</i> or <i>an outward</i> or <i>adjacent, part</i> or <i>portion;</i> syn. نَاحِيَةٌ: (K:) the pl. is 🡻سَاحٌ [or rather this is a coll. gen. n. of which ساحة is the n. un.] and [the pl. is] سَاحَاتٌ (S, Msb, K) and سُوحٌ; (S, K;) the last like بُدْنٌ pl. of بَدَنَةٌ, and خُشْبٌ pl. of خَشَبَةٌ: (S:) the dim. is 🡻سُوَيْحَةٌ. (TA.) [See also 7 in art. سيح.] One says, عَمَرَ ٱللّٰهُ سَاحَتَكَ [<i>May God people thy court,</i> or <i>yard;</i> or <i>make it to be well stocked with people and the like</i>]. (A.) And in a case of drought you say, اِحْمَرَّ ٱللُّوحُ وَٱغُبَرَّ ٱلسُّوحُ [<i>The air,</i> or <i>atmosphere, has become red, and the courts,</i> or <i>yards, have become very dusty</i>]. (A.) You say also, إِنَّهُ لَبَرِىْءُ السَّاحَةِ, a phrase like إِنَّهُ لَبَرِىْءُ العَذِرَةِ [expl. in art. عذر]. (TA in art. عذر.)\nسُوَيْحَةٌ dim. of سَاحَةٌ, q. v. (TA.)"
+}

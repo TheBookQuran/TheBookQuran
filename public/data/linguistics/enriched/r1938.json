@@ -1,0 +1,47 @@
+{
+  "rootId": "r1938",
+  "source": "lanes",
+  "enrichedAt": "2026-06-29T23:54:48.044Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Informing, news, announcing, or prophethood",
+  "primaryMeaning": "To inform, or give news",
+  "quranicRelevance": "Very frequent. Mapped into: important news or announcements (Naba'), prophethood (Nubuwwah), prophets as divine messengers (Nabi / Anbiya'), and telling or announcing secrets.",
+  "keyDerivations": [
+    {
+      "lemma": "نَبَأٌ / أَنْبَاءٌ",
+      "form": "Noun / Noun pl.",
+      "meaning": "News, tidings, or important information"
+    },
+    {
+      "lemma": "نَبِيٌّ / أَنْبِيَاءُ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Prophet / prophets"
+    },
+    {
+      "lemma": "أَنْبَأَ",
+      "form": "Form IV Verb",
+      "meaning": "To inform, announce, or tell news"
+    },
+    {
+      "lemma": "نَبَّأَ",
+      "form": "Form II Verb",
+      "meaning": "To inform gradually, tell extensively, or make known"
+    },
+    {
+      "lemma": "نُبُوَّةٌ",
+      "form": "Noun",
+      "meaning": "Prophethood"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "نَبَأَ (Form I): To rise, emerge, or depart from a place (classical root origin of Naba' as emerging news).",
+    "تَنَبَّأَ (Form V Verb): To claim prophethood."
+  ],
+  "discardedNoise": [
+    "A small hill or elevated land (نَبْء).",
+    "Water bubbling up in a specific way."
+  ],
+  "summaryEn": "The root refers to informing and elevating, conceptually linking divine messages (Naba') with the office of prophethood (Nubuwwah).",
+  "summaryAr": "يشير هذا الجذر إلى الإخبار والارتفاع، رابطاً مفهومياً بين الأخبار والرسائل الإلهية (النبأ) ومقام النبوة (النبوة).",
+  "rawText": "استنبأ النَّبَأَ 10 <i>He sought,</i> or <i>searched after, information,</i> or <i>news.</i> (K.) === وَيَسْتَنْبِئُونَكَ أَحَقٌّ هُوَ (in the Kur, x. 54) means <i>And they will ask thee to inform them,</i> [saying,] <i>Is it true?</i> (Bd.)\nانبأهُ إِيَّاهُ 4 , and بِهِ, (and عَنْهُ, S, K, art. كود;) and 🡻نبّأهُ (S, * K) and 🡻نَبَأَهُ, (S, * TA,) each followed by ايّاه or به; (TA;) <i>He informed him,</i> or <i>told him, of it:</i> (K:) or these verbs, followed by ايّاه, signify <i>he made him to know it;</i> and followed by به, <i>he informed him,</i> or <i>told him, of it.</i> (TA.) === Es-Semeen says, that انبأ and نبّأ and اخبر and خبّر, when they convey the meaning of knowledge, are triply transitive, or may govern three objective complements, the greatest number that any verb can govern: (TA:) [ex. أَنْبَأْتُ زَيْدًا عَمْرًا قَائِمًا <i>I acquainted Zeyd that 'Amr was standing</i>]. === It is also said, that 🡻نبّأ has a more intensive signification than انبأ: ex. مَنْ أَنْبَأَكَ هٰذَا قَالَ نَبَّأَنِى العَلِيمُ الخَبِيرُ [<i>Who hath acquainted thee with this? He said, The Knowing, the Intelligent</i> (<i>God</i>), <i>hath apprized me:</i> Kur, lxvi. 3]. (TA.) === Sb has mentioned أَنَا أَنَبُؤُكَ [for انا أَنْبَؤُكَ] as used for the sake of conformity in sound with a preceding word. (M, TA.) [See art. جوأ.] ___ رَمَى فَأَنْبَأَ <i>He cast,</i> or <i>shot, but did not split,</i> or <i>cleave,</i> or <i>make a slight cut,</i> or <i>scratch:</i> (S, K:) or, <i>did not penetrate.</i> (K.)\nتنبّأ 5 , (S, K,) said to have been pronounced with ء universally; (Sb, S;) but in the L, تنبّى; (TA;) <i>He arrogated to himself the gift of prophecy,</i> or <i>office of a prophet.</i> (L, K.)\nنابأهُ 3 <i>He acquainted</i> or <i>informed him, and the latter did the same.</i> (K.) === Also, simply, <i>He acquainted</i> or <i>informed him.</i> (TA.) === نَابَأَهُمْ <i>He quitted their neighbourhood; withdrew to a distance from them.</i> (K.) [See also art. نبو.]\nنبّأ 2 : see 4.\nنَابِئٌ act. part. n. of نَبَأَ. === A bull [app. a ثَوْرٌ وَحْشِىٌّ] <i>that goes forth from one land</i> or <i>country to another.</i> (TA.) === A torrent <i>that comes forth from another land</i> or <i>tract.</i> (S.) === A man <i>coming forth unexpectedly from an unknown quarter.</i> (S, A.) === [See also نَبِىْءٌ.]\nنَبَأٌ <i>Information; a piece of information; intelligence; an announcement; news; tidings; a piece of news; an account; a narrative,</i> or <i>narration; a story:</i> or <i>what is related from another</i> or <i>others:</i> syn. خَبَرٌ: (S, Msb, K:) it is generally held to be syn. with خَبَرٌ; but accord. to Er-Rághib, signifies <i>an announcement of great utility, from which results either knowledge</i> or <i>a predominance of opinion, and true:</i> (TA:) pl. أَنْبَآءُ. (K.) === النَّبَأُ العَظِيمُ [Kur, lxxviii. 2,] accord. to some, <i>The Kur-án:</i> others say, <i>the resurrection:</i> and others, <i>the case of the Prophet.</i> (TA.) === الأَنْبَآءُ, in the Kur, xxviii. 66, (فَعَمِيَتْ عَلَيْهِمُ الأَنْبَآءُ) signifies <i>The allegations, pleas,</i> or <i>excuses.</i> (TA.)\nنَبَأَ 1 . (K,) inf. n. نَبْءٌ, (TA,) <i>He uttered a low voice,</i> or <i>sound:</i> or <i>he</i> (a dog) <i>cried,</i> or <i>barked.</i> (K.) [See نَبَحَ.] ___ نَبَأَ, aor. ﹷ, inf. n. نَبْءٌ and نُبُوْءٌ, <i>He was exalted,</i> or <i>elevated.</i> ___ نَبَأَ عَلَيْهِمْ, (K,) inf. n. نَبْءٌ and نُبُوْءٌ, (S,) <i>He assaulted them;</i> <i>came forth upon them:</i> (K:) like نَبَعَ and نَبَهَ: <i>he came upon them.</i> (AZ, S.) [See also نَابِئٌ.] === نَبَأَ <i>He went forth</i> from a land to another land. (S, K.) [See نَابِئٌ.] === نَبَأَتْ بِهِ الأَرْضُ <i>i. q.</i> جَآءَتْ به, <i>The land brought,</i> or <i>led him:</i> (S, L:) [accord. to Golius, <i>The land brought,</i> or <i>produced, it:</i> but it is a phrase well known to the learned among the Arabs in the present day, as similar to نَادَاهُ تُرَابُهُ “ his dust, or earth, (i. e. the place of his burial,) called him: ” and the explanation which I have given is confirmed by the citation, in the S, of the following verse, of Hanash Ibn-Málik, immediately after نبأت به in the sense of جاءت به:] <center> <h3> فَنَفْسَكَ أَحْرِزْ فَإِنَّ الحُتُو </h3> <h3> فَ يَنْبَأْنَ بِالمَرْءِ فِى كُلِّ وَادْ </h3> </center> [<i>Then take good care of thyself; for deaths</i> (of various kinds) <i>bring</i> (or <i>lead</i>) <i>a man into every valley</i> (or <i>place</i>): i. e., fate brings him to the place where he is destined to be buried, whereever it be]. (S.) === نَبَأَ, aor. ﹷ: see 4.\nنَبِىْءٌ , (S, K,) pronounced with ء in the dial. of the people of Mekkeh, (S,) whose pronunciation of it is disapproved by Sb on account of its uncommonness; (TA;) by others, نَبِىٌّ, without ء; (S, K, TA;) <i>A prophet:</i> (TA:) of the measure فَعِيلٌ used in the sense of the measure مُفْعل [i. e. مُفْعِلٌ or مَفْعَلٌ] (IB) or فَاعِلٌ (S, Es-Sunoosee) or مَفْعُولٌ; (Es-Sunoosee) i. e., <i>who acquaints</i> or <i>informs mankind,</i> (S, K, TA,) or <i>who is acquainted</i> or <i>informed, respecting God and things unseen:</i> or accord. to some, it is derived from نَبْوَةٌ and نَبَاوَةٌ signifying “ elevation; ” (see art. نبو;) in which case it is originally without ء: or, accord. to others, from نَبِىْءٌ in a sense given below; that of “ a conspicuous way. ” (TA.) It is a less special word than رَسُولٌ [when thereby is meant an apostle of God]; for every رسول is a نبىّ, but not every نبىّ is a رسول. (TA.) Pl. أَنْبِيَآءُ (S, K, without ء, because the ء is changed into ى in the sing., S,) and نُبَأٓءُ (S, K, like كُرَمَآءُ [pl. of كَرِيمٌ] TA,) and أَنْبَآءٌ [K, these two preserving the original radical ء] and نَبِيُّونَ, (K,) without ء: (TA:) but some pronounced the first and last of these pls., in the Kur-án, with ء; though the more approved pronunciation is without ء. (TA.) The dim. is نُبَيّئٌ, (S, K,) with those who make the pl. نُبَأٓءٌ [or أَنْبَآءٌ]; but with those who make the pl. أَنْبِيَآء, it is نُبَىٌّ. (K.) === An Arab of the desert said to Mohammad, يَا نَبِىْءَ اللّٰهِ, and the latter disapproved of his pronouncing نبىء in this case with ء, because, as it signifies <i>An emigrant,</i> he meant thereby to call him an emigrant from Mekkeh to El-Medeeneh. (S, K, TA.) === نَبِىْءٌ <i>A conspicuous, an evident,</i> or <i>a clear, way.</i> (K.) Hence, accord. to some, the apostle [or rather prophet] is so called, because he is the conspicuous, evident, way, that conducts to God. (MF.) === نَبِىْءٌ and 🡻نَابِئٌ <i>An elevated,</i> or <i>a protuberant,</i> or <i>gibbous, place.</i> (K.) === Hence it is said in a trad., لَا تُصَلُّوا عَلَى النَّبِىْءِ [<i>Pray not upon the place that is elevated,</i> or <i>protuberant</i>]. (K.)\nنَبْأَةٌ <i>An eminence,</i> or <i>protuberance, in the earth,</i> or <i>ground.</i> (TA.) === نَبْأَةٌ <i>A low voice,</i> or <i>sound:</i> (S, K:) or the <i>cry,</i> or <i>barking, of dogs.</i> (K.)\nنُبُوْءَةٌ , (K, in the CK نُبُوَّة) in which the ء is sometimes softened in pronunciation, and sometimes [or rather generally] changed into و which is incorporated into the preceding و so that the word is written and pronounced نُبُوَّةٌ, (TA,) <i>Prophecy;</i> the <i>gift of prophecy;</i> the <i>office,</i> or <i>function, of a prophet.</i> (MA, K.) Dim. نُبَيِّئَةٌ. (S, K.)\nهَلْ عِنْدَكُمْ نَابِئَةُ خَبَرٍ , <i>i. q.</i> جَائِبَةُ خَبَرٍ, [<i>Have ye any current news?</i> or — <i>news from a distant place?</i> &c.: see جائبة]. (A.)"
+}

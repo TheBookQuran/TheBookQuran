@@ -1,0 +1,42 @@
+{
+  "rootId": "r1006",
+  "source": "lanes",
+  "enrichedAt": "2026-06-29T23:14:14.081Z",
+  "modelId": "claude-3-5-sonnet-human-curated",
+  "semanticCore": "hidden rancour; malice or spite",
+  "primaryMeaning": "Rancour, malevolence, malice, or spite hidden in the heart.",
+  "quranicRelevance": "Appears in the Quran (plural أَضْغَان) to describe the hidden malice, hatred, and rancour harbored by hypocrites (المنافقين) against Islam and Muslims, which God exposes (e.g. 47:29 'Or do those in whose hearts is disease think that Allah will never expose their hatred? [أَضْغَانَهُمْ]').",
+  "keyDerivations": [
+    {
+      "lemma": "ضَغِنَ",
+      "form": "Form I",
+      "meaning": "To conceive rancour, malevolence, or spite."
+    },
+    {
+      "lemma": "اضْطَغَنَ",
+      "form": "Form VIII",
+      "meaning": "To conceal rancour in the heart; to carry something under the arm or in the bosom."
+    },
+    {
+      "lemma": "ضِغْنٌ",
+      "form": "Noun",
+      "meaning": "Rancour, malice, or spite (pl. أَضْغَان)."
+    },
+    {
+      "lemma": "ضَغِينَةٌ",
+      "form": "Noun",
+      "meaning": "Deep-seated rancour or hatred."
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "The lion (الضغيني) due to his spiteful nature.",
+    "Mutual rancour among people (تضاغن)."
+  ],
+  "discardedNoise": [
+    "Putting a garment beneath the right arm and within the left arm (اضطغان).",
+    "Carrying a child in the flank or armpit."
+  ],
+  "summaryEn": "The root ضغن denotes hidden malice and rancour. In the Quran, it refers to the deep-seated hatred (أَضْغَان) harbored by the hypocrites that God exposes.",
+  "summaryAr": "يدل جذر ضغن على الحقد الدفين والمخفي في الصدر. ويظهر في القرآن الكريم (بصيغة الجمع أَضْغَان) للتعبير عن الأحقاد والكراهية التي يضمرها المنافقون ضد الإسلام والمسلمين، والتي يتوعد الله بكشفها.",
+  "rawText": "إِضْتَغَنَ 8 see what next precedes. === One says also, اضطغن عَلَى فُلَانٍ ضَغِينَةً <i>He conceived,</i> or <i>concealed,</i> [<i>in his heart,</i>] <i>rancour, malevolence, malice,</i> or <i>spite, against such a one.</i> (TA.) === And اضطغنهُ <i>He took it</i> (i. e. a thing, and weapon, S) <i>beneath his</i> حِضْن [or <i>the part between his armpit and flank,</i> &c.]: (S, K:) and <i>he carried him</i> (i. e. a child) <i>in that part,</i> or <i>in his bosom.</i> (TA.) === الاِضْطِغَانُ is also <i>syn. with</i> الاِشْتِمَالُ, which is <i>The putting</i> [<i>a portion of</i>] <i>the garment beneath</i> [<i>and within</i>] <i>the right arm,</i> [app. <i>from behind,</i>] <i>and the other end beneath the left arm, and drawing it</i> [i. e. <i>the garment</i>] <i>together with the left hand.</i> (TA. [But see اِشْتَمَلَ.])\nالضَّغِينِىُّ <i>The lion:</i> (K, TA:) as though a rel. n. from الضَّغِينَةُ: because he is very rancorous, malevolent, malicious, or spiteful. (TA.)\nتَضَاغُنٌ 6 The <i>conceiving,</i> or <i>being affected with, mutual rancour, malevolence, malice,</i> or <i>spite.</i> (KL, and Har p. 43.) You say, تضاغنوا and 🡻اضطغنوا <i>They had,</i> or <i>held, in the heart, feelings of mutual rancour, malevolence, malice,</i> or <i>spite.</i> (S, K.)\nضَاغِنٌ : see ضَغِنٌ. === Also A horse <i>that will not exert his power of running unless beaten;</i> (S, K, TA;) and so 🡻ضَغِنٌ. (S, * TA. [See also ضَغُونٌ.])\nضَغُونٌ A horse, and a mare, <i>that runs like him who reverts from the state in which he was,</i> or <i>from the course that he was following.</i> (AO, TA. [See also ضَاغِنٌ.])\nضَغِنٌ <i>Affected with rancour, malevolence, malice,</i> or <i>spite;</i> as also 🡻ضَاغِنٌ. (Msb.) === And قَنَاةٌ ضَغِنَةٌ ‡ <i>A crooked spear-shaft.</i> (S, K, TA.) === See also ضَاغِنٌ.\nضَغِنَ 1 , (AZ, S, Msb, K,) aor. ﹷ, (Msb, K,) inf. n. ضَغَنٌ (AZ, S, Msb, TA) and ضِغْنٌ, (AZ, TA,) or the latter is a simple subst., (Msb,) <i>He,</i> (S, K,) or <i>it,</i> i. e. one's bosom, (Msb,) <i>was,</i> or <i>became, affected with rancour, malevolence, malice,</i> or <i>spite;</i> (S, Msb, K;) or, said of a man, <i>his bosom was,</i> or <i>became, affected therewith;</i> (AZ, TA;) عَلَيْهِ <i>against him.</i> (S.) [See also ضِغْنٌ below.] === And, (IAar, S, K,) aor. and inf. ns. as above, (TA,) <i>He inclined,</i> (IAar, S, K, TA,) إِلَيْهِ <i>towards him,</i> (IAar, TA,) and عَلَيْهِ <i>against him,</i> (TA,) and إِلَى الدُّنْيَا [<i>towards the present world,</i> or <i>worldly things</i>]. (S, K.) And ضَغِنَتِ القَنَاةُ, inf. n. ضَغَنٌ, ‡ <i>The spear-shaft was,</i> or <i>became, crooked.</i> (TA.) === Also, (K, TA,) aor. and inf. ns. as above, (TA,) <i>He was,</i> or <i>became, affected with desire,</i> or <i>with yearning</i> or <i>longing of the soul.</i> (K, TA.)\nضَغِينٌ : see ضِغْنٌ.\nضَغِينَةٌ : see ضِغْنٌ, in three places.\nضِغْنٌ [said by some to be an inf. n.: (see 1:)] <i>Rancour, malevolence, malice,</i> or <i>spite;</i> (S, Msb, K;) as also 🡻ضَغِينَةٌ: (S, K:) or both signify <i>vehement rancour</i> &c.; and <i>enmity;</i> and <i>violent hatred:</i> (TA:) the pl. of the former is أَضْغَانٌ; (MA, Msb;) and that of ↓ the latter is ضَغَائِنُ, (MA,) and 🡻ضَغِينٌ may be a pl. of ضَغِينَةٌ, [or rather a coll. gen. n.,] or the ة may be elided by poetic license; or these two may be dial. vars., like حُقٌّ and حُقَّةٌ [accord. to some], and بَيَاضٌ and بَيَاضَةٌ. (TA.) One says, when he has sought to gain a person's good will, or approval, سَلَلْتُ ضِغْنَ فُلَانٍ and 🡻ضَغِينَتَهُ [<i>I drew forth the rancour,</i> &c., <i>of such a one</i>]. (TA.) And a woman who hates her husband is said to be ذَاتُ ضِغْنٍ عَلَى زَوْجِهَا [<i>One who has a feeling of rancour,</i> &c., <i>against her husband</i>]. (TA.) === And <i>Difficulty of disposition</i> in a beast: so in the phrase ذَاتُ ضِغْنٍ [A beast (دَابَّةٌ) <i>having a difficult disposition</i>]. (TA.) See also the phrase ذَاتُ شَغْبٍ وَضِغْنٍ, applied to a she-ass, in art. شغب. === And <i>Inclination.</i> (S, K.) One says, ضِغْنِى إِلَى فُلَانٍ <i>My inclination is towards such a one.</i> (S.) === And <i>Desire;</i> or <i>yearning</i> or <i>longing of the soul.</i> (K, TA.) One says نَاقَةٌ ذَاتُ ضِغْنٍ meaning <i>A she-camel yearning towards,</i> or <i>longing for, her home,</i> or <i>accustomed place,</i> (S, TA,) <i>and her mates.</i> (S. [See a verse cited voce رِفَاقٌ.]) And sometimes ضِغْنٌ is thus used, metaphorically, in relation to women. (TA.) ___ Also <i>A side;</i> or <i>a region, quarter,</i> or <i>tract;</i> syn. نَاحِيَةٌ. (K.) === And The إِبْط [i. e. <i>foot, bottom,</i> or <i>lowest part,</i>] <i>of a mountain:</i> thus correctly, as in the “ Nawádir: ” in the copies of the K, الجَمَل is erroneously put for الجَبَل. (TA.)\nمُضَاغِنٌ One <i>who treats,</i> or <i>regards, his brother with rancour, malevolence, malice,</i> or <i>spite,</i> or <i>with enmity, being so regarded,</i> or <i>treated, by him;</i> as also 🡻مُضْطَغِنٌ. (TA.)\nمُضْطَغِنٌ : see what next precedes."
+}

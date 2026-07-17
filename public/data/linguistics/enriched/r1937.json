@@ -1,0 +1,57 @@
+{
+  "rootId": "r1937",
+  "source": "lanes",
+  "enrichedAt": "2026-06-29T23:52:37.690Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Living, animating, greeting, or modesty/shyness",
+  "primaryMeaning": "To live, or be alive",
+  "quranicRelevance": "Very frequent. Covers: life (Hayat) as opposed to death, God giving life (Ihya') and bringing the dead back to life, the living beings (Ahya'), the greeting of peace (Tahiyyah), and modesty/shyness (Istihya').",
+  "keyDerivations": [
+    {
+      "lemma": "حَيِيَ / حَيَّ",
+      "form": "Form I Verb",
+      "meaning": "To live, be alive, or feel shame"
+    },
+    {
+      "lemma": "حَيَاةٌ",
+      "form": "Noun",
+      "meaning": "Life"
+    },
+    {
+      "lemma": "حَيٌّ / أَحْيَاءٌ",
+      "form": "Adjective / Noun pl.",
+      "meaning": "Living, or alive"
+    },
+    {
+      "lemma": "أَحْيَا",
+      "form": "Form IV Verb",
+      "meaning": "To give life, revive, or animate"
+    },
+    {
+      "lemma": "حَيَّا",
+      "form": "Form II Verb",
+      "meaning": "To greet, salute, or pray for long life"
+    },
+    {
+      "lemma": "تَحِيَّةٌ",
+      "form": "Noun",
+      "meaning": "Greeting, salutation, or peace"
+    },
+    {
+      "lemma": "اسْتَحْيَا",
+      "form": "Form X Verb",
+      "meaning": "To feel shame, be modest, or spare someone's life"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "المَحْيَا: Place or state of life (as in 'mahyaya wa mamati').",
+    "حَيَّةٌ: Snake or serpent (from its quick, living movement)."
+  ],
+  "discardedNoise": [
+    "Large tribe or encampment (حيّ).",
+    "Obscure descriptions of snake skins."
+  ],
+  "summaryEn": "The root encompasses life, shyness, and salutation, conceptually linking physical animation (Ihya') with moral modesty (Istihya') and peace-offerings (Tahiyyah).",
+  "summaryAr": "يشمل هذا الجذر معاني الحياة والاستحياء والتحية، رابطاً مفهومياً بين الإحياء والتحريك المادي وبين الحياء الأخلاقي (الاستحياء) وإلقاء السلام (التحية).",
+  "rawText": "أَبُو يَحْيَى <i>Death.</i> (TA, Har p. 218.)\nأَحْيَى in the saying أَحْيَى مِنْ ضَبٍّ [<i>More longlived than a</i> ضبّ, a kind of lizard, which is supposed to live seven hundred years,] is from الحَيَاةُ. (TA.) === In the sayings أَحْيَى مِنْ هَدِىٍّ [<i>More shy,</i> or <i>bashful, than the bride</i>] and أَحْيَى مِنْ مُخَدَّرَةٍ [<i>More shy,</i> or <i>bashful, than a girl kept behind the curtain</i>] it is from الحَيَآءُ. (TA.)\nأَرْضٌ مَحْيَاةٌ <i>i. q.</i> مَحْوَاةٌ, i. e. <i>A land containing serpents:</i> (Ibn-Es-Sarráj, S:) or <i>abounding with serpents.</i> (TA in art. حوى.)\nأُحَىُّ and أُحَىٌّ and أُحَىٍّ: see art. حو.\nأُحَيْوٍ : see art. حو.\nاحياهُ 4 , (S, Msb, K, &c.,) inf. n. إِحْيَآءٌ, (TA,) said of God, (S, Msb,) <i>He made him alive, to live,</i> or <i>be a living being; quickened, endued with life, vivified,</i> [<i>revivified, revived,</i> or <i>resuscitated,</i>] <i>him.</i> (S, * Msb, * K.) Hence, in the Kur [lxxv. last verse], أَلَيْسَ ذٰلِكَ بِقَادِرٍ أَنْ يُحْيِىَ المَوْتَى, (S, TA,) i. e. <i>Is not That</i> Doer of these things (Jel) [<i>able to quicken the dead?</i>]. === See also 2, in two places. === † <i>He</i> (God) <i>endued him with the intellectual faculty:</i> as in the saying, in the Kur [vi. 122], أَوَمَنْ كَانَ مَيِّتًا فَأَحْيَيْنَاهُ † [<i>And is he who was intellectually dead and whom we have endued with the intellectual faculty...?</i>]. (Er-Rághib.) === See also 3. === احيا الأَرْضَ † <i>He</i> (God) <i>revived the earth,</i> or <i>land, by the rain, so as to produce in it plants,</i> or <i>herbage.</i> (TA.) And أُحْيِيَتِ الأَرْضُ † <i>The land was tilled, and made productive.</i> (AHn.) And احيا المَوَاتِ ‡ <i>He turned to use the unowned and unused and uncultivated land by walling it round</i> or <i>sowing it</i> or <i>building upon it</i> and <i>the like.</i> (TA.) === Also † <i>He</i> (a man) <i>found the land to be fruitful,</i> or <i>abundant in herbage,</i> (S, K,) <i>with fresh herbage.</i> (K.) === احيا اللَّيْلَ † <i>He passed the night in religious service, worship, adoration,</i> or <i>devotion, abstaining from sleep:</i> (TA:) or [simply] <i>he remained awake during the night.</i> (W p. 9.) And احيا لَيْلَتَهُ <i>He passed his night awake.</i> (MA.) ___ احيت النَّاقَةُ <i>The she-camel had living offspring;</i> (S, K;) <i>her offspring seldom,</i> or <i>never, died.</i> (S.) === احيا القَوْمُ <i>The people,</i> or <i>company of men, had their cattle living:</i> (K:) or <i>had their cattle in good condition:</i> (AA, S, K:) or <i>had rain, so that their beasts obtained herbage to such a degree that they became fat:</i> (AZ:) or <i>they</i> (themselves) <i>became in a state of abundance of herbage,</i> or <i>plenty.</i> (S, K. [See also 1.])\nاستحياهُ 10 <i>He spared him; let him live;</i> or <i>left him alive;</i> (S, Msb, K, TA;) <i>did not slay him;</i> (Msb;) in which sense the verb has but one form: (Msb, TA:) or <i>he left him; let him alone;</i> or <i>forbore from him.</i> (Mgh.) === Hence, as some say, (K,) إِنَّ ٱللّٰهَ لَا يَسْتَحْيِى أَنْ يَضْرِبَ مَثَلًا, (S, K,) in the Kur [ii. 24], i. e. لَا يَسْتَبْقِى [meaning <i>Verily God will not spare to propound,</i> or <i>refrain from propounding, a parable,</i> or <i>as a parable</i>]. (S.) [Hence, also,] إِنَّ ٱللّٰهَ يَسْتَحْيِى مِنْ ذِى الشَّيْبَةِ المُسْلِمِ أَنْ يُعَذِّبَهُ, i. e. [<i>Verily God</i>] <i>forbears from punishing</i> [<i>the hoary Muslim</i>]. (Er-Rághib.) === [اِسْتَحْيَى, or اِسْتَحْيَا, which latter is the more proper mode of writing it, also signifies <i>He felt,</i> or <i>had a sense of,</i> or <i>he was,</i> or <i>became, moved</i> or <i>affected with, shame, shyness,</i> or <i>bashfulness;</i> and particularly, but not always, <i>honest shame,</i> or <i>pudency,</i> or <i>modesty;</i> or <i>his soul shrank from foul things;</i> as also اِسْتَحَى; and 🡻حَيِىَ, inf. n. حَيَآءٌ.] استحيى is of the dial. of El-Hijáz; and استحى, with a single ى, is of the dial. of Temeem; (Akh, S, Msb;) the former being the original, (Akh, S,) and that which is used in the Kur: (Msb:) in the latter, the first ى [of the original] is suppressed, [and its vowel is transferred to the ح,] to facilitate the pronunciation, because of the occurrence of the two ى s together: this is the opinion of Sb; and with it agrees that of Aboo-'Othmán [ElMázinee]: the opinion ascribed to Sb in the S, namely, that اِسْتَحَيْتُ is changed from اِسْتَحْيَيْتُ in like manner as اِسْتَبَعْتُ is changed from اِسْتَبٌيَعْتُ, is that of Kh, and is disallowed by El-Mázinee. (IB.) You say, استحيى منه, (S, K, [in the CK, erroneously, عَنْهُ,]) or استحيا منه, (Mgh, Msb,) and استحى منه, and استحياهُ, (S, Msb, K, TA,) and استحاهُ; (TA, [and so in the CK in the place of استحياهُ;]) as also 🡻حَيِىَمنه, (S, Mgh, Msb, K,) aor. يَحْيَا, (S,) inf. n. حَيَآءٌ; (S, * Mgh, Msb, K;) <i>He was ashamed of it</i> or <i>on account of it,</i> or <i>ashamed to do it,</i> or <i>shy of doing it;</i> [generally meaning a foul thing;] <i>he was ashamed for himself,</i> or <i>of himself,</i> or <i>was bashful,</i> or <i>shy, with respect to it,</i> or <i>him; he was abashed at,</i> or <i>shy of, it,</i> or <i>him;</i> (K;) <i>he shrank from it,</i> or <i>him:</i> (Msb, K: *) and استحيى مِنْ كَذَا [or استحيا] <i>He disdained,</i> or <i>scorned, such a thing; abstained from it,</i> or <i>refused to do it, by reason of disdain and pride; he dislike,</i> or <i>hated, it, and his soul was above it; he shunned it, avoided it,</i> or <i>kept himself far from it;</i> syn. أَنِفَ مِنْهُ. (TA.)\nالتَّحَايِى <i>The two stars in the foot and before the foot of the foremost of Gemini:</i> (Kzw:) or <i>three stars over against</i> الهَنْعَة [which is <i>the Sixth Mansion of the Moon</i>]; (IKt, K;) and sometimes the moon deviates from الهنعة, and makes its abode in التحايى: (IKt:) they are <i>between the Milky Way and the stars that follow</i> العَيُّوق [or <i>Capella</i>]: Aboo-Ziyád El-Kilábee used to say that this name means الهنعة, and is also pronounced التَّحَائِى, withء: but AHn says that the moon makes its abode in these stars, and not in الهنعة itself: (TA:) its sing. is 🡻تِحْيَاةٌ; (IKt, AHn, TA;) if so, of the measure تِفْعَلَةٌ, like تِحْلَبَةٌ, not فِعْلَاةٌ, like عِزْهَاةٌ, because there is no such root as تَحى; derived from الحَيَا, because its نَوْء [here meaning its auroral setting, in midwinter,] is attended with much rain: but التحائى, with ء, is irreg.; as though pl. of 🡻تَحِيَّةٌ likened to a word of the measure فَعِيلَةٌ. (IB.)\nتحيّا مِنْهُ 5 † <i>He shrank from it:</i> taken from الحَيَآءُ [or الحَيَاةُ]; because it is of the nature of the living to shrink: or it is originally تَحَوَّى; the و being changed into ى; or [in other words] from الحَىُّ “ the act of collecting, ” [inf. n. of حَوَاهُ,] like تَحَيَّزَ from الحَوْزُ. (TA.) [See also 10.]\nتَحَايَا 6 as quasi-pass. of 3, <i>He quickened, enlivened,</i> or <i>revived, himself.</i> See an ex. voce رُوحٌ.]\nتَحِيَّةٌ inf. n. of 2. (Mgh, Msb, K.) === Also <i>A salutation,</i> or <i>greeting,</i> (A'Obeyd, AHeyth, Mgh, Msb,) <i>pronounced by one person to another on their meeting;</i> (AHeyth;) particularly the <i>saying</i> سَلَامٌ عَلَيْكَ; (Mgh, * Msb;) and <i>the like;</i> (Mgh;) the most comprehensive form thereof, used by the believer [to his fellow-believer], being the <i>saying</i> السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ ٱللّٰهِ وَبَرَكَاتُهُ: (AHeyth:) hence it is pluralized; the pl. being تَحِيَّاتٌ and تَحَايَا. (Mgh.) === Also <i>Continuance,</i> or <i>endurance;</i> or <i>endless,</i> or <i>everlasting, existence:</i> (IAar, Msb, K, &c.:) and so it is said to mean in the following verse of Zuheyr Ibn-Jenáb ElKelbee; who was a [kind of] king among his people: <center> <h3> قَدْ نِلْتُهُ إِلَّا التَّحِيَّهْ </h3> <h3> وَلَكُلُّ مَا نَالَ الفَتَى </h3> </center> [<i>And indeed everything that the young man has attained, I have attained it, except endless existence</i>]: or, as some say, it here means <i>security from deat"
+}

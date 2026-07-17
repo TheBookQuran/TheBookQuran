@@ -1,0 +1,31 @@
+{
+  "rootId": "r427",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:25:04.476Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Breaking oath, perjury, great sin, violation, or guilt",
+  "primaryMeaning": "Breaking an oath/perjury or committing a great sin",
+  "quranicRelevance": "Banning oath violation (Tahnas - 'wa-la tahnas'), and persisting in great sin (Hinth - 'al-hinthi al-'atheemi').",
+  "keyDerivations": [
+    {
+      "lemma": "حِنْثٌ",
+      "form": "Noun",
+      "meaning": "Oath violation, perjury, great sin, violation, guilt, or heavy burden"
+    },
+    {
+      "lemma": "حَنِثَ / يَحْنَثُ",
+      "form": "Form I Verb",
+      "meaning": "To violate an oath, commit perjury, go back on word, or sin"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَخُذْ بِيَدِكَ ضِغْثًا فَاضْرِبْ بِهِ وَلَا تَحْنَثْ (38:44): 'And take in your hand a bundle of grass and strike with it, and do not break your oath' (Job's oath resolution)."
+  ],
+  "discardedNoise": [
+    "Guilt feelings in secular courts.",
+    "Minor contract violations."
+  ],
+  "summaryEn": "The root represents perjury and major sin (Hinth), detailing Job's symbolic solution to avoid oath violation (Tahnas) and condemning persisting in the great sin.",
+  "summaryAr": "يمثل هذا الجذر الحنث باليمين والرجوع في العهد والذنب العظيم الموثق (حنث)، واصفاً رخصة أيوب لتفادي نقض القسم (ولا تحنث)، وعقوبة الإصرار على الشرك.",
+  "rawText": "أَحْنَثْتُهُ 4 (S, K) فِى يَمِينِهِ (S) <i>I made him to violate,</i> or <i>break,</i> or <i>fail of performing, his oath.</i> (S, K. *) === احنث فُلَانٌ قَسَمَ فُلَانٍ <i>Such a one assented not,</i> or <i>consented not, to the conjurement of such a one; contr. of</i> أَبَرَّ. (T and TA in art. بر.)\nتحنّث 5 † <i>He put away,</i> or <i>cast away, from himself</i> الحِنْث, i. e. <i>sin,</i> or <i>crime:</i> (ISd, Towsheeh, TA:) it is said that there are only six verbs of the measure of this signifying the putting away, or casting away, from oneself a thing, [i. e. the thing denoted by the root,] which are تحنّث and تأثّم and تحوّب and تحرّج and تنجّس and تهجّد: (TA:) † <i>he did a work whereby to escape from sin,</i> or <i>crime:</i> (IAar, Msb:) † <i>he applied himself to acts,</i> or <i>exercises, of devotion;</i> (S, A, Msb, K;) accord. to Ez-Zuhree and the K, during numerous nights; but it has been shown by the Expositors of El-Bukháree, and others, that this addition is taken from words following the verb in the explanation of a trad., and has nothing to do with the meaning of the verb itself: (MF, TA:) † <i>he relinquished</i> [<i>the worship of</i>] <i>idols;</i> (S, K;) like تحنّف; (S;) and it may be that the ث in this verb is interchangeable with ف, (A,) or a substitute for ف. (TA.) You say also, تحنّث مِنْ كَذَا ‡ <i>He abstained from such a thing as a sin,</i> or <i>crime;</i> syn. تأثّم, (S, A, K,) and تحرّج. (A.) And تحنّث بِأَفْعَالٍ † <i>He sought to bring himself near unto God,</i> or <i>to advance himself in God's favour, by works</i> [of devotion &c.]. (TA.)\nحنْثهُ 2 <i>He pronounced him</i> (جَعَلَهُ) <i>a violator,</i> or <i>non-performer, of his oath:</i> (Msb:) [a verb similar to أَثَّمَهُ and فَسَّقَهُ &c.]\nحَانِثٌ <i>Violating,</i> or <i>failing to perform, his oath;</i> or <i>a violator,</i> or <i>non-performer, of his oath.</i> (Msb.)\nحَنِثَ فِى يَمِينِهِ 1 , (S, A, Msb, K, *) aor. ﹷ, (Msb, K,) inf. n. حِنْثٌ (S, * A, Msb, K *) and حَنَثٌ, (TA,) <i>He violated,</i> or <i>broke,</i> or <i>failed of performing, his oath:</i> (A, Msb, K, TA:) <i>he was untrue in his oath:</i> (S, TA:) <i>he committed a sin,</i> or <i>crime, in his oath.</i> (TA.) Also <i>He retracted,</i> or <i>revoked, his oath.</i> (TA.) === And the verb alone, <i>He said what was not true.</i> (Khálid Ibn-Jembeh, TA.) === <i>He inclined from what was false to what was true:</i> or <i>from what was true to what was false.</i> (K.) === [And app. † <i>He committed a sin,</i> or <i>crime:</i> a meaning which seems to be indicated in the K: see حِنْثٌ, below.]\nحِنْثٌ The <i>violation,</i> or <i>failure of performance, of an oath:</i> (S, A, K, TA:) [an inf. n. used as a simple subst.:] pl. أَحْنَاثٌ; as in the saying, عَلَيْهِ أَحْنَاثٌ كَثِيرَةٌ [<i>He is accountable for,</i> or <i>chargeable with, many violations,</i> or <i>failures of performance, of oaths</i>]. (TA.) === ‡ <i>A sin, a crime, an offence,</i> or <i>an act of disobedience.</i> (S, A, Msb, K.) So in the saying [in the Kur lvi. 45], وَكَانُوا يُصِرُّونَ عَلَى الحِنْثِ العَظِيمِ ‡ [<i>And they persisted in great sin</i>]; (A;) meaning belief in a plurality of gods. (Bd, Jel.) And hence, (Bd in lvi. 45,) بَلَغَ الحِنْثَ ‡ <i>He</i> (a boy) <i>attained to the age when he was punishable for sin:</i> (A, * Bd:) or <i>attained to</i> [<i>the age when he became punishable for</i>] <i>disobedience and</i> [<i>rewardable for</i>] <i>obedience:</i> (S:) or <i>attained to the age when the pen</i> [<i>of the recording angels</i>] <i>began to register his acts of obedience and of disobedience: attained to the age of puberty: attained to manhood.</i> (TA.) [Hence also,] أَوْلَادُ الحِنْثِ † <i>The children of adultery</i> or <i>fornication:</i> occurring in a trad., accord. to one reading: accord. to another reading, اولاد الخُبْثِ. (L.)\nمَحَانِثُ , accord. to some, having no sing.; but accord. to others, its sing. is 🡻مَحْنَثٌ, and this is app. the truth, and is agreeable with analogy; (MF;) <i>Places</i> [i. e. <i>occasions</i>] <i>of falling into the violation of an oath</i> or <i>oaths,</i> or † <i>into sin</i> or <i>crime;</i> expl. by مَوَاقِعُ حِنْثٍ (TA) and مَوَاقِعُ إِثْمٍ. (K.)\nمَحْنَثٌ : see مَحَانِثُ.\nمُحْنِثٌ A thing <i>respecting which people differ, and which admits of its being regarded in two different ways;</i> as also مُحْلِفٌ. (L.) [So called because it may make one to be untrue in an oath.]"
+}

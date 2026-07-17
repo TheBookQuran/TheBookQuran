@@ -1,0 +1,37 @@
+{
+  "rootId": "r2006",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:23:40.664Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Youth, clarity, ruling, judgment, or advice",
+  "primaryMeaning": "Youth or legal ruling (Fatwa)",
+  "quranicRelevance": "Young men/youths (Fityah/Fata - 'innahum fityatun amanoo'), servant/companion, and seeking a ruling (Ifta' - 'yastaftoonaka').",
+  "keyDerivations": [
+    {
+      "lemma": "فَتًى / فِتْيَةٌ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Young man, youth, page, or servant"
+    },
+    {
+      "lemma": "فَتَيَاتٌ",
+      "form": "Noun pl. fem.",
+      "meaning": "Young women, girls, or maidservants"
+    },
+    {
+      "lemma": "أَفْتَى / اِسْتَفْتَى",
+      "form": "Form IV / Form X Verb",
+      "meaning": "To give a formal ruling/opinion, or ask for a ruling"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "إِنَّهُمْ فِتْيَةٌ آمَنُوا بِرَبِّهِمْ (18:13): Indeed they were youths who believed in their Lord (representing vigor and pure conviction).",
+    "أَفْتُونِي فِي أَمْرِي (27:32): Advise/give me your opinion in my affair (Queen of Sheba)."
+  ],
+  "discardedNoise": [
+    "The historical evolution of Islamic legal institutions (Mufti).",
+    "Modern youth sport clubs."
+  ],
+  "summaryEn": "The root links youthful vigor (Fata) with intellectual/legal clarity (Fatwa), covering youths of faith, servants, and legal consultations.",
+  "summaryAr": "يربط هذا الجذر الفتوة والبيان، واصفاً طاقة وحيوية الشباب المؤمن (فتية) والإفتاء والبيان القانوني أو الشوري (أفتوني).",
+  "rawText": "فتى 1 , (T, O, K,) [aor. ﹹ,] inf. n. فَثٌّ, (T,) <i>He scattered the dates of his</i> جُلَّة [or <i>receptacle made of palm-leaves</i>]. (T, O, * K.) === And فَثَّ المَآءَ الحَارَّ بِالبَارِدِ, aor. ﹹ, (M, TA,) inf. n. فَثٌّ, (TA,) <i>He abated,</i> or <i>allayed, the heat of the hot water by means of the cold:</i> from Yaakoob. (M, TA.) [See also فَثَأَ.]"
+}

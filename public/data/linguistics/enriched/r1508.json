@@ -1,0 +1,26 @@
+{
+  "rootId": "r1508",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:11:50.470Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Finding, meeting with, discovering, hit upon, or matching",
+  "primaryMeaning": "Finding/discovering",
+  "quranicRelevance": "Finding ancestors in error (Alfaw - 'alfaw aba-ahum'), and finding a master/husband ('alfaya').",
+  "keyDerivations": [
+    {
+      "lemma": "أَلْفَى / يُلْفِي",
+      "form": "Form IV Verb",
+      "meaning": "To find, discover, hit upon, catch in the act, or meet with"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَأَلْفَيَا سَيِّدَهَا لَدَى الْبَابِ (12:25): And they found/met her master (husband) at the door (the sudden arrival of the Aziz in Joseph's story)."
+  ],
+  "discardedNoise": [
+    "Traditional Arabic slang words for finding.",
+    "Academic research findings."
+  ],
+  "summaryEn": "The root denotes finding/discovering (Ilafaa'), describing the sudden encounter of Joseph and Zulaykha with the minister, and pagans finding their fathers in error.",
+  "summaryAr": "يدل هذا الجذر على العثور والمصادفة والوجدان (إلفاء)، مصوراً لقاء يوسف وزليخة بالوزير بغتة عند الباب (وألفيا)، وإيجاد الكفار لآبائهم ضالين.",
+  "rawText": "تَلَافَاهُ 6 <i>i. q.</i> تَدَارَكَهُ [<i>He repaired it;</i> a meaning well known]; (S, Msb, K, TA;) namely, a short-coming; or failing, or falling short, of what was requisite, or due; and an inconsistent act. (TA.) You say, هٰذَا أَمْرٌ لَا يُتَلَافَى [<i>This is an affair that will not be repaired</i>]. (TA.) And تَلَافَى أَمْرَهُمْ بِالصُّلْحِ [<i>He repaired their condition by peace,</i> or <i>reconciliation</i>]. (EM, p. 117.) See دَقَّهُ\nلَفَاةٌ : see لفَاتٌ."
+}

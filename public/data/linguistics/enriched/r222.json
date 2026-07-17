@@ -1,0 +1,55 @@
+{
+  "rootId": "r222",
+  "source": "lanes",
+  "enrichedAt": "2026-06-29T23:23:19.230Z",
+  "modelId": "claude-3-5-sonnet-human-curated",
+  "semanticCore": "separation; clarity; manifest evidence",
+  "primaryMeaning": "To separate, part, or be distinct; to clarify, explain, or make manifest.",
+  "quranicRelevance": "A cornerstone of cognitive and divine proof: 1) Manifest evidence or proof (بَيِّنَة) (e.g. 98:1). 2) Clarification and explanation (تَبْيِين / بَيَان) of scripture (e.g. 75:19 'upon Us is its explanation'). 3) The attribute of the Quran as clear and manifest (مُبِين) (e.g. 12:1). 4) Eloquent speech or expression (البَيَان) taught to mankind (e.g. 55:4). 5) In the midst or between (بَيْنَ) (e.g. 2:255 'what is before them and what is behind them').",
+  "keyDerivations": [
+    {
+      "lemma": "بَانَ",
+      "form": "Form I",
+      "meaning": "To be clear, distinct, or separate."
+    },
+    {
+      "lemma": "بَيَّنَ",
+      "form": "Form II",
+      "meaning": "To clarify, explain, declare, or make manifest."
+    },
+    {
+      "lemma": "أَبَانَ",
+      "form": "Form IV",
+      "meaning": "To make clear; to speak eloquently."
+    },
+    {
+      "lemma": "بَيِّنَةٌ",
+      "form": "Noun",
+      "meaning": "A clear proof, manifest evidence, or sign (pl. بَيِّنَات)."
+    },
+    {
+      "lemma": "مُبِينٌ",
+      "form": "Active Participle (Form IV)",
+      "meaning": "Clear, manifest, obvious, or clarifying."
+    },
+    {
+      "lemma": "بَيَانٌ",
+      "form": "Noun",
+      "meaning": "Clarity, explanation, or eloquent expression."
+    },
+    {
+      "lemma": "بَيْنَ",
+      "form": "Preposition",
+      "meaning": "Between; in the midst of; among."
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "Disassociation or complete break of relationships (بين الشمل)."
+  ],
+  "discardedNoise": [
+    "A long necked camel (بين الديانة)."
+  ],
+  "summaryEn": "The root بين denotes separation and clarity. In the Quran, it refers to clear evidence (بَيِّنَات), the manifest nature of scripture (مُبِين), and the divine gift of human speech and expression (بَيَان).",
+  "summaryAr": "يجمع جذر بين بين البينونة (الانفصال) والوضوح والبيان. ويظهر في القرآن الكريم لوصف الأدلة والبراهين الواضحة (بينات)، ووصف الكتاب المبين، وهبة النطق والتعبير الجلي (البيان).",
+  "rawText": "أَبْيَنُ : see بَائِنٌ. ___ فُلَانٌ أَبْيَنُ مِنْ فُلَانٍ <i>Such a one is more perspicuous, clear, distinct, chaste,</i> or <i>eloquent, in speech</i> or <i>language, than such a one.</i> (S, TA.)\nابان 4 , intrans., inf. n. إِبَانَةٌ: see 1, in two places. ___ ابانهُ, (inf. n. as above, TA,) <i>He separated it, severed it, disunited it,</i> or <i>cut it off.</i> (M, Msb, K, TA.) You say, ضَرَبَهُ فَأَبَانَ رَأْسَهُ (S, K) <i>He smote him and severed his head,</i> مِنْ جَسَدِهِ <i>from his body.</i> (S, TA.) And ابان المَرْأَةَ <i>He</i> (the husband) <i>separated the woman,</i> or <i>wife,</i> by divorce. (Msb.) And ابان بِنْتَهُ, and 🡻بيّنها, (T, K,) inf. n. of the former as above, and of the latter تَبْيِينٌ, (TA,) <i>He married,</i> or <i>gave in marriage, his daughter,</i> (T, K,) <i>and she went to her husband:</i> (T:) from بَيْنٌ signifying \"\"distance:\"\" as though he removed her to a distance from the house, or tent, of her mother. (TA.) And ابان ٱبْنَهُ بِمَالٍ, (M,) or ابانهُ أَبَوَاهُ, (T,) <i>He separated from himself his son,</i> (M,) or <i>his two parents separated him from themselves,</i> (T,) <i>by</i> [<i>giving him</i>] <i>property,</i> (T, M,) <i>to be his alone:</i> (T:) mentioned on the authority of AZ. (T, M.) And ابان الدَّلْوَ عَنْ طِىِّ البِئْرِ <i>He drew away the bucket from the casing of the well, lest the latter should lacerate the former.</i> (M.) === See also 2, in three places. === [Hence, ابان signifies also <i>He spoke,</i> or <i>wrote, perspicuously, clearly, plainly,</i> or <i>distinctly, as to meaning;</i> or, <i>with eloquence:</i> from بَيَانٌ, q. v.] And ابان عَلَيْهِ <i>He spoke perspicuously, clearly, plainly,</i> or <i>distinctly, and gave his testimony,</i> or <i>evidence,</i> or <i>gave decisive information, against him,</i> or <i>respecting it.</i> (TA.) [The verb thus used is for ابان كَلَامَهُ, and شَهَادَتَهُ.] One says of a drunken man, مَا يُبِينُ كَلَامًا <i>He does not speak plainly,</i> or <i>distinctly;</i> lit., <i>does not make speech plain,</i> or <i>distinct.</i> (Ks, T in art. بت.) === [مَا أَبْيَنَهُ <i>How distinct, apparent, manifest, evident, clear,</i> or <i>plain, is it!</i> See an ex. voce بَسُلَ. === And <i>How perspicuous,</i> or <i>chaste,</i> or <i>eloquent, is he in speech,</i> or <i>writing! how good is his</i> بَيَان!]\nاستبان 10 , intrans.: see 1. ___ As a trans. verb: see 2, in six places.\nباينهُ 3 , (K,) inf. n. مُبَايَنَةٌ, (S,) <i>He separated himself from him;</i> or <i>left, forsook,</i> or <i>abandoned, him:</i> (S, TA:) or <i>he forsook,</i> or <i>abandoned, him, being forsaken,</i> or <i>abandoned, by him;</i> or <i>cut him off from friendly or loving communion or intercourse, being so cut off by him;</i> or <i>cut him,</i> or <i>ceased to speak to him, being in like manner cut by him.</i> (K.) [And <i>It became separated from it.</i>]\nبيّن 2 , intrans., inf. n. تَبْيِينٌ: see 1, in two places. === You say also, بيّن الشَّجَرُ <i>The trees,</i> (K,) <i>or the leaves of the trees,</i> (TA,) <i>appeared, when beginning to grow forth.</i> (K, TA.) And بيّن القَرْنُ ‡ <i>The horn came forth.</i> (K, TA.) ___ بيّن بِنْتَهُ: see 4. === بيّنهُ, (T, Msb, K,) inf. n. تَبْيِينٌ (T, S) and 🡻تِبْيَانٌ (T, S, * K *) and تَبْيَانٌ; (K;) the second of which three is an anomalous inf. n., (T, S, K,) for by rule it should be of the measure تَفْعَالٌ; (T, S;) but تَبْيَانٌ is not known except accord. to the opinion of those who allow the authority of analogy, which opinion is outweighed by the contrary; (TA;) and تِبْيَانٌ is the only inf. n. of its measure except تِلْقَآءٌ, (T, S,) accord. to the generality of the leading authorities; but some add تِمْثَالٌ, as inf. n. of مَثَّلَ; and El-Hareeree adds to these two, in the Durrah, تِنْضَالٌ, as inf. n. of نَاضَلَهُ; and Esh-Shiháb adds, in the Expos. of the Durrah, تِشْرَابٌ, as inf. n. of شَرِبَ الخَمْرَ; asserting تَشْرَابٌ also to have been heard, agreeably with analogy; [and to these may be added تَبْكَآءٌ and تِمْشَآءٌ, and perhaps some other instances of the same kind;] but some disallow تِفْعَالٌ altogether as the measure of an inf. n., saying that the words transmitted as instances thereof are simple substs. used as inf. ns., like طَعَامٌ in the place of إِطْعَامٌ; (MF, TA;) and Sb says that تِبْيَانٌ is not an inf. n.; for, where it so, it would be تَبْيَانٌ; but it is, from بَيَّنْتُ, like غَارَةٌ from أَغَرْتُ; (M, TA;) [<i>He made it distinct, as though separate from others;</i> and thus,] <i>he made it</i> (namely, a thing, T, S, Mgh, or an affair, or a case, Msb) <i>apparent, manifest, evident, clear, plain,</i> or <i>perspicuous;</i> (S, Msb, K;) as also 🡻ابانهُ, (S, Mgh, Msb, K,) inf. n. إِبَانَةٌ; (Msb;) and 🡻تبيّنهُ; (S, * Msb, K;) and 🡻استبانهُ: (Mgh, Msb, K:) [بيّنهُ is the most common in this sense: and often signifies <i>he explained it:</i> and <i>he proved it:</i>] and ↓ all these verbs signify also <i>he made it known; he notified it:</i> (K:) or 🡻اِسْتَبَنْتُهُ signifies, (S,) or signifies also, (Mgh,) <i>I knew it,</i> or <i>became acquainted with it,</i> [or <i>distinguished it,</i>] (S, Mgh,) <i>clearly,</i> or <i>plainly;</i> (Mgh;) and so 🡻تَبَيَّنْتُهُ; (S, * Mgh;) [and بَيَّنْتُهُ, as appears from an ex. in what follows, from a verse of En-Nábighah:] 🡻بِنْتُهُ and 🡻أَبَنْتُهُ and 🡻اِسْتَبَنْتُهُ and بَيَّنْتُهُ all signify the same as 🡻تَبَيَّنْتُهُ [app. in all the senses of this verb]: (M:) or, of all these verbs, 🡻بَانَ is only intrans.: (Msb:) and 🡻اِسْتَبَنْتُهُ signifies <i>I looked at it,</i> or <i>into it,</i> (namely, a thing,) <i>considered it, examined it,</i> or <i>studied it, repeatedly, in order that it might become apparent, manifest, evident, clear,</i> or <i>plain, to me:</i> (T, TA:) and 🡻تبيّنهُ <i>he looked at it,</i> or <i>into it,</i> (namely, an affair, or a case,) <i>considered it, examined it,</i> or <i>studied it, repeatedly,</i> or <i>deliberately, in order to know its real state by the external signs thereof.</i> (T.) A poet says, <center> <h3> وَمَا خِفْتُ حَتَّى بَيَّنَ الشِّرْبُ وَالأَذَى </h3> <h3> بقَانِئَةٍ أَنِّى مِنَ الحَىِّ 🡻أَبْيَنُ </h3> </center> [<i>And I feared not until the drinking,</i> or <i>the time of drinking, and molestation, made manifest,</i> or <i>plainly showed, by a deep-red</i> (<i>sun</i>), <i>that I was separated from the tribe:</i> see قَانِئٌ]. (M.) And it is said in the Kur [xvi. 91], وَأَنْزَلْنَا عَلَيْكَ الكِتَابَ تِبْيَانًا لِكُلِّ شَىْءٍ [<i>And we have sent down to thee the Scripture to make manifest everything</i>]; meaning, we make manifest to thee in the Scripture everything that thou and thy people require [to know] respecting matters of religion. (T.) See also بَيَانٌ, in the latter half of the paragraph. En-Nábighah says, <center> <h3> إِلَّا الأَوَارِىَّ مَّا أُبَيِّنُهَا </h3> </center> [<i>Except the places of the confinement of the beasts: with difficulty did I distinguish them</i>]; meaning 🡻أَتَبَيَّنُهَا. (S.) You say also, 🡻تَبَيَّنَمَا يَأْتِيهِ, meaning <i>He sought,</i> or <i>endeavoured, to see,</i> or <i>discover, what would happen to him,</i> of good and evil. (M in art. بصر.) [See also 5, below.]\nبَائِنٌ <i>In a state of separation</i> or <i>disunion;</i> or <i>separated, severed, disunited,</i> or <i>cut off;</i> (M, * Msb;) as also 🡻أَبْيَنُ, occurring in a verse cited above, voce بَيِّنَ. [Hence,] اِمْرَأَةٌ بَائِنٌ <i>A woman separated from her husband by divorce;</i> (M, Msb, K;) as also 🡻مُبَانَةٌ: the former without ة: (Msb:) like طَالِقٌ and حَائِضٌ: you say [to a wife] أَنْتِ بَائِنٌ [<i>Thou art separated</i> from me <i>by divorce.</i>] (Mgh.) === طَلَاقٌ بَائِنٌ is a tropical phrase; and so is طَلْقَةٌ بَائِنَةٌ; (Mgh;) [signifying the same as] تَطْلِيقَةٌ بَائِنَةٌ (S, M, Msb, K) ‡ <i>A divorce that is</i> [<i>as it were</i>] <i>cut off; i. q.</i> 🡻مُبَانَةٌ [in the second and third of these phrases, and 🡻مُبَانٌ in the first]: (ISk, Msb:) بائنة being here used in the sense of a pa"
+}

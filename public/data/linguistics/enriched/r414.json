@@ -1,0 +1,52 @@
+{
+  "rootId": "r414",
+  "source": "lanes",
+  "enrichedAt": "2026-06-29T23:49:55.978Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Restraining, judging, deciding, or wisdom",
+  "primaryMeaning": "To judge or decide",
+  "quranicRelevance": "Mapped into: making a judgment or ruling (Hukm), the divine decree/judgment (Hukm Allah), wisdom/understanding (Hikmah), and the names of God (al-Hakam, al-Hakim).",
+  "keyDerivations": [
+    {
+      "lemma": "حَكَمَ",
+      "form": "Form I Verb",
+      "meaning": "To judge, decide, or rule"
+    },
+    {
+      "lemma": "حُكْمٌ",
+      "form": "Noun",
+      "meaning": "Judgment, decree, ruling, or wisdom"
+    },
+    {
+      "lemma": "حِكْمَةٌ",
+      "form": "Noun",
+      "meaning": "Wisdom or deep understanding"
+    },
+    {
+      "lemma": "حَكِيمٌ",
+      "form": "Adjective / Noun",
+      "meaning": "Wise, or judger"
+    },
+    {
+      "lemma": "أَحْكَمَ",
+      "form": "Form IV Verb",
+      "meaning": "To make firm, perfect, or decide (e.g. verses made clear and firm)"
+    },
+    {
+      "lemma": "تَحَاكَمَ",
+      "form": "Form VI Verb",
+      "meaning": "To refer a dispute for judgment"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "حَكَمَ (Form I): To restrain or curb a horse (from the bridle/bit called Hakamah).",
+    "مُحْكَمٌ: Decisive, clear, or perfected (as in 'Ayat Muhkamat')."
+  ],
+  "discardedNoise": [
+    "Bridle-bit of a horse (حَكَمَة).",
+    "Obscure pre-Islamic poetry lines about camels' bridles."
+  ],
+  "summaryEn": "The root means to restrain and decide, giving rise to concepts of justice and ruling (Hukm), divine wisdom (Hikmah), and the decisive clarity of scriptures (Muhkamat).",
+  "summaryAr": "يعني هذا الجذر المنع والتقدير، وهو ما يشتق منه الحكم والقضاء (حكم)، والحكمة الإلهية (حكمة)، والآيات المحكمات في الكتب المقدسة.",
+  "rawText": "أَحْكَمَ 4 see 1, in seven places. The saying of Lebeed, describing a coat of mail, <center> <h3> أَحْكَمَ الجِنْثِىَّ مِنْ عَوْرَاتِهَا </h3> <h3> كُلُّ حِرْبَآءٍ إِذَا أُكْرِهَ صَلٌّ </h3> </center> is explained as meaning <i>Every nail repelled the sword from its interstices:</i> [<i>when it was struck with force, it made a clashing sound:</i>] or, as some say, [the right reading is الجنثىُّ and كُلَّ, (as in the S in arts. جنث and صل,) and, accord. to some, صَنْعَتِهَا in the place of عوراتها, (as in the S and M in art. صل,) and] the meaning is, <i>the manufacturer</i> thereof <i>made firm,</i> or <i>strong, every nail</i> [<i>of its interstices,</i> or <i>of its fabric:</i> &c.]: احكم in this case signifying أَحْرَزَ [agreeably with the explanation here next following]. (TA.) === احكمهُ, (S, Mgh, Msb, K,) inf. n. إِحْكَامٌ, (TA,) <i>i. q.</i> أَتْقَنَهُ [<i>He made it,</i> or <i>rendered it,</i> (namely, a thing, S, Mgh, Msb,) <i>firm, stable, strong, solid, compact, sound,</i> or <i>free from defect</i> or <i>imperfection, by the exercise of skill; he made it firmly, strongly, solidly, compactly, so that it was firmly and closely joined</i> or <i>knit together, soundly, thoroughly, skilfully, judiciously,</i> or <i>well; he so constructed, constituted, established, settled, arranged, did, performed,</i> or <i>executed, it; he put it into a firm, solid, sound,</i> or <i>good, state,</i> or <i>on a firm, solid, sound,</i> or <i>good, footing:</i> and <i>he knew it,</i> or <i>learned it, soundly, thoroughly,</i> or <i>well;</i> see 1, last sentence, in art. حنك]. (Msb, K.) Hence, in the Kur [xi. 1], كِتَابٌ أَحْكِمَتْ آيَاتُهُ (TA) i. e. [<i>A book whereof the verses are rendered valid</i>] <i>by arguments and proofs;</i> (Bd;) or <i>by command</i> <i>and prohibition, and the statement of what is lawful and unlawful:</i> (TA:) or <i>disposed in a sound manner,</i> (Ksh, Bd,) <i>with respect to the words and meanings,</i> (Bd,) <i>like a building firmly and orderly and well constructed:</i> (Ksh:) or <i>prevented from being corrupted</i> (Ksh, Bd) <i>and from being abrogated:</i> (Bd:) or <i>made to be characterized by wisdom,</i> (Ksh, Bd:) <i>as comprising the sources of speculative and practical wisdom.</i> (Bd.) And hence one says of a man such as is termed حَكِيم, [i. e. wise, &c.,] قَدْ أَحْكَمَتْهُ التَّجَارِبُ [<i>Tryings have rendered him firm,</i> or <i>sound, in judgment</i>]. (TA.) === [Hence, أُحْكِمَ عَنْ كَذَا <i>It was secured from such a thing:</i> see مُحْكَمٌ.] === [إِحْكَامٌ is also often used as the inf. n. of the pass. verb, signifying The <i>being firm,</i> &c.; or <i>firmness,</i> &c.: see مِرَّةٌ.] === See also حَكَمَةٌ.\nأُحْكُومَةٌ : see حُكُومَةٌ.\nإِحْتَكَمَ 8 see 5, in two places: === and 6: === and 10.\nاستحكم 10 <i>He</i> (a man) <i>refrained from what would injure him in his religion and his worldly concerns.</i> (Aboo-' Adnán, TA.) === Also quasipass. of أَحْكَمَهُ (S, Mgh, Msb, K) as signifying أَتْقَنَهُ; (Msb, K;) [<i>It was,</i> or <i>became, firm, stable, strong, solid, compact, firmly and closely joined</i> or <i>knit together, sound,</i> or <i>free from defect</i> or <i>imperfection, by the exercise of skill; firmly, strongly, solidly, compactly, soundly, thoroughly, skilfully, judiciously,</i> or <i>well, made</i> or <i>constructed</i> or <i>constituted</i> or <i>established</i> or <i>settled</i> or <i>arranged</i> or <i>done</i> or <i>performed</i> or <i>executed:</i> and, said of a quality or faculty &c., <i>it was,</i> or <i>became, firm, strong, sound, free from defect</i> or <i>imperfection, established,</i> or <i>confirmed:</i>] and, said of an affair, or a case, <i>it was,</i> or <i>became, in a firm, solid, sound,</i> or <i>good, state,</i> or <i>on a firm, solid, sound,</i> or <i>good, footing;</i> as also 🡻احتكم. (TA.) === استحكم عَلَيْهِ الأَمْرُ <i>The thing,</i> or <i>affair, became confused and dubious to him;</i> syn. اِلْتَبَسَ: so in the A. (TA. [But this seems to require confirmation.])\nتحاكموا إِلَى الحَاكِمِ 6 <i>They summoned one another to the judge,</i> [<i>seeking judgment,</i> (see 3,)] <i>and litigated;</i> as also 🡻احتكمواإِلَيْهِ. (S, TA.)\nتحكّم فِيهِ 5 <i>He did</i> [or <i>decided</i>] <i>according to his own judgment,</i> or <i>did what he judged fit, respecting it,</i> or <i>in it:</i> (Msb:) or <i>he had authority to judge, give judgment, pass sentence,</i> or <i>decide judicially, respecting it;</i> (K, TA;) as also 🡻احتكمفيه: (S, K:) each is quasi-pass. of حَكَّمَهُ; the former regular, and the latter irregular: (TA:) or the former signifies <i>he pretended to have authority to judge,</i> &c. (KL.) You say, 🡻احتكمعَلَىَّ فِى مَالِى <i>He had authority over me to judge,</i> &c., <i>respecting my property.</i> (S.) === See also 2.\nحاكمهُ إِلَى الحَاكِمِ 3 , (K,) inf. n. مُحَاكَمَةٌ, (S,) <i>He summoned him to the judge, and litigated with him,</i> (S, K, TA,) <i>seeking judgment:</i> and <i>he made a complaint of him to the judge;</i> or <i>brought him before the judge to arraign him and litigate with him, and made a complaint of him.</i> (TA.) And حَاكَمْنَاهُ إِلَى ٱللّٰهِ <i>We summoned him to the judgment of God</i> [administered by the Kádee]. (TA.) بِكَ حَاكَمْتُ, occurring in a trad., is said to mean <i>I have submitted the judgment</i> [of my case] <i>to Thee,</i> and there is no judgment but thine; and <i>by Thee</i> [or thy means or aid] <i>I have litigated</i> in seeking judgment and in proving the falseness of him who has disputed with me in the matter of religion. (TA. [The past tense, here, is perhaps used as a corroborative present.])\nحكّمهُ 2 , inf. n. تَحْكِيمٌ: see 1, in five places. === Also [<i>He made him judge;</i> or] <i>he committed to him the office of judging, giving judgment, passing sentence,</i> or <i>deciding judicially;</i> (Mgh, Msb;) or <i>he ordered him to judge, give judgment, pass sentence,</i> or <i>decide judicially;</i> (K;) or <i>he allowed him to judge,</i> &c.; (TA;) فِى الأَمْرِ <i>in the affair,</i> or <i>case.</i> (K.) And حَكَّمْتُهُ فِى مَالِى <i>I gave him authority to judge, give judgment, pass sentence,</i> or <i>decide judicially, respecting my property.</i> (S, TA.) === Hence, حَكَّمَتِ الخَوَارِجُ <i>The</i> [<i>schismatics called the</i>] خوارج <i>asserted that judgment</i> (الحُكْمُ) <i>belongs not to any but God.</i> (Mgh.) تَحْكِيمُ الحَرُورِيَّةِ, in the K, erroneously, 🡻تَحَكُّمُ الحروريّة, (TA,) signifies <i>The assertion of the</i> [<i>schismatics called</i>] حروريّة <i>that there is no judgment</i> (حُكْم) <i>but God's,</i> (K, TA,) <i>and that there is no judge</i> (حَكَم) <i>but God.</i> (TA.)\nحَاكِمٌ <i>One who judges, gives judgment, passes sentence,</i> or <i>decides judicially; a judge; an arbiter, arbitrator,</i> or <i>umpire;</i> (S * Msb, K, TA;) <i>between people:</i> (Msb, TA:) [<i>one who exercises judicial authority, jurisdiction, rule, dominion,</i> or <i>government; a ruler,</i> or <i>governor:</i>] and 🡻حَكَمٌ signifies the same: (S, Mgh, Msb, K:) the حَاكِم between people is so called because he restrains from wrongdoing: (As, TA:) the pl. is حُكَّامٌ (Msb, K) and حَكَمَةٌ, meaning <i>judges,</i> [&c.,] (TA,) and حَاكِمُونَ is allowable. (Msb.) It is said in a prov., فِى بَيْتِهِ يُؤْتَى 🡻الحَكَمُ [<i>In his house the judge is to be come to</i>]. (S. [See Freytag's Arab. Prov. ii. 204.]) الحَاكِمُ [as meaning <i>The Supreme Judge</i>] is one of the names of God. (TA.) See also the next paragraph. ___ [The pl.] حَكَمَةٌ also signifies <i>Mockers, scoffers,</i> or <i>deriders.</i> (TA. [The ح in this case seems to be a substitute for ه: see art. هكم.]) أَحْكَمُ 🡻الحَاكِمِينَ [<i>The most qualified to judge of those who judge:</i> or] <i>the most knowing and most just</i> [<i>of them</i>]: (Bd and Jel in xi. 47, where it is applied to God:) or it may mean <i>the wisest of those who possess attributes of wisdom;</i> supposing حَاكِمٌ to be [a possessive epithet] from الحِكْمَةُ, like دَارِعٌ f"
+}

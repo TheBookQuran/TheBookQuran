@@ -1,0 +1,26 @@
+{
+  "rootId": "r1426",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:01:45.660Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Fragment, piece, eclipse, gloom, segment, or sheet",
+  "primaryMeaning": "Fragment/piece",
+  "quranicRelevance": "Pieces/fragments of sky falling (Kisafan - 'wa in yaraw kisafan mina as-samai', 'aw tusqita as-samai... kisafan').",
+  "keyDerivations": [
+    {
+      "lemma": "كِسْفَةٌ / كِسَفٌ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Fragment, piece, segment, sheet, or chunk (of sky)"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "أَوْ تُسْقِطَ السَّمَاءَ كَمَا زَعَمْتَ عَلَيْنَا كِسَفًا (17:92): Or you cause the sky to fall upon us in pieces/fragments (pagan challenge to the Prophet)."
+  ],
+  "discardedNoise": [
+    "Solar eclipse (Kusoof) in medieval astronomical charts.",
+    "State of sorrow and depression (Kaseef) in popular poetry."
+  ],
+  "summaryEn": "The root represents pieces and fragments (Kisaf), documenting the pagan demand for sky-fragments to fall as proof, and their denial even if they saw it falling.",
+  "summaryAr": "يمثل هذا الجذر القطع والكسف الساقطة، واصفاً تحدي قريش بنزول قطع من السماء عذاباً (كسفاً)، وعنادهم بادعاء القطع الساقطة سحاباً متراكماً.",
+  "rawText": "كَاسِفُ البَالِ : see بَالٌ."
+}

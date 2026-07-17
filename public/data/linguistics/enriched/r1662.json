@@ -1,0 +1,52 @@
+{
+  "rootId": "r1662",
+  "source": "lanes",
+  "enrichedAt": "2026-06-29T23:36:19.920Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Descending, alighting, sending down, or guest accommodation",
+  "primaryMeaning": "To descend or go down",
+  "quranicRelevance": "Fundamentally refers to the revelation (Tanzil/Inzal) of the Quran and scriptures, which are sent down from the heavens. Also refers to natural rain, angels descending, and guest accommodations or rewards in Paradise (Nuzul).",
+  "keyDerivations": [
+    {
+      "lemma": "نَزَلَ",
+      "form": "Form I Verb",
+      "meaning": "To descend, alight, or come down"
+    },
+    {
+      "lemma": "أَنْزَلَ",
+      "form": "Form IV Verb",
+      "meaning": "To send down, reveal, or accommodate"
+    },
+    {
+      "lemma": "نَزَّلَ",
+      "form": "Form II Verb",
+      "meaning": "To send down gradually, or reveal stage-by-stage"
+    },
+    {
+      "lemma": "تَنْزِيلٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Revelation, or gradual sending down"
+    },
+    {
+      "lemma": "نُزُلٌ",
+      "form": "Noun",
+      "meaning": "Lodging, guest accommodation, or food prepared for a guest"
+    },
+    {
+      "lemma": "مَنْزِلٌ",
+      "form": "Noun",
+      "meaning": "Dwelling-place, stage, or abode"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "نَازِلَةٌ: A calamity, misfortune, or distress that alights upon a people.",
+    "نَزَلٌ: Pasture or herbage that alights upon land."
+  ],
+  "discardedNoise": [
+    "Water coming down into a well.",
+    "Fatness of a camel (نَزَلَ البَعِيرُ)."
+  ],
+  "summaryEn": "The root relates to descent and alighting, serving as the theological term for divine revelation (sending down scriptures) and hostly hospitality (Nuzul).",
+  "summaryAr": "يرتبط هذا الجذر بالهبوط والنزول، ويمثل المصطلح اللاهوتي للوحي الإلهي (إنزال الكتب) والضيافة الإلهية للمؤمنين في الجنة (النزل).",
+  "rawText": "أَرْضٌ نَزِلَةٌ : see حَشَادٌ.\nأَنْزَلَتْ 4 <i>Her</i> (a camel's) <i>milk descended</i> [<i>into her udder</i>]: opposed to أَقْلَصَتْ. (TA, art. قلص.) === أَنْزَلَتِ اللَّبَنَ [i. e. اللِّبَأَ <i>She</i> (a camel) <i>excerned the first milk,</i> or <i>biestings, into her udder; i. q.</i> أَبْسَقَتْ. (TA in art. بزق.) === <i>She excerned milk</i> [either <i>into,</i> or <i>from, the udder</i>]. === أَنْزَلَتِ الناقةُ اللَّبَنَ مِنَ الضَّرْعِ [or فِى الضرع] <i>The she-camel excerned the milk from</i> [or <i>into</i>] <i>the udder.</i> (TA, art. ذرأ.) === أَنْزَلَهُ <i>He lodged him; made him his guest;</i> or <i>gave him refuge</i> or <i>asylum;</i> syn. آوَاهُ; (S and K in art. اوى;) and أَضَافَهُ and ضَيَّفَهُ: (Mgh in art. ضيف:) [and <i>he lodged and entertained him;</i>] namely, a guest. (Msb.) <i>I. q.</i> أَثْوَاهُ مَنْزِلًَا. (Fr in T in art. بوأ.) === أَنْزَلَهُ عَنْ كَذَا <i>He made him to resign,</i> or <i>relinquish, such a thing.</i> === أَنْزَلْتُ بِكَ حَاجَتِى [app. <i>I imposed my want upon thee</i>]. (S in art. عر.) And أَنْزَلَ حَاجَتَهُ على كريم. (TA.)\nاِسْتَنْزَلَهُ 10 <i>He made him,</i> or <i>caused him,</i> or <i>it, to descend.</i> (Msb.) === اِسْتَنْزَلَهُ عَنْ رَأَيِهِ [<i>He sought to make him resign,</i> or <i>relinquish, his opinion</i>]. (Bd, xii. 11.)\nتَنَازَلَ 6 <i>He descended gradually, by little and little.</i> === تنازل إِلَى أَحَدٍ <i>He humbled himself, condescended, to one.</i> === تنازل عَنِ المُلْكِ <i>He abdicated the kingdom.</i> === تنازل عَن شَىْءٍ <i>He desisted from a thing.</i> === تَنَازَلُوا <i>They alighted and ate by turns with different people; i. q.</i> تَنَاوَبُوا, q. v.\nمَرْعًى مُنْزِلٌ : see مُسْكِنٌ.\nمَنْزِلٌ <i>A place of alighting</i> or <i>descending and stopping</i> or <i>sojourning</i> or <i>abiding</i> or <i>lodging</i> or <i>settling:</i> (Mgh:) <i>a place of settlement: an abode; a dwelling; a place where travellers alight in the desert;</i> syn. مَنْهَلٌ: <i>a</i> [<i>house,</i> or <i>mansion, such as is called</i>] دَارٌ: (S, K:) or, accord. to the فُقَهَآء, <i>less than a</i> دار, <i>and more than a</i> بَيْت [<i>or chamber</i>], <i>consisting of at least</i> <i>two chambers</i> (بَيْتَانِ) or <i>three.</i> (Mgh.) See also بَيْتٌ.\nمَنْزِلَةٌ <i>A space which one traverses in journeying.</i> (TA, art. سير.) === مَنْزِلَةٌ, used unrestrictedly, <i>Station, standing, footing,</i> or <i>grade; honourable station</i> or <i>rank; a place of preferment.</i> === <i>A predicament in which one stands.</i> === كَلِمَةٌ بِمَنْزِلَةِ كَلِمَةٍ أُخْرَى <i>A word equivalent,</i> or <i>similar, to another word.</i> === [You say] يُسْتَعْمَلُ بِمَنْزِلَةِ كَذَا <i>It</i> (a word) <i>is used in the manner of such</i> [<i>another word</i>]; generally with respect to government, not necessarily with respect to meaning. (The lexicons passim.) === النَّازِلُ مِنَ الدِّينِ والدُّنْيَا مَنْزِلَةَ النُّورِ مِنَ العَيْنِ <i>Who is, in respect to religion and the world, as light to the eye.</i>\nنَازَلَهُ 3 <i>He alighted with him, each to oppose the other,</i> in war, or battle; inf. n. مُنَازَلَةٌ and نِزَالٌ. (Msb.) === نَازَلَهُ <i>He alighted with him.</i>\nنَازِلٌ [<i>Alighting,</i> &c.,] has for pl. نُزُولٌ and نُزَّالٌ. (TA.)\nنَازِلَةٌ <i>A defluxion:</i> pl. نَوازِلُ. See سِلٌّ. === نَازِلَةٌ <i>A severe calamity</i> or <i>affliction,</i> (S, Msb, K,) <i>that befalls men.</i> (S, Msb.)\nنَزَلَ بِالمَكَانِ 1 (Kull) and نَزَلَ المَكَانَ (Msb in art. حل, &c.) <i>He alighted, descended and stopped</i> or <i>sojourned</i> or <i>abode</i> or <i>lodged</i> or <i>settled, in the place;</i> syn. حَلَّ فِيهِ. (Kull.) See حَلَّ. === نَزَلَ لَبَنُ الشَّاةِ [<i>The milk of the ewe descended into her udder;</i> i. e. <i>she secreted milk</i>]. (S, K, voce أَضْرَعَتْ.) === نَزَلَ مَنْزِلَ كَذَا <i>It took,</i> or <i>occupied, the place,</i> or <i>became in the position</i> or <i>condition, of such a thing:</i> see a verse cited voce أَنْ, near the end of the paragraph; and another voce حَبِيبٌ; and see مَنْزِلَةٌ. === نَزَلْتُ, الوَدِىَ, for فِى الوَادِى: see دَخَلْتُ البَيَتَ in art. دخل.\nنَزِيلٌ <i>A guest.</i> (S, Mgh, Msb, * K.) See also Har, 353.\nنُزُلٌ <i>Food prepared for the guest.</i> (Msb.) See مَفَثَّةٌ.)\nنُزْلٌ <i>Food</i> or <i>rations</i> at a halt: see سُكْنٌ, in two places."
+}

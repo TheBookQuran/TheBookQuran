@@ -1,0 +1,42 @@
+{
+  "rootId": "r1535",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:29:55.134Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Blame, censure, regret, or rebuking",
+  "primaryMeaning": "To blame or censure",
+  "quranicRelevance": "Blaming/censuring (Lawm), self-reproaching soul (Lawwamah - 'wa la oqsimu bin-nafsi al-lawwamah'), and blamed/disgraced (Maloomeen).",
+  "keyDerivations": [
+    {
+      "lemma": "لَامَ / يَلُومُ",
+      "form": "Form I Verb",
+      "meaning": "To blame, censure, reproach, or find fault"
+    },
+    {
+      "lemma": "لَوْمٌ / لَوْمَةٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Blame, censure, or reproach"
+    },
+    {
+      "lemma": "لَوَّامَةٌ",
+      "form": "Adjective (intensive)",
+      "meaning": "Self-reproaching, self-accusing, or conscience-stricken"
+    },
+    {
+      "lemma": "مَلُومٌ / مُلِيمٌ",
+      "form": "Adjective / Passive part.",
+      "meaning": "Blamed, disgraced, or blameworthy"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَلَا أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ (75:2): And I swear by the self-reproaching soul (the active moral conscience).",
+    "لَا تَخَافُونَ لَوْمَةَ لَائِمٍ: They do not fear the blame of any critic."
+  ],
+  "discardedNoise": [
+    "Obscure details of eye expressions in blame.",
+    "Post-classical legal definitions of public reprimands."
+  ],
+  "summaryEn": "The root denotes blame and conscience, defining the active human conscience (Lawwamah), the fear of critics, and eschatological disgrace (Maloom).",
+  "summaryAr": "يدل هذا الجذر على اللوم والندم، محدداً النفس اللوامة اليقظة الأخلاقية (لوامة)، والجرأة أمام ملامة العواذل، والمذمة والمقت (ملوم).",
+  "rawText": "أَلَامَ 4 <i>He did a thing for which he should be blamed.</i> (S in art. جنف, and L and TA in art. ريب.)\nتَلَوَّمَ 5 <i>i. q.</i> تَكَلَّفَ اللَّوْمَ. (Ham, p. 356.)\nلَائِمَةٌ <i>A thing for which the doer is blamed.</i> (TA.)\nلَامَ 1 , inf. n. لَوْمٌ, <i>He blamed, censured,</i> or <i>reprehended,</i> syn. عَذَلَ, (S, M, Msb, K,) a person, (S, Msb,) عَلَى كَذَا [for such a thing]. (S.)"
+}

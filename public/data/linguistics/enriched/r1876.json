@@ -1,0 +1,26 @@
+{
+  "rootId": "r1876",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:56:22.540Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Confirming, strengthening, binding, making firm, or solemn swearing",
+  "primaryMeaning": "Confirming/strengthening (oaths)",
+  "quranicRelevance": "After their confirmation (Tawkeediha - 'ba'da tawkeediha').",
+  "keyDerivations": [
+    {
+      "lemma": "وَكَّدَ / يُوَكِّدُ (Inf. Noun: تَوْكِيدٌ)",
+      "form": "Form II Verb",
+      "meaning": "To confirm, strengthen, bind, make firm, or emphasize"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَلَا تَنْقُضُوا الْأَيْمَانَ بَعْدَ تَوْكِيدِهَا (9:91): And do not break oaths after their confirmation/strengthening."
+  ],
+  "discardedNoise": [
+    "Akada (to confirm) - Form I variant (often exchanged in dialect).",
+    "Wukad (saddle straps)."
+  ],
+  "summaryEn": "The root represents binding or sealing an agreement firmly (Wakd), warning against breaking oaths that were sworn solemnly and confirmed in God's name.",
+  "summaryAr": "يمثل هذا الجذر شد العقد وإحكامه وتأكيد العهد وتقويته والالتزام به (وكد)، ناهياً عن نقض الأيمان والعهود بعد توثيقها وتأكيدها باسم الله.",
+  "rawText": "أَوْكَدَ 4 see 2. === أَوْكَدَتَاهُ يَدَاهُ <i>His arms,</i> or <i>hands, exercised him with work.</i> From a trad., relating to a seeker of knowledge. (L.)\nتوكّد الأَمْرُ 5 and signify the same, [<i>The thing,</i> or <i>affair, became confirmed, ratified,</i> or <i>corroborated</i>]. (S, L, K. *)\nمَيَاكِيدُ and تَوَكِيدُ: see وِكَادٌ.\nمُتَوَكِّدٌ بِأَمْرٍ , (L,) or لِأَمْرٍ, (K,) <i>Standing ready,</i> or <i>prepared, for a thing,</i> or <i>an affair</i> (L, K.)\nمُوَاكِدَةٌ A she-camel <i>that strives,</i> or <i>exerts herself, in her progress, course,</i> or <i>pace.</i> (K.)\nوكّد 2 , (S, L,) inf. n. تَوْكِيدٌ; (S, K;) [and 🡻وَكَدَ as is implied in the K, but app. by the unintentional omission of the word وَكَّدَ;] and 🡻اوكد, inf. n. إِيكَادٌ; (S, L;) <i>He made</i> a horse's saddle, (S, L,) and a camel's, (L, K,) <i>firm, fast,</i> or <i>strong;</i> or <i>bound</i> or <i>tied</i> it <i>firmly, fastly,</i> or <i>strongly;</i> (S, L, K;) as also أَكَّدَ and آكَدَ: but more chaste with و. (S, L, K. *) === Also, <i>He confirmed, ratified,</i> or <i>corroborated,</i> a compact, a contract, a covenant, or an engagement; as also اكّد (S, L, K) and آكد: but, in this sense also, more chaste with و; (S, L;) or in this sense more approved with أ: (L:) and in like manner وكّد <i>he confirmed</i> an oath: you say, إِذَا عَقَدْتَ فَأَكِّدْ وإِذَا حَلَفْتَ فَوَكِّدْ <i>When thou makest a contract, ratify; and when thou swearest, confirm.</i>\nوَكَدَ 1 , aor. يَكِدُ, inf. n. وُكُودٌ, <i>He remained, continued, stayed, abode,</i> or <i>dwelt,</i> (L, K,) بِمَكَانٍ <i>in a place.</i> (L.) ___ See 2. ___ وَكَدَ أَمْرًا, (L, K, *) aor. يَكِدُ, inf. n. وَكْدٌ, (L,) <i>He aimed at a thing; sought, endeavoured after,</i> or <i>pursued, it; desired it; intended it,</i> or <i>purposed it;</i> syn. قَصَدَ (L, K) and طَلَبَ. (L.) See also below. === وَكَدَ وَكْدَهُ <i>He directed his course to,</i> or <i>towards, him,</i> or <i>it;</i> or <i>he pursued his</i> (another's) <i>course;</i> syn. قَصَدَ قَصْدَهُ; (S, L, K;) <i>doing as he did.</i> (L.) === وَكَدَ أَمْرًا, aor. and inf. n. as above, also signifies <i>He laboured at, and endeavoured after, a thing.</i> (L.) === وَكَدَ, (L, K,) aor. يَكِدُ, inf. n. وَكْدٌ, (L,) <i>i. q.</i> أَصَابَ <i>He,</i> or <i>it, did,</i> or <i>went, right; attained</i> an object; <i>hit, struck, smote, affected, hurt, befell; &c.</i>]. (L, K.)\nوَكْدٌ <i>Desire; purpose; intention; aim; endeavour.</i> (L, K.) See also 1.\nوُكْدٌ <i>Work; labour; exertion; endeavour.</i> (L, K.) Ex. مَا زَالَ ذٰلِكَ وُكْدِى <i>That ceased not to be my work,</i> (L, K,) <i>and endeavour.</i> (L.)\nوِكَادٌ <i>A rope with which cows are tied on the occasion of milking.</i> (S, L.) === Also وِكَادٌ and إِكَادٌ sings. of وَكَائِدُ [and أَكَائِدُ], (IDrd, L, K,) [pls. deviating from the constant course of speech in relation to the sings.; see art. أكد;] signifying, (i. e. the pls.,) <i>Thongs,</i> or <i>straps, with which one binds</i> (L, K) <i>a camel's,</i> or <i>horse's saddle:</i> (L:) or the <i>thongs,</i> or <i>straps, by which the</i> قَرَبُوس <i>is bound to the two side-boards of a horse's saddle;</i> (IDrd, L;) as also 🡻مَيَاكِيدُ and تَآكِيدُ and 🡻تَوَكِيدُ; (K;) or these are called مياكيد, but not تواكيد: (L:) and it [مياكيد] is a pl. that has no [proper] sing. (TA.)"
+}

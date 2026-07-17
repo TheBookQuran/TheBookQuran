@@ -1,0 +1,31 @@
+{
+  "rootId": "r1835",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:07:33.756Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Leaves, paper, silver coins, currency, foliage, or trace",
+  "primaryMeaning": "Silver coin or leaves",
+  "quranicRelevance": "Silver coins/currency (Wariq - 'bi-wariqikum'), and leaves covering Adam and Eve ('waraqi al-jannati').",
+  "keyDerivations": [
+    {
+      "lemma": "وَرِقٌ",
+      "form": "Noun",
+      "meaning": "Silver coins, minted silver, currency, or cash"
+    },
+    {
+      "lemma": "وَرَقٌ / أَوْرَاقٌ",
+      "form": "Noun / Noun pl.",
+      "meaning": "Leaves, foliage, green sheets, or paper sheets"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فَابْعَثُوا أَحَدَكُمْ بِوَرِقِكُمْ هَٰذِهِ إِلَى الْمَدِينَةِ (18:19): So send one of you with this silver currency/coin of yours to the city (the sleepers' ancient cash)."
+  ],
+  "discardedNoise": [
+    "Paper documents (Waraq) in administrative files.",
+    "Green leaf salads in culinary menus."
+  ],
+  "summaryEn": "The root represents silver cash (Wariq) and tree leaves (Waraq), detailing the ancient coins of the cave sleepers and the Paradise leaves used by Adam.",
+  "summaryAr": "يمثل هذا الجذر النقد الفضي الورق وأوراق الشجر، واصفاً العملة الفضية القديمة لأصحاب الكهف (بورقكم)، وورق الجنة الساتر لآدم وحواء.",
+  "rawText": "أَوْرَاق , pl. of وَرَقٌ, meaning أَحْدَاث: see قَعْبٌ.\nأَوْرَقُ , applied to a camel, <i>White inclining to black;</i> i. e. <i>of a dusky white hue:</i> or rather, simply, <i>duskish;</i> or <i>dusky;</i> (S, K;) or <i>of a colour like that of ashes.</i> (T, Mgh, Msb.) See أَحْمَرُ and خُطَبَانِىٌّ. === أَوْرَقُ <i>Ashes.</i> (K.) See an ex. a verse cited voce عُنَّةٌ, last sentence.\nشَجَرٌ وَارِقٌ <i>Trees having leaves:</i> (Msb:) [or <i>leafy trees; trees having many leaves;</i> for] شَجَرَةٌ وَارِقَةٌ (TA) and 🡻وَرِقَةٌ and 🡻وَرِيقَةٌ (S, K, TA) signify <i>a tree having many leaves.</i> (S, K, TA.) And شَجَرَةٌ وَارِقَةُ الظِّلَالِ [<i>A tree having leafy coverings</i> or <i>shades</i>]. (K in art. غيل.)\nوَرِقٌ <i>Silver,</i> whether coined or not: (AO, TA:) or <i>coined dirhems;</i> (S, K;) <i>coined silver.</i> (Mgh.) See عَيْنٌ.\nوَرِقَةٌ and وَرِيقَةٌ: see وَارِقٌ.\nوُرْقَةٌ <i>Ash-colour.</i> (Msb.) See سُمْرَةٌ."
+}

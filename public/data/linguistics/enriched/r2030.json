@@ -1,0 +1,27 @@
+{
+  "rootId": "r2030",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:01:45.660Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Passing by, going ahead, past time, execution, sharp, or flow",
+  "primaryMeaning": "To pass by or go ahead",
+  "quranicRelevance": "Predecessor examples of the past (Madha - 'wa madha mathalu al-awwaleen'), going ahead in travel ('wamdoo'), and past actions ('ma salaf').",
+  "keyDerivations": [
+    {
+      "lemma": "مَضَى / يَمْضِي",
+      "form": "Form I Verb",
+      "meaning": "To pass by, go ahead, proceed, flow, execute, or elapse"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَمَضَىٰ مَثَلُ الْأَوَّلِينَ (43:8): And the example/fate of the predecessors has passed/preceded (historical template of ruin).",
+    "وَامْضُوا حَيْثُ تُؤْمَرُونَ (15:65): And proceed/go ahead where you are commanded (Lot's family flight)."
+  ],
+  "discardedNoise": [
+    "Modern legal files of past statutes of limitations.",
+    "Sharpness indexes of knives (Madi)."
+  ],
+  "summaryEn": "The root represents passing and proceeding, detailing Lot's family fleeing forward (Imdoo), and the warning that historic fates (Madha) have set precedents.",
+  "summaryAr": "يمثل هذا الجذر المضي والعبور والذهاب، واصفاً فرار أهل لوط للأمام دون التفات (وامضوا)، ومضي وسلف أمثلة عقوبات المكذبين عبر التاريخ.",
+  "rawText": "أَمْضَاهُ 4 [† <i>He made it</i> (i. e., a contract, sale, oath, &c.) <i>to take effect; executed it; performed it.</i>] === أَمْضَى الأَمْرَ: see مَضَى عَلَى الأَمْرِ. === أَمْضَى اليَمِينَ <i>He made the oath to be unconditional, without exception, absolutely</i> or <i>decisively</i> or <i>irreversibly binding.</i> (TK voce جَزَمَ.) See جَزَمَ. === أَمْضَى عَهْدَهُ † <i>He made his covenant, or contract, or the like, to have,</i> or <i>take, effect; executed or performed it.</i> (L, art. نفذ.) === أَمْضَى رَأْيًا <i>He formed,</i> or <i>gave, a decided opinion.</i> === أَمْضَى <i>He signed</i> a writing <i>with his name,</i> and so rendered it effective. === See 1.\nإِمْضَاءٌ <i>A signature.</i>\nتَمَضَّىَ 5 see 1.\nتِمْضَآءٌ <i>One who performs affairs with energy and perseverance:</i> an intensive epithet: see صَمَيَانٌ.\nمَاضٍ فِى الأُمُورِ [† <i>Penetrating, sharp, energetic, or acting with penetrative energy, or vigorous, and effective, in the performing of affairs:</i> like شَحْشَحٌ, q. v. === مَاضٍ is coupled with the epithets مَاهِرٌ and جَادٌّ, &c., and implies penetration and skill, or proficiency in anything;] <i>excelling,</i> or <i>surpassing, in doing,</i> or <i>performing, a thing:</i> (KL from the “ Destoor ”:) [it is also coupled with جَرِىْءٌ and مُتَقَدِّمٌ, in the T, art. جهر. See also نَافِذٌ, its syn.] === أَمْرٌ مَاضٍ † <i>A command, or an order, that is effectual; that has effect; that is executed, or performed;</i> syn. نَافِذٌ. (L, art. نفذ.) === فَرَسٌ مَاضٍ † <i>A sharp, spirited, vigorous horse</i> [&c.]; contr. of بَلِيدٌ; (Lth, TA, voce نَدْبٌ;) <i>exerting,</i> or <i>having, a penetrative energy,</i> &c.: see مَضى. === كَانَ ذٰلِكَ فِى الزَّمَنِ المَاضِى <i>That was in the time that is past;</i> contr. of المُسْتَقْبَل. (TA.)\nمَضَى 1 and 🡻تَمَضَّى <i>i. q.</i> تَقَدَّمَ [<i>He advanced, proceeded,</i> &c.]. (M.) === مَضَى <i>He, or it, passed; passed away; went;</i> or <i>went away.</i> (S, M, Msb, K.) === [<i>He went on.</i>] === مَضَى لَهُ, said of time: see تَسْهِيمٌ. === [مَضَى فِى سَيْرِهِ <i>He advanced,</i> or <i>pressed onward, with a penetrative energy</i> or <i>force,</i> or <i>a sharpness and effectiveness, in his pace.</i>] === مَضَىَ الأَمْرُ, and القَوْلُ, † <i>The command, or order,</i> and <i>the saying, was effectual; had effect; was, or became, executed, or performed;</i> syn. نَفَذَ. (Msb, art نفذ.) === مَضَى فِى الأَمْرِ † <i>He acted</i> [or <i>went on,</i> and <i>did so</i>] <i>with penetrative energy, or with sharpness, vigour, and effectiveness, in the affair;</i> syn. نَفَذَ. (S, M, K.) See مَاضٍ فِى الأُمُورِ, below; and جَسَرَ. === مَضَى عَلَى الأَمْرِ <i>He executed, performed,</i> or <i>accomplished, the affair;</i> as also 🡻أَمْضَاهُ: (S:) and <i>he kept,</i> or <i>applied himself, constantly,</i> or <i>perseveringly, to it.</i> (Msb.) === مَضَيْتُ على بَيْعِى and 🡻أَمْضَيْتُهُ <i>I effected,</i> or <i>executed, my sale.</i> (K.) === مَضَى <i>It</i> (a sword) <i>cut;</i> (M, K;) <i>penetrated; was sharp.</i>"
+}

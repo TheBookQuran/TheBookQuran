@@ -1,0 +1,31 @@
+{
+  "rootId": "r2069",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:25:04.476Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Hating, detesting, frying, dismissing, tossing, or light",
+  "primaryMeaning": "Hating/detesting",
+  "quranicRelevance": "God not hating the Prophet (Qala - 'ma qala'), and hating bad deeds ('al-qaleena').",
+  "keyDerivations": [
+    {
+      "lemma": "قَلَى / يَقْلِي",
+      "form": "Form I Verb",
+      "meaning": "To hate, detest, loathe, abandon in anger, or dismiss"
+    },
+    {
+      "lemma": "قَالٍ / قَالِينَ",
+      "form": "Noun / Active part. pl.",
+      "meaning": "Haters, detesters, or those who loathe/reject actions"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ (93:3): Your Lord has not abandoned you, nor has He detested/hated (you) (consolation during revelation pause)."
+  ],
+  "discardedNoise": [
+    "Frying fish in hot oil (Qalay) - culinary manuals.",
+    "Lightweight objects."
+  ],
+  "summaryEn": "The root represents intense hatred and abandonment, comforting the Prophet during a pause in revelation by declaring that God neither abandoned nor hated (Qala) him.",
+  "summaryAr": "يمثل هذا الجذر البغض الشديد والهجر غضباً (قلى)، مسلياً فؤاد النبي بعد انقطاع الوحي بأن ربه ما هجره وما أبغضه (وما قلى)، ومقرراً كره المعاصي.",
+  "rawText": "قلى 1 : see 4; and ثَمَّهُ, in two places."
+}

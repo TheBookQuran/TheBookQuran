@@ -1,0 +1,26 @@
+{
+  "rootId": "r1053",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:52:53.400Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Great mountain, towering mass, lofty structure, or huge peak",
+  "primaryMeaning": "Great mountain/lofty structure",
+  "quranicRelevance": "Like a great mountain (Tawd - 'ka-al-tawdi').",
+  "keyDerivations": [
+    {
+      "lemma": "طَوْدٌ",
+      "form": "Noun",
+      "meaning": "Great mountain, high peak, or massive towering structure"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فَانْفَلَقَ فَكَانَ كُلُّ فِرْقٍ كَالطَّوْدِ الْعَظِيمِ (26:63): And it (the sea) parted, and each portion was like a great towering mountain."
+  ],
+  "discardedNoise": [
+    "Tada (to place/deposit) - confused with W-D-A.",
+    "Tawf (circumambulation) - T-W-F."
+  ],
+  "summaryEn": "The root refers to a massive, towering mountain (Tawd), illustrating the miraculous parting of the sea for Moses and his followers.",
+  "summaryAr": "تشير مادة هذا الجذر إلى الجبل العظيم الشامخ المشرف في ارتفاعه (طود)، مصوراً معجزة انفلاق البحر لموسى كقطع جبلية مائية هائلة قائمة.",
+  "rawText": "اطاد 4 <i>He made,</i> or <i>rendered, firm,</i> or <i>steadfast:</i> so accord. to Freytag; but he names no authority.]\nانطاد 7 <i>It rose,</i> or <i>ascended, in the air.</i> (K.)\nبِنَآءٌ مُنْطَادٌ <i>A lofty building,</i> (K, TA,) <i>rising high in the air.</i> (TA.)\nتَطَوَّدَ 5 see 2.\nطوّد 2 , (S, L, K,) inf. n. تَطْوِيدٌ and تَطْوَادٌ; and 🡻تطوّد; (K;) <i>He went round about much,</i> or <i>often,</i> syn. طَوَّفَ (S, L, K) and طَوَّحَ, (S,) فِى الجِبَالِ <i>in the mountains:</i> (S:) or the former, he went <i>round about much,</i> or <i>often, in the countries to seek the means of subsistence.</i> (IAar, L.) And one says also, طوّد بِنَفْسِهِ [<i>He went round about</i> &c. <i>by himself</i>], and بِفُلَانٍ [<i>with such a one</i>]. (L.) ___ طوّدهُ, inf. n. تَطْوِيدٌ, <i>He</i> (God) <i>made it high,</i> or <i>tall.</i> (A.)\nطَادٌ <i>Heavy:</i> (K:) and 🡻طَادِىٌّ <i>firm,</i> or <i>steadfast:</i> (L:) or both signify <i>heavy and firm</i> or <i>steadfast.</i> (TA.) === Also the former, A stallion <i>excited by lust.</i> (K.)\nطَادَ 1 , (aor. يَطُودُ, inf. n. طَوْدٌ, TK,) <i>It</i> (a thing, TK) <i>was,</i> or <i>became, firm,</i> or <i>steadfast.</i> (Fr, L, K.)\nطَادِىٌّ : see طَادٌ.\nطَوْدٌ <i>A mountain:</i> (K:) or <i>a great mountain</i> (S, A, L, K) <i>rising high into the sky:</i> (A:) or <i>i. q.</i> هَضْبَةٌ [either as denoting a hill or mountain or a tract of sand: see the next sentence]: (IAar:) pl. أَطْوَادٌ (A, L, K) and طِوَدَةٌ. (K.) === And <i>An elevated,</i> or <i>overlooking, tract of sand;</i> (K, TA;) as also هَضْبَةٌ. (TA.) === And the pl. أَطْوَاد is applied by a poet to signify ‡ <i>Camels' humps;</i> as being likened to mountains because of their height. (IAar, L.) === اِبْنُ الطَّوْدِ means † <i>The mass of rock</i> (الجُلْمُودُ) <i>that falls from the upper part of a mountain:</i> (A, L, * K: *) or <i>the echo.</i> (A.) One says, أَسْرَعُ مِنِ ٱبْنِ الطَّوْدِ † <i>Quicker,</i> or <i>swifter, than the mass of rock that falls</i> &c.: or <i>than the echo.</i> (A.)\nمَطَادَةٌ <i>A desert,</i> or <i>waterless desert, far-extending:</i> (K:) pl. مَطَاوِدُ. (TA.) And the latter (i. e. the pl.), <i>Places of perdition;</i> (K, TA;) it is like مَطَاوِحُ. (S, TA.)\nمُطَوِّدٌ <i>Remote,</i> or <i>distant.</i> (K.)"
+}

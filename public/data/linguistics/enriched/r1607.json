@@ -1,0 +1,32 @@
+{
+  "rootId": "r1607",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:23:40.664Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Shariah, religion, dictation, boredom, or hot ashes",
+  "primaryMeaning": "Religion/creed or dictation",
+  "quranicRelevance": "Creed/religion of Abraham (Millah - 'millata ibrahima hanifan'), and dictating a document (Imla' - 'falyumlil allathi 'alayhi al-haq').",
+  "keyDerivations": [
+    {
+      "lemma": "مِلَّةٌ",
+      "form": "Noun",
+      "meaning": "Religion, creed, code of law, or community path"
+    },
+    {
+      "lemma": "أَمْلَلَ / أَمْلَى",
+      "form": "Form IV Verb",
+      "meaning": "To dictate (a text), write out, or prolong/give time"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فَلْيُمْلِلِ الَّذِي عَلَيْهِ الحَقُّ (2:282): And let the one who owes the debt dictate (the contract detail).",
+    "أُمْلِي لَهُمْ (68:45): I grant them time/prolong their duration."
+  ],
+  "discardedNoise": [
+    "Boredom or weariness (ملل) in human emotion.",
+    "Baking bread in hot ashes (ملّة)."
+  ],
+  "summaryEn": "The root represents religion and dictation, undergirding the legacy of monotheistic creed (Millah) and transaction contract dictation (Imlal).",
+  "summaryAr": "يمثل هذا الجذر الملة والإملاء، مؤصلاً للمنهج العقدي التوحيدي (ملة إبراهيم) وإملاء وكتابة العقود التجارية والمالية (يملل).",
+  "rawText": "أَمْلَلْتُ 4 & أَمْلَيْتُ: see 4 in art. حظ. === أَمَلَّ: see an ex. voce أَدَلَّ.\nاِمْتَلَّ مِلَّتَهُ 8 <i>He follows his way of religion:</i> see 8 in art. شرع.\nمَلاَلٌ : see 1.\nمَلُولٌ <i>Conceiving</i> [<i>frequent</i>] <i>disgust.</i> (Msb.) See ذَوَّاقٌ.\nمَلِيلٌ A man <i>burned by the sun;</i> as also 🡻مَمْلُولٌ. (TA.) See an ex. in a verse cited voce أَصْرَمُ; and see طُلْمَهٌ.\nمَلَّةٌ The <i>hollow that is made for baking bread: or the hot dust and ashes</i> [<i>in which the bread is baked</i>]. (Msb.) === <i>Hot ashes:</i> (S, K:) <i>ashes,</i> and <i>earth, in which fire is kindled.</i> (TA, art. خبز.) === خُبْزُ مَلَّةٍ <i>Bread baked in hot ashes.</i> (S.) [It is generally made in the form of thick round cakes.]\nمَلَّهُ 1 <i>He put it</i> (namely bread, or flesh-meat,) <i>into hot ashes,</i> [<i>to bake, or roast</i>]. (K, &c.) === مَلَّ الثَّوْبَ <i>He sewed,</i> or <i>tacked, the garment, or piece of cloth,</i> [<i>slightly,</i>] <i>previously to the</i> [<i>stronger</i>] <i>sewing termed</i> الكَفّ. (S.) See also شَلَّ. === مَلِلْتُهُ, & مَلِلْتُ عَنْهُ, <i>I was avers from it;</i> (T;) <i>loathed it; was disgusted by it, with it,</i> or <i>at it;</i> (T, S, K;) [<i>was weary of it;</i>] <i>turned</i> <i>away from it with disgust.</i> (T.) See سَئِمَ. === مَلَّ مَلاَلُكَ [<i>May thy disgust pass away,</i> or <i>cease</i>]: see أَضَلَّ ٱللّٰهُ ضَلَالَكَ.\nمَمْلُولٌ Flesh-meat <i>covered over in live coals.</i> (TA, art. عرض.) === See مَلِيلٌ.\nمُلْمُولٌ <i>An iron style with which one writes on tablets.</i> (K.) === The <i>style,</i> or <i>bodkin, with which collyrium is applied to the eyes.</i> (S, K.) In the CK, incorrectly, مَلْمُولٌ: the former is found in MS. copies of the K, as well as in the S, and is right accord. to the TK.\nمِلَّةٌ <i>A religion;</i> (S, Msb, K;) <i>a way of belief and practice in respect of religion.</i> (T, &c.) === See 8."
+}

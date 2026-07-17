@@ -1,0 +1,32 @@
+{
+  "rootId": "r125",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:51:40.463Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Support, strength, backing, power, hand, or index",
+  "primaryMeaning": "Strength or to support/strengthen",
+  "quranicRelevance": "Supporting/backing with spirits/angels (Ayyada - 'wa ayyadahum bi-roohin minhu'), and physical/metaphorical hands of strength (Ayd - 'was-sama'a banaynaha bi-aydin').",
+  "keyDerivations": [
+    {
+      "lemma": "أَيَّدَ",
+      "form": "Form II Verb",
+      "meaning": "To support, strengthen, back, reinforce, or aid"
+    },
+    {
+      "lemma": "أَيْدٌ",
+      "form": "Noun",
+      "meaning": "Strength, power, force, or might"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَاذْكُرْ عَبْدَنَا دَاوُودَ ذَا الْأَيْدِ (38:17): And remember Our servant David, possessor of strength/might (highly resolute in action).",
+    "بَنَيْنَاهَا بِأَيْدٍ: We constructed it with power/force."
+  ],
+  "discardedNoise": [
+    "The anatomical plural of hands (Aydi) which is y-d-y, though often confused by novices.",
+    "Modern political endorsement processes (Ta'yeed)."
+  ],
+  "summaryEn": "The root signifies power and support, outlining divine reinforcement (Ayyad) and structural/metaphorical power (Ayd) in creation and prophethood.",
+  "summaryAr": "يدل هذا الجذر على القوة والتأييد، محدداً التمكين والمدد بالملائكة (أيد)، والقوة البنائية والخلقية والبدنية (ذا الأيد).",
+  "rawText": "أيّد 2 , inf. n. تَأْيِيدٌ; (T, S, M, &c.;) and 🡻آيد, (T, S, K,) of the measure فَاعَلَ, (S,) inf. n. مُؤَايَدَةٌ; (K;) or <i>He strengthened:</i> (S, M, L, Msb, K:) <i>he aided,</i> or <i>rendered victorious.</i> (L.) You say, أيّدهُ عَلَى الأَمْرِ <i>He strengthened him to accomplish the affair.</i> (M, L.)\nأَيِّدٌ <i>Strong:</i> (S, A, Mgh, Msb, K:) an epithet applied [to God, and] to a man. (S.) A poet says, <center> <h3> رَمَى فَأَصَابَ الكُلَى وَالذُّرَى </h3> <h3> إِذَا القَوْسُ وَتَّرَهَا أَيِّدٌ </h3> </center> [lit. <i>When a strong one strings the bow, he shoots, and hits the kidneys, and the tops of the humps of the camels</i>]; meaning, when God strings [or stretches] the bow that is in the clouds, He casts fat into the kidneys and humps of the camels, by means of the herbage that is produced by the rain. (S.) === إِنَّهُ لَأَيِّدُ الغَدَآءِ وَالعَشَآءِ means ‡ <i>Verily he is often present at the morning and evening meals.</i> (A.)\nأَيْدٌ : see آدٌ.\nإِيَادٌ <i>Anything by which a person or thing is strengthened,</i> (M, L, K,) or <i>guarded, defended,</i> or <i>protected:</i> (T, L:) <i>a thing by which one is protected,</i> or <i>veiled,</i> or <i>concealed:</i> the <i>side; shade,</i> or <i>shadow;</i> or <i>protection: a place of refuge:</i> (M, L, K:) <i>either side</i> of anything, <i>that strengthens</i> it: (Lth, T:) <i>anything that is in the vicinity</i> of a thing: (T:) <i>each wing</i> of an army: (S, M, L, K:) <i>earth that is put round a watering-trough</i> or <i>tank,</i> or <i>round a tent,</i> (S, M, L, K,) <i>to strengthen it,</i> or <i>to keep away from it the rain-water:</i> (S, L:) <i>any fortification: a fortified mountain:</i> (M, L, K:) <i>a mountain that is inaccessible,</i> or <i>difficult of access.</i> (IAar, T.) [In the place of one signification, Golius gives “ cortex; ” having found لحاه in the place of لَجَأ.] === <i>An elevated tract,</i> or <i>a heap, of sand.</i> (M, K.) === <i>Abundance of camels</i> [because they strengthen their owner]. (K.) === The <i>air;</i> syn. هَوَآء. (K.)\nاَاْيَدَ 3 see 2.\nآدٌ <i>Strength;</i> syn. صُلْبٌ, (M, L, K,) and قُوَّةٌ [which is one of the significations of صُلْبٌ, and that which is here meant]; as also 🡻أَيْدٌ [which is an inf. n.: see 1]. (S, M, K.)\nآدَ 1 , aor. يَئِيدُ, inf. n. أَيْدٌ, <i>He,</i> (a man, AZ, T, &c.,) or <i>it,</i> (a thing, L,) <i>was,</i> or <i>became, strong:</i> (AZ, T, S, M, K, &c.:) and 🡻آيد, inf. n. إِيَادٌ, <i>he became possessed of strength.</i> (AHeyth, T, L.) === آدَتٌ ضِيَافَتُهُ ‡ <i>His coming as a guest was,</i> or <i>became, frequent.</i> (A.) [See أَيِّدٌ.]\nآيَدَ 4 see 1.\nتأيّد 5 <i>He,</i> or <i>it,</i> (a thing, S,) <i>became strengthened.</i> (T, S, K.)\nمُؤَيَّدٌ and 🡻مُؤْيَدٌ (the latter irreg., by rule being مُؤَايَدٌ, TK,) <i>Strengthened:</i> (S, L, K:) <i>aided;</i> or <i>rendered victorious:</i> (L:) and the former, <i>strong,</i> applied to a building. (M.)\nمُؤَيِّدٌ <i>Strengthening:</i> (S, L:) <i>aiding;</i> or <i>rendering victorious.</i> (L.) The dim. also has this form. (S.)\nمُؤْيَدٌ : see مُؤَيَّدٌ: ___ and see what next follows.\nمُؤْيِدٌ , of the same measure as مُؤْمِنٌ, <i>A great, mighty,</i> or <i>severe, thing;</i> (S, L, K;) <i>a calamity:</i> (T, S, M, L, K:) or, accord. to As, it is 🡻مُؤْيَدٌ, with fet-h to the ى, and signifies <i>anything rendered strong,</i> or <i>hard,</i> or <i>severe.</i> (L.) [See مَآوِدُ, in art. اود.)"
+}

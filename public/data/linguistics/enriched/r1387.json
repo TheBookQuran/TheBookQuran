@@ -1,0 +1,31 @@
+{
+  "rootId": "r1387",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:00:21.796Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Despair, losing hope, giving up, dry soil, or freeze",
+  "primaryMeaning": "Despair/losing hope",
+  "quranicRelevance": "Despairing of God's mercy (Qanata - 'la taqnatoo min rahmati Allahi'), and those who despair (Qanitoon - 'wa man yaqnatu min rahmati rabbihi').",
+  "keyDerivations": [
+    {
+      "lemma": "قَنِطَ / يَقْنِطُ",
+      "form": "Form I Verb",
+      "meaning": "To despair, lose all hope, abandon trust, or grow hopeless"
+    },
+    {
+      "lemma": "قَانِطٌ / قَانِطِينَ",
+      "form": "Noun / Active part. pl.",
+      "meaning": "Despairing ones, or those without hope"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "لَا تَقْنَطُوا مِنْ رَحْمَةِ اللَّهِ (53:53): Do not despair of the mercy of God (the ultimate hope for sinners)."
+  ],
+  "discardedNoise": [
+    "Sincere obedience (Qunoot) - belonging to q-n-t, distinct spelling.",
+    "Weight measurement units (Qintar)."
+  ],
+  "summaryEn": "The root represents despair (Qunut), warning believers against losing hope in divine mercy, and framing despair as a mark of the astray.",
+  "summaryAr": "يمثل هذا الجذر اليأس التام وانقطاع الرجاء، واصفاً اليأس من رحمة الله كعلامة على الضلال، وفتح باب الأمل المفتوح أبداً (لا تقنطوا).",
+  "rawText": "أَقْنَطَ 4 see 2.\nقنّطهُ 2 , (Msb, K,) inf. n. تَقْنِيطٌ, (K,) <i>He made him to despair;</i> (Msb, K;) as also 🡻اقنطهُ. (Msb.) You say, شَرُّ النَّاسِ الَّذِينَ يُقَنِّطُونَ النَّاسَ مِنْ رَحْمَةِ اللّٰهِ <i>The worst of men are those who make men to despair of the mercy of God.</i> (TA.)\nقَانِطٌ (S, Msb) and 🡻قَنِطٌ (S, TA) and 🡻قَنُوطٌ, (Msb, TA,) but the last has an intensive signification, (Bd, xli. 49,) <i>Despairing:</i> (S, Msb, TA:) pl. of the first with ون; (Kur xv. 55, accord. to the prevailing reading;) and so of the second. (S, TA.)\nقَنَطَ 1 , aor. ﹻ; and قَنَطَ, aor. ﹹ; and قَنِطَ, aor. ﹷ; (S, Msb, K;) and قَنُطَ, aor. ﹹ; (K;) and قَنَطَ, aor. ﹷ; and قَنِطَ, aor. ﹻ; each of the last two being a mixture of two dialects; (Akh, S, K;) inf. n. قُنُوطٌ, (S, Msb, K,) which is of the first and second, (S, K, TA,) and of the fourth and sixth also; (K; [but this is doubtful;]) and قَنَطٌ, which is of the third; (S, K;) and قَنَاطَةٌ, which is also of the third, (S, K,) or [more probably, agreeably with analogy,] of the fourth; (TK;) <i>He despaired</i> (S, Msb, K) of (مِنْ) the mercy of God, (Msb,) or, as in the T, of good: or, as some say, <i>he despaired most vehemently</i> of a thing. (TA.) It is said in the Kur, [xv. 56,] accord. to different readings, وَمَنْ يَقْنِطُ مِنْ رَحْمَةِ رَبِّهِ إِلَّا الضَّالُّونَ and يَقْنُطُ (Bd, TA) and يَقْنَطُ (Bd) [<i>And who despaireth of the mercy of his Lord except those who are in error?</i>] ___ قَنْطٌ is also syn. with مَنْعٌ. (K.) You say, قَنَطَ مَآءَهُ عَنَّا <i>He withheld, kept,</i> or <i>debarred, his water from us.</i> (Sgh on the authority of Ibn-'Abbád.)\nقَنُوطٌ : see what follows.\nقَنِطٌ : see what follows."
+}

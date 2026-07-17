@@ -1,0 +1,26 @@
+{
+  "rootId": "r1342",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:01:45.660Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Striking, knocking, disaster, baldness, casting lots, or hammer",
+  "primaryMeaning": "Striking disaster",
+  "quranicRelevance": "The striking calamity of Judgment Day (Qari'ah - 'al-qari'atu ma al-qari'atu', 'kaththabat thamoodu... bil-qari'ah'), and strikes of disaster ('qari'atun').",
+  "keyDerivations": [
+    {
+      "lemma": "قَارِعَةٌ",
+      "form": "Noun / Active part. fem.",
+      "meaning": "Striking calamity, disaster, catastrophe, or crushing blow (of judgment)"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَلَا يَزَالُ الَّذِينَ كَفَرُوا تُصِيبُهُمْ بِمَا صَنَعُوا قَارِعَةٌ (13:31): And those who disbelieve will not cease to be struck, for what they have done, by a disaster/striking blow."
+  ],
+  "discardedNoise": [
+    "Casting lots (Qur'ah) in legal distributions.",
+    "Baldness (Qara') in medical diagnostics."
+  ],
+  "summaryEn": "The root represents striking impact (Qari'ah), serving as a Name of the Day of Judgment to convey its brain-knocking impact, and detailing historical setbacks.",
+  "summaryAr": "يمثل هذا الجذر الضرب الشديد المزعج، مستخدماً كاسم ليوم القيامة لشدة طرقها للأسماع والقلوب بالفزع (القارعة)، وعقوبات الهزائم المباغتة.",
+  "rawText": "أَقْرَعَ بَيْنَهُمْ 4 <i>He ordered,</i> or <i>commanded, them to cast,</i> or <i>draw, lots,</i> or <i>to practise sortilege,</i> [<i>among themselves,</i>] for the thing (عَلَى الشَّىْءِ): (JM:) [see an ex. in the Mgh, in this art.:] or <i>he prepared,</i> or <i>disposed, them, for doing so,</i> for the thing (على الشىء): (Msb:) or <i>he cast,</i> or <i>drew, lots,</i> or <i>practised sortilege, among them.</i> (K.) The first explanation is generally preferable. See أَسْهَمَ بَيْنَهُمْ.\nحُبُّ القَرْعِ <i>Worms in the belly.</i> (TA, voce شهدانج.) But see دُودُ القَرْحِ. القَرْع is not a mistake for القَرْح: حَبُّ القَرْحِ is a corruption, found in medical books: حب القرع is a name of the tape-worm, because each joint of it resembles a grain, or seed, of the gourd. (IbrD.)\nقَارَعَهُ 3 : see its syn. سَاهَمَهُ.\nقَارِعَةٌ <i>A sudden calamity.</i> (K.) See also Bd, and Jel, in xiii. 31, and an ex. voce اِنْفَرَجَ.\nقَارِعَةُ الطَّرِيقِ <i>The higher, or highest, part of the road; the part that is trodden by the passengers;</i> [<i>the beaten way</i>]. (Msb.) In law books expl. as meaning أَطْرَافُ الطَّرِيقِ; opposed to its جَادَّة.\nقَرَعٌ <i>Bare pieces of ground amid herbage.</i> (TA in art. خفى, from a trad.)\nقَرَعَ 1 in the sense of ضَرَبَ has مَقْرَعٌ for an inf. n. (Mgh, art. غمز.) === قَرَعَ فِى مِقْرَعِهِ <i>i. q.</i> ضَرَبَ فِى مِضْربِهِ. (TA in art. ضرب.) === قَرَعَ صَفَاتَهُ ‡ <i>He impugned his character; blamed</i> or <i>censured him; spoke against him</i> (Mgh, art. غمز.) See مَغْمَزٌ. === قَرَعَ بَيْنَ ظُفْرِ إِبْهَامِهِ وَظُفْرِ سَبَّابَتِهِ <i>He fillipped with the nail of his thumb and that of his forefinger.</i> (Lth, K, * TA, art. زنجر.) === هُوَ الفَحْلُ لَا يُقْرَعُ أَنْفُهُ: see أَنْفٌ and قدع. === قَرَعَ أَنْفَهُ, inf. n. قَرْعٌ, † <i>He rejected him, repelled him,</i> or <i>turned him back;</i> namely a suitor in a case of marriage. (TA, in art. بضع.) See بُضْعٌ. === إِنَّ العَصَا قُرِعَتْ لِذِى الحِلْمِ: see Freytag's Arab. Prov. i. 55; and Har, 656. === لَا يُقْرَعُ لَهُ العَصَا: see Freytag's Arab. Prov. ii. 543, and Har, 655, in two places. === قَرَعَهُ بِعَصَا المَلَامَةِ: see عَصًا. === قَرَعْتُ رَأْسَهُ بِالعَصَا and بِالسَّيْفِ: see فَرَعْتُ. === قَرَعَ ظُنْبُوبَ بَعِيرِهِ: and قَرَعَ لِأَمْرِهِ ظُنْبُوبَهُ: &c.: see art. ظنب: and قَرَعَ لِلْأَمْرِ سَاقَهُ: see سَاقٌ.\nقَرِيعٌ ; pl. قَرْعَى: see an ex. of the pl. in a prov. cited voce اِسْتَنَّ. === هُوَ قَرِيعُ وَحْدِهِ: see وحد.\nقَرَّعَهُ 2 <i>He reproached him for his crime or the like, saying to him, Thou didst so and so.</i> (TA, voce مُثَرِّبٌ.) === قَرَّعَ <i>He took, got, or won, a bet, wager, or stake.</i> (L, in TA, voce نَدَبٌ.)\nقُوْعَةٌ [A <i>lot</i> used in sortilege: <i>lots</i> collectively: <i>sortilege</i> itself. Used in all these senses in the present day, and app. in the classical times.] ضَرَبَ القُرْعَةَ <i>He shuffled, or cast, or drew, lots; performed a sortilege.</i>\nمَقْرَعٌ : see مَغْمَزٌ.\nمِقْرَعٌ : see مَضْرَبٌ.\nمِقْرَعَةٌ <i>A whip: or anything with which one beats:</i> (K:) or <i>a thing with which a beast is beaten:</i> (Az, TA:) or <i>a piece of wood with which mules and asses are beaten:</i> (TA:) [<i>a cudgel:</i> often applied in the present day to <i>a cudgel made of the thick part of a palm-stick;</i> and this, when used in sport, has several splits made in the thicker end, to cause the blows to produce a loud sound:] pl. مَقَارِعُ. (TA.)\nهُمَا يَتَقاَرَظَانِ الخَيْرَ وَالشَّرَّ 6 : see تَقَارَضَا."
+}

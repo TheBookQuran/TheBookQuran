@@ -1,0 +1,26 @@
+{
+  "rootId": "r1757",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:21:37.831Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Fine dust, floating dust, particles in air, vanity, or waste",
+  "primaryMeaning": "Fine floating dust",
+  "quranicRelevance": "Deeds turned to scattered dust (Haba' - 'haba-an manthooran', 'haba-an munbath-than').",
+  "keyDerivations": [
+    {
+      "lemma": "هَبَاءٌ",
+      "form": "Noun",
+      "meaning": "Fine floating dust, air particles visible in sunbeams, or empty residue"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَقَدِمْنَا إِلَىٰ مَا عَمِلُوا مِنْ عَمَلٍ فَجَعَلْنَاهُ هَبَاءً مَنْثُورًا (25:23): And We will proceed to what they have done of deeds and make them scattered dust (absolute nullification of polytheistic acts)."
+  ],
+  "discardedNoise": [
+    "Wasting efforts in vain (Haba'an).",
+    "Dust storms (Haboob) in meteorological forecasts."
+  ],
+  "summaryEn": "The root represents weightless floating dust (Habaa'), serving as an eschatological metaphor for the complete nullification of unguided deeds and the disintegration of mountains.",
+  "summaryAr": "يمثل هذا الجذر الغبار الدقيق المتطاير الطافي في الهواء مع أشعة الشمس (هباء)، واصفاً انعدام قيمة أعمال الكفار، وتفتت الجبال هباءً منبثاً.",
+  "rawText": "هَباَ الرَّمَادُ 1 , (JK, TA,) aor. يَهْبُو, (TA,) <i>The ashes became mixed with dust,</i> and extinguished: (JK, TA:) and هَباَ الجَمْرُ. (M, art. رمد.)\nهَبَآءٌ <i>The motes that are seen in the rays of the sun:</i> (TA:) see an ex. voce غُثَآءٌ.\nهَبْوَةٌ <i>Dust rising,</i> or <i>spreading, in the sky like smoke.</i> (JK.)\nهُبَةٌ : see أَهْبَةٌ."
+}

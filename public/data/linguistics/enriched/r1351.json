@@ -1,0 +1,47 @@
+{
+  "rootId": "r1351",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:12:08.450Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Oath, division, distribution, or sharing",
+  "primaryMeaning": "To swear or divide",
+  "quranicRelevance": "Swearing oaths (Qasam), dividing resources/livelihood ('qasamna baynahum'), and mutual division.",
+  "keyDerivations": [
+    {
+      "lemma": "أَقْسَمَ",
+      "form": "Form IV Verb",
+      "meaning": "To swear, make an oath, or vow"
+    },
+    {
+      "lemma": "قَسَمٌ",
+      "form": "Noun",
+      "meaning": "Oath, or vow"
+    },
+    {
+      "lemma": "قَسَمَ",
+      "form": "Form I Verb",
+      "meaning": "To divide, distribute, apportion, or share"
+    },
+    {
+      "lemma": "قِسْمَةٌ",
+      "form": "Noun",
+      "meaning": "Division, portion, share, or distribution"
+    },
+    {
+      "lemma": "تَقَاسَمَ",
+      "form": "Form VI Verb",
+      "meaning": "To swear mutually, or divide among themselves"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "قَسَمْنَا بَيْنَهُمْ مَعِيشَتَهُمْ (43:32): We distributed/apportioned among them their livelihood.",
+    "لَا أُقْسِمُ: I swear (emphatic formula, literally 'I do not swear [because the matter is too obvious]')."
+  ],
+  "discardedNoise": [
+    "Mathematical division rules.",
+    "Detailed legal disputes on oath validation."
+  ],
+  "summaryEn": "The root covers oaths and distribution, joining the solemn pledges of creation (Qasam) with the divine distribution of sustenance (Qismah).",
+  "summaryAr": "يغطي هذا الجذر الأيمان والقسمة، جامعاً بين القسم واليمين المغلظة (قسم) والتوزيع والتقدير الإلهي للأرزاق (قسمنا).",
+  "rawText": "أَقْسَمَ عَلَيْهِ 4 <i>He conjured him; he said</i> بِحَقِّكَ. (Mgh, art. طمر.)\nاِسْتَقْسَمَ 10 <i>He sought to know what was allotted to him,</i> by means of the أَزْلَام, (S, * Mgh, and Har, p. 465,) <i>and what was not allotted to him.</i> (Mgh, Har.)\nاِنْقَسَمَ الَى أَقْسَامٍ كَثِيرَةٍ 7 <i>It was divided into many parts.</i>\nتَقَسَّمَ 5 <i>It</i> (a thing) <i>was,</i> or <i>became, divided,</i> or <i>distributed.</i> (MA.) See an ex. in a verse, voce شَتَّانَ.\nقَاسَمَهُ الشَّىْءَ 3 <i>He divided with him the thing, each of them allotting to himself his share,</i> or <i>portion.</i> === قَاسَمَهُ بِٱللّٰهِ <i>He swore to him by God.</i>\nقَسَمٌ <i>A conjurement.</i> See أَقْسَمَ عَلَيْهِ. === <i>An oath</i> (S, Msb, K) <i>by God</i> [<i>&c.</i>]. (Msb, K.) <i>An asseveration.</i> === وَاوُ القَسَمِ <i>The</i> و <i>denoting an oath.</i>\nقَسَمَ 1 and 🡻قَسَّمَ <i>He divided; parted; divided in parts</i> or <i>shares; distributed.</i> === قَسَمَ أَمْرَهُ, or 🡻قَسَّمَهُ: see 3 in art. عدل.\nقَسَّامٌ <i>An officer of the Kádee, who divides inheritances.</i>\nقَسَّمَ 2 see 1.\nقِسْمٌ <i>A division:</i> (Msb:) and particularly (Msb) <i>a portion,</i> or <i>share.</i> (S, Msb, K.) Pl. أَقْسَامٌ. === لَيْسَ مِنْ أَقْساَمِ كَذَا <i>It is not a part of such a thing; it does not belong,</i> or <i>appertain, to such a thing; it is independent of such a thing.</i>\nقِسْمَةٌ is also used in the sense of مَقْسُومٌ [meaning <i>A thing,</i> or <i>collection of things, divided into portions,</i> or <i>shares</i>]: (Bd and Jel in liv. 28:) <i>a portion,</i> or <i>share;</i> like قِسْمٌ: (Msb:) [and <i>portions,</i> or <i>shares;</i> as in the phrase,] نُخْرِجُ طَرِيقًا مِنْ بَيْنِ قِسْمَةِ الأَرْضِ أَوِ الدَّارِ [<i>We will exclude a way,</i> or <i>passage, from among the portions,</i> or <i>shares, of the land,</i> or <i>the house</i>]. (Mgh in art. رفع.)"
+}

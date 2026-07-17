@@ -1,0 +1,26 @@
+{
+  "rootId": "r533",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:09:12.475Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Humiliated, submissive, small, low, despised, or dwarf",
+  "primaryMeaning": "Humiliated/submissive",
+  "quranicRelevance": "Entering Hell submissively (Dakhireen - 'sayadkhuloona jahannama dakhireen', 'wa kullun atahu dakhireen').",
+  "keyDerivations": [
+    {
+      "lemma": "دَاخِرٌ / دَاخِرُونَ",
+      "form": "Adjective / Active part. pl.",
+      "meaning": "Submissive, humbled, humiliated, low, or dwarfed"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "أَوَلَمْ يَرَوْا إِلَىٰ مَا خَلَقَ اللَّهُ مِنْ شَيْءٍ يَتَفَيَّأُ ظِلَالُهُ عَنِ الْيَمِينِ وَالشَّمَائِلِ سُجَّدًا لِلَّهِ وَهُمْ دَاخِرُونَ (16:48): Have they not considered what things God has created? Their shadows incline to the right and left, prostrating to God while they are submissive/humbled."
+  ],
+  "discardedNoise": [
+    "Savings accounts (Iddikhar) - written with thal (ذخر), distinct spelling/meaning.",
+    "Storing food resources."
+  ],
+  "summaryEn": "The root represents submissive humility (Dukhoor), describing the involuntary physical submission of shadows to God and the forced humiliation of sinners in Hell.",
+  "summaryAr": "يمثل هذا الجذر الخضوع الذليل والصغار (داخر)، مصوراً السجود الكوني الإجباري لظلال المخلوقات لله سجوداً وخضوعاً، ودخول العصاة صاغرين لجهنم.",
+  "rawText": "ادخرهُ 4 <i>He</i> (God, A, or a man, Msb) <i>rendered him abject, mean, contemptible,</i> or <i>despicable.</i> (S, A, Msb, K.)\nادّخر 8 : see art. ذخر.\nدَاخِرٌ , applied to a man, <i>Abject, mean, contemptible,</i> or <i>despicable.</i> (S, TA.)\nدَخَرَ 1 , (S, A, Msb, K,) aor. ﹷ; (Msb, K;) and دَخِرَ, aor. ﹷ; (K;) inf. n. of the former, دُخُورٌ, (S, A, Msb, K,) and (of the latter, TA) دَخَرٌ; (K, TA; in the CK دُخْرٌ;) <i>He was, or became, object, mean, contemptible,</i> or <i>despicable.</i> (S, A, Msb, K.)\nمُدَّخِرٌ : see art. ذخر."
+}

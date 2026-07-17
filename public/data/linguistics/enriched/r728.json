@@ -1,0 +1,26 @@
+{
+  "rootId": "r728",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T18:07:39.528Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Freezing cold, severe frost, extreme chill, angry glare, or redness of eyes",
+  "primaryMeaning": "Freezing cold/frost",
+  "quranicRelevance": "Freezing cold (Zamhareeran - 'la yarawna ... shamsan wa-la zamhareeran').",
+  "keyDerivations": [
+    {
+      "lemma": "زَمْهَرِيرٌ",
+      "form": "Noun/Adjective (Quadriliteral)",
+      "meaning": "Freezing cold, severe frost, ice chill, or intense winter cold"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "مُتَّكِئِينَ فِيهَا عَلَى الْأَرَائِكِ ۖ لَا يَرَوْنَ فِيهَا شَمْسًا وَلَا زَمْهَرِيرًا (76:13): Reclining therein on couches. They will not see therein sun (heat) nor freezing cold."
+  ],
+  "discardedNoise": [
+    "Zamharah (staring with angry red eyes) - facial expression.",
+    "Zamhareeri (hyperbolic slang for very cold weather)."
+  ],
+  "summaryEn": "The root represents extreme, freezing cold (Zamhareer), describing the climate of Paradise as perfectly balanced - free from both burning solar heat and painful arctic cold.",
+  "summaryAr": "يشير هذا الجذر إلى شدة البرد والقر والزمهرير الجليدي وتكشير الأسنان من البرد (زمهر)، واصفاً جو الجنة بالاعتدال فلا شمس محرقة ولا برد مؤلم.",
+  "rawText": "اِزْمَهَرَّتْ <i>They</i> (the stars) <i>shone,</i> (S, K,) <i>and were intensely bright.</i> (TA.) === <i>It</i> (the eye) <i>became red by reason of anger,</i> (K,) on the occasion of some distressing event; (TA;) as also 🡻زَمْهَرَتْ. (AZ, S, K.) === ازمهرّ <i>It</i> (the face) <i>grinned, so as to display the teeth;</i> or <i>became contracted, with a stern, an austere,</i> or <i>a morose, look.</i> (K.) === <i>It</i> (a day) <i>became intensely cold.</i> (K.)\nزمهر\nزَمْهَرَ Q. 1 see the next paragraph.\nزَمْهَرِيرٌ <i>Intense cold.</i> (S, K.) Such is prepared by God as a punishment for the unbelievers in the latter state. (TA.) In the Kur lxxvi. 13, زَمْهَرِيرًا means <i>Hurting cold:</i> (Bd:) or [simply] <i>cold:</i> (Jel:) or, accord. to some, it there has the meaning next following. (Bd, Jel.) === The <i>moon;</i> (K;) in the dial of Teiyi. (TA.)\nمُزْمَهِرٌّ <i>Laughing so as to show the teeth:</i> (K:) from the likeness to the shining of stars. (TA.) === <i>Angry:</i> (K:) or <i>violently angry.</i> (S.)"
+}

@@ -1,0 +1,57 @@
+{
+  "rootId": "r1004",
+  "source": "lanes",
+  "enrichedAt": "2026-06-29T23:13:56.124Z",
+  "modelId": "claude-3-5-sonnet-human-curated",
+  "semanticCore": "Weakness; doubling or multiplication",
+  "primaryMeaning": "To be weak, feeble, or disabled; to double or multiply.",
+  "quranicRelevance": "Extremely common in the Quran with two main branches: 1) Weakness (ضُعْف) of body, status, or conviction (e.g. 30:54 'created you from weakness', 4:9 'weak offspring'). 2) Deeming or treating as weak/oppressed (مُسْتَضْعَف) (e.g. 4:75 'oppressed men, women, and children'). 3) Doubling or multiplying rewards or punishment (ضِعْف / أَضْعَاف) (e.g. 2:261 'He multiplies to whom He wills', 7:38 'double punishment').",
+  "keyDerivations": [
+    {
+      "lemma": "ضَعُفَ",
+      "form": "Form I",
+      "meaning": "To be or become weak, feeble, or infirm."
+    },
+    {
+      "lemma": "ضَاعَفَ",
+      "form": "Form III",
+      "meaning": "To double, redouble, or multiply several-fold."
+    },
+    {
+      "lemma": "اسْتَضْعَفَ",
+      "form": "Form X",
+      "meaning": "To deem weak; to oppress; to behave proudly towards someone."
+    },
+    {
+      "lemma": "ضُعْف",
+      "form": "Noun",
+      "meaning": "Weakness; feebleness; frailty."
+    },
+    {
+      "lemma": "ضِعْفٌ",
+      "form": "Noun",
+      "meaning": "Double; multiple; a fold (pl. أَضْعَاف)."
+    },
+    {
+      "lemma": "ضَعِيفٌ",
+      "form": "Adjective",
+      "meaning": "Weak; feeble; oppressed (pl. ضُعَفَاء)."
+    },
+    {
+      "lemma": "مُسْتَضْعَفٌ",
+      "form": "Passive Participle (Form X)",
+      "meaning": "Deemed weak; oppressed; down-trodden."
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "Land upon which a weak rain has fallen (أرض مضَعَّفة).",
+    "An arrow in the game of Maysir that has no share (المُضَعَّف)."
+  ],
+  "discardedNoise": [
+    "Coat of mail composed of double rings (درع مضاعفة).",
+    "A cow having a young one in her belly (ضَاعِف)."
+  ],
+  "summaryEn": "The root ضعف links weakness with multiplication. In the Quran, it describes physical and social weakness (ضُعْف), the oppressed (مُسْتَضْعَفِين), and the multiplication of deeds and recompense (أَضْعَاف).",
+  "summaryAr": "يجمع جذر ضعف بين معنيين: العجز ومضاعفة العدد. ويظهر في القرآن الكريم لوصف الضعف البدني والاجتماعي، وفئة المستضعفين، ومضاعفة الأجور والعقوبات أضعافاً كثيرة.",
+  "rawText": "أَرْضٌ مُضَعَّفَةٌ <i>Land upon which a weak rain has fallen:</i> (Ibn-'Abbád, O, K:) and [in like manner] 🡻مَضْعُوفٌ signifies a place <i>upon which has fallen only a little,</i> or <i>weak, rain.</i> (O in art. رك.) === المُضَعَّفُ <i>One of the arrows used in the game of</i> المُيْسِر, <i>that has no share,</i> or <i>portion, allotted to it;</i> as though it were disabled from having a share (كَأَنَّهُ 🡻ضُعِّفَعَنْ أَنْ يَكُونَ لَهُ نَصِيبٌ): (TA:) <i>the second of the arrows termed</i> الغُفْلُ, <i>that have no notches, and to which is assigned</i> [<i>no portion and</i>] <i>no fine:</i> these being added only to give additional weight to the collection of arrows from fear of occasioning suspicion [of foul play]. (Lh, M.) [See السَّفِيحُ.] ___ See also ضَعَفٌ.\nأَهْلُ الجَنَّةِ كُلُّ ضَعِيفٍ مُتَضَعَّفٍ [<i>The meet for Paradise is every weak person who is esteemed weak</i>]. (K, * TA. [In the CK, erroneously, مُتَضَعِّفٌ: and in the K, اهل الجنّة is omitted.])\nإِسْتَضْعَفَ 10 see 2, in two places.\nاضعفهُ 4 <i>He,</i> (God, Msb, or another, S,) or <i>it,</i> (disease, TA,) <i>rendered him</i> ضَعِيف [i. e. <i>weak,</i> &c.]; (S, O, Msb, K;) as also 🡻ضعّفهُ. (L, TA.) ___ And أَضْعَفَ, said of a man, <i>He became one whose beast was weak.</i> (S, O, K.) ___ See also 3, first sentence, and last two sentences.\nتضاعف 6 signifies صَارَ ضِعْفَ مَا كَانَ [i. e. <i>It became double,</i> or <i>two-fold;</i> and <i>treble,</i> or <i>threefold;</i> and <i>several-fold,</i> or <i>many-fold</i>]. (O, K.)\nتَضَعَّفَ 5 see 2, in two places. ___ [تضعّف app. signifies also <i>He manifested weakness:</i> see تضوّر.]\nتَضْعِيفٌ inf. n. of 2. (S &c.) === تَضَاعِيفُ الشَّىْءِ means <i>The doubles,</i> or <i>trebles,</i> or <i>multiples, of the thing;</i> (مَا ضُعِّفَ مِنْهُ;) in this sense, تضاعيف has no sing., like تَبَاشِيرُ &c. (TA.) === تَضَاعِيفُ الكِتَابِ: see ضِعْف, near the end. === As expl. by Lth, (O,) التَّضْعِيفُ signifies حُمْلَانُ الكِيمِيَآءِ [i. e. <i>What is used as an alloy in chemistry</i> or <i>alchymy</i>]. (O, K.)\nدِرْعٌ مُضَاعَفَةٌ <i>A coat of mail composed of double rings.</i> (S, O, K.) === مُضَاعَفٌ as a conventional term used by those who treat of inflection, <i>Having a</i> [<i>radical</i>] <i>letter doubled.</i> (TA.)\nضاعفهُ 3 , (S, O, K,) inf. n. مُضَاعَفَةٌ; (S, Msb;) and 🡻ضعّفهُ, (S K,) inf. n. تَضْعِيفٌ; (S, O, Msb;) and 🡻اضعفهُ, (S, O, K,) inf. n. إِضْعَافٌ; (S, Msb;) all signify the same; (S, K;) i. e. <i>He doubled it,</i> or <i>made it double,</i> or <i>two-fold;</i> (O, K;) [and <i>trebled it,</i> or <i>made it treble,</i> or <i>three-fold;</i> and <i>redoubled it,</i> or <i>made it several-fold,</i> or <i>manyfold;</i> i. e. <i>multiplied it;</i> for] Kh says, التَّضْعِيفُ signifies <i>the adding to</i> a thing <i>so as to make</i> it <i>double,</i> or <i>two-fold;</i> or <i>more</i> [i. e. <i>treble,</i> or <i>threefold;</i> and <i>several-fold,</i> or <i>many-fold</i>]; (S, O, Msb;) and so الإِضْعَافُ, and المُضَاعَفَةُ; (S, Msb;) and 🡻ضَعَفَهُ, without teshdeed, signifies the same as ضاعفهُ. (Ham p. 257.) The saying, in the Kur [xxxiii. 30], يُضَاعَفْ لَهَا العَذَابُ ضِعْفَيْنِ, (Mgh, O, K,) in which AA read 🡻يُضَعَّفْ, (TA,) accord. to AO, (Mgh, O,) means, <i>The punishment shall be made to her three punishments;</i> (Mgh, O, K;) for, he says, she is to be punished once; and when the punishment is doubled twofold, [or is repeated twice,] the one becomes three: (TA:) he adds, (O,) and the tropical meaning of يُضَاعَفْ (مَجَازُ يُضَاعَفْ [for which مَجازٌ يُضَاعَفُ is erroneously put in the CK]) is two things' being added to a thing so that it becomes three: (O, K:) but Az disapproves this, saying that it is peculiar to the tropical and the common conventional speech, whereas the skilled grammarians state the meaning to be, <i>she shall be punished with twice the like of the punishment of another;</i> (Mgh;) [so that it may be rendered <i>the punishment shall be doubled to her,</i> made <i>two-fold;</i> and in like manner] Ibn-'Arafeh explains it as meaning <i>she shall have two shares of punishment.</i> (O.) فَيُضَاعِفُهُ لَهُ أَضْعَافًا كَثِيرَةً [<i>And He will multiply it to him many-fold,</i> or, as some read, فَيُضَاعِفَهُ <i>that He may multiply it,</i>] is another phrase occurring in the Kur [ii. 246]. (O, TA.) And one says, 🡻أَضْعَفْتُالثَّوَابَ لِلْقَوْمِ [<i>I doubled,</i> or <i>multiplied, the recompense to the people,</i> or <i>party</i>]. (Msb.) And 🡻أُضْعِفَالقَوْمُ <i>The people,</i> or <i>party, had a doubling,</i> or <i>multiplying,</i> [of their recompense, &c.,] <i>made to them;</i> (Msb;) [and so, app., أَضْعَفُوا; (see مُضْعِفٌ;)] <i>i. q.</i> ضُوعِفَ لَهُمْ. (S, O, K.)\nضعّفهُ 2 , inf. n. تَضْعِيفٌ: see 4: and see also المُضَعَّفُ. === Also <i>He reckoned,</i> or <i>esteemed, him</i> ضَعِيف [i. e. <i>weak,</i> &c.]; (O, K;) and so 🡻استضعفهُ, (S, O, Msb, K,) and 🡻تضعّفهُ: (O, K:) or 🡻استضعفهُ signifies <i>he found him to be so;</i> (TA;) or <i>he asserted him to be</i> (جَعَلَهُ) <i>so;</i> (Msb;) or, as also 🡻تضعّفهُ, <i>he</i> [<i>esteemed him to be so, and therefore</i>] <i>behaved proudly, haughtily,</i> or <i>insolently, towards him, in respect of worldly things, because of</i> [<i>his</i>] <i>poverty, and meanness of condition.</i> (IAth, TA.) غَلَبَنِى أَهْلُ الكُوفَةِ أَسْتَعْمِلُ عَلَيْهِمُ المُؤْمِنَ فَيُضَعَّفُ وَأَسْتَعْمِلُ عَلَيْهِمُ القَوِىَّ فَيُفَجَّرُ, [<i>The people of El-Koofeh have overcome me: I employ as governor over them the believer, and he is esteemed weak; and I employ as governor over them the strong, and he is charged with unrighteousness:</i>] is a saying mentioned in a trad. of 'Omar. (TA.) === And <i>He attributed,</i> or <i>ascribed,</i> (O, K,) <i>to him,</i> i. e. a man, (O,) or ‡ <i>to it,</i> i. e. a tradition, [&c.,] ضَعْف [meaning <i>weakness,</i> app., in the case of a man, <i>of judgment,</i> and in the case of a tradition &c., <i>of authority</i>]. (O, K, TA.) ___ And <i>He doubled it,</i> or <i>made it double, covering one part of it with another part.</i> (TA.) === See also the next paragraph, in two places.\nضَاعِفٌ A cow <i>having a young one in her belly;</i> (IDrd, O;) as though she were made double thereby: (TA:) but IDrd says that this is not of high authority. (O.)\nضَعَفٌ : see ضَعْفٌ. ___ Also <i>Garments,</i> or <i>pieces of cloth, made double</i> ( 🡻مُضَعًّفَةٌ ). (Ibn-'Abbád, O, K.)\nضَعَفَةٌ <i>A party,</i> or <i>company,</i> or <i>small company,</i> (شِرْذِمَةٌ,) <i>of the Arabs.</i> (TA.) === Also a pl. of ضَعِيفٌ [q. v.]. (S &c.)\nضَعُفَ 1 , (S, O, Msb, K,) and ضَعَفَ, (O, Msb, K,) the latter on the authority of Yoo, (O,) or of Lh, (L,) aor. of each ﹹ, (Msb, K,) inf. n. ضُعْفٌ and ضَعْفٌ (S, * O, * Msb, K) [and app. ضَعَفٌ (q. v. infrà) or this is a simple subst.] and ضَعَافَةٌ and ضَعَافِيَةٌ, (K,) all of which are inf. ns. of the former verb, (TA,) or the first, which is of the dial. of Kureysh, is of the former verb, and the second, which is of the dial. of Temeem, is of the latter verb, (Msb,) <i>He,</i> or <i>it, was,</i> or <i>became, weak, feeble, faint, frail, infirm,</i> or <i>unsound;</i> ضُعْفٌ and ضَعْفٌ being the <i>contr. of</i> قُوَّةٌ, (S, O, Msb, K,) and <i>of</i> صِحَّةٌ; (Msb;) and both of them may be used alike, in every relation; or, accord. to the people of El-Basrah, both are so used; so says Az; (TA;) but some say that the former is used in relation to the body, and the latter in relation to the judgment or opinion. (O, Msb, K: but this is omitted in my copy of the TA.) === ضَعُفَ عَنِ الشَّىْءِ means <i>He lacked strength,</i> or <i>power,</i> or <i>ability, to do</i> or <i>accomplish,</i> or <i>to bear, the thing;</i> [<i>he was weak so as to be disabled,</i> or <i>incapacitated, from doing,</i> or <i>accomplishing,</i> or <i>from bearing, the thing;</i>] syn. عَجَزَ عَنْهُ, (Msb in art. عجز,) or عَجَزَ عَنِ ٱحْتِمَالِهِ. (Msb in the present art.) === [See also ضَعْفٌ below.] ___ ضَعُفَ also signifies <i>It</i>"
+}

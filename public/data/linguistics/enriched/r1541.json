@@ -1,0 +1,31 @@
+{
+  "rootId": "r1541",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T00:58:39.998Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Night, darkness, silence, or cover",
+  "primaryMeaning": "Night",
+  "quranicRelevance": "Night (Layl/Laylah) representing rest, cover, and worship (Qiyam al-Layl).",
+  "keyDerivations": [
+    {
+      "lemma": "لَيْلٌ / لَيْلَةٌ",
+      "form": "Noun",
+      "meaning": "Night / a single night"
+    },
+    {
+      "lemma": "لَيَالِي",
+      "form": "Noun pl.",
+      "meaning": "Nights"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "لَيْلًا: During the night (representing secrecy or peace, as in the Night Journey)."
+  ],
+  "discardedNoise": [
+    "Linguistic differences between Layl and Laylah as collective vs. unit nouns.",
+    "Poetic descriptions of the length of nights."
+  ],
+  "summaryEn": "The root refers to the night, representing the temporal cycle of darkness, rest, and nocturnal devotion in the Quran.",
+  "summaryAr": "يشير هذا الجذر إلى الليل، ممثلاً الدورة الزمنية للظلام والسكون والعبادة الليلية في القرآن.",
+  "rawText": "أُمُّ لَيْلَى <i>Wine:</i> لَيْلَى signifying النَّشْوَةُ. (T in art. ام.)\nلَيَالٍ is pl. of لَيْلَاةٌ. (TA, voce أَرْضٌ.)\nلَيْلٌ : see نَهَارٌ. === بَنَاتُ اللَّيْلِ <i>Wishes:</i> (T, TA in art. بنى:) and <i>anxieties.</i> (TA ibid.) === اِبْنُ اللَّيْلِ <i>The thief,</i> or <i>robber:</i> (T in art. بنى:) and <i>the wayfarer,</i> or <i>traveller.</i> (Er-Rághib in TA in that art.) === أَخُو اللَّيْلِ <i>A nightfarer:</i> see a verse cited voce عَدَسَ.\nلَيْلَةٌ <i>A night-journey,</i> or <i>night's journey.</i> === رَأَيْتُ اللَّيْلَةَ فِى مَنَامِى; and كَانَ كَذَا وَكَذَا اللَّيْلَةَ; and مَا أَشْبَهَ اللَّيْلَةَ بِالبَارِحَهْ: see above, p. 183 <i>a.</i>\nلَيْلِىٌّ : see نَهِرٌ.\nمُلَايَلَةٌ from اللَّيْلُ is like مُياَوَمَةٌ from اليَوْمُ, and مُشَاهَرَةٌ from الشَّهْرُ, &c. (TA in art. ربع.)"
+}

@@ -1,0 +1,37 @@
+{
+  "rootId": "r1392",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:51:40.463Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Domination, suppression, forcing, orphan oppression, or victory",
+  "primaryMeaning": "Domination or oppression",
+  "quranicRelevance": "Oppressing orphans (Taqhar - 'fa-amma al-yateema fala taqhar'), and the Absolute Subduer/Dominant (al-Qahhar - 'wa huwa al-wahidu al-qahhar').",
+  "keyDerivations": [
+    {
+      "lemma": "قَهَرَ",
+      "form": "Form I Verb",
+      "meaning": "To oppress, subdue, force, dominate, or vanquish"
+    },
+    {
+      "lemma": "قَهَّارٌ",
+      "form": "Adjective (intensive)",
+      "meaning": "The Subduer, Compeller, or Absolute Dominator (divine attribute)"
+    },
+    {
+      "lemma": "قَاهِرٌ / قَاهِرُونَ",
+      "form": "Noun / Active part. pl.",
+      "meaning": "Dominant, subduer / vanquishers"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ (93:9): So as for the orphan, do not oppress/subdue (warning against exploitation of the weak).",
+    "وَهُوَ الْقَاهِرُ فَوْقَ عِبَادِهِ: And He is the Dominant/Subduer over His servants."
+  ],
+  "discardedNoise": [
+    "Cairo city (القاهرة) history.",
+    "Modern psychological trauma terms."
+  ],
+  "summaryEn": "The root represents domination and suppression, warning against human oppression of orphans (Qahr) while highlighting God's absolute dominance (al-Qahhar).",
+  "summaryAr": "يمثل هذا الجذر القسر والغلبة، محذراً من القهر والظلم البشري للأيتام والضعفاء (تقهر)، ومثبتاً الغلبة والسيادة المطلقة لله (القهار).",
+  "rawText": "أَقْهَرُ [<i>More,</i> and <i>most, subduing,</i> &c.: and, <i>abasing</i>]. (K voce أَخْنَعُ, q. v.)\nاقهر 4 <i>He became in a state in which to be overcome, conquered, subdued, subjected, subjugated, overborne, overpowered, mastered,</i> or <i>prevailed over:</i> (Msb:) <i>his case became that of one overcome,</i> &c. (S, TA.) === <i>His companions became overcome, conquered, subdued,</i> &c., (K, TA,) <i>and abased.</i> (TA.) ___ اقهرهُ <i>He found him to be overcome, conquered, subdued, overpowered, mastered,</i> or <i>prevailed over.</i> (S, Msb, K.)\nانقهر 7 [quasi-pass. of قَهَرَهُ; <i>He was,</i> or <i>became, overcome,</i> &c.]. (TA in art. ضغط.)\nفُلَانٌ قُهْرَةٌ للِنَّاسِ <i>Such a one is a person to be overcome, conquered, subdued,</i> &c., <i>by everyone.</i> (A.) === أَخَذْتُ قُلَانًا قُهْرَةً <i>I took such a one by constraint,</i> or <i>compulsion.</i> (S.)\nقَاهرٌ One <i>who overcomes, conquers, subdues,</i> &c.: and 🡻قَهَّارٌ signifies the same in an intensive sense. (Msb.) === القَاهِرُ (TA) and 🡻القَهَّارُ (K, TA) epithets applied to God, (K, TA,) meaning, <i>The Subduer of his creatures by his sovereign authority and power, and the Disposer of them as He pleaseth, with and against their will:</i> (TA:) or the former, <i>the Overcomer,</i> or <i>Subduer, of all created beings.</i> (IAth, TA.) === [القَاهِرُ <i>The planet Mars.</i>] === جِبَالٌ قَوَاهِرُ ‡ <i>Lofty mountains.</i> (A.)\nقَهَرَهُ 1 . (aor. ﹷ, A, K,) inf. n. قَهْرٌ, <i>He overcame, conquered, subdued, subjected, subjugated, overbore, overpowered, mastered,</i> or <i>prevailed</i> or <i>predominated over, him,</i> or <i>it; he was,</i> or <i>became, superior in power</i> or <i>force, to him,</i> or <i>it.</i> (S, A, Msb, K, TA.) === [<i>He abased him.</i> (See 4.) === <i>He oppressed him.</i> So in the Kur., xciii. 9, فَأَمَّا اليَتِيمَ فَلَا تَقْهَرُ [<i>Therefore, happen what may, the orphan thou shalt not oppress;</i> i. e., as explained in the Expos. of the Jel., by taking his property, or otherwise.] === <i>He forced, compelled,</i> or <i>constrained, him.</i> So in the following ex.] قَهَرَهُ عَلَى الأَمْرِ [<i>He forced, compelled,</i> or <i>constrained, him to do the thing</i>]. (S, K, art. قسر.) === [<i>He coerced him.</i>] === <i>He took him</i> [<i>by force;</i>] <i>against his will,</i> or <i>approval;</i> and so أَخَذَهُ قَهْرًا. (A, TA.) ___ قُهِرَ اللَّحْمُ ‡ <i>The flesh-meat became,</i> (S,) or <i>began to be,</i> (A, TA,) <i>affected,</i> or <i>acted upon,</i> (lit. taken,) <i>by the fire, so that its juice flowed.</i> (S, A, TA.)\nقَهَّارٌ : see قَاهِرٌ.\nقُهَرَةٌ A woman <i>abounding in evil, injustice,</i> or <i>corruptness; very evil</i> or <i>bad, unjust,</i> or <i>corrupt:</i> (K, TA:) pl. قُهَرَاتٌ. (TA.)\nقُهْرًا وَبُهْرًا , with damm to each, [a form of imprecation, meaning, <i>May he,</i> or <i>they, be overcome and subdued</i>]. (TA.)"
+}

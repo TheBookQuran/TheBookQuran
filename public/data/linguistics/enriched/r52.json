@@ -1,0 +1,27 @@
+{
+  "rootId": "r52",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T18:03:45.341Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Stagnating, changing smell/taste, spoiling water, or losing fresh quality",
+  "primaryMeaning": "Stagnating/altering water (Asin)",
+  "quranicRelevance": "Water never stagnating (Asin - 'ma'in ghayri asinin').",
+  "keyDerivations": [
+    {
+      "lemma": "آسِنٌ",
+      "form": "Adjective/Participle",
+      "meaning": "Stagnant, spoiled, altered in smell or taste by long standing"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "فِيهَا أَنْهَارٌ مِنْ مَاءٍ غَيْرِ آسِنٍ (47:15): Therein (in Paradise) are rivers of water never altering/stagnating (always fresh)."
+  ],
+  "discardedNoise": [
+    "Insan (human) - A-N-S.",
+    "Asan (sorrow/mourning) - A-S-Y.",
+    "Asnan (teeth organ) - S-N-N."
+  ],
+  "summaryEn": "The root represents water becoming foul or stale due to stagnation (Asn), describing the rivers of Paradise as carrying perfectly pure, fresh water that never spoils.",
+  "summaryAr": "يمثل هذا الجذر تغير ريح الماء وطعمه وفساده بسبب طول ركوده ودون سريان (اسن)، واصفاً أنهار مياه الجنة بالسلامة من هذا الأثر (غير آسن).",
+  "rawText": "أَسَنَ 1 , aor. ﹹ (S, M, Mgh, Msb, K) and ﹻ, (S, M, K,) inf. n. أُسُونٌ (S, M, Msb) and أَسْنٌ; (M;) and أَسِنَ, aor. ﹷ, (S, M, &c.,) inf. n. أَسَنٌ; (S, M, Msb;) said of water, <i>i. q.</i> أَجَنَ <i>and</i> أَجِنَ; (S, K;) [i. e.] <i>It became altered for the worse</i> (M, Mgh, Msb) <i>in odour,</i> (M,) [or <i>in taste and colour, from some such cause as long standing,</i> (see أَجَنَ,)] <i>but was drinkable;</i> (M;) or <i>so as not to be drunk,</i> (Msb, TA,) thus differing from أَجَنَ and أَجِنَ. (TA.) [See also أَصِلَ.]\nأَسِنٌ : see what follows.\nآسِنٌ (S, Mgh, Msb, K) and 🡻أَسِنٌ, (S, Mgh, Msb,) applied to water, (S, Mgh, &c.,) <i>i. q.</i> آجِنٌ [and أَجِنٌ]; (S, K;) [i. e.] <i>Altered for the worse</i> (Mgh, Msb) <i>in odour,</i> (Mgh,) [or <i>in taste and colour, from some such cause as long standing but drinkable;</i> (see above, and see آجِنٌ;)] or <i>so as not to be drunk,</i> (Msb, TA,) thus differing from آجِنٌ and أَجِنٌ: (TA:) pl. [of the former] آسَانٌ [like as أَطْهَارٌ is pl. of طَاهِرٌ, or perhaps it may have for its sing. أَسْنٌ, like أَجْنٌ]. (M, TA.) مَنْ مَآءٍ غَيْرِ آسِنٍ, in the Kur [xlvii. 16], is explained by Fr as meaning <i>Of water not altered for the worse; not</i> آجِن. (TA.)"
+}

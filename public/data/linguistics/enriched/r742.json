@@ -1,0 +1,36 @@
+{
+  "rootId": "r742",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:55:18.217Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Deviation, turning away from truth, doubt, or sunset",
+  "primaryMeaning": "To deviate or swerve",
+  "quranicRelevance": "Swerving/turning away from guidance (Zaaga - 'rabbana la tuzigh quloobana'), and eyes swerving in terror ('wa ith zaghati al-absaru').",
+  "keyDerivations": [
+    {
+      "lemma": "زَاغَ / يَزِيغُ",
+      "form": "Form I Verb",
+      "meaning": "To swerve, deviate, turn away, or decline"
+    },
+    {
+      "lemma": "أَزَاغَ",
+      "form": "Form IV Verb",
+      "meaning": "To cause to deviate, bend, or turn aside"
+    },
+    {
+      "lemma": "زَيْغٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Deviation, error, swerving, or doubt/blindness"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا (3:8): Our Lord, do not cause our hearts to swerve/deviate after You have guided us (pious plea for steadfastness)."
+  ],
+  "discardedNoise": [
+    "The physical setting angle of direct sunlight.",
+    "Modern alignment issues in tire mechanics."
+  ],
+  "summaryEn": "The root represents deviation (Zayg), warning against the spiritual drift of guided hearts and depicting the terror-frozen eyes of crisis.",
+  "summaryAr": "يمثل هذا الجذر الانحراف والزيغ، محذراً من ميل القلوب وزيغها بعد الهدى (لا تزغ قلوبنا)، وواصفاً حيرة الأبصار الزائغة في الشدائد.",
+  "rawText": "ازاغهُ 4 , (S, O, Msb, K,) عَنِ الطَّرِيقِ, (S, O,) inf. n. إِزَاغَةٌ, (Msb,) <i>He made him to decline, deviate, swerve,</i> or <i>turn aside,</i> (S, O, Msb, K,) <i>from the way.</i> (S, O.) Hence, in the Kur [iii. 6, accord. to the usual reading], رَبَّنَا لَا تُزِغْ قُلُوبَنَا, (O, TA,) meaning <i>O our Lord, make us not</i> [or <i>make not our hearts</i>] <i>to decline from the right way</i> and <i>course: make us not to err,</i> or <i>go astray.</i> (TA. [See another reading in the first paragraph of art. زوغ.]) === And <i>He made him to fall into</i> الزَّيْغ [app. as meaning <i>deviation from the truth,</i> or <i>the right way of belief</i> or <i>conduct</i>]. ((TA.) === فَلَمَّا زَاغُوا أَزَاغَ ٱللّٰهُ قُلُوبَهُمْ, in the Kur [lxi. 5], means, accord. to Er-Rághib, <i>And when they quitted the right way, God dealt with them according to that:</i> (TA:) or <i>God turned their hearts from the acceptance of the truth, and the inclining to the right course.</i> (Bd.)\nتَزَايُغٌ 6 <i>i. q.</i> تَمَايُلٌ, (JK, S, O, K,) <i>An inclining towards each other,</i> (PS,) accord. to some, peculiarly, (TA,) in the teeth. (JK, TA.)\nتَزَيَّغَتْ 5 <i>She</i> (a woman) <i>ornamented,</i> or <i>adorned, herself, and showed,</i> or <i>displayed, her finery,</i> or <i>ornaments, and beauties of person</i> or <i>form</i> or <i>countenance, to men,</i> or <i>strangers,</i> (AZ, S, K,) <i>and decked herself with apparel;</i> like تَزَيَّقَتْ: (AZ, TA:) IF says that its غ is a substitute for ن. (TA.)\nزَائِغٌ <i>Declining, deviating, swerving,</i> or <i>turning aside:</i> (TA:) pl. زَاغَةٌ, applied to a number of men, (S, O, K, TA,) <i>i. q.</i> زَائِغُونَ, (S, O, TA,) like بَاعَةٌ meaning بَائِغُونَ. (O, TA.)\nزَاغٌ [The <i>rook;</i>] <i>a small</i> غُرَاب [or <i>bird of the crow-kind</i>], <i>inclining to white,</i> (O, Mgh, K, TA,) <i>that does not eat carrion,</i> (O, Mgh, TA,) <i>and is allowed to be eaten; now called in Egypt the</i> غُرَاب نُوحِىّ [or <i>Noachian crow</i>]: (TA:) or <i>a</i> غُرَاب <i>like the pigeon, black, with a dusty colour in its head;</i> or, as some say, <i>inclining to white; that does not eat carrion:</i> (Msb in art. زوغ:) or <i>a small black</i> غُرَاب, <i>that is eaten; also called</i> حَذَفٌ, of which the n. un. is with ة: (ISh, TA in art. حذف:) [these descriptions correctly apply to different varieties of the rook; some of which are distinguished by more or less whiteness in the head and other parts: in the present day, the word is, by some, perhaps generally, erroneously applied to the <i>carrion-crow:</i>] Az says, “ I know not whether it be Arabic or arabicized: ” (Msb in art. زوغ, and TA:) the truth is, that it is a Pers. word, [زَاغْ,] arabicized; originally applied to crows (غِرْبَان), whether small or large; but when arabicized, applied peculiarly to one species thereof: (TA:) pl. زِيغَانٌ. (O, Mgh, Msb, K.)\nزَاغَ 1 , aor. يَزِيغُ, inf. n. زَيْغٌ (S, O, Msb, K) and زَيَغَانٌ and زَيْغُوغَةٌ (O, K) and زُيُوغٌ, (TA,) <i>He,</i> or <i>it,</i> (a thing, Msb,) <i>declined, deviated, swerved,</i> or <i>turned aside,</i> (S, O, Msb, K,) from the right course or direction, accord. to an explanation of زَيْغٌ by Er-Rághib; and from the truth: (TA:) and زاغ, aor. يَزُوغُ, inf. n. زَوْغٌ, is a dial. var. thereof. (Msb, TA. *) In the Kur iii. 5, (O,) زَيْغٌ means <i>A doubting,</i> and <i>a declining,</i> or <i>deviating, from the truth.</i> (O, K.) === You say also, زَاغَتِ الشَّمْسُ, (S, Msb, K,) aor. تَزِيغُ, inf. n. زَيْغٌ (Msb, TA) and زُيُوغٌ, (TA,) <i>The sun declined</i> [<i>from the meridian</i>], (S, * Msb, K,) <i>so that the shade turned from one side to the other.</i> (S, * K.) === And زاغ البَصَرُ, (S, O, K,) inf. n. زَيْغٌ, (TA,) ‡ <i>The eye,</i> or <i>eyes,</i> or <i>the sight, became dim,</i> or <i>dull:</i> (S, O, K, TA:) so in the phrase مَا زَاغَ البَصَرُ in the Kur [liii. 17]: (O, TA:) or, as some say, زَاغَتِ الأَبْصَارُ signifies <i>the eyes turned aside from their places;</i> as in the case of a man in fear. (TA.)\nزَيَّغْتُ فُلَانًا 2 , inf. n. تَزْيِيغٌ, <i>I rectified the</i> زَيْغ [or <i>declining,</i> or <i>deviating,</i> &c.,] <i>of such a one.</i> (Aboo-Sa'eed, O, K. *)"
+}

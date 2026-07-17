@@ -1,0 +1,32 @@
+{
+  "rootId": "r1430",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:23:40.664Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Uncovering, removing, exposing, or revealing",
+  "primaryMeaning": "To remove or uncover",
+  "quranicRelevance": "Removing distress/punishment (Kashf - 'kashif al-'athab'), uncovering the leg/shin in terror ('yawma yukshafu 'an saq'), and exposing.",
+  "keyDerivations": [
+    {
+      "lemma": "كَشَفَ",
+      "form": "Form I Verb",
+      "meaning": "To remove, uncover, expose, reveal, or lift"
+    },
+    {
+      "lemma": "كاشِفٌ / كَاشِفَةٌ",
+      "form": "Noun / Active part.",
+      "meaning": "Remover, lifter, or that which reveals/exposes"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "يَوْمَ يُكْشَفُ عَنْ سَاقٍ (68:42): The day the shin/leg is uncovered (metaphor for extreme terror/urgency of Judgment).",
+    "لَيْسَ لَهَا مِنْ دُونِ اللَّهِ كَاشِفَةٌ (53:58): None besides God can expose/remove it."
+  ],
+  "discardedNoise": [
+    "Medical diagnostics of skin exposures.",
+    "Obscure details of horse foot lifting."
+  ],
+  "summaryEn": "The root denotes removal and exposure, covering the divine removal of punishment and the eschatological exposure of deeds and cosmic terror.",
+  "summaryAr": "يدل هذا الجذر على الكشف والإزالة، مغطياً رفع البلاء والعذاب برحمة الله، وتجلي الحقائق المفزع يوم القيامة (يكشف عن ساق).",
+  "rawText": "اِنْكَشَفَ عَنْهُ 7 [<i>He,</i> or <i>it, withdrew,</i> or <i>became withdrawn,</i> or <i>removed</i> or <i>became removed, from him,</i> or <i>it,</i> or <i>from over it</i>] === اِنْكَشَفَتْ said of a she-camel: see مُفَنَّنٌ. === اِنْكَشَفُوا [<i>They were</i> <i>routed, defeated,</i> or <i>put to flight;</i> like 🡻كَشِفُوا: the former is quasi-pass. of كَشَفَ, “ he routed, ” &c.]. (K, voce جال in art. جول.) See also تِفْرِجَةٌ, in art. فرج.\nتَكَاشَفُوا 6 <i>They revealed</i> their faults, or secrets, <i>one to another:</i> see تَدَافَنُوا.\nتَكَشَّفَ 5 <i>He uncovered,</i> or <i>exposed, himself</i> in sitting. (TA, voce أَعْفَتُ.)\nكَاشَفَهُ 3 , inf. n. مُكَاشَفَةٌ, [<i>He acted openly with him,</i> or <i>towards him;</i>] syn. of the inf. n. مُجَاهَرَةٌ. (Har, p. 470.) <i>He,</i> or <i>it, appeared to him;</i> as also كَاشَفَ عَلَيْهِ; syn. ظهر له. (TA.) === كُوشِفَ بِمَا أَخْفَيْتُ <i>He became acquainted with, knew,</i> or <i>got knowledge of, what I concealed:</i> syn. إِطَّلَعَ عَلَيْهِ. (Har. p. 686.) === مُكَاشَفَةٌ The <i>showing open enmity,</i> or <i>hostility, with any one.</i> (KL.) [I. e. كَاشَفَهُ alone, or] كاشفه بِالعَدَاوَةِ signifies <i>He showed open enmity,</i> or <i>hostility, with him;</i> (S, MA, K;) and so كاشفه العَدَاوَةَ. (MA.) See صَفْحَةٌ. === [Also <i>Discovery,</i> or <i>revelation:</i> pl. مُكَاشَفَاتٌ: see Hájjee Khaleefeh, s. v.] === كَاشَفَهُ الحَرْبَ [<i>He made war with him openly</i>]. (Msb, art. نبذ.)\nكَشَفَهُ 1 and <i>He uncovered it; unveiled it; laid it open; displayed it; exposed it to view; discovered it; detected it; revealed it; disclosed it.</i> === كَشَفَ عَنْهُ <i>He investigated, explored,</i> or <i>scrutinized, it; searched, examined,</i> or <i>inquired, into it.</i> === كَشَفَهُ <i>He removed it;</i> namely, a cover, or covering, or the like: and <i>he uncovered it, laid it open,</i> &c.; as also كَشَفَ عَنْهُ. === كَشَفَ شَيْأً عَنْ شَىْءٍ <i>He removed, put off, took off, or stripped off, a thing from over,</i> or <i>from before, a thing which it covered or concealed.</i> (K.) === كَشَفَ <i>He removed, cleared away,</i> or <i>dispelled,</i> grief, or sorrow: see فَرَجَ (of which it is an explanation in the Msb and K). === See 7.\nكَشَّافٌ : see Ham, p. 49, 1. 2.\nمَكْشُوفٌ <i>Uncovered,</i> &c.; <i>overt.</i>\nمُكَاشِفٌ [<i>A discoverer,</i> or <i>revealer:</i> thus I have rendered it voce عَيْنٌ.]"
+}

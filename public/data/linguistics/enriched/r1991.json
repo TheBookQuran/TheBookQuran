@@ -1,0 +1,37 @@
+{
+  "rootId": "r1991",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:51:40.463Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Melting, shaking, liquid flow, path swerve, or dynamic sway",
+  "primaryMeaning": "Shaking or liquid dynamic motion",
+  "quranicRelevance": "Tectonic shaking/swaying of the earth (Maara - 'an tameeda bikum'), and violent swaying/swirling of skies (Mawr - 'yawma tamooru as-sama'u mawran').",
+  "keyDerivations": [
+    {
+      "lemma": "مَادَ / يَمِيدُ",
+      "form": "Form I Verb",
+      "meaning": "To shake, sway, swing, rock, or bend"
+    },
+    {
+      "lemma": "مَارَ / يَمُورُ",
+      "form": "Form I Verb",
+      "meaning": "To sway, swirl, stir, flow, or move dynamically"
+    },
+    {
+      "lemma": "مَوْرٌ",
+      "form": "Noun / Inf. n.",
+      "meaning": "Swirling, spinning, or violent rocking/swaying"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "يَوْمَ تَمُورُ السَّمَاءُ مَوْرًا (52:9): The day the sky will sway/swirl violently (the cosmic collapse of celestial order).",
+    "أَنْ تَمِيدَ بِكُمْ: Lest it shake/sway with you (mountains acting as stabilizers against structural rolling)."
+  ],
+  "discardedNoise": [
+    "Liquid density measurements in physics.",
+    "Obscure details of camel walking sways."
+  ],
+  "summaryEn": "The root denotes dynamic swaying and swirling, describing the stabilization of the earth against rolling (Myd) and the violent swirling (Mawr) of skies at judgment.",
+  "summaryAr": "يدل هذا الجذر على الاضطراب والحركة المائجة، واصفاً حماية الأرض من الترنح (تميد)، والاضطراب الفلكي المزلزل للسماء (تمور).",
+  "rawText": "مَأَى 1 (like مَاءَ) <i>It</i> (a cat) <i>mewed.</i> (TA, voce مَاءَ, art. موأ.)"
+}

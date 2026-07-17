@@ -1,0 +1,37 @@
+{
+  "rootId": "r1914",
+  "source": "lanes",
+  "enrichedAt": "2026-06-29T23:32:01.656Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "A period of time or event",
+  "primaryMeaning": "A day or time",
+  "quranicRelevance": "Used to signify physical days, periods of creation, and most importantly, major eschatological events such as the Day of Judgment (Yawm al-Qiyamah, Yawm ad-Din). It also refers to historical days of divine retribution (Ayyam Allah).",
+  "keyDerivations": [
+    {
+      "lemma": "يَوْمٌ",
+      "form": "Noun",
+      "meaning": "A day, period of time, or major event"
+    },
+    {
+      "lemma": "أَيَّامٌ",
+      "form": "Noun pl.",
+      "meaning": "Days, times, or historical epochs"
+    },
+    {
+      "lemma": "يَوْمَئِذٍ",
+      "form": "Adverb",
+      "meaning": "On that day, at that time"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "أَيَّامُ العَرَبِ: Noun phrase denoting the historical battles and conflicts of the Arabs.",
+    "ابْنُ يَوْمِهِ: Noun phrase referring to one who only thinks of the present day, ignoring the future."
+  ],
+  "discardedNoise": [
+    "مُيَاوَمَة: Mutual daily hiring or working day by day.",
+    "يَوْمِيَّة: A day's wages."
+  ],
+  "summaryEn": "The root denotes a day or a span of time, frequently used in the Quran to mark both physical cycles and monumental spiritual events or epochs.",
+  "summaryAr": "يدل هذا الجذر على اليوم أو الحقبة الزمنية، ويستخدم بكثرة في القرآن للإشارة إلى الدورات الزمنية والأحداث والعهود الروحية العظمى.",
+  "rawText": "مُيَاوَمَةٌ from اليَوْمُ is like مُلَايَلَةٌ from اللَّيْلُ, and مُشَاهَرَةٌ from الشَّهْرُ, &c. (TA, in art. ربع.) See مُسَاوَعَة.\nيَوْمٌ <i>A time, whether night or day;</i> (Msb;) <i>time absolutely, whether night or not, little or not:</i> this is the proper signification: (Kull, p. 390:) and <i>day,</i> meaning the <i>period from the rising of the sun to its setting;</i> (Lth, TA:) the <i>time when the sun is above the earth:</i> this is the common conventional acceptation: (Kull, ubi suprà:) and the <i>period from the second</i> [<i>or true</i>] <i>dawn to sunset:</i> (Msb, Kull:) this is the legal acceptation: (Kull:) and <i>a civil day:</i> the <i>period of the revolution of the greatest firmament.</i> (Kull) === Also, <i>An accident,</i> or <i>event;</i> syn. كَوْنٌ and كَائِنَةٌ. Ex., نِعْمَ ٱلْأَخُ فُلَانٌ فِى اليَوْمِ إِذَا نَزَلَ بِنَا <i>Excellent is the brother, such a one, in the case of the accident, when it befalls us.</i> (T.) === See نَهَارٌ. === يَأْتِينَا يَوْمَ يَوْمَ <i>He comes to us day after day,</i> i. e., <i>every day:</i> (Sharh esh-Shudhoor:) and يَوْمَ يَوْمٍ. (In a verse cited by IJ. in Mz, sect. on the حَقِيقَة and مَجَاز.) === يَوْمٌ <i>A dayjourney,</i> or <i>day's journey.</i> === <i>A day,</i> as in our phrase “ he won the day; ” meaning <i>contest, fight,</i> or <i>battle:</i> I render it <i>a day</i> [<i>of conflict</i>]. === أَيَّامُ العَرَبِ <i>The</i> [<i>days,</i> (agreeably with an English, as well as Arabian, usage,) meaning] <i>conflicts</i> (وَقَائِع) <i>of the Arabs.</i> (ISk, T.) === اِبْنُ يَوْمِهِ <i>He who thinks</i> [<i>only of the present day,</i>] <i>not of the morrow.</i> (Er-Rághib. in TA, art. بنى.) === يَوْمُ الشَّكِّ: see شَكٌّ. === بَيْن الأَيَّامِ and فِيمَا بَيْنَ الأَيَّامِ: see نَدْرَةٌ, in two places.\nيَوْمِيَّةٌ <i>A day's wages.</i>"
+}

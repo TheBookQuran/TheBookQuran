@@ -1,0 +1,31 @@
+{
+  "rootId": "r1503",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T10:51:40.463Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Idle talk, vanity, mistake, cancellation, or error",
+  "primaryMeaning": "Idle talk or vanity",
+  "quranicRelevance": "Vain, idle talk in Dunya or Hell (Lagw - 'wa itha sami'oo al-laghwa a'radhoo 'anhu'), and shouting to interrupt the Quran ('wal-ghaw feehi').",
+  "keyDerivations": [
+    {
+      "lemma": "لَغْوٌ",
+      "form": "Noun",
+      "meaning": "Idle talk, vanity, nonsense, void speech, or mistake"
+    },
+    {
+      "lemma": "لَغَا / يَلْغُو",
+      "form": "Form I Verb",
+      "meaning": "To talk idly, speak nonsense, make noise, or interrupt"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَالْغَوْا فِيهِ لَعَلَّكُمْ تَغْلِبُونَ (41:26): And shout/make noise during it (the Quran) so you may overcome (pagan obstruction strategy)."
+  ],
+  "discardedNoise": [
+    "Juristic status of oaths uttered in error (لغو اليمين) in legal courts.",
+    "Spelling errors in vocabulary lists."
+  ],
+  "summaryEn": "The root represents useless, empty speech (Lagw), depicting the noise used by pagans to block out scriptural warnings and the absence of such vanity in Paradise.",
+  "summaryAr": "يمثل هذا الجذر اللغو والساقط من القول، مصوراً الصخب الجاهلي المصطنع للتشويش على القرآن (والغوا فيه)، وتنزيه الجنة عنه.",
+  "rawText": "اللُّغَةُ <i>The genuine language</i> of the Arabs; which is <i>the classical language.</i>\nلَاغٍ : see مَائِرٌ.\nلَاغَاهُ 3 <i>He jested,</i> or <i>joked, with him;</i> inf. n. مُلَاغَاةٌ. (A, TA.) You say, لَاغَاهُ فِى البَيْعِ. (A, TA, art. كيس.)\nلَغْوٌ , applied to speech, &c., <i>Nought; of no account;</i> (M, K;) <i>unprofitable.</i> (M.) === اليَمِينُ اللَّغْوُ: see KT, voce يَمِينٌ.\nلُغَوِىٌّ <i>Of,</i> or <i>relating to, the genuine language</i> of the Arabs. مَعْنًى لُغَوِىٌّ <i>A genuine lexicological meaning.</i>\nلُغَيَّةٌ <i>A word of weak authority.</i> (TA, voce جِرَاب, et passim.)"
+}

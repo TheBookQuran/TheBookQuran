@@ -1,0 +1,36 @@
+{
+  "rootId": "r76",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:05:27.741Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Pain, suffering, sadness, or ache",
+  "primaryMeaning": "To be in pain",
+  "quranicRelevance": "Painful punishment (Aleem) as a consequence of disbelief and sin.",
+  "keyDerivations": [
+    {
+      "lemma": "أَلِيمٌ",
+      "form": "Adjective",
+      "meaning": "Painful, grievous, or agonizing"
+    },
+    {
+      "lemma": "أَلَمٌ",
+      "form": "Noun",
+      "meaning": "Pain, suffering, or ache"
+    },
+    {
+      "lemma": "تَأَلَّمَ",
+      "form": "Form V Verb",
+      "meaning": "To suffer pain, or feel hurt"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "إِنْ تَكُونُوا تَأْلَمُونَ فَإِنَّهُمْ يَأْلَمُونَ (4:104): If you suffer pain, they also suffer pain (in battle)."
+  ],
+  "discardedNoise": [
+    "Detailed medical types of pain.",
+    "Obscure descriptions of mental depression."
+  ],
+  "summaryEn": "The root relates to pain and suffering, serving as the basis for the frequent Quranic description of Hell's retribution as a painful punishment (Aleem).",
+  "summaryAr": "يتعلق هذا الجذر بالألم والوجع، خادماً كأساس للوصف القرآني المتكرر لعذاب النار بالعذاب الأليم.",
+  "rawText": "أَلَمٌ : see لَمْ.\nأَلَمٌ <i>Pain; ache;</i> (T, S, M, K;) as also 🡻أَيْلَمَةٌ: (T, M, K:) pl. (of the former, T, M) آلَامٌ. (T, M, K.) You say, مَا أَجِدُ 🡻أَيْلَمَةًوَلَا أَلَمًا <i>I do not find pain nor ache;</i> i. e. وَجَعًا: so says AZ: and IAar says, أَيْلَمَةً وَلَا 🡻أَلَمَةً as meaning the same. (T.) And the Arabs say, 🡻أَيْلَمَةٍلَأُبِيتَنَّكَ عَلَى, meaning <i>I will assuredly bring upon thee</i> [lit. <i>make thee to pass the night in</i>] <i>distress,</i> or <i>difficulty.</i> (Sh.)\nأَلَمَةٌ : see أَلَمٌ.\nأَلُومَةٌ <i>Lowness, ignobleness, baseness, vileness,</i> or <i>meanness.</i> (O, K.)\nأَلِمٌ <i>Being in pain; having,</i> or <i>suffering, pain; aching.</i> (M, K.)\nأَلِمَ 1 , aor. ﹷ, inf. n. أَلَمٌ, <i>It,</i> (as, for instance, the belly, T, S, or the head, Msb,) or <i>he,</i> (a man, T, S, Msb,) <i>was in pain; had,</i> or <i>suffered, pain; ached.</i> (T, S, M, Msb, K.) أَلِمَ بَطْنَهُ [<i>He was in pain,</i> or <i>had pain, in his belly</i>] (M) and أَلِمْتَ بَطْنَكَ [<i>thou wast in pain,</i> or <i>hadst pain, in thy belly</i>] (T, S) or رَأْسَكَ [<i>in thy head</i>] (Msb) are like سَفِهَ رَأْيَهُ (M) and رَشِدْتَ أَمْرَكَ (S, T) and وَجِعْتَ رَأْسَكَ; (Msb;) the noun being in the accus. case accord. to Ks as an explicative, though explicatives are [by rule] indeterminate, as in قَرِرْتُ بِهِ عَيْنًا and ضَقْتُ بِهِ ذَرْعًا; (T;) the regular form being [أَلِمَ بَطْنُهُ and] أَلِمَ بَطْنُكَ, (T, S,) as the verb is intrans. (T.)\nأَلِيمٌ <i>Causing pain</i> or <i>aching; painful;</i> (S, K;) <i>i. q.</i> 🡻مُؤْلِمٌ; (T, M, Msb;) like سَمِيعٌ as syn. with مُسْمِعٌ: (S:) so when applied to punishment [or torment or torture]: (T, Msb:) or, thus applied, <i>painful,</i> or <i>causing pain</i> or <i>aching, in the utmost degree.</i> (M, K.)\nأَيْلَمَةٌ : see أَلَمٌ, in three places. === Accord. to IAar, (T,) <i>A sound,</i> or <i>voice.</i> (T, K.) You say, مَا سَمِعْتُ لَهُ أَيْلَمَةٌ <i>I heard not any sound,</i> or <i>voice, of,</i> or <i>belonging to, him,</i> or <i>it.</i> (IAar, T.) === Accord. to AA, (T,) <i>Motion.</i> (T, K.)\nإِلَامَ a contraction of إلَى مَا: see إِلَى, last sentence.\nآلَمْتُهُ 4 , (S, M, Msb, K,) inf. n. إِيلَامٌ, (S, Msb,) <i>I caused him pain</i> or <i>aching.</i> (S, * M, Msb, K.)\nتألّم 5 <i>He was,</i> or <i>became, pained:</i> (M, * Msb, K: *) or <i>he expressed pain, grief,</i> or <i>sorrow; lamented; complained; made lamentation</i> or <i>complaint; moaned;</i> syn. تَوَجَّعَ, (T, S,) and شَكَى. (T.) You say, تَأَلَّمَ فُلَانٌ مِنْ فُلَانٍ [<i>Such a one expressed pain,</i> &c., <i>on account of</i> the conduct or the like of <i>such a one; complained of such a one</i>]: (T:) and لِأَزْمَةِ الزَّمَانِ [<i>on account of the hardness of the time</i>]. (TA in art. ازم.)\nمُؤْلِمٌ : see أَلِيمٌ."
+}

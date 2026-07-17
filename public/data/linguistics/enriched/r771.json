@@ -1,0 +1,36 @@
+{
+  "rootId": "r771",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:09:12.475Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Anger, wrath, displeasure, resentment, or hate",
+  "primaryMeaning": "Wrath/wrathful displeasure",
+  "quranicRelevance": "Following what angers God (Askhata - 'at-taba'oo ma askhata Allah'), and their displeasure over charity ('yaskhatoon').",
+  "keyDerivations": [
+    {
+      "lemma": "سَخِطَ / يَسْخَطُ",
+      "form": "Form I Verb",
+      "meaning": "To be angry, displeased, resentful, or show indignation"
+    },
+    {
+      "lemma": "أَسْخَطَ / يُسْخِطُ",
+      "form": "Form IV Verb",
+      "meaning": "To provoke wrath, anger, displease, or irritate"
+    },
+    {
+      "lemma": "سَخَطٌ",
+      "form": "Noun",
+      "meaning": "Wrath, intense anger, displeasure, or condemnation"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "ذَٰلِكَ بِأَنَّهُمُ اتَّبَعُوا مَا أَسْخَطَ اللَّهَ وَكَرِهُوا رِضْوَانَهُ فَأَحْبَطَ أَعْمَالَهُمْ (47:28): That is because they followed what angered/provoked God and detested His pleasure, so He rendered their deeds void."
+  ],
+  "discardedNoise": [
+    "Modern political protests and boycotts.",
+    "Grudging complaints in service sectors."
+  ],
+  "summaryEn": "The root represents wrath (Sakhat), warning hypocrites that pursuing actions which anger God invalidates their deeds, and detailing their greed-based anger over charity.",
+  "summaryAr": "يمثل هذا الجذر الغضب الشديد المقترن بالكره والإنكار (سخط)، واصفاً حبوط أعمال من تتبع مغاضب الخالق (ما أسخط الله)، وسخط المنافقين لمنع الصدقة.",
+  "rawText": "اسخطهُ 4 [<i>He displeased,</i> or <i>discontented, him:</i>] <i>he angered him; made him angry.</i> (S, Msb, K.)\nتَسَخَّطَ 5 see 1, in seven places.\nسَاخِطٌ [<i>Displeased; discontented:</i>] <i>angry.</i> (S.)\nسَخَطٌ : see سُخْطٌ, in two places.\nسَخِطَ 1 , aor. ﹷ, inf. n. سَخَطٌ (S, * Msb, K *) [and مَسْخَطٌ, (see سُخْطٌ, below,)] <i>He was,</i> or <i>became, displeased,</i> or <i>discontented;</i> (S, * K, TA;) as also 🡻تسخّط; (K, TA;) syns. كَرِهَ and تَكَرَّهَ [the latter of which, app. referring particularly to 🡻تسخّط, properly and generally signifies, when intrans., <i>he expressed,</i> or <i>showed, dislike, displeasure, disapprobation, discontent,</i> or <i>hatred</i>]: (TA:) <i>he was,</i> or <i>became, angry;</i> (S, Msb, TA;) and 🡻تسخّط signifies <i>the same;</i> or <i>he became angered;</i> syn. تَغَضَّبَ. (TA.) You say, سَخِطَ عَلَيْهِ [<i>He was,</i> or <i>became, displeased,</i> or <i>discontented,</i> or <i>angry, with him</i>]. (Kur v. 83.) And سَخِطَهُ <i>He was,</i> or <i>became, displeased,</i> or <i>discontented, with him;</i> as also 🡻تسخّطهُ; both expl. by لَمْ يَرْضَ بِهِ; (Ham p. 502;) and the latter by تَكَرَّهَهُ [which signifies as above, like كَرِهَهُ, and also <i>he expressed,</i> or <i>showed, dislike of it, displeasure with it, disapprobation of it, discontent with it,</i> or <i>hatred of it</i>]; (K, TA;) and لَمْ يَرْضَهُ; (TA;) as in the saying, كُلَّمَا عَمِلْتُ لَهُ عَمَلًا 🡻تَسَخَّطَهُ [<i>Every time that I did for him a deed, he expressed,</i> or <i>showed, dislike of it,</i> &c.]; and in like manner, أَعْطَاهُ قَلِيلًا 🡻فَتَسَخَّطَهُ [<i>He gave him little and he expressed,</i> or <i>showed, dislike of it,</i> &c.]: (TA:) and [hence,] 🡻تَسَخَّطَعَطَآءَهُ <i>He deemed his gift little, and it did not stand with him in any stead;</i> expl. by اِسْتَقَلَّهُ وَلَمْ يَقَعْ مِنْهُ مَوْقِعًا. (S, K.) You say also, اَللّٰهُ يَسْخَطُ لَكُمْ كَذَا, meaning <i>God forbiddeth you such a thing:</i> or <i>will punish you for such a thing:</i> or it may refer to the desire of punishing for it. (TA.)\nسُخُطٌ : see سُخْطٌ.\nسُخْطٌ , (S, Msb, K,) a subst. from سَخِطَ, (Msb,) <i>Dislike, displeasure, disapprobation,</i> or <i>discontent;</i> (TA;) <i>contr. of</i> رِضًى; (S, K, TA;) as also 🡻سُخُطٌ (Sgh, K) and 🡻سَخَطٌ (S, K) and 🡻مَسْخَطٌ: (Sgh, K:) [the last two of which are inf. ns.:] <i>anger;</i> (Msb;) as also 🡻سَخَطٌ. (TA.)\nمَسْخَطٌ : see سُخْطٌ.\nمَسْخَطَةٌ [<i>A cause,</i> or <i>means,</i> or <i>an occasion, of dislike, displeasure, disapprobation,</i> or <i>discontent:</i> and, <i>of anger:</i> or <i>a cause,</i> &c., <i>of procuring dislike,</i> &c.: pl., app., مَسَاخِطُ and مَسَاخِطَةٌ. Hence the saying,] البِرُّ مَرْضَاةٌ لِلرَّبِّ مَسْخَطَةٌ لِلشَّيْطَانِ [<i>Piety is a cause of approbation to the Lord; a cause of disapprobation,</i> or <i>anger, to the devil</i>]. (TA.)\nمَسْخُوطٌ <i>Disliked, disapproved,</i> or <i>hated:</i> (A, K:) in this sense applied to a gift. (A, TA.) You say also, هُوَ مَسْخُوطٌ عَلَيْهِ <i>He is an object of anger.</i> (TA.) === [Hence,] <i>Transformed,</i> or <i>metamorphosed, into a worse,</i> or <i>more foul,</i> or <i>more ugly, shape:</i> [and hence applied by the Arabs in the present day to any idol or other image of ancient workmanship; such being regarded by them as metamorphosed in consequence of having incurred the wrath of God:] and <i>short:</i> but thus applied, it is a vulgar term. (TA.)"
+}

@@ -1,0 +1,26 @@
+{
+  "rootId": "r1429",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:56:55.064Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Stripping off, peeling away, removing a cover, skinning a camel, or unveiling",
+  "primaryMeaning": "Stripping off/peeling away",
+  "quranicRelevance": "When the sky is stripped off (Kushitat - 'kushitat').",
+  "keyDerivations": [
+    {
+      "lemma": "كَشَطَ / يَكْشُطُ (Passive: كُشِطَ)",
+      "form": "Form I Verb",
+      "meaning": "To strip off, peel away, remove a covering veil, or skin an animal"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "وَإِذَا السَّمَاءُ كُشِطَتْ (81:11): And when the sky is stripped off/peeled away (revealing what lies beyond)."
+  ],
+  "discardedNoise": [
+    "Qashata (to erase/scrape) - modern school pencil eraser.",
+    "Kushk (kiosk/shop) - foreign loan word."
+  ],
+  "summaryEn": "The root refers to peeling away a surface covering (Kasht), representing the apocalyptic stripping away of the sky like a hide from a slaughtered animal.",
+  "summaryAr": "يشير هذا الجذر إلى نزع الجلد عن الكبش وكشف الغطاء وتقشيره وإزالته (كشط)، مصوراً نزع غطاء السماء واقشعارها يوم القيامة لينكشف الغيب.",
+  "rawText": "إِسْتَكْشَطَ 10 see 1.\nانكشط التُّرَابُ 7 [<i>The dust became removed,</i> or <i>cleared away,</i> by the wind]. (T, TA in art. جول.) See also 1.\nتكشّط السَّحَابُ فِى السَّمَآءِ 5 <i>The clouds became dissundered and dispersed in the sky.</i> (TA.)\nجَزُورٌ مَكْشُوطَةٌ [<i>A skinned slaughtered camel</i>]. (K.)\nكَاشِطٌ <i>A slaughterer</i> [or <i>skinner</i>] <i>of camels;</i> as also 🡻كَشَّاطٌ. (TA.) === Also, [its pls.] كَشَطَةٌ (Lth, K,) and كَاشِطُونَ (M, TA) The <i>owners of a skinned camel.</i> (Lth, M, K.)\nكَشَطَ 1 , (S, Msb, K,) aor. ﹻ, (Msb, MS,) inf. n. كَشْطٌ, (Msb, K,) <i>He removed, put off, took off,</i> or <i>stripped off,</i> (S, Msb, K,) a thing (Msb, K) from (عَنْ) a thing which it covered; (K;) as, for instance, the housing, or covering, (S, K,) from a horse, (K,) or from the back of a horse; (S;) and the cover from a thing; (S;) and the skin from a slaughtered camel: (TA:) and قَشَطَ is a dial. var. thereof; (Yaakoob, S;) the former being of the dial. of Kureysh, (Yaakoob, accord. to the TA,) or of Keys, (M in art. قشط,) and the latter of the dial. of Temeem and Asad; the ك not being a substitute for the ق: (Yaakoob, TA:) and 🡻استكشط signifies the same. (Ham., p. 693.) It is said in the Kur, [lxxxi. 11,] وَإِذَا السَّمَآءُ كُشِطَتْ <i>And when the heaven shall be removed from its place, like as a roof is removed from its place;</i> (Zj, K;) and in like manner قُشِطَتٌ, (Zj, S, *) accord. to the reading of 'Abd-Allah [Ibn-Mes'ood]: (S:) or <i>shall be pulled off and folded together.</i> (Fr.) And you say also, كَشَطَ الحَرْفَ <i>He removed the letter from its place.</i> (TA.) And كُشِطَ رَوْعُهُ, (TA,) inf. n. كِشَاطٌ, (K, * TA,) ‡ <i>His fright,</i> or <i>fear, became removed;</i> (K, * TA;) and so 🡻انكشط روعه: (TA:) or the latter signifies ‡ <i>his fright,</i> or <i>fear, went away.</i> (S, K, TA.) And كَشَطَ الدَّابَّهَ and قَشَطَهَا [<i>He removed the housing,</i> or <i>covering, from the beast of carriage</i>]. (TA in art. قشط.) And كَشَطْتُ البَعِيرَ, (S, Msb,) aor. as above, (Msb,) and so the inf. n., (S, Msb,) <i>I skinned the camel:</i> (S, Msb:) you should not say سَلَخْتُ; for the Arabs, in speaking of a camel, say only كَشَطْتُهُ and جَلَّدْتُهُ. (S.)\nكَشَّاطٌ : see what next follows.\nكُشْطٌ <i>i. q.</i> قُسْطٌ. (AA in TA art. قسط.)\nكِشَاطٌ : see كُشِطَ. ___ The <i>stripped skin</i> of a slaughtered camel. (Lth, K.) Sometimes the latter is covered over with it; and one says, إِرْفَعْ عَنْهَا كِشَاطَهَا لِأَنْظُرَ إِلَى لَحْمِهَا [<i>Take thou off from it its stripped skin, that I may look at its flesh.</i>] (Lth, K. *)"
+}

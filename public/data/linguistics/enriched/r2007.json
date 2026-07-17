@@ -1,0 +1,26 @@
+{
+  "rootId": "r2007",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T17:56:22.540Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Detachments, separate groups, military divisions, or gathered companies",
+  "primaryMeaning": "Separate groups/military divisions",
+  "quranicRelevance": "In separate groups (Thubatin - 'fanthiroo thubatin').",
+  "keyDerivations": [
+    {
+      "lemma": "ثُبَةٌ",
+      "form": "Noun (Plural: ثُبَات / ثُبُونَ)",
+      "meaning": "Detachment of soldiers, company, group of horsemen, or distinct assembly"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "يَا أَيُّهَا الَّذِينَ آمَنُوا خُذُوا حِذْرَكُمْ فَانْفِرُوا ثُبَاتٍ أَوِ انْفِرُوا جَمِيعًا (4:71): O you who have believed, take your precaution, and go forth in separate groups/detachments, or go forth all together."
+  ],
+  "discardedNoise": [
+    "Thabaat (constancy/firmness) - Th-B-T.",
+    "Yathrib (old name of Medina) - spelling confusion."
+  ],
+  "summaryEn": "The root refers to military units or separate companies (Thubah), giving strategic marching advice to the early Muslims to deploy either in smaller scout groups or as a combined army.",
+  "summaryAr": "يمثل هذا الجذر الجماعة من الناس وعصائب المقاتلين وخيول الغزاة المتفرقة (ثبي)، مصوراً خروج المسلمين للجهاد إما في سرايا متفرقة (ثبات) أو جيش واحد.",
+  "rawText": "ثبى , (K and TA, in the CK تَثَيْتَلَ,) <i>He feigned himself stupid after feigning himself intelligent:</i> (K, TA:) accord. to some copies, <i>after feigning himself negligent,</i> or <i>inadvertent:</i> (تَغَافُل being put in the place of تَعَاقُل:) [app. from the subst. below:] but the word as mentioned by IAar is تنتل [app. a mistranscription for ثَنْتَلَ]. (TA.)"
+}

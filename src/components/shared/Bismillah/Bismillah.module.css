@@ -1,0 +1,11 @@
+.bismillah {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: var(--spacing-mega) 0;
+  font-family: var(--font-family-kitab), "UthmanicHafs", serif;
+  font-size: 2.25rem;
+  color: var(--color-text-default);
+  text-align: center;
+  user-select: none;
+}

@@ -1,0 +1,26 @@
+{
+  "rootId": "r1897",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T01:20:57.876Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Orphanhood, singularity, loss of parents, or fatigue",
+  "primaryMeaning": "Orphan",
+  "quranicRelevance": "Orphans (Yateem/Yatama) who lost their fathers before maturity, and protecting their rights.",
+  "keyDerivations": [
+    {
+      "lemma": "يَتِيمٌ / يَتَامَى",
+      "form": "Noun / Noun pl.",
+      "meaning": "Orphan / orphans, or parentless child"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "يَتِيمًا ذَا مَقْرَبَةٍ (90:15): An orphan of near relationship (urging special care)."
+  ],
+  "discardedNoise": [
+    "Grammatical classification of Yateem.",
+    "Obscure details on fatigue (يتم) in horses."
+  ],
+  "summaryEn": "The root denotes orphanhood and vulnerability, focusing on the ethical and financial protection of parentless children (Yatama).",
+  "summaryAr": "يدل هذا الجذر على اليتم والانفراد، مركزاً على الحماية الأخلاقية والمالية للأطفال فاقدي الآباء (يتامى).",
+  "rawText": "أَيْتَمَهُ 4 [<i>He made him fatherless</i>]. (TA in art. ايم.) See an ex. in art. ايم, conj. 2."
+}

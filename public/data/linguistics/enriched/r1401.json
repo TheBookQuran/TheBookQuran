@@ -1,0 +1,31 @@
+{
+  "rootId": "r1401",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:14:55.732Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Midday nap, speaking, ruler, rest place, shade, or say",
+  "primaryMeaning": "Midday nap/resting place or speaking",
+  "quranicRelevance": "Midday resting place in Paradise (Maqeel - 'ahsana maqeelan'), and naptime destruction ('qa'iloon').",
+  "keyDerivations": [
+    {
+      "lemma": "مَقِيلٌ",
+      "form": "Noun of place",
+      "meaning": "Midday resting place, nap location, shaded room, or cool shelter"
+    },
+    {
+      "lemma": "قَائِلٌ / قَائِلُونَ",
+      "form": "Noun / Active part. pl.",
+      "meaning": "Those taking a midday nap, resting at noon, or sleeping"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "أَصْحَابُ الْجَنَّةِ يَوْمئِذٍ خَيْرٌ مُسْتَقَرًّا وَأَحْسَنُ مَقِيلًا (24:24): The companions of Paradise on that Day will be in a better settlement and a more beautiful midday resting place (Maqeel)."
+  ],
+  "discardedNoise": [
+    "Speaking and saying (Qawl) - conceptually related but distinct root forms (q-w-l vs q-y-l).",
+    "Tribal kings (Qayl) of Himyar in Yemen history."
+  ],
+  "summaryEn": "The root represents midday rest (Qaylulah), promising the saved a beautiful, shaded resting place (Maqeel) in Paradise, while warning that destruction hit past nations during their naptime.",
+  "summaryAr": "يمثل هذا الجذر الاستراحة والمنام بنصف النهار (قيلولة)، واصفاً نعيم استراحة أهل الجنة ساعة القيلولة الخفيفة المبردة (أحسن مقيلاً)، وهلاك الأمم نهاراً.",
+  "rawText": "أَقَالَ ٱللّٰهُ عَثْرَتَكَ 4 , and عِثاَرَكَ, [<i>May God cancel thy slip, lapse, fault, wrong action,</i> or <i>mistake:</i> (A, art. عثر:) <i>may God raise thee from thy fall.</i> (Msb, art. قيل.) أَقَالَهُ عَثْرَتَهُ <i>He forgave him his slip, lapse,</i> or <i>fault.</i> (MA.)\nاِسْتَقاَلَ البَيْعَ 10 <i>He desired,</i> or <i>demanded, the rescinding of the sale,</i> or <i>purchase.</i> (MA.) And استقال العَنْوَةُ <i>He desired,</i> or <i>demanded, his passing over,</i> or <i>forgiving, the slip, lapse,</i> or <i>fault.</i> (MA.) See also Har, p. 7. See also a verse cited voce عَنْوَةٌ.\nتَقَيَّلَ أَبَاهُ 5 : see تَقَيَّضَ and تَأَسَّلَ.\nقَائِلَةٌ : see غَاَئِرَهٌ.\nقَالَ 1 <i>He slept during midday:</i> (Mgh:) or <i>he stayed during midday.</i> (TA, art. هجر.) === قَيَّلَ: see another meaning, voce بَيَّتَ.\nقَايَلَهُ البَيْعَ 3 [<i>He dissolved, rescinded,</i> or <i>annulled, with him the sale</i>]. (A, art. رد.)\nمَقِيلٌ <i>A resting-place;</i> syn. مُسْتَقَرٌّ: hence, مَقِيلُ الحُبِّ [<i>the resting-place of love</i>] and مَقِيلُ الغَيْظِ [<i>the resting-place of wrath</i>], applied by El-Mutanebbee to <i>the heart.</i> (W, i. 112.) See an ex. (mistranslated) in De Sacy's Ar. Gr., sec. ed., ii. 165: the same, with a var., in Ibn-Akeel p. 210."
+}

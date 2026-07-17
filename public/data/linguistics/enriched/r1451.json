@@ -1,0 +1,36 @@
+{
+  "rootId": "r1451",
+  "source": "lanes",
+  "enrichedAt": "2026-06-30T11:01:45.660Z",
+  "modelId": "gemini-3.5-flash",
+  "semanticCore": "Completion, perfection, entire, whole, or finish",
+  "primaryMeaning": "Completion/perfection",
+  "quranicRelevance": "Completing a period/number (Tukmiloo - 'wa litukmiloo al-'iddata'), and perfecting favor/religion (Akmal-tu - 'alyawma akmaltu').",
+  "keyDerivations": [
+    {
+      "lemma": "كَمُلَ / يَكْمُلُ",
+      "form": "Form I Verb",
+      "meaning": "To be complete, perfect, finished, or whole"
+    },
+    {
+      "lemma": "أَكْمَلَ / يُكْمِلُ",
+      "form": "Form IV Verb",
+      "meaning": "To complete, perfect, bring to conclusion, or execute fully"
+    },
+    {
+      "lemma": "كَامِلٌ / كَامِلَةٌ",
+      "form": "Adjective / fem.",
+      "meaning": "Complete, whole, entire, or perfect"
+    }
+  ],
+  "figurativeOrRareUsages": [
+    "تِلْكَ عَشَرَةٌ كَامِلَةٌ (2:196): That is ten complete (days of fasting for Hajj compensation)."
+  ],
+  "discardedNoise": [
+    "Modern school report grade marks.",
+    "Bodybuilding muscles symmetry indexes."
+  ],
+  "summaryEn": "The root denotes completion and perfection, marking the completion of Hajj fasts, the Ramadan counts (Tukmiloo), and the final perfection of Islam (Akmaltu).",
+  "summaryAr": "يدل هذا الجذر على تمام الشيء كماله، محدداً عدة صيام فدية الحج (عشرة كاملة)، وإكمال عدة رمضان (لتكملوا العدة)، وكمال الدين ورضا الرب.",
+  "rawText": "عَيْنُ الكَمَالِ : see فَقَأَ.\nكَاملٌ <i>Complete</i> with respect to bodily vigour, having attained the usual term thereof. See لَيْثُ عِفِرِّينَ, art. عفر. Also <i>Consummate, perfect.</i>\nكَمَلَ 1 <i>He,</i> or <i>it, was,</i> or <i>became, perfect;</i> and sometimes, <i>it was,</i> or <i>became, complete, entire, whole,</i> or <i>full;</i> which latter signification is more properly expressed by تَمَّ, which see.\nمُكَمِّلَاتُ <i>Supererogatory acts of religious service.</i>"
+}
