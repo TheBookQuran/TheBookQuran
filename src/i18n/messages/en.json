@@ -75,10 +75,10 @@
     "title": "About Quran",
     "description1": "Quran is a non-profit digital platform aiming to facilitate access to the Holy Quran, help users read it, listen to it, and explore its language in a simple and modern way.",
     "description2": "We gather in one place tools needed by the reader and researcher, such as reading in Uthmani script, audio recitations, search, translations, linguistic roots, and lexicons, with a design that focuses on ease of use and reduces complexity.",
-    "our-vision": {
-      "title": "Our Vision",
-      "desc1": "We believe that direct access to the Holy Quran and its language should be available to everyone.",
-      "desc2": "We seek to build a platform that helps anyone wishing to learn about the Quran through tools that facilitate reading, listening, learning, and exploring the Quranic language, allowing the user to refer back to original sources easily while maintaining a simple experience."
+    "mvp": {
+      "title": "First Public Release (MVP)",
+      "desc1": "This is the first public release of Quran, focused on delivering the core reading and language exploration experience.",
+      "desc2": "Future releases will expand the platform with additional study tools, learning features, and mobile applications."
     },
     "key-features": {
       "title": "What does Quran offer?",

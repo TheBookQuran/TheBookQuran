@@ -33,9 +33,9 @@ export default async function AboutUsPage({ params }: Props) {
         <p>{t("description1")}</p>
         <p>{t("description2")}</p>
 
-        <h2 className={styles.heading}>{t("our-vision.title")}</h2>
-        <p>{t("our-vision.desc1")}</p>
-        <p>{t("our-vision.desc2")}</p>
+        <h2 className={styles.heading}>{t("mvp.title")}</h2>
+        <p>{t("mvp.desc1")}</p>
+        <p>{t("mvp.desc2")}</p>
 
         <h2 className={styles.heading}>{t("key-features.title")}</h2>
         <ul className={styles.list}>

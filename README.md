@@ -1,14 +1,12 @@
 # TheBookQuran — Quran · القرآن الكريم
 
-Quran is a knowledge platform designed to help users explore the Quran through its language, combining Mushaf reading, translations, audio, and linguistic tools such as roots and classical dictionaries. Built with Next.js, React, and Zustand.
+Quran is an open-source knowledge platform, designed to help readers engage more deeply with the Quran by combining the Mushaf, translations, recitation, and linguistic resources into a single knowledge platform. Built with Next.js, React, and Zustand.
 
 **Live:** [TheBookQuran.vercel.app](https://thebookquran.vercel.app)
 
-## Vision
+> **Status:** First Public Release (MVP)
 
-Quran aims to make the Quran's original language more accessible by connecting readers with linguistic resources, classical dictionaries, translations, and study tools.
-
-The project focuses on direct engagement with the Quranic text and language.
+This is the first public release of Quran, focused on delivering the core reading and language exploration experience. Future releases will expand the platform with additional study tools, learning features, and mobile applications.
 
 ## Features
 
@@ -78,46 +76,22 @@ pnpm start
 | `pnpm test:e2e:ui` | Run Playwright tests with the UI |
 | `pnpm test:lighthouse` | Run Lighthouse CI audits |
 
-## Project Structure
-
-```
-src/
-├── app/                  # Next.js App Router pages & layouts
-│   └── [locale]/         # Locale-scoped routes (en, ar)
-│       ├── [chapterId]/  # Surah reader
-│       ├── juz/          # Juz navigation
-│       ├── hizb/         # Hizb navigation
-│       ├── page/         # Page-based navigation
-│       ├── search/       # Search page
-│       ├── reciters/     # Reciters catalog
-│       ├── roots/        # Linguistic root explorer
-│       └── my-quran/     # Bookmarks & journal
-├── components/           # React components by feature
-│   ├── quran-reader/     # Mushaf & translation views
-│   ├── audio-player/     # Audio playback & controls
-│   ├── search/           # Search overlay
-│   ├── linguistics/      # Root analysis UI
-│   └── ui/               # Shared design-system primitives
-├── stores/               # Zustand stores
-├── hooks/                # Custom React hooks
-├── lib/                  # Core utilities & business logic
-│   ├── quran-core/       # Verse, chapter, and page utilities
-│   ├── linguistics/      # Arabic text normalization
-│   ├── navigation/       # Navigation intent resolution
-│   └── server/           # Server-only utilities
-├── i18n/                 # Internationalization config & messages
-├── services/             # API service layer
-├── styles/               # Global CSS
-└── types/                # TypeScript type definitions
-
-scripts/                  # Data-processing & generation scripts
-data/                     # Static data (chapter info, morphology, mappings)
-```
-
 ## Contributing
 
 Contributions are welcome. Before making changes, please read [AGENTS.md](AGENTS.md) for the project's architecture principles and coding conventions.
 
-## License
+## Project
 
-This project is open source. See the repository for license details.
+Quran is an independent, non-profit project built to provide free access to the Quran and its linguistic resources. The project is developed openly and aims to welcome future community contributions in development, translation, content improvement, and data review.
+
+## Linguistic Data
+
+The linguistic features are built upon classical sources such as Lane's Lexicon and Maqayis al-Lughah. Quran includes a custom data-processing pipeline that extracts, structures, and enriches these resources for an interactive reading experience.
+
+## Acknowledgements
+
+This project gratefully acknowledges the open resources that made it possible, including:
+
+- Quran Foundation (Quran text, recitations, translations, and APIs)
+- King Fahd Glorious Quran Printing Complex (Mushaf fonts and data)
+- Quranic Arabic Corpus (Linguistic annotations, roots, and morphology)
