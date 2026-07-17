@@ -3,6 +3,7 @@
 import React, { useState } from "react";
 import Link from "next/link";
 import { useLocale, useTranslations } from "next-intl";
+import { getChapterWithStartingVerseUrl } from "@/lib/navigation/quran-navigation";
 import { useChapters } from "@/hooks/use-chapters";
 import { useRootOccurrences } from "@/hooks/use-linguistics";
 import styles from "./RootOccurrencesList.module.css";
@@ -91,7 +92,7 @@ export const RootOccurrencesList: React.FC<RootOccurrencesListProps> = ({ rootId
         {filteredOccurrences.map((occ, idx) => (
           <Link
             key={`${occ.chapterNumber}-${occ.verseNumber}-${occ.wordPosition}-${idx}`}
-            href={`/${locale}/${occ.chapterNumber}/${occ.verseNumber}`}
+            href={`/${locale}${getChapterWithStartingVerseUrl(`${occ.chapterNumber}:${occ.verseNumber}`)}`}
             className={styles.card}
           >
             <div className={styles.cardInfo}>
