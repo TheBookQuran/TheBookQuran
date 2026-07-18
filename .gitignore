@@ -51,3 +51,6 @@ docs/
 playwright-report/
 test-results/
 
+
+.vercel
+.env*
