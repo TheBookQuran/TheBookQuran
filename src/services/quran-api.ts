@@ -1,6 +1,6 @@
 "use server";
 
-import { getProvider } from "./providers/factory";
+import { getProvider, getSearchProvider } from "./providers/factory";
 import { QuranFont, MushafLines } from "../lib/quran-core/fonts/types";
 import {
   ChaptersResponse,
@@ -156,5 +156,5 @@ export async function getPagesLookup(params: any): Promise<PagesLookUpResponse> 
 export async function getNewSearchResults(
   params: SearchRequestParams
 ): Promise<NewSearchResponse> {
-  return getProvider().getNewSearchResults(params);
+  return getSearchProvider().getNewSearchResults(params);
 }
