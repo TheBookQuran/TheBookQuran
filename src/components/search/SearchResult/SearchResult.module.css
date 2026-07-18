@@ -111,13 +111,13 @@
 }
 
 /* Style search query highlights */
-.resultCard em,
 .resultCard mark {
-  background-color: transparent !important;
-  color: var(--color-background-brand, #96742f) !important;
+  background-color: rgba(150, 116, 47, 0.15);
+  color: var(--color-background-brand, #96742f);
   font-style: normal;
   font-weight: var(--font-weight-bold);
-  padding: 0;
+  padding: 0 2px;
+  border-radius: 2px;
 }
 
 

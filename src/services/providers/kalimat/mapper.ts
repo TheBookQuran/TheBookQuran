@@ -10,19 +10,21 @@ export function mapKalimatToNewSearchResponse(
   const totalRecords = kalimatResponse.data?.totalResultsNum ?? 0;
   const totalPages = Math.max(1, Math.ceil(totalRecords / size));
 
+  const showTranslation = params.filterLanguages !== undefined;
+
   const verses = (kalimatResponse.data?.results ?? [])
     .filter((r) => r.type === "quran_verse")
     .map((r) => ({
       verseKey: r.id,
       words: buildWords(r),
-      translations: [
-        {
-          text: (r.translatedTextHighlighted || r.translatedText || "").replace(
-            /<\/?em>/g,
-            "",
-          ),
-        },
-      ],
+      translations: showTranslation
+        ? [
+            {
+              text: (r.translatedTextHighlighted || r.translatedText || "")
+                .replace(/<\/?em>/g, (m) => (m.startsWith("</") ? "</mark>" : "<mark>")),
+            },
+          ]
+        : [],
     }));
 
   return {
