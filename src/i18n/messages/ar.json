@@ -107,7 +107,8 @@
       "list": [
         { "name": "Quran Foundation", "desc": "واجهات برمجة التطبيقات (APIs) الخاصة بالنص القرآني، والتلاوات، والبحث، والترجمات.", "url": "https://quran.foundation" },
         { "name": "King Fahd Glorious Quran Printing Complex", "desc": "خطوط وبيانات المصحف.", "url": "https://qurancomplex.gov.sa" },
-        { "name": "Quranic Arabic Corpus", "desc": "البيانات اللغوية والجذور والتحليل الصرفي.", "url": "https://corpus.quran.com" }
+        { "name": "Quranic Arabic Corpus", "desc": "البيانات اللغوية والجذور والتحليل الصرفي.", "url": "https://corpus.quran.com" },
+        { "name": "Kalimat Search API", "desc": "محرك بحث قرآني وواجهة بحث دلالية.", "url": "https://kalimat.dev" }
       ]
     }
   },

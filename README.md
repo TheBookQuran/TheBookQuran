@@ -95,3 +95,4 @@ This project gratefully acknowledges the open resources that made it possible, i
 - Quran Foundation (Quran text, recitations, translations, and APIs)
 - King Fahd Glorious Quran Printing Complex (Mushaf fonts and data)
 - Quranic Arabic Corpus (Linguistic annotations, roots, and morphology)
+- Kalimat Search API (Quranic search engine and semantic search)
