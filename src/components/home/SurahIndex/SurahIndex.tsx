@@ -213,14 +213,15 @@ export const SurahIndex: React.FC<SurahIndexProps> = ({ locale }) => {
               {isLoadingSearch ? (
                 <div className={styles.emptyState}>{commonT("loading")}</div>
               ) : allResults.length > 0 ? (
-                <div style={{ display: 'flex', flexDirection: 'column', gap: '1rem' }}>
+                <div className={styles.resultsList}>
                   {allResults.map((verse: any) => (
-                    <SearchResult
-                      key={verse.verseKey}
-                      verseKey={verse.verseKey}
-                      arabicText={verse.words?.map((w: any) => w.highlight ? `<mark>${w.text}</mark>` : w.text).join(" ")}
-                      translationText={verse.translations?.[0]?.text}
-                    />
+                    <div key={verse.verseKey} className={styles.resultItem}>
+                      <SearchResult
+                        verseKey={verse.verseKey}
+                        arabicText={verse.words?.map((w: any) => w.highlight ? `<mark>${w.text}</mark>` : w.text).join(" ")}
+                        translationText={verse.translations?.[0]?.text}
+                      />
+                    </div>
                   ))}
                   <div ref={sentinelRef} style={{ height: 1 }} />
                   {isFetchingNextPage && (

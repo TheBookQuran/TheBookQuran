@@ -193,8 +193,23 @@
   }
 }
 
+.resultsList {
+  display: flex;
+  flex-direction: column;
+}
+
+.resultItem {
+  padding: 0;
+  margin: 0;
+  border-bottom: 1px solid var(--color-border-default, #e5e7eb);
+}
+
+.resultItem:last-child {
+  border-bottom: none;
+}
+
 .emptyState {
   text-align: center;
-  padding: var(--spacing-max) 0;
+  padding: 2rem 0;
   color: var(--color-text-muted);
 }

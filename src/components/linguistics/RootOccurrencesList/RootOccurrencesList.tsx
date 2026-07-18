@@ -35,7 +35,13 @@ export const RootOccurrencesList: React.FC<RootOccurrencesListProps> = ({ rootId
       const chapter = chapters.find((c) => c.id === occ.chapterNumber);
 
       const arabicText = verse?.words
-        ?.map((w: any) => w.qpcUthmaniHafs || w.textUthmani || w.text || "")
+        ?.map((w: any) => {
+          const text = w.qpcUthmaniHafs || w.textUthmani || w.text || "";
+          if (w.position === occ.wordPosition) {
+            return `<mark>${text}</mark>`;
+          }
+          return text;
+        })
         .filter(Boolean)
         .join(" ");
 
@@ -122,12 +128,13 @@ export const RootOccurrencesList: React.FC<RootOccurrencesListProps> = ({ rootId
       {!versesLoading && filteredOccurrences.length > 0 && (
         <div className={styles.list}>
           {filteredOccurrences.map((occ, idx) => (
-            <SearchResult
-              key={`${occ.chapterNumber}-${occ.verseNumber}-${occ.wordPosition}-${idx}`}
-              verseKey={occ.verseKey}
-              arabicText={occ.arabicText}
-              translationText={occ.translationText}
-            />
+            <div key={`${occ.chapterNumber}-${occ.verseNumber}-${occ.wordPosition}-${idx}`} className={styles.resultItem}>
+              <SearchResult
+                verseKey={occ.verseKey}
+                arabicText={occ.arabicText}
+                translationText={occ.translationText}
+              />
+            </div>
           ))}
         </div>
       )}

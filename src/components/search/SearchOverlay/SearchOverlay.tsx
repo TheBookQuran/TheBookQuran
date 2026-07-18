@@ -128,13 +128,14 @@ export const SearchOverlay: React.FC = () => {
             <>
               <div className={styles.resultsList}>
                 {sortedSearchResults.map((verse: any) => (
-                  <SearchResult
-                    key={verse.verseKey}
-                    verseKey={verse.verseKey}
-                    arabicText={verse.words?.map((w: any) => w.highlight ? `<mark>${w.text}</mark>` : w.text).join(" ")}
-                    translationText={verse.translations?.[0]?.text}
-                    onClick={handleResultClick}
-                  />
+                  <div key={verse.verseKey} className={styles.resultItem}>
+                    <SearchResult
+                      verseKey={verse.verseKey}
+                      arabicText={verse.words?.map((w: any) => w.highlight ? `<mark>${w.text}</mark>` : w.text).join(" ")}
+                      translationText={verse.translations?.[0]?.text}
+                      onClick={handleResultClick}
+                    />
+                  </div>
                 ))}
               </div>
               <div ref={sentinelRef} style={{ height: 1 }} />
