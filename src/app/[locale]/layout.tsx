@@ -11,6 +11,7 @@ import SearchOverlay from "@/components/search/SearchOverlay";
 import SettingsDrawer from "@/components/navbar/SettingsDrawer";
 import Footer from "@/components/footer/Footer";
 import { SITE_URL } from "@/lib/config";
+import { Analytics } from "@vercel/analytics/next";
 import "@/app/globals.css";
 
 export async function generateMetadata({
@@ -145,6 +146,7 @@ export default async function LocaleLayout({
             <AudioPlayer />
             <SearchOverlay />
             <SettingsDrawer />
+            <Analytics />
           </NextIntlClientProvider>
         </Providers>
       {/* impeccable-live-start */}
