@@ -47,9 +47,9 @@ export const RootOccurrencesClient: React.FC<RootOccurrencesClientProps> = ({
               {root.arabicText}
             </span>
           </h1>
-          <div className={styles.headerRight}>
-            <span className={styles.occurrencesBadge}>
-              {root.occurrencesCount} {isArabic ? "مواضع في القرآن" : "occurrences in Quran"}
+          <div className={styles.toggleWrapper}>
+            <span className={styles.toggleLabel}>
+              {isArabic ? "معلومات الجذر" : "Root Information"}
             </span>
             <span className={`${styles.toggleIcon} ${showDefinitions ? styles.toggleOpen : ""}`}>
               ▼
@@ -103,7 +103,9 @@ export const RootOccurrencesClient: React.FC<RootOccurrencesClientProps> = ({
 
       <section className={styles.occurrencesSection}>
         <h2 className={styles.sectionTitle}>
-          {isArabic ? "مواضع الورود في الآيات" : "Occurrences in Verses"}
+          {isArabic
+            ? `مواضع الورود في الآيات (${root.occurrencesCount})`
+            : `Occurrences in Verses (${root.occurrencesCount})`}
         </h2>
         <RootOccurrencesList rootId={rootId} />
       </section>

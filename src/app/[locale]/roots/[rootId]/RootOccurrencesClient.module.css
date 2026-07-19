@@ -42,10 +42,17 @@
   font-weight: 800;
 }
 
-.headerRight {
+.toggleWrapper {
   display: flex;
   align-items: center;
-  gap: var(--spacing-small, 0.75rem);
+  gap: var(--spacing-xsmall, 0.5rem);
+}
+
+.toggleLabel {
+  font-size: var(--font-size-small, 0.875rem);
+  color: var(--color-text-muted);
+  font-weight: var(--font-weight-medium, 500);
+  white-space: nowrap;
 }
 
 .toggleIcon {
@@ -58,15 +65,6 @@
 
 .toggleOpen {
   transform: rotate(180deg);
-}
-
-.occurrencesBadge {
-  font-size: var(--font-size-small, 0.875rem);
-  font-weight: var(--font-weight-medium, 500);
-  background-color: rgba(44, 164, 171, 0.08);
-  color: var(--color-background-brand, #2ca4ab);
-  padding: 0.5rem 1rem;
-  border-radius: var(--border-radius-pill, 9999px);
 }
 
 .definitions {
