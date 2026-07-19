@@ -1,7 +1,7 @@
 import { useInfiniteQuery } from "@tanstack/react-query";
 import { getNewSearchResults } from "@/services/quran-api";
 
-const PAGE_SIZE = 20;
+const PAGE_SIZE = 50;
 
 export function useSearchInfinite(query: string, locale = "en") {
   return useInfiniteQuery({
@@ -15,9 +15,16 @@ export function useSearchInfinite(query: string, locale = "en") {
       }),
     getNextPageParam: (lastPage: any) => {
       const pagination = lastPage?.result?.pagination;
-      if (!pagination) return undefined;
-      const { currentPage, totalPages } = pagination;
-      if (currentPage < totalPages) return currentPage + 1;
+      if (pagination) {
+        const { currentPage, totalPages } = pagination;
+        if (currentPage < totalPages) return currentPage + 1;
+      }
+      // Fallback: if pagination metadata is missing or unreliable
+      // (e.g. totalRecords=0), keep fetching while results come back
+      const verses = lastPage?.result?.verses;
+      if (verses && verses.length > 0) {
+        return (pagination?.currentPage ?? 1) + 1;
+      }
       return undefined;
     },
     initialPageParam: 1,

@@ -38,6 +38,7 @@ export class KalimatSearchProvider implements QuranDataProvider {
         navigationalResultsNumber: "1",
         start: String((page - 1) * size),
         getText: "true",
+        getTotalResultsNum: "1",
         userLang: params.filterLanguages || "en",
       });
 
