@@ -133,11 +133,11 @@ export const RootOccurrencesList: React.FC<RootOccurrencesListProps> = ({ rootId
             return (
               <React.Fragment key={`${occ.chapterNumber}-${occ.verseNumber}-${occ.wordPosition}-${idx}`}>
                 {isNewChapter && (
-                  <div className={`${styles.surahHeader} ${styles.surahHeaderHighlighted}`}>
+                  <div className={styles.surahHeader}>
                     <span className={styles.surahHeaderCalligraphy} translate="no">
                       {getSurahCalligraphyCode(occ.chapterNumber)}
                     </span>
-                    <span className={styles.surahHeaderName}>{occ.chapterName}</span>
+                    {!isArabic && <span className={styles.surahHeaderName}>{occ.chapterName}</span>}
                   </div>
                 )}
                 <div className={styles.resultItem}>

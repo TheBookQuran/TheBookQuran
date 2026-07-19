@@ -81,13 +81,6 @@
   margin-bottom: var(--spacing-xxsmall, 4px);
 }
 
-.surahHeaderHighlighted {
-  background-color: rgba(150, 116, 47, 0.1);
-  padding: var(--spacing-xsmall, 8px) var(--spacing-small, 12px);
-  border-radius: 8px;
-  margin-bottom: var(--spacing-small, 12px);
-}
-
 .surahHeaderCalligraphy {
   font-family: "surahnames", sans-serif;
   font-size: 2.5rem;
