@@ -6,6 +6,8 @@ import { useRootData } from "@/hooks/use-linguistics";
 import { useSettingsStore } from "@/stores/settings";
 import RootOccurrencesList from "@/components/linguistics/RootOccurrencesList";
 import { ExpandableDefinition } from "@/components/linguistics/ExpandableDefinition/ExpandableDefinition";
+import * as Popover from "@radix-ui/react-popover";
+import clsx from "clsx";
 import styles from "./RootOccurrencesClient.module.css";
 
 interface RootOccurrencesClientProps {
@@ -20,6 +22,7 @@ export const RootOccurrencesClient: React.FC<RootOccurrencesClientProps> = ({
   const t = useTranslations("common");
   const { data: root, isLoading } = useRootData(rootId);
   const selectedLexiconSetting = useSettingsStore((state) => state.selectedLexicon);
+  const setSelectedLexicon = useSettingsStore((state) => state.setSelectedLexicon);
   const selectedLexiconActive = selectedLexiconSetting || (locale === "ar" ? "maqayis" : "lanes");
 
   const isArabic = locale === "ar";
@@ -58,12 +61,60 @@ export const RootOccurrencesClient: React.FC<RootOccurrencesClientProps> = ({
         </div>
       </header>
 
-      {showDefinitions && <div className={styles.definitions}>
-        {selectedLexiconActive === "lanes" && root.lanesMeaning && (
-          <div className={styles.card}>
-            <h2 className={styles.cardTitle}>
-              {isArabic ? "معجم لين (Lane's Lexicon)" : "Lane's Lexicon"}
-            </h2>
+      {showDefinitions && (
+        <div className={styles.card}>
+          <div className={styles.lexiconHeader}>
+            <Popover.Root>
+              <Popover.Trigger asChild>
+                <button className={styles.lexiconSelectorButton}>
+                  <span>
+                    {selectedLexiconActive === "lanes"
+                      ? (isArabic ? "معجم لين (Lane's Lexicon)" : "Lane's Lexicon")
+                      : (isArabic ? "معجم مقاييس اللغة (ابن فارس)" : "Maqayis al-Lugha (Ibn Faris)")}
+                  </span>
+                  <svg
+                    width="12"
+                    height="12"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
+                    strokeWidth="3"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    className={styles.chevronIcon}
+                  >
+                    <polyline points="6 9 12 15 18 9"></polyline>
+                  </svg>
+                </button>
+              </Popover.Trigger>
+              <Popover.Portal>
+                <Popover.Content className={styles.lexiconPopover} sideOffset={6} align="start">
+                  <Popover.Close asChild>
+                    <button
+                      className={clsx(styles.lexiconItem, {
+                        [styles.activeItem]: selectedLexiconActive === "lanes",
+                      })}
+                      onClick={() => setSelectedLexicon("lanes")}
+                    >
+                      {isArabic ? "معجم لين (Lane's Lexicon)" : "Lane's Lexicon"}
+                    </button>
+                  </Popover.Close>
+                  <Popover.Close asChild>
+                    <button
+                      className={clsx(styles.lexiconItem, {
+                        [styles.activeItem]: selectedLexiconActive === "maqayis",
+                      })}
+                      onClick={() => setSelectedLexicon("maqayis")}
+                    >
+                      {isArabic ? "معجم مقاييس اللغة (ابن فارس)" : "Maqayis al-Lugha (Ibn Faris)"}
+                    </button>
+                  </Popover.Close>
+                </Popover.Content>
+              </Popover.Portal>
+            </Popover.Root>
+          </div>
+
+          {selectedLexiconActive === "lanes" && root.lanesMeaning && (
             <ExpandableDefinition
               html={root.lanesMeaning}
               dir="ltr"
@@ -72,14 +123,9 @@ export const RootOccurrencesClient: React.FC<RootOccurrencesClientProps> = ({
               rootId={root.id}
               arabicRootText={root.arabicText}
             />
-          </div>
-        )}
+          )}
 
-        {selectedLexiconActive === "maqayis" && root.maqayisMeaning && (
-          <div className={styles.card}>
-            <h2 className={styles.cardTitle}>
-              {isArabic ? "معجم مقاييس اللغة (ابن فارس)" : "Maqayis al-Lugha (Ibn Faris)"}
-            </h2>
+          {selectedLexiconActive === "maqayis" && root.maqayisMeaning && (
             <ExpandableDefinition
               html={root.maqayisMeaning}
               dir="rtl"
@@ -88,18 +134,18 @@ export const RootOccurrencesClient: React.FC<RootOccurrencesClientProps> = ({
               rootId={root.id}
               arabicRootText={root.arabicText}
             />
-          </div>
-        )}
+          )}
 
-        {((selectedLexiconActive === "lanes" && !root.lanesMeaning) ||
-          (selectedLexiconActive === "maqayis" && !root.maqayisMeaning)) && (
-          <div className={styles.empty} style={{ width: "100%", gridColumn: "span 2" }}>
-            {isArabic
-              ? "هذا المعجم لا يحتوي على تفاصيل لهذا الجذر."
-              : "This lexicon does not contain details for this root."}
-          </div>
-        )}
-      </div>}
+          {((selectedLexiconActive === "lanes" && !root.lanesMeaning) ||
+            (selectedLexiconActive === "maqayis" && !root.maqayisMeaning)) && (
+            <div className={styles.empty}>
+              {isArabic
+                ? "هذا المعجم لا يحتوي على تفاصيل لهذا الجذر."
+                : "This lexicon does not contain details for this root."}
+            </div>
+          )}
+        </div>
+      )}
 
       <section className={styles.occurrencesSection}>
         <h2 className={styles.sectionTitle}>

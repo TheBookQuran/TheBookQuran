@@ -67,18 +67,6 @@
   transform: rotate(180deg);
 }
 
-.definitions {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: var(--spacing-medium2, 1.5rem);
-}
-
-@media (min-width: 768px) {
-  .definitions {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-}
-
 .card {
   padding: var(--spacing-medium2, 1.5rem);
   background-color: var(--color-background-default, #ffffff);
@@ -90,13 +78,103 @@
   gap: var(--spacing-small, 0.75rem);
 }
 
-.cardTitle {
+.lexiconHeader {
   margin: 0;
-  font-size: var(--font-size-normal, 1rem);
-  font-weight: var(--font-weight-bold, 700);
+  margin-bottom: var(--spacing-xsmall, 0.5rem);
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.lexiconSelectorButton {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0;
+  margin: 0;
+  background-color: transparent;
+  border: none;
+  width: 100%;
+  cursor: pointer;
+  transition: all var(--transition-fast) ease;
+
+  font-size: var(--font-size-small);
+  font-weight: var(--font-weight-bold);
   color: var(--color-text-muted);
+  font-family: var(--font-family-figtree), sans-serif;
   text-transform: uppercase;
   letter-spacing: 0.05em;
+  text-align: start;
+}
+
+.lexiconSelectorButton:hover {
+  color: var(--color-text-default);
+}
+
+.chevronIcon {
+  color: var(--color-text-muted);
+  transition: transform var(--transition-fast) ease;
+  margin-top: 1px;
+}
+
+.lexiconSelectorButton[data-state="open"] .chevronIcon {
+  transform: rotate(180deg);
+}
+
+.lexiconPopover {
+  background-color: var(--color-background-default);
+  border: 1px solid var(--color-border-default);
+  border-radius: var(--border-radius-rounded, 12px);
+  box-shadow: var(--shadow-medium);
+  padding: 0.35rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  min-width: 220px;
+  z-index: 150;
+  animation: lexiconSlideDown 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.lexiconItem {
+  width: 100%;
+  text-align: start;
+  padding: var(--spacing-xsmall) var(--spacing-small);
+  border-radius: var(--border-radius-rounded, 8px);
+  font-size: var(--font-size-small, 0.875rem);
+  font-weight: var(--font-weight-medium, 500);
+  color: var(--color-text-default);
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  transition: all var(--transition-fast) ease;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.lexiconItem:hover {
+  background-color: var(--color-background-neutral, rgba(0, 0, 0, 0.04));
+}
+
+.activeItem {
+  color: var(--color-background-brand, #2ca4ab);
+  font-weight: var(--font-weight-bold, 700);
+  background-color: rgba(44, 164, 171, 0.08);
+}
+
+.activeItem:hover {
+  background-color: rgba(44, 164, 171, 0.12);
+}
+
+@keyframes lexiconSlideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 .cardText {
