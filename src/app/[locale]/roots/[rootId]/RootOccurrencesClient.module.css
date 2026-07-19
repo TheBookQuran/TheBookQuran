@@ -9,6 +9,16 @@
   border-bottom: 1px solid var(--color-border-default, #e5e7eb);
   padding-bottom: var(--spacing-medium, 1rem);
   margin-bottom: var(--spacing-small, 0.5rem);
+  cursor: pointer;
+  user-select: none;
+  transition: background-color var(--transition-fast) ease;
+  border-radius: 8px;
+  margin-inline: calc(-1 * var(--spacing-small, 8px));
+  padding-inline: var(--spacing-small, 8px);
+}
+
+.header:hover {
+  background-color: var(--color-background-neutral, rgba(0, 0, 0, 0.02));
 }
 
 .titleRow {
@@ -30,6 +40,24 @@
   color: var(--color-background-brand, #2ca4ab);
   font-size: 2.5rem;
   font-weight: 800;
+}
+
+.headerRight {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-small, 0.75rem);
+}
+
+.toggleIcon {
+  font-size: 0.7rem;
+  color: var(--color-text-muted);
+  transition: transform var(--transition-fast) ease;
+  display: inline-block;
+  line-height: 1;
+}
+
+.toggleOpen {
+  transform: rotate(180deg);
 }
 
 .occurrencesBadge {

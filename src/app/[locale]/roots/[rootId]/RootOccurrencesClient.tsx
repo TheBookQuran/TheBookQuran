@@ -23,6 +23,7 @@ export const RootOccurrencesClient: React.FC<RootOccurrencesClientProps> = ({
   const selectedLexiconActive = selectedLexiconSetting || (locale === "ar" ? "maqayis" : "lanes");
 
   const isArabic = locale === "ar";
+  const [showDefinitions, setShowDefinitions] = React.useState(false);
 
   if (isLoading) {
     return <div className={styles.loading}>{t("loading")}</div>;
@@ -38,7 +39,7 @@ export const RootOccurrencesClient: React.FC<RootOccurrencesClientProps> = ({
 
   return (
     <div className={styles.container}>
-      <header className={styles.header}>
+      <header className={styles.header} onClick={() => setShowDefinitions(!showDefinitions)}>
         <div className={styles.titleRow}>
           <h1 className={styles.title}>
             {isArabic ? "جذر:" : "Root:"}{" "}
@@ -46,13 +47,18 @@ export const RootOccurrencesClient: React.FC<RootOccurrencesClientProps> = ({
               {root.arabicText}
             </span>
           </h1>
-          <span className={styles.occurrencesBadge}>
-            {root.occurrencesCount} {isArabic ? "مواضع في القرآن" : "occurrences in Quran"}
-          </span>
+          <div className={styles.headerRight}>
+            <span className={styles.occurrencesBadge}>
+              {root.occurrencesCount} {isArabic ? "مواضع في القرآن" : "occurrences in Quran"}
+            </span>
+            <span className={`${styles.toggleIcon} ${showDefinitions ? styles.toggleOpen : ""}`}>
+              ▼
+            </span>
+          </div>
         </div>
       </header>
 
-      <div className={styles.definitions}>
+      {showDefinitions && <div className={styles.definitions}>
         {selectedLexiconActive === "lanes" && root.lanesMeaning && (
           <div className={styles.card}>
             <h2 className={styles.cardTitle}>
@@ -93,7 +99,7 @@ export const RootOccurrencesClient: React.FC<RootOccurrencesClientProps> = ({
               : "This lexicon does not contain details for this root."}
           </div>
         )}
-      </div>
+      </div>}
 
       <section className={styles.occurrencesSection}>
         <h2 className={styles.sectionTitle}>
