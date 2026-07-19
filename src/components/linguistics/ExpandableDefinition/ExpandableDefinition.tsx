@@ -88,7 +88,7 @@ export const ExpandableDefinition: React.FC<ExpandableDefinitionProps> = ({
                 </h5>
                 <ul className={styles.derivationList}>
                   {enriched.keyDerivations.map((d: Derivation, i: number) => (
-                    <li key={i} className={styles.derivationItem}>
+                    <li key={i} className={styles.derivationItem} dir={isArabic ? undefined : "rtl"}>
                       <span className={styles.derivationLemma} dir="rtl" translate="no">
                         {d.lemma}
                       </span>

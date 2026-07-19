@@ -36,12 +36,9 @@
   margin-bottom: 0.15rem;
 }
 
-[dir="rtl"] .summaryHeadword {
-  text-align: right;
-}
-
 [dir="ltr"] .summaryHeadword {
-  text-align: left;
+  text-align: right;
+  align-self: flex-end;
 }
 
 .summaryCore {
