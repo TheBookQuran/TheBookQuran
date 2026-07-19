@@ -6,6 +6,7 @@ import { useChapters } from "@/hooks/use-chapters";
 import { useRootOccurrences } from "@/hooks/use-linguistics";
 import { useRootOccurrenceVerses } from "@/hooks/use-root-occurrence-verses";
 import SearchResult from "@/components/search/SearchResult";
+import { getSurahCalligraphyCode } from "@/lib/quran-core/chapter/chapter-utils";
 import styles from "./RootOccurrencesList.module.css";
 
 interface RootOccurrencesListProps {
@@ -38,7 +39,7 @@ export const RootOccurrencesList: React.FC<RootOccurrencesListProps> = ({ rootId
         ?.map((w: any) => {
           const text = w.qpcUthmaniHafs || w.textUthmani || w.text || "";
           if (w.position === occ.wordPosition) {
-            return `<mark>${text}</mark>`;
+            return `<span class="${styles.targetWord}">${text}</span>`;
           }
           return text;
         })
@@ -127,15 +128,29 @@ export const RootOccurrencesList: React.FC<RootOccurrencesListProps> = ({ rootId
 
       {!versesLoading && filteredOccurrences.length > 0 && (
         <div className={styles.list}>
-          {filteredOccurrences.map((occ, idx) => (
-            <div key={`${occ.chapterNumber}-${occ.verseNumber}-${occ.wordPosition}-${idx}`} className={styles.resultItem}>
-              <SearchResult
-                verseKey={occ.verseKey}
-                arabicText={occ.arabicText}
-                translationText={occ.translationText}
-              />
-            </div>
-          ))}
+          {filteredOccurrences.map((occ, idx) => {
+            const isNewChapter = idx === 0 || occ.chapterNumber !== filteredOccurrences[idx - 1].chapterNumber;
+            return (
+              <React.Fragment key={`${occ.chapterNumber}-${occ.verseNumber}-${occ.wordPosition}-${idx}`}>
+                {isNewChapter && (
+                  <div className={`${styles.surahHeader} ${styles.surahHeaderHighlighted}`}>
+                    <span className={styles.surahHeaderCalligraphy} translate="no">
+                      {getSurahCalligraphyCode(occ.chapterNumber)}
+                    </span>
+                    <span className={styles.surahHeaderName}>{occ.chapterName}</span>
+                  </div>
+                )}
+                <div className={styles.resultItem}>
+                  <SearchResult
+                    verseKey={occ.verseKey}
+                    arabicText={occ.arabicText}
+                    translationText={occ.translationText}
+                    showSurahBadge={false}
+                  />
+                </div>
+              </React.Fragment>
+            );
+          })}
         </div>
       )}
     </div>

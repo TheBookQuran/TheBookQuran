@@ -14,6 +14,7 @@ interface SearchResultProps {
   arabicText?: string;
   translationText?: string;
   onClick?: () => void;
+  showSurahBadge?: boolean;
 }
 
 export const SearchResult: React.FC<SearchResultProps> = ({
@@ -21,6 +22,7 @@ export const SearchResult: React.FC<SearchResultProps> = ({
   arabicText,
   translationText,
   onClick,
+  showSurahBadge = true,
 }) => {
   const locale = useLocale();
   // Link to the surah page with startingVerse to scroll to target verse in context
@@ -38,7 +40,7 @@ export const SearchResult: React.FC<SearchResultProps> = ({
         <div className={styles.arabicContainer} translate="no">
           <p className={styles.arabicText}>
             <span dangerouslySetInnerHTML={{ __html: arabicText }} />
-            {chapter ? (
+            {chapter ? showSurahBadge ? (
               <span className={styles.verseKeyBadge} dir="auto">
                 <span className={styles.surahCalligraphy} translate="no">
                   {paddedId}
@@ -47,7 +49,7 @@ export const SearchResult: React.FC<SearchResultProps> = ({
                   {` : ${verseNumber}`}
                 </span>
               </span>
-            ) : (
+            ) : null : (
               <span className={styles.verseKeyBadge} dir="auto">
                 <span className={styles.verseNum}>
                   {verseKey}
@@ -58,7 +60,7 @@ export const SearchResult: React.FC<SearchResultProps> = ({
         </div>
       ) : (
         <div className={styles.header}>
-          {chapter ? (
+          {chapter ? showSurahBadge ? (
             <span className={styles.verseKeyBadge} dir="auto">
               <span className={styles.surahCalligraphy} translate="no">
                 {paddedId}
@@ -67,7 +69,7 @@ export const SearchResult: React.FC<SearchResultProps> = ({
                 {` : ${verseNumber}`}
               </span>
             </span>
-          ) : (
+          ) : null : (
             <span className={styles.verseKeyBadge} dir="auto">
               <span className={styles.verseNum}>
                 {verseKey}

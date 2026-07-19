@@ -67,6 +67,42 @@
   border-bottom: none;
 }
 
+.targetWord {
+  color: var(--color-background-brand, #96742f);
+}
+
+.surahHeader {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--spacing-small, 12px);
+  padding: var(--spacing-medium, 1.5rem) 0 var(--spacing-xsmall, 8px) 0;
+  border-bottom: 1px solid var(--color-border-default, #e5e7eb);
+  margin-bottom: var(--spacing-xxsmall, 4px);
+}
+
+.surahHeaderHighlighted {
+  background-color: rgba(150, 116, 47, 0.1);
+  padding: var(--spacing-xsmall, 8px) var(--spacing-small, 12px);
+  border-radius: 8px;
+  margin-bottom: var(--spacing-small, 12px);
+}
+
+.surahHeaderCalligraphy {
+  font-family: "surahnames", sans-serif;
+  font-size: 2.5rem;
+  color: var(--color-background-brand, #96742f);
+  line-height: 1;
+  vertical-align: middle;
+}
+
+.surahHeaderName {
+  font-size: var(--font-size-small, 0.875rem);
+  color: var(--color-text-default);
+  font-weight: var(--font-weight-bold);
+  opacity: 0.9;
+}
+
 .loading,
 .empty {
   text-align: center;
