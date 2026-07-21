@@ -29,6 +29,9 @@ export const BottomSection: React.FC = () => {
           <Link href={`/${locale}/terms`} target="_blank">
             {t("terms-and-conditions")}
           </Link>
+          <a href="mailto:thebookquran.contact@gmail.com">
+            {t("contact-email")}
+          </a>
         </div>
         <div className={styles.copyright}>
           © {localizedCurrentYear}{" "}
