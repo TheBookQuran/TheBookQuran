@@ -117,6 +117,7 @@ export default async function LocaleLayout({
   return (
     <html lang={locale} dir={dir} suppressHydrationWarning>
       <head>
+        <link rel="icon" href="/Favicon.png" />
         <script
           dangerouslySetInnerHTML={{
             __html: `
