@@ -20,6 +20,6 @@ export const config = {
     // Match paths with locales
     "/(ar|en)/:path*",
     // Exclude static assets
-    "/((?!api|_next/static|_next/image|fonts|icons|images|data|favicon.ico|manifest.json|sitemap.xml).*)",
+    "/((?!api|_next/static|_next/image|fonts|icons|images|data|favicon.ico|Favicon.png|manifest.json|sitemap.xml).*)",
   ],
 };
